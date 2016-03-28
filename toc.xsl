@@ -16,7 +16,7 @@
                         <li>
                             <xsl:element name="a">
                                 <xsl:attribute name="href">
-                                    <xsl:value-of select="document-uri(/)"/>
+                                    <xsl:value-of select="concat('content/',tokenize(document-uri(.), '/')[last()])"/>
                                 </xsl:attribute>
                                 <xsl:value-of select="//TEI:titleStmt/TEI:title"/>
                             </xsl:element>
