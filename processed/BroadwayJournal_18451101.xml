@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- the line above is the "XML declaration"; it is not -->
+<!-- required, but we recommend using it -->
+<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- the two lines above are processing instructions for finding the schema; -->
+<!-- they are intended for oXygen, but other software might use them, also -->
+<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be transformed by "teibp.xsl" -->
+<?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be styled by "tiny_TEI_template.css" -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- put title here --></title>
+        <author>
+          <persName><!-- author's name here --></persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><!-- publisher here --></publisher>
+        <availability>
+          <ab><!-- copyright or copyleft information here --></ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <!-- source information here; better yet, use a <biblStruct> instead -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <!-- front matter, if any, goes in <div>s, here -->
+    </front>
+    <body>
+      <!-- main document goes here, possibly divided into <div>s -->
+      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
+      text is just here so that this template document is valid. You
+      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+<lb/>VOL. 2.
+<lb/>EDGAR A. POE,
+<lb/>editor and proprietor.
+<lb/>NO. 17.
+<lb/>NEW-YORK, SATURDAY, NOVEMBER 1, 1845.
+<lb/>To the Public.—Edgar A. Poe, Esq. having purchased my interest in “ The Broadway Journal,” is now sole proprietor of the same. All persons indebted to the paper will please make settlement with him.
+<lb/>John Bisco.
+<lb/>New-York, Oct. 24, 1845.
+<lb/>Sonnet
+<lb/>Over the mountain tops, at close of day,
+<lb/>The golden glory of the sun departs;
+<lb/>While life’s fresh years are passing swift away So fades youth’s sunshine from our living hearts,
+<lb/>And Innocence—and trustful Truth—that went— Pure-handed sisters—with the soul along,
+<lb/>And cheered the way with gentle blandishment,
+<lb/>With Faith and Hope have sighed their farewell song! Faintly the echo lingers—less and less—
+<lb/>In vain the weeping soul implores its stay;
+<lb/>Still doomed to walk in doubt and bitterness,
+<lb/>Across the arid waste her dismal way; To the goal pressing, where the weary slave May find a rest—a birthright claim—the grave!
+<lb/>E. F. Ellet.
+<lb/>Some Words with a Mummy.
+<lb/>The symposium of the preceding evening had been a little too much for my nerves. I had a wretched headache, and was desperately drowsy. Instead of going out, therefore, to spend the evening as I had proposed, it occurred to me that I could not do a wiser thing than just eat a mouthful of supper and go immediately to bed.
+<lb/>A. light supper of course. I am exceedingly fond of Welsh rabbit. More than a pound at once, however, may not at all times be advisable. Still, there can be no material objection to two. And really between two and three, there is merely a single unit of difference. I Ventured, perhaps, upon four. My wife will have it five;—but, clearly, she has confounded two very distinct affairs. The abstract number, five, I am willing to admit; but, concretely, it has reference to bottles of Brown Stout, without which, in the way of condiment, Welsh rabbit is to be eschewed.
+<lb/>Having thus concluded a frugal meal, and donned my night-cap,with the serene hope of enjoying it till noon the next day, I placed my head upon the pillow, and through the aid of a capital conscience, fell into a profound slumber forthwith.
+<lb/>But when were the hopes of humanity fulfilled? I could not have completed my third snore when there came a furious ringing at the street-door bell, and then an impatient thumping at the knocker, which awakened me at once. In a minute afterward, and while I was still rubbing my eyes, my wife thrust in my face a note from my old friend, Doctor Ponnonner. It ran thus:
+<lb/>Come to me by all means, my dear good friend, as soon as you receive this. Come and help us to rejoice. At last, by long persevering diplomacy, I have gained the assent of the Directors of the City Museum, to my examination of the Mummy—you know the one I mean. I have permission to unswathe it and open it, if desirable. A few friends only will be present—you, of course. The Mummy is now at my house, and we shall begin to unroll it at eleven to-night	Yours ever,
+<lb/>Ponnonner.
+<lb/>By the time I had reached the “Ponnonner,” it struck me that I was as wide awake as a man need be. I leaped out of bed in an ecstasy, overthrowing all in my way; dressed myself with a rapidity truly marvellous; and set off, at the top of my speed, for the Doctor’s.
+<lb/>There I found a very eager company assembled. They had been awaiting me with much impatience; the Mummy was extended upon the dining table; and the moment I entered, its examination was commenced.
+<lb/>It was one of a pair brought, several years previously, by Captain Arthur Sabretash, a cousin of Ponnonner’s, from a tomb near Eleithias, in the Lybian Mountains, a considerable distance above Thebes on the Nile. The grottoes at this point, although less magnificent than the Theban sepulchres, are of higher interest, on account of affording more numerous illustrations of the private life of the Egyptians. The chamber from which our specimen was taken, was said to be very rich in such illustrations; the walls being completely covered with fresco paintings and bas-reliefs, while statues, vases, and Mosaic work of rich patterns, indicated the vast wealth of the deceased.
+<lb/>The treasure had been deposited in the Museum precisely in the same condition in which Captain Sabretash had found it;–that is to say, the coffin had not been disturbed. For eight years it had thus stood, subject only externally to public inspection. We had now, therefore, the complete Mummy at our disposal; and to those who are aware how very rarely the unransacked antique reaches our shores, it will be evident, at once, that we had great reason to congratulate ourselves upon our good fortune.
+<lb/>Approaching the table, I saw on it a large box, or case, nearly seven feet long, and perhaps three feet wide, by two feet and a half deep. It was oblong—not coffinshaped. The material was at first supposed to be the wood of the sycamore (platanus), but, upon cutting into it, we found it to be pasteboard, or more properly, papier maché, composed of papyrus. It was thickly ornamented with paintings, representing funeral scenes, and other mournful subjects, interspersed among which in every variety of position, were certain series of hiero-glyphical characters intended, no doubt, for the name of the departed. By good luck, Mr. Gliddon formed one of our party; and he had no difficulty in translating the letters, which were simply phonetic, and represented the word, Allamistakeo.
+<lb/>252
+<lb/>THE BROADWAY JOURNAL.
+<lb/>We had some difficulty in getting this case open without injury, but, having at length accomplished the task, we came to a second, coffin-shaped, and very considerably less in size than the exterior one, but resembling it precisely in every other respect. The interval between the two was filled with resin, which had, in some degree, defaced the colors of the interior box.
+<lb/>Upon opening this latter (which we did quite easily,) we arrived at a third case, also coffin-shaped, and varying from the second one in no particular, except in that of its material, which was cedar, and still emitted the peculiar and highly aromatic odor of that wood. Between the second and the third case there was no interval; the one fitting accurately within the other.
+<lb/>Removing the third case, we discovered and took out the body itself. We had expected to find it, as usual, enveloped in frequent rolls, or bandages, of linen, but, in place of these, we found a sort of sheath, made of papyrus, and coated with a layer of plaster, thickly gilt and painted. The paintings represented subjects connected with the various supposed duties of the soul, and its presentation to different divinities, with numerous identical human figures, intended, very probably, as portraits of the persons embalmed. Extending from head to foot, was a columnar, or perpendicular inscription in phonetic hieroglyphics, giving again his name and titles, and the names and titles of his relations.
+<lb/>Around the neck thus ensheathed, was a collar of cylindrical glass beads, diverse in color, and so arranged as to form images of deities, of the scarabæus, etc., with the winged globe. Around the small of the waist was a similar collar, or belt.
+<lb/>Stripping off the papyrus, we found the flesh in excellent preservation, with no perceptible odor. The color was reddish. The skin was hard, smooth and glossy. The teeth and hair were in good condition. The eyes (it seemed) had been removed, and glass ones substituted, which were very beautiful and wonderfully life-like, with the exception of somewhat too determined a stare. The finger and the nails were brilliantly gilded.
+<lb/>Mr. Gliddon was of opinion, from the redness of the epidermis, that the embalment had been effected altogether by asphaltum; but, on scraping the surface with a steel instrument, and throwing into the fire some of the powder thus obtained, the flavor of camphor and other sweet-scented gums became apparent.
+<lb/>We searched the corpse very carefully for the usual openings through which the entrails are extracted, but, to our surprise, we could discover none. No member of the party was at that period aware that entire or unopened mummies are not unfrequently met. The brain it was customary to withdraw through the nose; the intestines through an incision in the side; the body was then shaved, washed, and salted; then laid aside for several weeks, when the operation of embalming, properly so called, began.
+<lb/>As no trace of an opening could be found, Doctor Ponnonner was preparing his instruments for dissection, when I observed that it was then past two o’clock. Hereupon it was agreed to postpone the internal examination until the next evening; and we were, about to separate for the present, when some one suggested an experiment or two with the Voltaic pile.
+<lb/>The application of electricity to a Mummy three or four thousand years old at the least, was an idea, if not very sage, still sufficiently original, and we all caught at it at once. About one tenth in earnest and nine tenths
+<lb/>in jest, we arranged a battery in the Doctor’s study, and conveyed thither the Egyptian.
+<lb/>It was only after much trouble that we succeeded in laying bare some portions of the temporal muscle which appeared of less stony rigidity than other parts of the frame, but which, as we had anticipated, of course, gave no indication of galvanic susceptibility when brought in contact with the wire. This the first trial, indeed, seemed decisive, and, with a hearty laugh at our own absurdity, we were bidding each other good night, when my eyes, happening to fall upon those of the Mummy, were there immediately riveted in amazement. My brief glance, in fact, had sufficed to assure me that the orbs which we had all supposed to be glass, and which were originally noticeable for a certain wild stare, were now so far covered by the lids that only a small portion of the tunica albuginea remained visible.
+<lb/>With a shout I called attention to the fact, and it became immediately obvious to all.
+<lb/>I cannot say that I was alarmed at the phenomenon, because “alarmed” is, in my case, not exactly the word. It is possible, however, that, but for the Brown Stout, I might have been a little nervous. As for the rest of the company, they really made no attempt at concealing the downright fright which possessed them. Doctor Ponnon-ner was a man to be pitied. Mr. Gliddon, by some peculiar process, rendered himself invisible. Mr. Silk Buckingham, I fancy, will scarcely be so bold as to deny that he made his way, upon all fours, under the table.
+<lb/>After the first shock of astonishment, however, we resolved, as a matter of course, upon farther experiment forthwith. Our operations were now directed against the great toe of the right foot. We made an incision over the outside of the exterior os sesamoideum pollicis pedis, and thus got at the root of the abductor muscle. Re-adjusting the battery, we now applied the fluid to the bisected nerves—when, with a movement of exceeding life-likeness, the Mummy first drew up its right knee so as to bring it nearly in contact with the abdomen, and then, straightening the limb with inconceivable force, bestowed a kick upon Doctor Ponnonner which had the effect of discharging that gentleman, like an arrow from a catapult, through a window into the street below.
+<lb/>We rushed out en masse to bring in the mangled remains of the victim, but had the happiness to meet him upon the staircase, coming up in an unaccountable hurry, brimfull of the most ardent philosophy, and more than ever impressed with the necessity of prosecuting our experiments with rigor and with zeal.
+<lb/>It was by his advice, accordingly, that we made, upon the spot, a profound incision into the tip of the subject’s nose, while the Doctor himself, laying violent hands upon it, pulled it into vehement contact with the wire.
+<lb/>Morally and physically—figuratively and literally— was the effect electric. In the first place, the corpse opened its eyes and winked very rapidly for several minutes, as does Mr. Barnes in the pantomime; in the second place, it sneezed; in the third, it sat upon end; in the fourth, it shook its fist in Doctor Ponnonner's face; in the fifth, turning to Messiurs Gliddon and Buckingham, it addressed them, in very capital Egyptian, thus:|
+<lb/>“I must say, gentlemen, that I am as much surprised as I am mortified, at your behaviour. Of Doctor Ponnonner nothing better was to be expected. He is a poor little fat fool who knows no better. I pity and forgive him. But you, Mr. Gliddon—and you, Silk—who have travelled and resided in Egypt until one might imagine
+<lb/>THE BROADWAY JOURNAL.
+<lb/>S 53
+<lb/>you to the manor born—you, I say, who have been so much among us that you speak Egyptian fully as well, I think, as you write your mother tongue—you, whom I have always been led to regard as the firm friend of the mummies—I really did anticipate more gentlemanly conduct from you. What am I to think of your standing quietly by and seeing me thus unhandsomely used? What am I to suppose by your permitting Tom, Dick and Harry to strip me of my coffins, and my clothes, in this wretchedly cold climate? In what light (to come to the point) am I to regard your aiding and abct-; ting that miserable "little villain, Doctor Ponnonner, in pulling me by the nose ?”
+<lb/>It will be taken for granted, no doubt, that upon hearing this speech under the circumstances, we all either made for the door, or fell into violent hysterics, or went off in a general swoon. One of these three things was, I say, to be expected. Indeed each and all of these lines of conduct might have been very plausibly pursued. And, upon my word, I am at a loss to know how or why it was that we pursued neither the one or the other. But, perhaps, the true reason is to be sought in the spirit of the age, which proceeds by the rule of contraries altogether, and is now usually admitted as the solution of everything in the way of paradox and impossibility. Or, perhaps, after all, it was only the Mummy’s exceedingly natural and matter-of-course air that divested his words of the terrible. However this may be, the facts are clear, and no member of our party betrayed any very particular trepidation, or seemed to consider that any thing had gone very especially wrong.
+<lb/>For my part I was convinced it was all right, and merely stepped aside, out of the range of the Egypt-ian’s fist. Doctor Ponnonner thrust his hands into his breeches’ pockets, looked hard at the Mummy, and grew excessively red in the face. Mr. Gliddon stroked his whiskers and drew up the collar of his shirt. Mr. Buckingham hung down his head, and put his right thumb into the left corner of his mouth.
+<lb/>The Egyptian regarded him with a severe countenance for some minutes, and at length, with a sneer, said:
+<lb/>“Why don’t you speak, Mr. Buckingham? Did you hear what I asked you, or not? Do take your thumb out of your mouth!”
+<lb/>Mr. Buckingham, hereupon, gave a slight start, took his right thumb out of the left corner of his mouth, and, by way of indemnification, inserted his left thumb in the right comer of the aperture above-mentioned.
+<lb/>Not being able to get an answer from Mr. B., the figure turned peevishly to Mr. Gliddon, and, in a peremptory tone, demanded in general terms what we all meant.
+<lb/>Mr. Gliddon replied at great length, in phonetics ; and but for the deficiency of American printing-offices in hieroglyphical type, it would afford me much pleasure to record here, in the original, the whole of his very excellent speech.
+<lb/>I may as well take this occasion to remark, that all the subsequent conversation in which the Mummy took a part, was carried on in primitive Egyptian, through the medium (so far as concerned myself and other untra-velled members of the company)—through the medium,
+<lb/>I say, of Messiurs Gliddon and Buckingham, as interpreters. These gentlemen spoke the mother-tongue of the mummy with inimitable fluency and grace; but I could not help observing that (owing, no doubt, to the introduction of images entirely modem, and, of course, entirely no-
+<lb break="no"/>vel to the stranger,) the two travelers were reduced, occasionally, to the employment of sensible forms for the purpose of conveying a particular meaning. Mr. Gliddon, at one period, for example, could not make the Egyptian comprehend the term “politics,” until he sketched upon the wall, with a bit of charcoal, a little carbuncle-nosed gentleman, out at elbows, standing upon a stump, with his left leg drawn back, his right arm thrown forward, with the fist shut, the eyes rolled up toward Heaven,
+<lb/> and the mouth open at an angle of ninety degrees. Just in the same way Mr. Buckingham failed to con-vey the absolutely modem idea, “wig,” until, (at Doctor Ponnonner’s suggestion,) he grew very pale in the face, and consented to take off his own.
+<lb/>It will be readily understood that Mr. Gliddon’s discourse turned chiefly upon the vast benefits accruing to science from the unrolling and disembowelling of mummies; apologizing, upon this score, for any disturbance  that might have been occasioned him, in particular, the individual Mummy called Allamistakeo; and concluding with a mere hint, (lor it could scarcely be considered more,) that, as these little matters were now explained, it might be as well to proceed with the investigation intended. Here Doctor Ponnonner made ready his instruments.
+<lb/>In regard to the latter suggestions of the orator, it appears that Allamistakeo had certain scruples of conscience, the nature of which I did not distinctly learn; but he expressed himself satisfied with the apologies tendered, and, getting down from the table, shook hands with the company all round.
+<lb/>When this ceremony was at an end, we immediately busied ourselves in repairing the damages which our subject had sustained from the scalpel. We sewed up the wound in his temple, bandaged his foot, and applied a square inch of black plaster to the tip of his nose.
+<lb/>It was now observed that the Count, (this was the title, it seems, of Allamistakeo,) had a slight fit of shivering—no doubt from the cold. The doctor immediately repaired to his wardrobe, and soon returned with a black dress coat, made in Jennings’ best manner, a pair of sky-blue plaid pantaloons with straps, a pink gingham che-mise, a flapped vest of brocade, a white sack overcoat, a walking cane with a hook, a hat with no brim, patent-leather boots, straw-colored kid gloves, an eye-glass, a pair of whiskers, and a waterfall cravat. Owing to the disparity of size between the Count and doctor, (the proportion being as two to one,) there was some little diffi-in adjusting these habiliments upon the person of the Egyptian; but when all was arranged, he might have been said to be dressed. Mr. Gliddon, therefore, gave him his arm, and led him to a comfortable chair by the fire, while the doctor rang the bell upon the spot and ordered a supply of cigars and wine.
+<lb/>The conversation soon grew animated. Much curiosity was, of course, expressed in regard to the somewhat remarkable fact of Allamistakeo’s still remaining a-live.
+<lb/>“I should have thought,” observed Mr. Buckingham,
+<lb/>“ that it is high lime you were dead.”
+<lb/>“Why,” replied the Count, very much astonished, “I am little more than seven hundred years old! My father lived a thousand, and was by no means in his dotage when he died.”
+<lb/>Here ensued a brisk series of questions and computations, by means of which it became evident that the antiquity of the Mummy had been grossly misjudged. It
+<lb/>254
+<lb/>THE BROADWAY JOURNAL.
+<lb/>had been five thousand and fifty years, and some months, since he had been consigned to the catacombs at Elei-thias.
+<lb/>“But my remark,” resumed Mr. Buckingham, “had no reference to your age at the period of interment; (I am willing to grant, in fact, that you are still a young man,) and my allusion was to the immensity of time during which, by your own showing, you must have been done up in asphaltum.”
+<lb/>“In what ?” said the Count.
+<lb/>“In asphaltum,” persisted Mr. B.
+<lb/>“Ah, yes; I have some faint notion of what you mean; it might be made to answer, no doubt,—but in my time we employed scarcely anything else than the Bichloride of Mercury.”
+<lb/>“But what we are especially at a loss to understand,” said Doctor Ponnonner, “is how it happens that, having been dead and buried in Egypt five thousand years ago, you are here to-day all alive, and looking so delightfully well.”
+<lb/>“Had I been, as you say, dead," replied the Count, “it is more than probable that dead I should still be; for I perceive you are yet in the infancy of Galvanism, and cannot accomplish with it what was a common thing among us in the old days. But the fact is, I fell into catalepsy, and it was considered by my best friends that I was either dead or should be; they accordingly embalmed me at once—I presume you are aware of the chief principle of the embalming process?”
+<lb/>“Why, not altogether.”
+<lb/>“Ah, I perceive;—a deplorable condition of ignorance! Well, I cannot enter into details just now: but it is necessary to explain that to embalm, (properly speaking,) in Egypt, was to arrest indefinitely all the animal functions subjected to the process. I use the word “animal” in its widest sense, as including the physical not more than the moral and vital being. I repeat that the leading principle of embalment consisted, with us, in the immediately arresting, and holding in perpetual abeyance, all the animal functions subjected to the process. To be brief, in whatever condition the individual was, at the period of embalment, in that condition he remained. Now, as it is my good fortune to be of the blood of the Scaraboeus, I was embalmed alive, as you see me at present.”
+<lb/>“The blood of the Scaraboeus!” exclaimed Doctor Ponnonner.
+<lb/>“Yes. The Scaraboeus was the insignium, or the “arras,” of a very distinguished and a very rare patrician family. To be “of the blood of the Scaraboeus,” is merely to be one of that family of which the Scaraboeus is the irsignium. I speak figuratively.”
+<lb/>“But what has this to do with your being alive?”
+<lb/>“Why it is the general custom, in Egypt, to deprive a corpse, before embalment, of its bowels and brains; the race of the Scaraboei alone did not coincide with the custom. Had I not been a Scaraboeus, therefore, I should have been without bowels and brains; and without either it is inconvenient to live.”
+<lb/>“I perceive that;” said Mr. Buckingham, “and I presume that all the entire mummies that come to hand are of the race of Scaraboei.”
+<lb/>“Beyond doubt.”
+<lb/>“I thought,” said Mr. Gliddon very meekly, “that the Scaraboeus was one of the Egyptian gods.”
+<lb/>“One of the Egyptian what?” exclaimed the Mummy, starting to its feet.
+<lb/>“Gods!” repeated the traveler.
+<lb/>“Mr. Gliddon I really am ashamed to hear you talk in this style,” said the Count, resuming his chair. “No nation upon the face of the earth has ever acknowledged more than one god. The Scaraboeus, the Ibis, etc., were with us, (as similar creatures have been with others) the symbols, or media, through which we offered worship to a Creator too august to be more directly approached.”
+<lb/>There was here a pause. At length the colloquy was renewed by Doctor Ponnonner.
+<lb/>“It is not improbable, then, from what you have explained,” said he, “that among the catacombs near the Nile, there may exist other mummies of the Scaraboeus tribe, in a condition of vitality.”
+<lb/>“There can be no question of it,” replied the Count; all the Scaraboei embalmed accidentally while alive, are alive now. Even some of those purposely so embalmed, may have been overlooked by their executors, and still remain in the tombs.”
+<lb/>“Will you be kind enough to explain,” I said, “what you mean by ‘ purposely so embalmed?’”
+<lb/>“With great pleasure,” answered the Mummy, after surveying me leisurely through his eye-glass—for it was the first time I had ventured to address him a direct question.
+<lb/>“With great pleasure,” said he. “The usual duration of man’s life, in my time, was about eight hundred years. Few men died, unless by most extraordinary accident, before the age of six hundred; few lived longer than a decade of centuries; but eight were considered the natural term. After the discovery of the embalming principle, as I have already described it to you, it occurred to our philosophers that a laudable curiosity might be gratified, and, at the same time, the interests of science much advanced, by living this natural term in instalments. In the case of history, indeed, experience demonstrated that something of this kind was indispensable. An historian, for example, having attained the age of five hundred, would write a book with great labor and then get himself carefully embalmed; leaving instructions to his executors pro tem., that they should cause him to be revivified after the lapse of a certain period— say five or six hundred years. Resuming existence at the expiration of this term, he would invariably find his great work converted into a species of hap-hazard notebook—that is to say, into a kind of literary arena for the conflicting guesses, riddles, and personal squabbles of whole herds of exasperated commentators. These guesses, etc., which passed under the name of annotations or emendations, were found so completely to have enveloped, distorted, and overwhelmed the text, that the author had to go about with a lantern to discover his own book. When discovered, it was never worth the trouble of the search. After re-writing it throughout, it was regarded as the bounden duty of the historian to set himself to work, immediately, in correcting from his own private knowledge and experience, the traditions of the day concerning the epoch at which he had originally lived. Now this process of re-scription and personal rectification, pursued by various individual sages, from time to time, had the effect of preventing our history from degenerating into absolute fable."
+<lb/>“I beg your pardon," said Doctor Ponnonner at this point, laying his hand gently upon the arm of the Egyptian—“I beg your pardon, sir, but may I presume to interrupt you for one moment?”
+<lb/>“By all means, sir,” replied the Count, drawing up.
+<lb/>"I merely wished to ask you a question," said the
+<lb/>THE BROADWAY JOURNAL.
+<lb/>?55
+<lb/>Doctor. “ You mentioned the historian’s personal correction of traditions respecting his own epoch. Pray, sir, upon an average, what proportion of these Kabbala were usually found to be right ?”
+<lb/>“The Kabbala, as you properly term them, sir, were generally discovered to be precisely on a par with the facts recorded in the un-re-written histories themselves; —that is to say, not one individual iota of either, was ever known, under any circumstances, to be not totally and radically wrong.”
+<lb/>“But since it is quite clear,” resumed the Doctor, “that at least five thousand years have elapsed since your entombment, I take it for granted that your histories at that period, if not your traditions, were sufficiently explicit on that one topic of universal interest, the Creation, which took place, as I presume you are aware, only about ten centuries before.”
+<lb/>“ Sir!” said Count Allamistakeo.
+<lb/>The Doctor repeated his remarks, but it was only after much additional explanation, that the foreigner could be made to comprehend them. The latter at length said, hesitatingly:
+<lb/>“The ideas you have suggested are to me, I confess, utterly novel. During my time i never knew any one to entertain so singular a fancy as that the universe (or this world if you will have it so) ever had a beginning at all. I remember, once, and once only, hearing something remotely hinted, by a man of many speculations, concerning the origin of the human race; and by this individual the very word Adam, (or Red Earth) which you make use of, was employed. He employed it, however, in a generical sense,with reference to the spontaneous germination from rank soil (just as a thousand of the lower genera of creatures are germinated)—the spontaneous germination, I say, of five vast hordes of men, simultaneously upspringing in five distinct and nearly equal divisions of the globe.”
+<lb/>Here, in general, the company shrugged their shoul-ders, and one or two of us touched our foreheads with a very significant air. Mr. Silk Buckingham, first glancing slightly at the occiput and then at the siniciput of Allamistakeo, spoke as follows:—
+<lb/>“The long duration of human life in your time, together with the occasional practice of passing it, as you have explained, in instalments, must have had, indeed, a strong tendency to the general development and conglomeration of knowledge. I presume, therefore, that we are to attribute the marked inferiority of the old Egyptians in all particulars of science, when compared with the moderns, and more especially with the Yankees, altogether to the superior solidity of the Egyptian skull.”
+<lb/>“I confess again,” replied the Count with much suavity, “that I am somewhat at a loss to comprehend you; pray, to what particulars of science do you allude?”
+<lb/>Here our whole party, joining voices, detailed, at great length, the assumptions of phrenology and the marvels of animal magnetism.
+<lb/>Having heard us to an end, the Count proceeded to relate a few anecdotes, which rendered it evident that pro-totypes of Gall and Spurzheim had flourished and faded in Egypt so long ago as to have been nearly forgotten, and that the manoeuvre? of Mesmer were really very contemptible tricks when put in collation with the positive miracles of the Theban savans, who created lice and a great many other similar things.
+<lb/>I here asked the Count if his people were able to calculate eclipses. He smiled rather contemptuously, and said they were.
+<lb/>This put me a little out, but I began to make other in- quiries in regard to his astronomical knowledge, when a member of the company, who had never as yet opened his mouth, whispered in my ear that, for information on this head, I had better consult Ptolemy, (whoever Ptol-emy is) as well as one Plutarch de facie lunoe.
+<lb/>I then questioned the Mummy about burning-glasses and lenses, and, in general, about the manufacture of glass; but I had not made an end of my queries before the silent member again touched me quietly on the elbow, and begged me for God’s sake to take a peep at Diodorus Siculus. As for the Count, he merely asked me, in the way of reply, if we moderns possessed any such microscopes as would enable us to cut cameos in the style of the Egyptians. While I was thinking how I should answer this question, little Doctor Ponnonner committed himself in a very extraordinary way.
+<lb/>“Look at our architecture!” he exclaimed, greatly to the indignation of both the travelers, who pinched him black and blue to no purpose.
+<lb/>“Look,” he cried with enthusiasm, “at the Bowling-Green Fountain in New York ! or if this be too vast a contemplation, regard for a moment the Capitol at Washington, D. C.!”—and the good little medical man went on to detail very minutely the proportions of the fabric to which he referred. He explained that the portico alone was adorned with no less than four and twenty columns, five feet in diameter, and ten feet apart.
+<lb/>The Count said that he regretted not being able to remember, just at that moment, the precise dimensions of any one of the principal buildings of the city of Aznac, whose foundations were laid in the night of Time, but the ruins of which were still standing, at the epoch of his entombment, in a vast plain of sand to the westward of Thebes. He recollected, however, (talking of porticoes) that one affixed to an inferior palace in a kind of suburb called Carnac, consisted of a hundred and forty-four columns, thirty-seven feet each in circumference, and twenty-five feet apart. The approach to this portico, from the Nile, was through an avenue two miles long, composed of sphynxes, statues and obelisks, twenty, sixty, and a hundred feet in height. The palace itself (as well as he could remember) was, in one direction, two miles long, and might have been, altogether, about seven in cir-cuit. Its walls were richly painted all oyer, within and without, with hieroglyphics. He would not pretend to assert that even fifty or sixty of the Doctor’s Capitols  might have been built within these walls, but he was by no means sure that two or three hundred of them might not have been squeezed in with some trouble. That palace at Carnac was an insignificant little building after all. He, (the Count) however, could not conscientiously refuse to admit the ingenuity, magnificence, and superiority of  the Fountain at the Bowling-Green, as described by the  Doctor. Nothing like it, he was forced to allow, had ever  been seen in Egypt or elsewhere.
+<lb/>I here asked the Count what he had to say to our railroads.
+<lb/>“Nothing,” he replied, “in particular.” They were rather slight, rather ill-conceived, and clumsily put together. They could not be compared, of course, with the vast, level, direct, iron-grooved causeways, upon which the Egyptians conveyed entire temples and solid obelisks of a hundred and fifty feet in altitude.
+<lb/>I spoke of our gigantic mechanical forces.
+<lb/>He agreed that we knew something in that way, but inquired how I should have gone to work in getting up
+<lb/>256
+<lb/>THE BROADWAY JOURNAL.
+<lb/>the imposts on the lintels of even the little palace at Car-nac.
+<lb/>This question I concluded not to hear, and demanded if he had any idea of Artesian wells; but he simply raised his eye-brows; while Mr. Gliddon, winked at me very hard, and said, in a low tone, that one had been recently discovered by the engineers employed to bore for water in the Great Oasis.
+<lb/>I then mentioned our steel; but the foreigner elevated his nose, and asked me if our steel could have executed the sharp curved work seen on the obelisks, and which was wrought altogether by edge-tools of copper.
+<lb/>This disconcerted us so greatly that we thought it ad. visable to vary the attack to Metaphysics. We sent for a copy of a book called the “Dial,” and read out of it a chapter or two about something which is not very clear, but which the Bostonians call the Great Movement or Progress.
+<lb/>The Count merely said that Great Movements were awfully common things in his day, and as for Progress it was at one time quite a nuisance, but it never progressed.
+<lb/>We then spoke of the great beauty and importance of Democracy, and were at much trouble in impressing the Count with a due sense of the advantages we enjoyed in living where there was suffrage ad libitum, and no king.
+<lb/>He listened with marked interest, and in fact seemed not a little amused. When we had done, he said that, a great while ago, there had occurred something of a very similar sort. Thirteen Egyptian provinces determined all at once to be free, and so set a magnificent example to the rest of mankind. They assembled their wise men, and concocted the most ingenious constitution it is possible to conceive. For a while they managed remarkably well; only their habit of bragging was prodigious. The thing ended, however, in the consolidation of the thirteen states, with some fifteen or twenty others, into the most odious and insupportable despotism that ever was heard of upon the face of the Earth.
+<lb/>I asked what was the name of the usurping tyrant.
+<lb/>As well as the Count could recollect, it was Mob.
+<lb/>Not knowing what to say to this, I raised my voice, and deplored the Egyptian ignorance of steam.
+<lb/>The Count looked at me with much astonishment, but made no answer. The silent gentleman, however, gave me a violent nudge in the ribs with his elbows—told me I had sufficiently exposed myself for once—and demanded if I was really such a fool as not to know that the modern steam engine is derived from the invention of Hero, through Solomon de Caus.
+<lb/>We were now in imminent danger of being discomfited; but, as good luck would have it, Doctor Ponnonner, having rallied, returned to our rescue, and inquired if the people of Egypt would seriously pretend to rival the moderns in the all-important particular of dress.
+<lb/>The Count, at this, glanced downward to the straps of his pantaloons, and then, taking hold of the end of one of his coat-tails, held it up close to his eyes for some minutes. Letting it fall, at last, his mouth extended it- self very gradually from ear to ear; but I do not remember that he said anything in the way of reply.
+<lb/>Hereupon we recovered our spirits, and the Doctor, approaching the mummy with great dignity, desired it to say candidly, upon ite honor as a gentleman, if the Egyptians had comprehended, at any period, the manufacture of either Ponnonner’s lozenges, or Brandreth’s pills.
+<lb/>We looked, with profound anxiety, for an answer but
+<lb/>in vain. It was not forthcoming. The Egyptian blushed and hung down his head. Never was triumph more consummate; never was defeat borne with so ill a grace. Indeed I could not endure the spectacle of the poor Mummy’s mortification. I reached my hat, bowed to him stiffly, and took leave.
+<lb/>Upon getting home I found it past four o’clock, and went immediately to bed. It is now ten, A. M. I have been up since seven, penning these memoranda for the benefit of my family and of mankind. The former I shall behold no more. My wife is a shrew. The truth is, I am heartily sick of this life and of the nineteenth century in general. I am convinced that everything is going wrong. Besides, I am anxious to know who will be President in 2045. As soon, therefore, as I shave and swallow a cup of coffee, I shall just step over to Ponnonner’s and get embalmed for a couple of hundred years. EDGAR A. POE.
+<lb/>Autumn.
+<lb/>In the dim woods, sadly sighing,
+<lb/>Slowly, Summer lies a dying.
+<lb/>Round the mother they are leaving Leaves, like children gather grieving.
+<lb/>Piteously in knots, above her,
+<lb/>Cold, and trembling violets hover.
+<lb/>Hark! a chime of bells is tolling From the breeze’s belfry :—rolling
+<lb/>|
+<lb/>O'er the troubled tide of life,
+<lb/>E’er the grave has hushed its strife.
+<lb/>Every thing is now in keeping;
+<lb/>Solemn trees are standing weeping.
+<lb/>Soon, a snowy shroud will cover Her pale lily limbs all over.
+<lb/>Like mourners in the open blast,
+<lb/>Leaves in funeral trains go past.
+<lb/>H. H. CLEMENTS.
+<lb/>Critical Notices. 
+<lb/>Alice Ray: a Romance in Rhyme. By Mrs. Sarah Jo-
+<lb break="no"/>sepha Hale, Author of “Northwood" &amp;c. &amp;c. Phila-
+<lb break="no"/>delphia.
+<lb/>Mrs. Hale has been long distinguished as one of the purest and most vigorous writers in America—equally distinguished in poetry and in prose,  “Alice Ray” will add much—very much—to her well- earned reputation:—providing always the unpretending  form in which it comes before the public, does not injure  it in that most worldly public’s estimation, The volume,
+<lb/> simply printed and bound, is dedicated to “ The Lady  Patronesses of the Fair Bazaar [Philadelphia] in aid of  the Academy of Fine Arts"—and has Charity, of course, as its primary object.
+<lb/>The poem is truly beautiful. Its delicacy and fancy  of conception, and the truthful simplicity and grace of its manner, have, we confess, quite taken us by surprise. We have read many of Mrs. Hale’s poetical compositions, but were prepared for nothing so good.
+<lb/>The story has a marked orsginality in it, and is well adapted to poetic effect—but the main excellence of the work lies in its point and force of expression—in the aggregate of its quotable passages. In place of an elaborate and needless criticism, we shall take the liberty
+<lb/>THE BROADWAY JOURNAL.
+<lb/>257
+<lb/>of placing a few of these before our readers:—italicizing what especially pleases us.
+<lb/>The birds their love notes warble Among the blossom’d trees;
+<lb/>The flowers are sighing forth their sweets To wooing honey bees;—
+<lb/>The glad brook o’er a pebbly floor Goes dancing on its way,—
+<lb/>But not a thing is so like spring As happy Alice Ray.
+<lb/>And, with the Story-tellers,
+<lb/>What friendships had she made! She pitied lonely Crusoe's lot,
+<lb/>And lov'd Scheherazade,—
+<lb/>But to the Bard of Avon turn’d Her fancy and her heart,
+<lb/>Nor knew which most in him she lov'd—
+<lb/>The nature or the art.
+<lb/>Her world was ever joyous—
+<lb/>She thought of grief and pain As giants in the olden time Thai ne’ er would come again.
+<lb/>Her heart was like a fountain,
+<lb/>The waters always sweet,—
+<lb/>Her poney in the pasture,
+<lb/>The kitten at her feet,
+<lb/>The ruffling bird of Juno, and The men in the olden wall—
+<lb/>Each knew her loving carefulness,
+<lb/>And came at her soft call.
+<lb/>He rode with grace and hearing high,
+<lb/>Like Cossack in command:
+<lb/>And his good steed would gently feed,
+<lb/>Like Arab's, from his hand;
+<lb/>And when he called his dog or steed; His tones were ever bland.
+<lb/>The brave are ever gentle,
+<lb/>The good should be the gay,—
+<lb/>And Arthur was as bold of heart As knight in tourney fray,—
+<lb/>His mind was always firm for truth As rock ’mid ocean’s spray;
+<lb/>And though a restless daring will At times he might display,
+<lb/>His wildest moods were calmed at once,
+<lb/>But mention Alice Ray.
+<lb/>And she—though when you talked of him She blushed and turned away—
+<lb/>Was still his partner in the dance And in the dashing sleigh—
+<lb/>— They always searched together For flowers the first of May;
+<lb/>And duly to the Sabbath School On every holy day
+<lb/>She went—they both were Teachers there—
+<lb/>She went with Arthur dray.
+<lb/>However dear new friends may be,
+<lb/>However far she stray,
+<lb/>8he yet will see her Mother weep,
+<lb/>And hear her Father pray,—
+<lb/>Praying for her happiness,
+<lb/>Weeping in dismay,
+<lb/>That she, their dear and only child Must go so far away I—
+<lb/>—She bade farewell to them and all—
+<lb/>Farewell to Arthur Gray.
+<lb/>It will be seen that the two passages last quoted hare the peculiarity of a constantly recurring rhyme in ay.—
+<lb/>The four cantos of the poem are terminated with some twenty or thirty lines in this manner—with the identical rhyme in ay—and the idea is not only original, but the effect (and not merely the musical effect) is one of the very happiest we have known in poetical art. Throughout is manifested an exquisite sense of the forcible and of the delicate, in rhythm. Upon the whole, this poem cannot fail to elevate its author very highly in the opinion of all those whose opinion she would be likely to value.
+<lb/>Wiley &amp; Putnam's Foreign Library, No. 1. Memoirs of Benevenuto Cellini, a Florentine Artist; written by Himself. Containing a Variety of Information respecting the Arts and the History of the Sixteenth Century. With the Notes and Observations of G. P. Car-pani. Translated by Thomas Roscoe, Esq. Vol. 1.
+<lb/>All men of letters agree that the Autobiography of Cellini is one of the most interesting books ever written. It could not fail to be so—Cellini having been what he was, and having seen what he saw. He was intimate with all the noted men of his very remarkable age, and was perpetually occupied either in great or in petty intrigue, lie felt keenly—in fact his excessive sensibility amounted to madness—and he has depicted his feelings, not less than his thoughts and deeds, with the hand of a profound moral painter. Horace Walpole has done, indeed, but feeble justice to these Memoirs, in calling them “more amusing than any novel” he knew. They are, perhaps, more instructive than any single history, of the same volume, in existence.
+<lb/>For the design of Wiley &amp; Putnam’s Foreign Library (of which this work is No. 1) see advertisement on another page of this journal.
+<lb/>Appleton’s Literary Miscellany, a Series of Books for Popular Reading. Nos. 2 and 3. I Promessi Sposi— The Betrothed, by Alessandro Manzoni. A New Translation, re-printed entire from the last English edition. In two vols. New York: D. Appleton Ac Co.. 200 Broadway.
+<lb/>Last week we announced the issue of these volumes. They are of very unusual Interest—presenting the first
+<lb/>English translation of the complete work of Manzoni––
+<lb/>one of the most noted and best Italian fictions. It is not a novel, in the common acceptation of the term, but a moral and religious essay, enlivened into a rich interest by picturesque description and exciting incident.
+<lb/>The amount of matter afforded, for half a dollar, in each number of this series, is almost marvellous, in view of the excellent paper and printing. These two Volumes of I Promessi Sposi contains no less than 676 pages.
+<lb/>We are pleased to see the word “Melange," as a general title, supplanted by the more sober “Miscellany.” We should speak English in all cases where there is no sufficient reason for speaking anything else.
+<lb/>Appleton’s Miscellany. No. 4. Memoirs of an American. Lady, with Sketches of Manners and Scenery in America, as they existed previous to the Revolution. By Mrs. Grant, Author of "Letters from the Mountains," etc. etc.
+<lb/>This work is not unknown in America, of course; but we are especially glad to see it re-published. It is a faithful record of most interesting realities—of manners, persons, and events as they existed and occurred, lang syne, in the “Province of New-York.” Mrs. Grant—who is perhaps better known as the author of “The Cottagers of Glenburnie" than of “Letters from the Mountains”—
+<lb/>242
+<lb/>THE BROADWAY JOURNAL.
+<lb/>speaks of the Work as an account of “the rapid pace with which an infant society has urged on its progress from virtuous simplicity to the dangerous knowledge of good and evil—from tremulous imbecility to self-sufficient independence.”
+<lb/>An admirable letter from Grant Thorburn, giving some reminiscences of this amiable lady, is quite judiciously published by way of Preface.
+<lb/>The Medici Series of Italian Prose. The Autobiography of Alfieri. Translated and edited by C. Edwards Lester. New-York: Paine if Burgess.
+<lb/>The character of Alfieri, with more of passion and more of fierté, resembled very remarkably that of Benevenuto Cellini. His impulsiveness not less than his genius made him what he was—a great man. His “mission” (to use a cant term) seemed to be reform—and few more comprehensive or effective reformers ever lived. We look on his Autobiography as one of the most vivid books in existence—intensely interesting. In the volume now before us, we find it prefaced by a fine Essay on his Genius and Times, by Mr. Lester. The translation is from the Lucca edition of 1814, and seems to uS particularly well done.
+<lb/>Saxton if Kelt's Library of Select Literature, No. 3.— Lights and Shadows of Scottish Life. By Professor Wilson, Author of the “Trials of Margaret Lindsay," etc. Boston: Saxton if Kelt.
+<lb/>This is the best work of its author—and, in its peculiar way, unsurpassed. Until the receipt of this number, we were not aware of the existence of the Series. Nos. I. and II. have not been received. The volume before us embraces more than 300 well printed pages, and is sold for 37 1/2 cents.
+<lb/>The Mysteries of Tobacco, By the Rev. Benjamin J. Lane, with an Introductory Letter to the Hon. John Quincy Adams, LL. D., by the Rev. Samuel Hanson Cox, D. D., Pastor of the First Presbyterian Church, Brooklyn, N. Y. New York: Wiley if Putnam.
+<lb/>An unanswerable exposition of the evils of Tobacco— but do these manifest evils really need an exposition? 185 pages beautifully printed on very fine paper.
+<lb/>Love and Matrimony: A Letter to a Betrothed Sister, by a Lady of Baltimore. Baltimore: J. Murphy. For sale in New York by Win. Taylor, Astor House.
+<lb/>A well-written little ttreatise, published in beautiful form. Tasteful at all points.
+<lb/>Harper's Illuminated and New Pictorial Bible. No. 41.
+<lb/>This number concludes the Apocrypha and commences the New Testament, with a really magnificent title page.
+<lb/>The Wandering Jew. Superbly Illustrated by the Most Eminent Artists of Paris. New York: Harper if Brothers.
+<lb/>Every body should get this edition. To artists and lovers of art, the designs are a treasure. It is difficult to conceive anything more bold—striking—original. No 2 is issued.
+<lb/>History of the United States, for the Use of Schools. By Marcius Wilson. New-York: Caleb Bartlett, 225 Pearl street.
+<lb/>A well-arranged text book, of which we may speak more fully hereafter.
+<lb/>The Swedenborg Library. Edited by Professor George
+<lb/>Bush. New-York : John Allen.
+<lb/>We have received Nos. 1 and 2, Part I. of a serial work so entitled, and containing the “Memorabilia, or Heaven and Hell” of Swedenborg.
+<lb/>Harper's Illuminated and Illustrated Shakspeare.
+<lb/>Of this elegant serial, Nos. 69 and 70 are published— embracing “Timon of Athens.”
+<lb/>Simms' Magazine, for October, is perhaps not quite so good as usual—the editor’s absence will account for it. Nevertheless there are some papers of sterling value. “Counsel against Cannon” is one of them. “The Marion Family” is another.
+<lb/>T. H. Chivers contributes a noble “Elegy on the Death of a Poet.”
+<lb/>Graham's Magazine, for November, has three good steel engravings (two of them admirable) with contributions from Mrs. Sigourney, Fanny Forrester, Mrs. Osgood, Horace Greeley, Longfellow, Street, Whipple, Grund, Graham, Peterson, Chivers and Poe. Mr. Longfellow’s poem, “Walter Von Der Vogelweide” is an artistic composition of high merit, rhetorically considered. The editorial criticisms are excellent.
+<lb/>Godey's Lady's Book, for November, has also three plates (including a colored one of “The Polka Fashions.”) The leading engraving—The Indian Captive, from a design by Darlcy—is meritorious. The contributions are by Mrs. Hale, Miss Leslie, Fanny Forrester, Mrs. Hentz, Mrs. Annan,—Frost, Otis, Carpenter, Poe, and others.
+<lb/>Arthur's Magazine, for November, opens with a modification of Chapman’s fine design illustrating “The Paint King —there is also another plate. The contributions, although by writers comparatively little known, are respectable. The publishers propose making many improvements next year.
+<lb/>The Columbian Magazine, for November, commences with a wretched mezzotint by Doney—who has done some very fine things in his day. The second plate is better. The third (a fashion design) is the extreme of the absurd. The contributions are, in general, from good names—Mrs. Ellet, Mrs. Child, Mrs. Osgood, Mrs. Sigourney, Mrs. Kirkland, Mrs. Butler, Mrs. Browne, F. E. F., Morris, Inman, and others—a particularly strong list. “The Maiden’s Leap” by Mrs. Ellet, is in her best manner. Her style is noted for accuracy, purity, and freedom from superfluity. She is one of the most accomplished of our countrywomen.
+<lb/>Blackwood, for October, (the American edition) has been issued by Leonard Scott &amp; Co. Its papers are even unusually pungent.
+<lb/>
+<lb/>To helen.
+<lb/>How purely the Pleiades sparkle in heaven,
+<lb/>And shed their sweet influence over the earth!
+<lb/>And one seems the fairest to me of the seven,
+<lb/>Under which, Helen, yon and I had our birth.
+<lb/>Oh, ours was a beautiful, blossoming time,
+<lb/>'Mid the blush of young roses, the earliest here;
+<lb/>On us fell the purple of Spring in its prime,
+<lb/>And to Maia, our mother, our childhood was dear.
+<lb/>THE BROADWAY JOURNAL.
+<lb/>259
+<lb/>The roses which crimsoned our cradles still charm me;
+<lb/>And night now ha3 nothing I love like that star—
+<lb/>But has Fate never once tried in boyhood to harm me? Are the roses of feeling unruffled 1 Thine are—
+<lb/>For care could not come, dear, thy heart’s bloom to blight, So young and so lovely, so tender and true;
+<lb/>Still, still is thy summer-sky laughing with light—
+<lb/>Ah me! were my own as immaculate too I
+<lb/>Why choose you yon large planet, rounded and bright, And call it your own, your particular star!
+<lb/>Though scarcely as large as its least satellite,
+<lb/>Should the twinkle of Maia be welcomer far.
+<lb/>Like a cloudlet of light shines that sweet little cluster, Wherein is our natal sphere radiantly shrined:
+<lb/>We will dream, as together we gaze on its lustre,
+<lb/>Of a spring-time perennial our spirits shall find!
+<lb/>William Gibson, U. S. N.
+<lb/>The Drama.
+<lb/>The subjoined comments on Mr. Murdoch were furnished us by a friend whose judgment we respect. The first three paragraphs were intended for last week’s Journal, but accidentally omitted—the dates, of course, refer to last week. With the opinions expressed we nearly, but not altogether, agree. What we ourselves think of Mr. Murdoch, we shall take occasion to say, somewhat in detail, hereafter.—Ed. B. J.
+<lb/>Mr. Murdoch’s Reception.—Mr. Murdoch made good our augury by presenting to the most watchful audience of the season, at the Park Theatre, on Tuesday evening, the best Hamlet on the continent. No actor, on his first appearance, was ever so closely followed; and it was only great skill wisely employed that gained for him a triumph at the end. It was clearly his determination from the first, by no act nor look, to overstep the modesty of nature. The same discretion and power, employed on a more telling part, would have secured to him a house stormy with applause. But it was his cue to enter on his great career as an actor modestly, to begin at the fine end of the wedge, and to drive it home firmly thereafter, in parts of force, and passion, and louder emphasis. It was a critical undertaking, and to have brought himself off with credit, would have been much; to have made an “impression,” and to have gained for himself by this single performance a right to engage in personations of the highest range, was a triumph indeed. Our good hope of Mr. Murdoch is sustained, and more than sustained.— With this verdict of approval, the well-earned favor of an audience vigilant and hard to please, and lately over tasked with Hamlet, (for it was up twice in the just previous engagement of Mr. Charles Kean,) he will go abroad, sure of a triumphant reception in all quarters of the country. We are proud that another of our young countrymen has planted his foot on the stage, there to stand in honor and increasing power, for a long day, we hope, of active skill and popular favor.
+<lb/>If we can but persuade our countrymen to look at it aright, this is a memorable event. Every native man put upon the stage, with character and judgment, and true power to bear him up, is a ground and pillar on which to build a drama of our own. It was to this we referred in introducing Mr. Murdoch to our readers at first; and it is to this, we believe, he will be true to the last. We do not enter upon a critical examination of his Hamlet, further than to say, that it was the most perfect commentary on the written play we have ever had presen-
+<lb break="no"/>ted to us. It was plain and easy reading throughout. The embodiment was perfect.
+<lb/>It is not to be said of Mr. Murdoch that he has a fine conception of his author, but that his voice failed him ; or that his voice was musically true to the sentiment, but that his person lacked something of the scholar and the man of graceful mien. He had them all together: voice, person, mien, and insight. And this, we will undertake to say, can be asserted of no Hamlet with which American audiences have been recently familiar. Mr. Murdoch’s Hamletis but the first round on the ladder. We are safe in asserting, that each new personation will carry him higher in his art, and lift him to a point where he will fix upon himself more and more of the popular regard.
+<lb/>Mr. Murdoch followed up his success in Hamlet with an Othello on Thursday evening still more decisive. Our contemporaries have all acknowledged the great excellence of this personation, and we are not disposed to dispute it. The fifth act, particularly, impressed us as it has everybody else, as a masterpiece. It was one of the complete, finished and satisfactory achievements which hang in the mind like a choice painting, apart by themselves, never to be outdone or superseded. Throughout the whole play there were constant indications of the fine spirit which possesses Mr. Murdoch, and at times flashes of fire and passion which carried the audience as by storm.
+<lb/>To these admirable performances Mr. Murdoch added his Benedick on Monday, which is acknowledged on all hands to be the best, taken all in all, which the New-York stage has known for many and many a year. Perfect grace and beauty and spirit marked it ail through. The challenge and the parting with the prince; the wooing of Beatrice, and the closing scenes, were the perfection of gentlemanly bearing—the chivalry of a true souled lover, and the best.
+<lb/>Wearing these laurels as his vouchers of merit, this young American actor must be received in all parts of the country with acclamation. He has acquired suddenly (but as the fruit of long previous and assiduous train-ing) a great renown; and he will add to it, we are safe in declaring, every day of his life. The early day at which we go to press will not allow us to speak of his Claude Melnotte (Wednesday evening) nor his Macbeth (of Friday); but of these and of his parting reception at the houses of New-York,we shall have something to say in our next paper.
+<lb/>We have before us a letter from Miss Eliza Cook, in which she says “I need not tell you how much I admire and estimate your bright countrywoman, Miss Cushman. We are friends, and, I trust, will long be such.— She is gathering golden opinions from the English, and will take a high standing in her profession.”
+<lb/>The well-known company of rats at the Park Theatre, understand, it is said, their cue perfectly. It is worth the price of admission to see their performance. By long training they know precisely the time when the curtain rises, and the exact degree in which the audience is spellbound by what is going on. At the sound of the bell they sally out; scouring the pit for chance peanuts and orange-peel. When, by the rhyming couplets, they are made aware that the curtain is about to fall, they disappear—through respect for the moving heels of the audience. Their temerity is regulated by the intensity of
+<lb/>260
+<lb/>THE BROADWAY JOURNAL.
+<lb/>the performers. A profitable engagement might be made, we think, with “the celebrated Dog Billy.”
+<lb/>“Cruikshank’s Table-Book” has a pleasant paper, setting forth some of the secrets of ‘ advertising patronage’ and the use that may be made of orders to the theatre, (a privilege of the London press not adopted here,) in fomenting the same. Hanker Grabb calls himself Editor, and admits a limited circulation and that “ to the offices of such newspapers trades-people do not come rushing, frantically tendering their five and sixpences for the insertion of their announcements.” And he feelingly remarks, “In these days a fresco painting is the only thing that can stand without a canvass.”
+<lb/>His advice is this: “On Wednesday morning—it is useless to begin earlier—pocket as many tickets as the managers will let you write—and go round your advertising connection. Some editors are silly enough to think that this is not a gentleman’s vocation—who says it is? The question is not about gentlemanliness, but about advertisements. If you want these, go for them— if not, send your clerks. Go into the shops and see the principals. Say something of this kind, “Ah! Choppings, how are you?” (Your friend is e. g. a sausage-maker.) “Coining money, as usual? Oh! don’t tell me—I’m coming to borrow a few thousands of you one of these days. I say, old fellow, you have n’t given us a turn lately. Oh, nonsense! can’t afford it. You can afford anything. What! advertising don’t bring returns? Stuff! I pledge you my sacred honor, that one of the Queen’s tradesmen came to me yesterday, swearing he had made ninety-four pounds by one advertisement only. Come, give us a ‘repeat’ of that about the Royal Albert Brawn and Pettitoes. No? Yes, you will. “Oh! by the way, would n’t you like to go to the theatre?— Any you like. Here’s the  'Garden,’ and the ‘Wells’— have ’em both—take Mrs. Choppings—how is she? Here —I’m always happy to oblige you; and now, good-bye— I shall insert the Royal Albert’s. Good-bye.”
+<lb/>Dirge
+<lb/>FOR A MAIDEN BURIED IN A FOREST.
+<lb/>“Call it not vain—they do not err Who say that when the Poet dies Mute Nature mounts her worshipper,
+<lb/>And celebrates his obsequies.”
+<lb/>Lay of the Last Minstrel.
+<lb/>Drearily, drearily falls the rain On the grave where the loved doth rest,
+<lb/>And the cold, damp earth lies heavily Upon her snowy breast;
+<lb/>Before the breeze,
+<lb/>The swaying trees Nod like a funeral plume,
+<lb/>And seem to moan,
+<lb/>With a dismal groan,
+<lb/>Though our gentle maiden to Heaven hath flown From this earth of sorrow and gloom.
+<lb/>In her life she loved those grand old trees,
+<lb/>That are now bewailing her death,
+<lb/>And would list as the wildly-wandering breeze Swept by with musical breath,
+<lb/>To the manifold tones of joy and fear,
+<lb/>That those wind-harps gave to her charmed ear.
+<lb/>With sparkling eyes and flushing cheek Her heart would then its fulness speak;
+<lb/>And seizing her lyre, high strains would ring
+<lb/>With harmonious chime from each quivering string— Such strains as, in Heaven, bright seraphs sing.
+<lb/>By the side of this woodland brook, which now Is filled by the dead, brown leaves,
+<lb/>She hath rambled often, what time the moon Her orient chamber leaves;
+<lb/>And the silvery light, as it shimmered down Through the trees, seemed to rest like a radiant crown Upon her forehead, so white and fair,
+<lb/>And the waving curls of her dark brown hair;
+<lb/>But the brook, nor the trees,
+<lb/>Nor the whispering breeze,
+<lb/>Could her feverish, tameless soul appease!
+<lb/>Now the wearying strife of her earthly life Hath come to a final close;
+<lb/>She is gone where sorrow will never more Disturb her soul’s repose;
+<lb/>Her heart was crushed,
+<lb/>And her lyre is hushed,
+<lb/>No more will its sad, low strain Re-echo music from out a soul Filled up with bitter pain—
+<lb/>But its joyful tones we shall hear once more,
+<lb/>If Heaven’s high court we attain!	S. D.
+<lb/>Utica, October, 1845.
+<lb/>The Fine Arts. 
+<lb/>La Sortie du Bain.—In New York there has been some variety of opinion in respect to this work of De Kuyper—and, we think, some very unjustifiable abuse ol it. Neither its merits nor its defects have been fairly treated. 'I he former are great—the latter few and comparatively trivial. The figure—of white marble, slightly impaired by blue veins—is the size of life, and represents a young and exquisitely beautiful woman, reclining on the sea-shore, somewhat in the attitude of the Dying Gladiator—although, of course, with more of repose. The name given the sculpture—La Sortie du Bain—and the shell-strown shore on which we see the girl—denotes that she has lately emerged from the sea, in which she has been bathing. She has thrown herself listlessly on the sand, and is engaged in attempting to feed a tortoise with a snail.(?)
+<lb/>The face is of surpassing loveliness—its expression that of girlish innocence, and the languor consequent from bathing. The attitude is easy, and full of truth. The toes, in especial, convey the idea of one luxuriating in the sense of comfort—of refreshment—of animal life and health. As a mere composition, the limes of the whole figure are well arranged. Its anatomy is by no meant faultless. The head, neck, and bust are perfect; the arms, hands, and feet could not be improved. The lower limbs are, also, admirably carved—but the breadth of the hips is insufficient; they are not broader than the shoulders—and these latter have an unpleasant roundness which is not justified even by the stooping position. The shoulder-blades, too, have no variation, and yet the figure leans much of its weight upon its left arm, which reposes upon some accessory sculpture of no very definite meaning, and certainly quite out of keeping with the general design. The neat and ornate braiding of the hair, too, is not only out of keeping, but stiff.
+<lb/>In spite of these defects, however, La Sortie du Bain is undoubtedly the work of genius; and should be visited by all who have a regard for the pure and truthful in Art. It is to be seen at the Academy of Design—Society Library. The charge is only 25 cents.
+<lb/>THE BROADWAY JOURNAL.
+<lb/>261
+<lb/>Epigrams.
+<lb/>From the Portuguese.
+<lb/>Within her breast, more white than snows Pair Amaryllis plants the rose,
+<lb/>Not that the flower should fix your eyes,
+<lb/>But the sweet garden where it lies.
+<lb/>From the Spanish.
+<lb/>Once when Olivia, in her mouth A lovely flower had placed, there came—
+<lb/>Seeking his beauties of the South—
+<lb/>A bee that stung the lips to flame,
+<lb/>Confounding, as he well might do,
+<lb/>Their roses with the flowrets’ hue.
+<lb/>—Ah! had my lips instead of his,
+<lb/>Been suffered there awhile to hang,
+<lb/>Mine not alone had felt the bliss,
+<lb/>Nor thine, alone, the parting pang.
+<lb/>From the same.
+<lb/>Teresa’s eyes so brilliant are and black,
+<lb/>That your own fail you at the first attack.
+<lb/>“Black should they be,” the suffering victim spoke,
+<lb/>"If but in mourning for the hearts they broke.”
+<lb/>W. GILMORE SIMMS.
+<lb/>Musical Department.
+<lb/>Leopold de Meyer made his fourth appearance on Tuesday last, before a highly delighted audience. So much has already been said about this tyrant of the Pianoforte, that little is left to us. We call him tyrant; are we right or wrong?, We really pity the poor Piano when, trembling beneath the load of heavy harmony, it sends its plaintive melodies to the audience, but then again, when released from the grasp of the demon, it sends forth its warblings and shakes, it makes our heart dance with delight, and quite an effort is necessary to prevent our running on the stage and embracing the artist. De Meyer has been compared to Thalberg, Listz and others, but his style bears not the slightest resemblance to that of either. He certainly has the delicacy of Thalberg in his brilliant passages, and the power and energy of Liszt in his chords and arpeggios, but then his genius combines them so successfully, that efforts of the most novel and striking character are produced. As a composer, Mr. De Meyer enjoys quite a high reputation; we really do not know which to admire most; the style of his playing, or the beauty of his compositions. We understand that Scharfenberg and Louis have published the Marche Marocaine, as played by him in his concerts.
+<lb/>We copy from “The Brooklyn Star," the following very just parallel between the manner of Thalberg and that of De Meyer.
+<lb/>While the musical world Is in raptures with Leopold de Meyer, it will not be deemed out of place to make a few suggestions of comparison between him and Thalberg.
+<lb/>Thalberg has been the favorite of the continent, and long since made his fortune. He makes of the piano forte the sweet and delicate instrument it was designed to be. He enters the soul by gentle whispers of melody, and then subdues and dissolves it by the most entrancing and captivating harmony. His style is the antipodes of De Meyers. He seats himself at the instrument—he looks contemplatively round at his audience—he then throws his fingers over the keys, and the gentlest warbling of the Æolian harp are heard; the tones gradually increase till the soul is exalted by the moat exquisite combinations, and the utmost sublimity and delicacy of expression.
+<lb/>De Meyer on the contrary, pounces upon the piano like an enraged tiger. He brings a physical force to bear upon it which would kill Thalberg in a night. No ordinary instrument could withstand his usage, and pianos of uncommon strength are constructed for bis use. His object seems to be, to produce a hurricane of melody; and, as the spirit of the storm, he dashes onward, his frame doubled and his fingers plying till the perspiration streams from his face, and he seems to end his musical agony like a tragic actor in a death scene. As be whirls along he occasionally glares upon his auditors with a kind of insane stare, which shows the intensity of his concentration upon the wild music with which he weaves his spells.
+<lb/>De Meyer may produce more extraordinary effect, but Thalberg renders the instrument more productive of those delicate charms which the natural sense of music can feel and appreciate.
+<lb/>Templeton.—We have not heard this gentleman yet, but to judge from the crowds that nightly flock to his entertainments, he must certainly be worth hearing.
+<lb/>Madame Lazare, the celebrated Harpist, has lately arrived from Havana. She intends to give some concerts, and to settle here permanently, as a teacher of the Harp and of vocal music. Her talents are of the highest order.
+<lb/>U. C. Hill is preparing a Musical Festival. He will be assisted by all the professional talent of the city. Mr. Hill has always been foremost when anything was to be done for the cause of music, and if on the night of his concert the house is crowded to the ceiling, it will be no more than he truly deserves.
+<lb/>Ole Bull is probably by this time delighting the inmates of the deep blue sea. A notice of his last concert in our next number.
+<lb/>Signora Pico is going to the West Indies. Antog-nini and Valtellina will accompany her.
+<lb/>A Private Opera will be got up during the ensuing winter at Palmo’s; Donizetti’s Gemma di Vergy, if we are not mistaken. Mrs. D. L. F. will take the Soprano, Mr. C., a distinguished amateur, the Tenor, and Mr. V. Z., another amateur, the Baritone part. The Choruses will be the same as employed by the Italian Opera Company, and the whole will be under the direction of Mr. Beames.
+<lb/>Our Readers should bear in mind that the Cheney Family, from Vermont, give their second Concert on Monday Evening, at Niblo’s. See advertisement.
+<lb/>Editorial Miscellany.
+<lb/>We take the following paragraph from "The Sunday Times and Messenger” of October 26:
+<lb/>Ma. Poe’s Poem.—Mr. Poe was invited to deliver a poem before the Boston Lyceum, which he did to a large and distinguished audience. It was, to use the language of an intelligent hearer,  "an elegant and classic production, based on the right principle; containing the essence of true poetry, mingled with a gorgeous imagination, exquisite painting, every charm of metre, and graceful delivery.” And yet the papers abused him, and the audience were fidgetty—made their exit one by one, and did not at all appreciate the efforts of a man of admitted ability, whom they had invited to deliver a poem before them. The poem was called the “Messenger Star.” We presume Mr. Poe will not accept another invitation to recite poetry, original or selected, in that section of the Union.
+<lb/>Our excellent friend Major Noah has suffered himself to be cajoled by that most beguiling of all beguiling little divinities. Miss Walters, of “The Transcript.” We have been looking all over her article, with the aid of a
+<lb/>262
+<lb/>THE BROADWAY JOURNAL.
+<lb/>taper, to see if we could discover a single syllable of truth in it—and really blush to acknowledge that we cannot. The adorable creature has been telling a parcel of fibs about us, by way of revenge for something that we did to Mr. Longfellow (who admires her very much) and for calling her “a pretty little witch” into the bargain.
+<lb/>The facts of the case seem to be these:—We were invited to “deliver” (stand and deliver) a poem before the Boston Lyceum. As a matter of course, we accepted the invitation. The audience was “large and distinguished.” Mr. Cushing preceded us with a very capital discourse: he was much applauded. On arising, we were most cordially received. We occupied some fifteen minutes with an apology for not “delivering,” as is usual in such cases, a didactic poem: a didactic poem, in our opinion, being precisely no poem at all. After some farther words —still of apology—for the “indefinitiveness” and “general imbecility” of what we had to offer—all so unworthy a Bostonian audience—we commenced, and, with many interruptions of applause, concluded. Upon the whole the approbation was considerably more (the more the pity too) than that bestowed upon Mr. Cushing.
+<lb/>When we had made an end, the audience, of course, arose to depart—and about one-tenth of them, probably, had really departed, when Mr. Coffin, one of the managing committee, arrested those who remained, by the announcement that we had been requested to deliver “The Raven.” We delivered “The Raven” forthwith—(without taking a receipt)—were very cordially applauded again— and this was the end of it—with the exception of the sad tale invented to suit her own purposes, by that amiable little enemy of ours, Miss Walters. We shall never call a woman “a pretty little witch” again, as long as we live.
+<lb/>We like Boston. We were bom there—and perhaps it is just as well not to mention that we are heartily ashamed of the fact. The Bostonians are very well in their way. Their hotels are bad. Their pumpkin pies are delicious. Their poetry is not so good. Their common is no common thing—and the duck-pond might answer— if its answer could be heard for the frogs.
+<lb/>But with all these good qualities the Bostonians have no soul. They have always evinced towards us individually, the basest ingratitude for the services we rendered them in enlightening them about the originality of Mr. Longfellow. When we accepted, therefore, an invitation to “deliver” a poem in Boston—we accepted it simply and solely, because we had a curiosity to know how it felt to be publicly hissed—and because we wished to see what effect we could produce by a neat little impromptu speech in reply. Perhaps, however, we overrated our own importance, or the Bostonian want of common civility—which is not quite so manifest as one or two of their editors would wish the public to believe. We assure Major Noah that he is wrong. The Bostonians are well-bred—as very dull persons very generally are.
+<lb/>Still, with their vile ingratitude staring us in the eyes, it could scarcely be supposed that we would put ourselves to the trouble of composing for the Bostonians anything in the shape of an original poem. We did not. We had a poem (of about 500 lines) lying by us—one quite as good as new—one, at all events, that we considered would answer sufficiently well for an audience of Transcenden-talists. That we gave them—it was the best that we had—for the price—and it did answer remarkably well. Its name was not “The Messenger-Star”—who but Miss Walters would ever think of so delicious a little bit of
+<lb/> invention as that? We had no name for it at all. The  poem is what is occasionally called a “juvenile poem”— but the fact is, it is anything but juvenile now, for we wrote it, printed it, and published it, in book form, before we had fairly completed our tenth year. We read it verbatim, from a copy now in our possession, and which we shall he happy to show at any moment to any of our inquisitive friends.
+<lb/>We do not, ourselves, think the poem a remarkably  good one —it is not sufficiently transcendental. Still it did well enough for the Boston audience—who evinced characteristic discrimination in understanding, and espe-cially applauding, all those knotty passages which we ourselves have not yet been able to understand.
+<lb/>As regards the anger of the “Boston Times” and one or two other absurdities—as regards, we say, the wrath of Achilles—we incurred it—or rather its manifestation— by letting some of our cat out of the bag a few hours sooner than we had intended. Over a bottle of champagne, that night, we confessed to Mess. Cushing, Whipple, Hudson, Field, and a few other natives who swear not altogether by the frog-pond—we confessed, we say, the soft impeachment of the hoax. Et hinc iliae irae. We should have waited a couple of days.
+<lb/>The Concordia (La.) Intelligencer” says:
+<lb/>By the bye, here is a touch from the pen of Poe the poet—editor of the Broadway Journal. A Niagara lick like this beats Mississippi all to Jits.
+<lb/>Resolved, That the steamer Niagara will be as distinguished in the waters of the East, as the great cataract whose name she bears is among the wafers of the West.
+<lb/>We are sadly puzzled to understand what all this is about. One thing is certain:—we never made a “resolution” in our lives. Should we ever make one, we hope it will be in better taste than the one above.
+<lb/>It has been roundly asserted, of late, that “the slashing article in the Foreign Quarterly upon American poets which so much excited the ire of the newspapers,” is ascertained, at last, to be the work of Sir John Bell.
+<lb/>We happen to know better. It was written by nobody in the world but Charles Dickens—and a very discriminating article it was;—that is to say, discriminating so far as the actual information of its author extended in regard to our poetical affairs.
+<lb/>We are in a fair way, at last, to obtain some accurate knowledge of Chinese history and geography. Among other works lately published we notice, besides Marco Polos’s Travels, a “Scientific Voyage into Altay and Adjacent Countries on the Chinese Frontier”—also “Memoirs of Father Ripa, during Thirteen Years’ Residence at the Court of Pekin, &amp;c. Selected and Translated from the Italian, by Fortunato Prandi." Some Essays by Professor Neumann who has just returned from Persia, demonstrate that the Chinese, from time immemorial, have traded to Oregon and California.
+<lb/>The British Critic in a rather weak, although sufficiently complimentary review of “Tales by Edgar A. Poe,” says, among other things—“The author seems to have amused himself by tracing a series of references between every minute act, and so upward to the making and dethroning of kings [downward would have done better]. He has been as assiduous in this scheme as an Indian who follows the trail of a foe. He has learned from the dwellers in the American woods a marked acuteness
+<lb/>THE BROADWAY JOURNAL.
+<lb/>263
+<lb/>which he has dealed out again to us, in the Tales before us.”
+<lb/>The only objection to this theory is that we never go into the woods (for fear of the owls) and are quite sure that we never saw a live Indian in our lives.
+<lb/>In the hurry of getting to press last week, there occurred one or two vexatious errata—the worst of which, perhaps, was the omission of a notice (prepared us by a friend) of Mr. Murdoch’s Hamlet. The Greek verb which formed the motto of “The Thread-Bare,” was lamentably jumbled up. In the exquisite poem entitled “Sybil” (from the pen of William Gibson, U. S. N.) the word “raised” at the cíose of the third line, being printed “raises”, made nonsense of the whole sentence. From the fine ballad headed “Isadore”, the signature of A. M. Ide, Jr. was, also, accidentally omitted; and that of W. G. Simms should have been appended to the “Sonnet by the Poor Debtor.” These errors, however, are attributable to ourselves alone.
+<lb/>Mrs. Sarah Josepha Hale is preparing for press a collection of her poems. Messrs. Clark &amp; Austin will, most probably, be the publishers.
+<lb/>Messrs. Wiley &amp; Putnam will publish, in season for the holidays, “The Book of Christmas,” by T. K. Her-vey, the poet; La Motte Fouque’s fine romance (contrasting the Northern and Southern Chivalry) “Thiodolf the Icelander;" Mrs. Southey’s (Caroline Bowles’) Poettical Works, &amp;c. 4tc.
+<lb/>
+<lb/>We have been glancing at an article on the Reading Room of the British Museum. The deductions are, of course, the munificence and courtesy of the English government to strangers. There is one place at least where the scholar visiting London from a foreign country is at home—the British Museum. He sits at the table and may command the books—the Royal collections and all, familiarly as he would bid his own child take down for him the esteemed volume from the single shelf at home. Here he has his privileges and dignities, a place of labor where he may “break the neck of the day” as Sir Walter used to say, over a favorite folio, and sally out among the multitudes of London with the pleasing consciousness of at least some work respectably done. Let no man undervalue this who has not felt the solitude of London, the monotony of the streets and the want of those out-of-door sympathies so freely shared in Paris.
+<lb/>Some of the annoyances of the Reading Room are odd— the incursions for instance of the students of the University College. “Perhaps,” says the writer “it were too much to expect that each young Collegian should be at the expense of purchasing a Schrevelius’ Lexicon and using it at home.” Assuredly;—there were flies, it is to be presumed, in Paradise.
+<lb/>Another grievance is to be “fogged out” by a moist November day—the provisions of the Institution allowing no lights.
+<lb/>When shall we have a permanent Library in New York?—not a Circulating Library, with the volume which you want somewhere, probably, between finger and thumb in Westchester county, but a library confined to the premises, with a perpetual writ of ne exeat, included in the charter, against all volumes leaving the front door, It is not necessary that the library should be so large as many of the century accumulations of Europe. Fifty
+<lb/>thousand volumes on the spot would be sufficient—gathered together scientifically, in the first instance, with proportion and completeness for the departments. Pens, ink and paper, wide chairs and wide tables, should be added; attendants for convenience and care of the books; and some formality to check mere literary loafers and all Collegians in round-a-bout jackets.
+<lb/>If we were autocrat for a week we should convert the Society Library buildings (after exorcising the tailors,) into just such an establishment; and we believe the Librarian and a majority of the members would be in favor of the change.
+<lb/>A complete establishment of book pirnting has been recently discovered and broken up in the French provinces. Upwards of 18,000 volumes were found hidden away between the inner and outer walls—the works of La Mar-tine and Thiers’ “Consulate and Empire,” among the number.
+<lb/>Mr. Hudson, in his Shakspeare Lectures here, last winter, had the misfortune to put people unaccustomed to the operation, to the trouble of thinking—an annoyance which a certain class never forgets. There were, in his style, terseness and strength—a rude vigor. All conventionalism, pretence and affectation shrivelled in his grasp—witness his character of Jacques, in As You Like It, whom he made the type of the selfish, vain spectators in the world, men of large head and little heart who are superior in virtue to the men of action and purpose—only because they do nothing. The rigid, resolute manner of the lecturer was the index of the strength of his convictions. Perhaps his audiences were too limited to the cultivated class of readers and thinkers, for him to enjoy the highest triumphs. An assembly of all who attend the representation of Shakspeare at the Bowery, the Chatham and the Park, would have been impressed by his keen sarcasm upon successful evil and eloquent defence of persecuted virtue. He had that respect for the people that he would not shrink from telling them what their faint-hearted, hypocritical admirers call an unpopular truth. Mr. Hudson at the close of his lectures last winter, looked round upon his faithful audience who had kept him company through his whole course, thanked them for their kindness and attention, public and private, and remarked that he had not yet succeeded in New-York, but that he would return and succeed yet. There was a true democracy in this—a frank honesty which set aside mere cultivation and scholarship and social privileges, for an appeal to the heart of the public—that public to which he brought no letters, who would come to hear him for the sake of his subject, and not merely to keep up the appearance of a literary coterie. Mr. Hudson felt this, and had magnanimity enough to acknowledge it—and an appeal to this public was, we presume, what he meant when he said he would yet succeed in New-York.
+<lb/>We have not heard whether Mr. Hudson has made any arrangements to lecture in this city. Why should he not take Palmo’s for a few nights and fill it as profitably as Mr. Templeton, or an interlude on the boards of the theatre itself, as well as De Meyer’s piano? At any rate, he must come and give a New-York audience an opportunity of hearing his two new lectures on Lear and Othello, the composition of which, it is understood,
+<lb/> employed him this last summer, and the first of which he has just delivered at Boston before the Lyceum. An ac-complished and able critic speaks of it in "The Bos-
+<lb break="no"/>264
+<lb/>THE BROADWAY JOURNAL.
+<lb/>ton Times” of Saturday in the highest termsof commendation.
+<lb/>“The Zoology of the English Poets, corrected by the writings of Modem Naturalists, by the Rev. R. H. Newell, pp. 8vo., with engravings on wood’’—is the title of a new work about to appear in London.
+<lb/>Mr. Simms’ new collection of Miscellanies will include a miniature biography of Cortez; the Literature of the Indians; a sketch of the life of the pioneer Boone; a paper on the works of J. Fenimore Cooper, &amp;c. It is entitled “Views and Reviews in American History, Literature and Fiction.” In his capacity of Critic it will present him to the public, at the North, in a new and favorable light. His contributions to the Southern Quarterly Review are among the best papers in that periodical.
+<lb/>Mr. Headley has in preparation “The Alps and the Rhine,” a sequel to his “Letters from Italy.”
+<lb/>Mr. Edward Maturin, son of the author of “Bertram,” is getting ready a new work—“Montezuma, the last of the Aztecs.”
+<lb/>Mrs. Kirkland’s new book, with our own Poems, (including “Al Aaraaf,” the one with which we quizzed the Bostonians) will be issued in about ten days by Messrs. Wiley &amp; Putnam.
+<lb/>To Correspondents.—We are forced to decline “Tha-natikos”—the “Lines To My Sister on Her Birth-Day’— and “Prosings on Man.” “Twilight Memories” is rather too long.
+<lb/>To M. B. of Olive, we say, what you have done evinces genius, but inexperience. We cannot do you the injustice to print the communication—but hereafter shall, no doubt, be glad to publish anything you write. Persevere.
+<lb/>Alolo will soon appear—also “The Autumn Leaf.”
+<lb/>SPLENDID FESTIVAL CONCERT.
+<lb/>The subscriber has the pleasure of an-
+<lb break="no"/>nouncing to the Ladies and Gentlemen of the city of New York, that he intends to give a splendid Vocal and Instrumental Concert, on Monday Evening, the 10th of November, at the Broadway Tabernacle, on which occasion he will be assisted by all the most distinguished professional ability in this city, combined with the members of the Philharmonic and New York Sacred Music Societies. Further particulars hereafter.	U. C. HILL.
+<lb/>THE CHENEY FAMILY,
+<lb/>FROM VERMONT.
+<lb/>GRATEFUL for the generous reception which greeted them at their first appearance, and having been joined by their fourth brother, will give their SECOND CONCERT, on MONDAY Evening, Nov. 3d, 1845, at NIBLO'S SALOON. When they will introduce several new pieces of their own composition, with such selections as they hope will meet with the public approbation. In the course of the evening they will sing "Our Native Land,” Quintette,–"Nature’s Nobleman,” Quartette,—"Byron’s Farewell to Paxos," Song,—“Fisherman’s Glee," Quartette,—“The Bun, Moon and Stars, Humorous solo and chorus—
+<lb/>THE SONG OF THE VERMONTERS,
+<lb/>As sung by the “Green Mountain Boys” in the times of the revolution. “The Irish Mother’s Lament,’’ Song,—"There was a sound of Revelry by night,” Quartette, music by S. P. Cheney,— “Emigration,” comic song,—"Good Night,”—words and music by the Cheney Family, Tickets 50 cents each—for sale at Saxton &amp; Miles’, 205 Broadway; G. F. Nesbitt’s, corner of Wall and Water streets; at the Music stores and at the door. Doors open at Seven—Concert to commence at Eight o’clock.
+<lb/>PARLOR ORGAN.
+<lb/>A FINE toned Parlor Organ for sale or in exchange for a Pia- no-Forte. Apply to
+<lb/>EZRA COLLIER, 103 Fulton st.
+<lb/>G. H. DERWORT,
+<lb/>pROFESSOR OF SINGING, GUITAR AND PIANO A Forte, has opened a class lor Young Ladies, from 7 to 10 years of age, among whom are three of his own daughters, whom he proposes to instruct thoroughly in the art of Singing.
+<lb/>Mr. Derwort’s system is the result of many years’ observation and experience, during which he has successfully taught in Germany, London and New-York. His method cannot fail to impart to his pupil a clear perception and a thorough knowledge of the gramatical principles of music with the ability to harmonize any simple given melody.
+<lb/>Parents and guardians are invited to call at his Rooms, 427 Broadway, when every enquiry will be answered.
+<lb/>Terms $20 per annum, payable quarterly in advance. Lessons three times per week.
+<lb/>Private instruction as heretofore.
+<lb/>JAMES PIRSSON,
+<lb/>PIANO FORTE MANUFACTURER, 88, 90, and 92 A Walker street, near Elm. A large stock of the finest instruments always on hand. Terms moderate. For Sale—A splendid Harp, nearly new—to be sold at a great bargain for cash.
+<lb/>J. ballard,
+<lb/>PROFESSOR OF THE GUITAR, SINGING AND FLUTE.
+<lb/>No. 135 Spring-street.
+<lb/>JOHN BUR FORD,
+<lb/>portrait and landscape painter,
+<lb/>27 Dey Street.
+<lb/>JOHN N. GENIN,
+<lb/>FASHIONABLE HAT AND CAP ESTABLISHMENT,
+<lb/> 214 Broadway.
+<lb/>PENMANSHIP.
+<lb/>RE-OPENING OF.GOLDSMITH’S WRITING ACADEMY,  289 Broadway—La Farge Buildings, corner of Reade street. Terms reduced to three dollars, and no extra charge.
+<lb/>Mr. Oliver B. Goldsmith respectfully informs the citizens of New York and Brooklyn, that his rooms are now open, during the day and evening, tor Pupils and Visitors. Mr. G’s. specimens of PENMANSHIP
+<lb/>have received the First Premium Five Years, from he American institute, and he guarantees to all in TEN EASY AND INTERESTING EXERCISES, a free and elegant style of writing, that the pupils cannot possibly ever lose in their future practice.
+<lb/>For sale at the Academy GOLDSMITH'S GEMS OF PENMANSHIP.
+<lb/>Ladies’ Class meets daily at 11 o’clock. Gentleman’s day and evening. See circular.	s18
+<lb/>JUST PUBLISHED,
+<lb/>BY J. H. DAGGERS, 30 ANN ST., NEW YORK.
+<lb/>THE COTTON LORD. By Mrs. Stone. A Romance of
+<lb/>the Rich and Poor, by a lady of brilliant talents.—25 cents. FRANKENSTEIN, by Mrs. Mary W. Shelley, wife of the illustrious poet. “It is among the most exciting and terrible of modem romances.” - Tribune. 25 cents.
+<lb/>LAWRIE TODD, by John Galt, with an original preface by the original Lawrie Todd, viz: Grant Thorburn, Esq. "Mr. Thorburn's Prelace is worth more than the price asked for the novel.” 25 cents.
+<lb/>THE NUN; or, Life in a Convent. By one of the Sister-hood. "A terrible exposition of the secret practices of Roman Catholics.” 25 cents.
+<lb/>POOR JACK. By Captain Marryatt, au'Sor of Midshipman Easy, Peter Simple, Ac. 25 cents.
+<lb/>N. B.—All of the above will he sent for One Dollar to any person ordering them through Postmasters, who are by law authorized to remit money to publishers publishers. Any Postmaster ordering the above shall be presented with either novel he may select.
+<lb/>GURNEY'S
+<lb/>PREMIUM DAGUERRIAN GALLERY,
+<lb/>189 BROADWAY, NEW-YORK.
+<lb/>PITURES taken at this Establishment are not excelled in this country—so say his numerous patrons. The public are invited to call and judge for themselves.	o2
+<lb/>CARD OF REMOVAL,
+<lb/>MR. W. A. KING PROFESSOR OF MUSIC, AND Teacher of the Piano Forte and Organ, has removed to the First House above Twenty-fifth street, on the Railroad, (4th Avenue.
+<lb/>THE BROADWAY JOURNAL.
+<lb/>205
+<lb/>HARPER &amp; BROTHERS’ RECENT PUBLICATIONS.
+<lb/>Inone splendidly printed volume, with above 1000 Engravings.
+<lb/>Price $3 75.
+<lb/>ENCYCLOPEDIA OF DOMESTIC ECONOMY.
+<lb/>The wide range of topics comprised in this valuable publication, commends it to the attention of an un usually extended class of readers:—to the family circle primarily, the architect, the horticulturist, the cabinet-maker, and others to whom the work addresses itself. It is undoubtedly by far the best work of reference ever presented for the use of families. Every housekeeper would find the work a real treasure.— Globe.
+<lb/>ii.
+<lb/>PROF. WHEWELL’S ELEMENTS OF MORALITY.
+<lb/>2 vols. 12mo. extra muslin gilt. $1–Forming the commencement of
+<lb/>harper’s new miscellany.
+<lb/>A work of extraordinary merit. It is a thorough discussion of the fundamental principles of morals, by one of the profoundest thinkers of the age: ana whether his conclusions are adopted or not, no reader can fail to perceive in any page, the traces of discrimination, thought, and a high moral aim. Its classic purity and precision of style is also a strong commendation of the work.—Observer.
+<lb/>III.
+<lb/>MORRELL’S AMERICAN SHEPHERD,
+<lb/>Being a complete history of the sheep, with their breeds, management, diseases, &amp;c. Illustrated by numerous engravings, 1 vol. 12mo., cloth binding, $1—paper covers 75 cents.
+<lb/>"The above named volume, which is issued under the immediate sanction of the New Fork Slate Agricultural Society, is a work of great practical importance, and contains a prodigious amount of instructive matter, suited to the farmer, the cattle fattener, the agriculturist and the wool-grower. Every one interested in these departments of commerce would find the work invaluable.”—Evening Gazelle.
+<lb/>ILLUSTRATED WANDERING JEW.
+<lb/>In numbers; price 25 cents each. Profusely embellished.
+<lb/>“We think these illustrations evince more vigor, brilliancy, and effect, than almost any thing of the kind we have yet seen. As the Harpers publish this revised and elegant edition at such very trifling charge, we doubt not a prodigious demand will await it from the public; and it richly merits the largest popularity.”—Evening Post.
+<lb/> GEN. green’s TEXAN EXPEDITION AGAINST MIER,
+<lb/>Including the subsequent imprisonment of the author; his sufferings and final escape from the Castle of Perote; with reflections upon the present political and probable future relations of Texas, Mexico and the United Slates, &amp;c. Illustrated by thirteen line engravings. One volume, 8vo. 82.
+<lb/>This stirring narrative of the perilous and heroic exploits of a small band of patriotic Texans, who won not only laurels by their prowess, but liberty, is so rife with thrilling interest that it will win the attention of the public with the fascination of a romance.— Com. Adv.
+<lb/>CURIOUS AND UNIQUE WORK.
+<lb/>Now ready, in one beautiful octavo volume, with many Engravings on steel, price $2.
+<lb/>NARRATIVE OF A MISSION TO BOKHARA.
+<lb/>In the year 1843-45, to ascertain the fate of Col. Stoddart and Capt. Conolly.
+<lb/>By the Rev. Joseph Wolff. LL.D.
+<lb/>"This work has created a prodigious excitement throughout England: it is unique in its character, as a literary production. It seems to partake of the features of an autobiography; the narrative being lull of personal detail, description of the perilous adventure and imminent hazard of the author, In his expedition through the East. No man living, perhaps, has travelled so extensively as this celebrated individual, and few could have contributed a more intensely interesting narrative of his experience.
+<lb/>“It will thus be seen that this extraordinary and eccentric man Is admirably qualified to present a transcript of Asiatic Characteristics,—supplying much that is novel and exceedingly curious about tribes and nations of which we know so little. To say that the work is an acceptable addition to the library of travel, is affirming far loo little of so striking a production: it is a book that ought to De read and deliberately enjoyed by every intelligent person, lor its quaintness, freshness, and superabounding interest. The work is elegantly printed as a library book, and adorned by some dozen curious fac-similes of oriental drawings.”—Courier and Enquirer.
+<lb/>PIANO FORTES.
+<lb/>CHEAP FOR CASH.—The Subscribers have on hand a handsome assortment, 6,6 1/2, and 7 octave mahogany and rosewood Pianos, which they will warrant and sell low lor cash or approved paper.	GLENN, ROGERS &amp; CO.,
+<lb/>Manufacturers, 152 Fulton street, east of Broadway.
+<lb/>WEDDING, VISITING, &amp; PROFESSIONAL CARDS  Engraved and Printed at VALENTINE’S, 1 Beekman-st. Lovejoy’s Hotel.
+<lb/>IMPORTANT WORKS,
+<lb/>RECENTLY PUBLISHED BY
+<lb/>J. &amp; H. G. LANGLEY, 8 ASTOR HOUSE.
+<lb/>I.
+<lb/>Von Raumer’s New Work.
+<lb/>America and the American People: being the result of the author’s recent travels through the United States. Translated from the German of Frederick Von Raumer, by Professor Wm. VV. Turner. 1 vol. 8 vo. 530 pp. Price $2.
+<lb/>II.
+<lb/>Eliza Cook’s Poetical Works.
+<lb/>New Edition, containing all her recent productions. Edited by Rufus W. Griswold. 1 vol. 12 mo., illustrated with a Portrait and twelve exquisite English engravings. Copies in Morocco, super $3 50—Cloth Gilt, $2 50.
+<lb/>“This is a beautiful volume, splendidly bound, and still more elegantly illustrated, and combining some of the choicest poems in the language. The “Old Arm Chair," is one of the most popular poems, and has touched the hearts of thousands who never knew even the name of the author. She writes for the heart, and her beautiful songs always reach it. The book forms one of the most elegant holiday presents yet offered.”— Cour.      &amp;	Enq.
+<lb/>III.
+<lb/>Miss Barrett’s Poems.
+<lb/>The Drama of Exile, and other Poems, by Elizabeth B. Barrett. 2 vols. 12 mo., elegantly printed.—$2 00.
+<lb/>"Miss Barrett is worth a dozen of Tennyson, and six of Mother-well—equal perhaps in orignial genius to Keats and Shelley.— There are beauties enough in one of her poems to have made a fame in Waller’s time.”— Willis' Evening Minor.
+<lb/>IV.
+<lb/>Gregg’s Santa Fe and the Prairies.
+<lb/>Commerce of the Prairies, or the Journal of a Santa Fe Trader; the personal observation ol a trader, made on eight several expeditions across the Great Western Prairies, and during an almost uninterrupted residence of .nine years in Northern Mexico.—Illustrated with numerous engravings. New Edition, revised by Author. By Josiah Gregg. 2 vols. 12 mo. $2 00
+<lb/>V.
+<lb/>M. DE TOCQUEVILLE’S GREAT WORK.
+<lb/>Democracy in America, by Alexis De Tocqueville. Third edi-tion, in 2 vols. 8vo. Corrected and Enlarged, with an Original Index. Translated by Hemy Reeve, Esq., with Introductory Prefaces, by the Hon. John C. Spencer. Price $4 00 in muslin or sheep.
+<lb/>“This work is one of the most profound and philosophical ever written upon the character and institutions of our country.”_
+<lb/>Boston Traveller.
+<lb/>“As a study of political science, this book stands unrivalled in our limes; equally remarkable for lucidity of style, acuteness and delicacy of reasoning, and for the moral and intellectual vigor with which it has been conceived and completed.”—London Times
+<lb/>VI.
+<lb/>DE TOCQUEVILLE ABRIDGED.
+<lb/>Designed for District School Libraries, Colleges, &amp;c. In accordance with the recommendation of several superintendents of District Schools, the Publishers beg to announce that they have just issued a condensed edition of the above standard work, adapted expressly for the use of District Schools, Colleges, &amp;c., to form 1 vol l2mo. Price $1 00.
+<lb/>VII.
+<lb/>The Life of General Francis Marion.
+<lb/>By W. Gilmore Simms, author of “Guy Rivers,” &amp;c. &amp;c. Seventh edition, revised by the author, with numerous engravings 1 vol. l2mo.—SI. “Few characters have stood out more boldly on our Revolutionary Annals, or have supplied more interesting and exciting materials for the historian, than that of Gen. Marion and it is not saying too much to claim for the work before us no less the merit of accredited historical truth, than the most stirring and absorbing attributes of high-wrought fiction.”—Democratic Review.
+<lb/>VIII.
+<lb/>The Poetical Works of Praed.
+<lb/>Lillian, and other Poems, Fanciful and Facetious. By William Mackworth Praed. First collected edition: Edited by R. W. Griswold, 1 vol. 12mo., muslin. $1 25.
+<lb/>"Praed was the Poet of Society, a fellow of infinite humor,’ and in scholarship and art, surpassed by none of the English poets of the age. Though many of his pieces have been almost universally read in this country, they have never yet been printed collectively, either here or iu England.”—Democratic Review.
+<lb/>                   PIANO FORTES.	~
+<lb/>THOMAS H. CHAMBERS, (formerly Conductor to Dubois and Stodart,) No. 385 Broadway, will keep a complete assortment of the latest approved Grand Action Piano Fortes, of the most superior quality; such as be is prepared to guarantee for their excellence of Tone, Touch, and External Finish, and to endure in any climate. A liberal discount from the standard prices. Piano Fortes Tuned and Repaired. Piano Fortes always on hire.
+<lb/>266
+<lb/>THE BROADWAY JOURNAL.
+<lb/>J. F. BROWNE &amp; CO.
+<lb/>MANUFACTURER OF THE
+<lb/>IMPROVED PATENT DOUBLE-ACTION HARP,
+<lb/>By Royal Letters Patent, London. Established 1810. (Many years with Erard.
+<lb/>JP. BROWNE respectfully informs his Friends and the Musical World, that he has established himself for the manufacture • and importation of these very beautiful instruments, at
+<lb/>281 BROADWAY, and 73 1-2 CHAMBERS STREET.
+<lb/>His arrangements are such as to enable him to transact business at European prices, thereby saving purchasers the high duties imposed by Tariff on these Instruments.
+<lb/>J. P. Browne would observe, these Harps are constructed on the most approved principles, with all the modem improvements of London and Paris, are unequalled in brilliancy of tone, fineness of touch, and perfectness of mechanism. Particular care is taken to fit them for the extremes of climate in this country, in which respect they will be found far superior to any of European manufacture, imported in the usual way.
+<lb/>These Harps are patronized by the elite of musical taste and professional talent in Europe; among the latter, he would mention N. C. Boscha, who invariably selects from this establishment.
+<lb/>J. F. Browne begs to offer the opinions of some of the first professional taken! in this country.
+<lb/>Mr. J. P. Browne, Sir:—Having had for several years past, the opportunity of making a professional use of your Harps, and of testing their qualities, it affords me pleasure to certify, that in point of tone, workmanship, and above all, a solidity that stands proof against the inconstancy of our trying climate, they have in all cases given me the most entire satisfaction.
+<lb/>January, 1845.	I am yours, CHARLES THIBAULT, No. 40 Beach St., N. Y.
+<lb/>Dear Sir:—I write to express the delight I experienced in performing on one of your Harps at Sig. Casella’s Concert in this city.— The mechanism is perfect, and the quality of Tone certainly superior to any harp I have heard for many years. I remember my old Master, Boscha, always gave the preference to your Harps, indeed he himself used no other. Yours, most truly, H. G. TRUST. Philadelphia, March 4th, 1844.
+<lb/>Mr. J. P. Browne, Sir:—I have much pleasure in saying, that the Han) of your make f performed on at the St. George’s Society Concert, is, in brilliancy of tone, touch, and elegance of workmanship, the finest I ever played on. This will apply to all yonr Harps. The grand six and a half Gothic Double action, is a most splendid instrument. Yours, with respect, ELIZABETH SLOMAN. New York, January 16th, 1845.	a pupil of N. C. Boscha.
+<lb/>Mr. J. P. Browne, Sid Having at your request closely scrutinized your double-action Harps, I find they possess the best qualities of the first makers in Europe combined. That in the ease of touch, by which the most brilliant tone is obtained, in perfection and ease of modulation, they arc superior to any I have used; their elegance of exterior must gratify the most refined taste. Your new Grand Gothic six and a half octave, is the most splendid effort of art yet produced in the musical world; it will give me great pleasure in recommending your Harps at every opportunity.	Yours Truly, HENRY HORN.
+<lb/>January 12th, 1845.	An eminent professor, and Member of the Royal Academy.
+<lb/>These are but a very small part of the testimonials received, but will suffice to show the estimate of persons every way capable of making a correct decision. J. P. Browne has also received the Franklin Medal of the Society of Aits, Philadelphia, for his splendid improvements in this delightful Instrument.
+<lb/>Harps from 300 to 1000 dollars. Harps repaired, strings, &amp;c.
+<lb/>JUST PUBLISHED.
+<lb/>WILEY &amp; PUTNAM’S FORIEGN LIBRARY—No. I.  The Auto-Biography of Benveuuto Cellini—The complete and annotated edition of Roscoe, [in two parts.] Part 1—50 cents. In English cloth, by Bradley, 75 cents.
+<lb/> "Cellini was one of the most extraordinary men in an extraordinary age; his life, written by himself, is more amusing than any novel I know.”—Horace Walpole.
+<lb/>The distinguished eminence of this artist, in the times of the “old masters’—the intimacy of Cellini with Michael Angelo, Titian, and all the great Italian sculptors and painters of the age; his connections with Francis 1. of France, Emperor Charles V., Popes Clement VII and Paul III, the Dukes Alessandro and Cosmo of Florence, and with many of the princes, statesmen, commanders, and dignified ecclesiastics of that turbulent age, which called forth all the energies of Europe, and compelled our author more than once to exchange the chisel for the sword—these circumstances afforded him opportunities of making the most interesting observations, and perhaps no man was ever more capable of availing himself of such advantages.—Roscoe’s Preface.
+<lb/>“This is, perhaps, the most perfect piece of auto-biography that ever was written, whether considered with reference to the candor and veracity of the author, the spirit of the incidents, or the creating vitality of the narrative. * * We never, in the whole
+<lb/>course of our life, read a book of a more engaging description.— Retrospective Review.
+<lb/>PART II.—Completing the work, will be ready in a few days.— WILEY &amp; PUTNAM, 101 Broadway, New-York and all the booksellers throughout the country.
+<lb/>PIANO FORTES.
+<lb/>V F HARRISON, 23 CANAL STREET, N. Y.—In-struments made with the most recent improvement, such as Iron Frames, &amp;c., with a compass of 6 and 7 octaves. They are made from choice materials, and highly finished, with the most faithful workmanship, the result of 23 years experience in the business.
+<lb/>N. B.—Wanted a second hand Parlor Organ.
+<lb/>Piano Fortes hired by the month.
+<lb/>ÆOLIAN ATTACHMENT.
+<lb/>HERMANN S. SARONI, PROFESSOR OF MUSIC, 116 Leonard street, New-York, teaches the Piano-Forte, with or without Coleman’s celebrated Attachment.
+<lb/>PIANO FORTES.
+<lb/>H. WORCESTER, No. 139 THIRD AVENUE, COR-ner of 14th Street, respectfully informs bis friends and the public, that he has a good assortment of Piano-Fortes, in Rosewood and Mahogany cases, from 6 to 7 octaves. Persons wishing to purchase will find it to their advantage to call and examine before purchasing elsewhere.
+<lb/>THE BROADWAY JOURNAL
+<lb/>Edgar A. Poe,	Editor and Proprietor.
+<lb/>IS PUBLISHED EVERY SATURDAY.—OFFICE 115 NASSAU ST.
+<lb/>TERMS THREE DOLLARS PER ANNUM—SINGLE NUMBERS 112 AND A QUARTER CTS.
+<lb/>The Broadway Journal is, in its general character, a literary paper: occupying itself with original, and more especially with critical articles, in every department of Literature, properly so called—with a preference, nevertheless, for the Belles Lettres and the Fine Arts. There is no better medium in the country for literary or a rustical advertisements.
+<lb/>AGENTS:
+<lb/>  Redding &amp; Co., Boston, Mass.	Thos. H. Pease, New-Haven, Ct.
+<lb/>R. G. H. Huntington, Hartford, Ct.             J C. Morgan, New-Orleans.
+<lb/>M. Baullemet, Mobile, Ala.	W. W. Kingsley, New-London, Ct.
+<lb/>Robinson &amp; Jones,Cincinnati. O.	G. N. Beesley, Utica, N. Y.
+<lb/>D. M. Dewey, Rochester, N. Y.	H. B. Strang, Peekskill, N. Y.
+<lb/>J. Robertson, Syracuse, N. Y.	Haliburton &amp; Dudley Boston, Mass.
+<lb/>W. E. Russ, Schenectady, N. Y.	S. Thompson, Worcester, Mass.
+<lb/>Levi Willard, Troy, N Y.	Peter Cooke, Hanford, Ct.
+<lb/>G. Jones, Albany. N. Y.	H. Esten, Providence R. I.
+<lb/>S. P. Hoyt, Newburgh, N. Y.	Safford &amp; Park. Norwich. Ct.
+<lb/>Shurtz &amp; Wide, Baltimore, Md.	John Tomlin, P. M. Jackson. Tenn.
+<lb/>Colon &amp; Adriance, Philadelphia.	S. Hart, Sen., Charleston, S. C.
+<lb/>PRINTED AT THE OFFICE OF THE FARMER AND MECHANIC.</body>
+<back>
+      <!-- here is a sample place for contextual information: -->
+      <div type="editorial">
+        <listPerson>
+          <person>
+            <persName><!-- canonical name --></persName>
+            <birth>
+              <placeName><!-- where born; date on when= of <birth> --></placeName>
+            </birth>
+            <death>
+              <placeName><!-- where died; date on when= of <death> --></placeName>
+            </death>
+          </person>
+        </listPerson>
+      </div>
+    </back>
+  </text>
+</TEI>

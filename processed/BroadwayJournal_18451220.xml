@@ -1,0 +1,844 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- the line above is the "XML declaration"; it is not -->
+<!-- required, but we recommend using it -->
+<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- the two lines above are processing instructions for finding the schema; -->
+<!-- they are intended for oXygen, but other software might use them, also -->
+<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be transformed by "teibp.xsl" -->
+<?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be styled by "tiny_TEI_template.css" -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- put title here --></title>
+        <author>
+          <persName><!-- author's name here --></persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><!-- publisher here --></publisher>
+        <availability>
+          <ab><!-- copyright or copyleft information here --></ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <!-- source information here; better yet, use a <biblStruct> instead -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <!-- front matter, if any, goes in <div>s, here -->
+    </front>
+    <body>
+      <!-- main document goes here, possibly divided into <div>s -->
+      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
+      text is just here so that this template document is valid. You
+      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+<lb/>VOL. 2.
+<lb/>EDGAR A. POE,
+<lb/>EDITOR AND PROPRIETOR.
+<lb/>NO. 24.
+<lb/>NEW- YORK, SATURDAY, DECEMBER 20, 1845.
+<lb/>The Office of the Broadway Journal is removed to
+<lb/>304 Broadway, corner of Duane.
+<lb/>To “The Lady Geraldine”
+<lb/>Though friends had warned me all the while,
+<lb/>And blamed my willing blindness,
+<lb/>I did not once mistrust your smile,
+<lb/>Or doubt your tones of kindness.
+<lb/>I sought you not—you came to me—
+<lb/>With words of friendly greeting:
+<lb/>Alas! how different now I see
+<lb/>That ill-starred moment’s meeting.
+<lb/>When others lightly named your name,
+<lb/>My cordial praise I yielded;
+<lb/>While you would wound with woe and shame,
+<lb/>The soul you should have shielded.
+<lb/>Was it so blest—my life’s estate—
+<lb/>That you with envy viewed me?
+<lb/>Ah, false one! could you dream my fate,
+<lb/>You had not thus pursued me.
+<lb/>Perhaps when those who loved me once,
+<lb/>Beguiled by you, have left me,
+<lb/>You’ll grieve for all the hopes of which,
+<lb/>Your whispered words bereft me.
+<lb/>You’ll think, perhaps, the laugh you raised,
+<lb/>Was hardly worth the anguish,
+<lb/>With which it caused a deep, true heart,
+<lb/>In silent pride to languish.
+<lb/>You’ll think, perchance, the idle jest—
+<lb/>The joy—will scarce reward you,
+<lb/>For all the blame another’s breast Must now, in scorn, accord you.
+<lb/>Yet go! ’tis but a darker cloud,
+<lb/>O’er one fore-doomed to sadness;
+<lb/>I would not change my grief so proud,
+<lb/>For all your guilty gladness.
+<lb/>Frances S. Osgood.
+<lb/>The Facts in the case of M. Valdemar
+<lb/>An article of ours, thus entitled, was published in the last num-ber of Mr. Colton’s “American Review,” and has given rise to some discussion—especially in regard to the truth or falsity of the statements made. It does not become us, of course, to offer one word on the point at issue. We have been requested to reprint the article, and do so with pleasure. We leave it to speak for itself. We may observe, however, that there are a certain class of people who pride themselves upon Doubt, as a profession.—Ed. B. J.
+<lb/>Of course I shall not pretend to consider it any matter for won-der, that the extraordinary case of M. Valdemar has excited dis- 
+<lb/>cussion. It would have been a miracle had it no!—especially under the circumstances. Through the desire of all parties concerned, to keep the affair from the public, at least for the present, or until we had farther opportunities for investigation—through our endeavors to effect this—a garbled or exaggerated account made its way into society, and became the source of many unpleasant misrepresentations, and, very naturally, of a great deal of disbelief.
+<lb/>It is now rendered necessary that I give the facts—as far as I comprehend them myself. They are, succinctly, these:
+<lb/>My attention, for the last three years, had been repeatedly drawn to the subject of Mesmerism; and, about nine months ago, it occurred to me, quite suddenly, that in the series of experiments made hitherto, there had been a very remarkable and most unaccountable omission:—no person had as yet been mesmerized in articuio mortis. It remained to be seen, first, whether, in such condition, there existed in the patient any susceptibility to the magnetic influence; secondly, whether, if any existed, it was impaired or increased by the condition; thirdly, to what extent, or for how long a period, the encroachments of Death might be arrested by the process. There were other points to be ascertained, but these most excited my curiosity—the last in especial, from the immensely important character of its consequences.
+<lb/>In looking around me for some subject by whose means I might test these particulars, I was brought to think of my friend, M. Ernest Valdemar, the well-known compiler of the “Bibliotheca Forensica,” and author (under the nom de plume of Issachar Marx) of the Polish versions of “Wallenstein” and “Gargantua.” M. Valdemar, who has resided principally at Harlaem, N. Y., since the year 1839, is (or was) particularly noticeable for the extreme spareness of his person—his lower limbs much resembling those of John Randolph; and, also, for the whiteness of his whiskers, in violent contrast to the blackness of his hair—the latter, in consequence, being very generally mistaken for a wig. His temperament was markedly nervous, and rendered him a good subject for mesmeric experiment. On two or three occasions I had put him to sleep with little difficulty, but was disappointed in other results which his peculiar constitution had naturally led me to anticipate. His will was at no period positively, or thoroughly, under my control, and in regard to clairvoyance, I could accomplish with him nothing to be relied upon. I always attributed my failure at these points to the disordered state of his health. For some months previous to my becoming acquainted with him, his physicians had declared him in a confirmed phthisis. It was his custom, indeed, to speak calmly of his approaching dissolution, as of a matter neither to be avoided nor regretted.
+<lb/>When the ideas to which I have alluded first occurred to me, it was of course very natural that I should think of M. Valdemar.
+<lb/>I knew the steady philosophy of the man too well to apprehend any scruples from him; and he had no relatives in America who would be likely to interfere. I spoke to him frankly upon the subject; and, to my surprise, his interest seemed vividly excited. I say to my surprise; for, although he had always yielded his person freely to my experiments, he had never before given me  any tokens of sympathy with what I did. His disease was of
+<lb/>366
+<lb/>THE BROADWAY JOURNAL.
+<lb/>that character which would admit of exact calculation in respect to the epoch of its termination in death; and it was finally arranged between us that he would send for me about twenty-four hours before the period announced by his physicians as that of his de-cease.
+<lb/>It is now rather more than seven months since I received, from M. Valdemar himself, the subjoined note:
+<lb/>Mr dear P―,
+<lb/>You may as well come now. D―and F―are agreed,
+<lb/>that I cannot hold out beyond to-morrow midnight; and I think they have hit the time very nearly.
+<lb/>Valdemar.
+<lb/>I received this note within half an hour after it was written, and in fifteen minutes more I was in the dying man’s chamber. I had not seen him for ten days, and was appalled by the fearful alteration which the brief interval had wrought in him. His face wore a leaden hue; the eyes were utterly lustreless; and the emaciation was so extreme that the skin had been broken through by the cheek-bones. His expectoration was excessive. The pulse was barely perceptible. He retained, nevertheless, in a very remarkable manner, both his mental power and a certain: degree of physical strength. He spoke with distinctness—took some palliative medicines without aid—and, when I entered the room, was occupied in penciling memoranda in a pocket-book.
+<lb/>He was propped up in the bed by pillows. Doctors D―and
+<lb/>F―were in attendance.
+<lb/>After pressing Valdemar’s hand, I took these gentlemen aside, and obtained from them a minute account of the patient’s condition. The left lung had been for eighteen months in a semi-osseous or cartilaginous state, and was, of course, entirely useless for all purposes of vitality. The right, in its upper portion, was also partially, if not thoroughly, ossified, while the lower region was merely a mass of purulent tubercles, running one into another. Several extensive perforations existed; and, at one point, permanent adhesion to the ribs had taken place. These appearances in the right lobe were of comparatively recent date. The ossification had proceeded with very unusual rapidity; no sign of it had been discovered a month before, and the adhesion had only been observed during the three previous days. Independently of the phthisis, the patient was suspected of aneurism of the aorta; but on this point the osseous symptoms rendered an exact diagnosis impossible. It was the opinion of both physicians that M. Valdemar would die about midnight on the morrow (Sunday). It was then seven o’clock on Saturday evening.
+<lb/>On quitting the invalid's bed-side to hold conversation with
+<lb/>myself, Doctors D――and F――had bidden him a final farewell, 
+<lb/>It had not been their intention to return; but, at my request, they agreed to look in upon the patient about ten the next night.
+<lb/>When they had gone, I spoke freely with M. Valdemar on the subject of his approaching dissolution, as well as, more particularly, of the experiment proposed. He still professed himself quite willing and even anxious to have it made, and urged me to commence it at once. A male and a female nurse were in attendance; but I did not feel myself altogether at liberty to engage in a task of this character with no more reliable witnesses than these people, in case of sudden accident, might prove. I therefore postponed operations until about eight the next night, when the arrival of a medical student with whom I had some acquaintance, (Mr. Theodore L——l,) relieved me from farther embar-
+<lb break="no"/>rassment. It had been my design, originally, to wait for the physicians; but I was induced to proceed, first, by the urgent entreaties of M. Valdemar, and secondly, by my conviction that I had not a moment to lose, as he was evidently sinking fast.
+<lb/>Mr. L――l was so kind as to accede to my desire that he
+<lb/>would take notes of all that occurred; and it is from his memoranda that what I now have to relate is, for the most part, either condensed or copied verbatim.
+<lb/>It wanted about five minutes of eight when, taking the patient’s hand, I begged him to state, as distinctly as he could, to Mr.
+<lb/>L—, whether he (M. Valdemar) was entirely willing that I
+<lb/>should make the experiment of mesmerizing him in his then condition.
+<lb/>He replied feebly, yet quite audibly, “Yes, I wish to be mesmerized”—adding immediately afterwards, “I fear you have deferred it too long.”
+<lb/>While he spoke thus, I commenced the passes which I had already found most effectual in subduing him. He was evidently influenced with the first lateral stroke of my hand across his forehead; but although I exerted all my powers, no farther perceptible effect was induced until some minutes after ten o’clock, when Doctors D――and F――called, according to appointment.
+<lb/>I	explained to them, in a few words, what I designed, and as they opposed no objection, saying that the patient was already in the death agony, I proceeded without hesitation—exchanging, however, the lateral passes for downward ones, and directing my gaze entirely into the right eye of the sufferer.
+<lb/>By this time his pulse was imperceptible and his breathing was stertorous, and at intervals of half a minute.
+<lb/>This condition was nearly unaltered for a quarter of an hour. At the expiration of this period, however, a natural although a very deep sigh escaped the bosom of the dying man, and the stertorous breathing ceased—that is to say, its stertorousness was no longer apparent; the intervals were undiminished. The patient’s extremities were of an icy coldness.
+<lb/>At five minutes before eleven I perceived unequivocal signs of the mesmeric influence. The glassy roll of the eye was changed for that expression of uneasy inward examination which is never seen except in cases of sleep-waking, and which it is quite impossible to mistake. With a few rapid lateral passes I made the lids quiver, as in incipient sleep, and with a few more I closed them altogether. I was not satisfied, however, with this, but continued the manipulations vigorously, and with the fullest exertion of the will, until I had completely stiffened the limbs of the slumberer, after placing them in a seemingly easy position. The legs were at full length; the arms were nearly so, and reposed on the bed at a moderate distance from the loins. The head was very slightly elevated.
+<lb/>When I had accomplished this, it was fully midnight, and I requested the gentlemen present to examine M. Valdemar’s condition. After a few experiments, they admitted him to be in an
+<lb/>unusally perfect state of mesmeric trance. The curiosity of both
+<lb/>the physicians was greatly excited. Dr. D———resolved at once
+<lb/>to remain with the patient all night, while Dr. F———.took leave
+<lb/>with a promise to return at day-break. Mr. L————I and the
+<lb/>nurses remained.
+<lb/>We left M. Valdemar entirely undisturbed until about three o’clock in the morning, when I approached him and found him
+<lb/>in precisely the same condition as when Dr. F―――went away—
+<lb/>that is to say, he lay in the same position; the pulse was imperceptible; the breathing was gentle (scarcely noticeable, unless through the application of a mirror to the lips); the eyes were closed naturally; and the limbs were as rigid and as cold as marble. Still, the general appearance was certainly not that of death.
+<lb/>As I approached M. Valdemar I made a kind of half effort to influence his right arm into pursuit of my own, as I passed the latter gently to and fro above his person, In such experiments with this patient I had never perfectly succeeded before, and as-
+<lb break="no"/>THE BROADWAY JOURNAL.
+<lb/>367
+<lb/>suredly I had little thought of succeeding now; but to my astonishment, his arm very readily, although feebly, followed every direction I assigned it with mine. I determined to hazard a few words of conversation.
+<lb/>“M. Valdemar,” I said, “are you asleep?” He made no answer, but I perceived a tremor about the lips, and was thus induced to repeat the question, again and again. At its third repetition, his whole frame was agitated by a very slight shivering; the eye-lids unclosed themselves so far as to display a white line of the ball; the lips moved sluggishly, and from between them, in a barely audible whisper, issued the words:
+<lb/>“Yes;—asleep now. Do not wake me!—let me die so!”
+<lb/>I here felt the limbs and found them as rigid as ever. The right arm, as before, obeyed the direction of my hand. I questioned the sleep-waker again:
+<lb/>“Do you still feel pain in the breast, M. Valdemar?”
+<lb/>The answer now was immediate, but even less audible than before:
+<lb/>“No pain—I am dying.”
+<lb/>I did not think it advisable to disturb him farther just then,
+<lb/>and nothing more was said or done until the arrival of Dr. F——,
+<lb/>who came a little before sunrise, and expressed unbounded astonishment at finding the patient still alive. After feeling the pulse and applying a mirror to the lips, he requested me to speak to the sleep-waker again. I did so,saying:
+<lb/>“M. Valdemar, do you still sleep?”
+<lb/>As before, some minutes elapsed ere a reply was made; and during the interval the dying man seemed to be collecting his energies to speak. At my fourth repetition of the question, he said very faintly, almost inaudibly:
+<lb/>“Yes; still asleep—dying.”
+<lb/>It was now the opinion, or rather the wish, of the physicians, that M. Valdemar should be suffered to remain undisturbed in his present apparently tranquil condition, until death should supervene—and this, it was generally agreed, must now take place within a few minutes. I concluded, however, to speak to him once more, and merely repeated my previous question.
+<lb/>While I spoke, there came a marked change over the countenance of the sleep-waker. The eyes rolled themselves slowly open, the pupils disappearing upwardly; the skin generally assumed a cadaverous hue, resembling not so much parchment as white paper; and the circular hectic spots which, hitherto, had been strongly defined in the centre of each cheek, went out at once. I use this expression, because the suddenness of their departure put me in mind of nothing so much as the extinguishment of a candle by a puff of the breath. The upper lip, at the same time, writhed itself away from the teeth, which it had previously covered completely; while the lower jaw fell with an audible jerk, leaving the mouth widely extended, and disclosing in full view the swollen and blackened tongue. I presume that no member of the party then present had been unaccustomed to death-bed horrors; but so hideous beyond conception was the appearance of M. Valdemar at this moment, that there was a general shrinking back from the region of the bed.
+<lb/>I now feel that I have reached a point of this narrative at which every reader will be startled into positive disbelief. It is my business, however, simply to proceed.
+<lb/>There was no longer the faintest sign of vitality in M. Valdemar; and concluding him to be dead, we were consigning him to the charge of the nurses, when a strong vibratory motion was observable in the tongue. This continued for perhaps a minute. At the expiration of this period, there issued from the distended and motionless jaws a voice—such as it would be madness in me to attempt describing. There are, indeed, two or three epithes-which might be considered as applicable to it in part; I might
+<lb/>say, for example, that the sound was harsh, and broken and hollow; but the hideous whole is indescribable, for the simple reason that no similar sounds have ever jarred upon the ear of humanity. There were two particulars, nevertheless, which I thought then, and still think, might fairly be stated as characteristic of the intonation—as well adapted to convey some idea of its unearthly peculiarity. In the first place, the voice seemed to reach our ears—at least mine—from a vast distance, or from some deep cavern within the earth, In the second place, it impressed me (I fear, indeed, that it will be impossible to make myself comprehended) as gelatinous or glutinous matters impress the sense of touch.
+<lb/>I have spoken both of “sound” and of “voice.” I mean to say that the sound was one of distinct—of even wonderfully, thrillingly distinct—syllabification. M. Valdemar spoke—obviously in reply to the question I had propounded to him a few minutes before. I had asked him, it will be remembered, if he still slept-He now said:
+<lb/>“Yes;—no;—I have been sleeping—and now—now—I am dead.’’
+<lb/>No person present even affected to deny, or attempted to repress, the unuterable, shuddering horror which these few words, thus
+<lb/>uttered, were so well calculated to convey. Mr. L———I (the
+<lb/>student) swooned. The nurses immediately left the chamber, and could not be induced to return. My own impressions I would not pretend to render intelligible to the reader. For nearly an hour, we busied ourselves, silently—without the utterance
+<lb/>of a word—in endeavors to revive Mr, L———I. When he came
+<lb/>to himself, we addressed ourselves again to an investigation of M. Valdemar’s condition.
+<lb/>It remained in all respects as I have last described it, with the exception that the mirror no longer afforded evidence of respiration. An attempt to draw blood from the arm failed. I should mention, too, that this limb was no farther subject to my will I endeavored in vain to make it follow the direction of my hand. The only real indication, indeed, of the mesmeric influence, was now found in the vibratory movement of the tongue, whenever I addressed M. Valdemar a question. He seemed to be making an effort at reply, but had no longer sufficient volition. To queries put to him bed any other person than myself he seemed utterly insensible—althoughendeavored to place each member of the company in mesmeric rapport with him. I believe that I have now related all that is necessary to an understanding of the sleep-waker’s state at this epoch. Other nurses were procured; and at ten o'clock I left the house in company with the two physicians and Mr. L—I.
+<lb/>In the afternoon we all called again to see the patient. His condition remained precisely the same. We had now some discussion as to the propriety and feasibility of awakening him; but we had little difficulty in agreeing that no good purpose would be served by so doing. It was evident that, so far, death (or what is usually termed death) had been arrested by the mesmeric process. It seemed clear to us all that to awaken M. Valdemar would be merely to insure his instant, or at least his speedy dissolution.
+<lb/>From this period until the close of last week—an interval of nearly seven months—we continued to make daily calls at M. Valdemar’s house, accompanied, now and then, by medical and other friends. All this time the sleep-waker remained exactly as I have last described him. The nurses’ attentions were continual.
+<lb/>It was on Friday last that we finally resolved to make the experiment of awakening, or attempting to awaken him; and it is the (perhaps) unfortunate result of this latter experiment which has given rise to so much discussion in private circles—to so
+<lb/>368
+<lb/>THE BROADWAY JOURNAL.
+<lb/>much of what I cannot help thinking unwarranted popular eeling.
+<lb/>For the purpose of relieving M. Valdemar from the mesmeric trance, I made use of the customary passes. These, for a time, were unsuccessful. The first indication of revival was afforded by a partial descent of the iris. It was observed, as especially remarkable, that this lowering of the pupil was accompanied by the profuse out-flowing of a yellowish ichor (from beneath the lids) of a pungent and highly offensive odor.
+<lb/>It now was suggested that! sdould attempt to influence the patient’s arm, as heretofore. I made the attempt and failed. Dr.
+<lb/>F――then intimated a desire to have me put a question. I did so
+<lb/>as follows:
+<lb/>“M. Valdemar, can you explain to us what are your feelings or wishes now?”
+<lb/>There was an instant return of the hectic circles on the cheeks; the tongue quivered, or rather rolled violently in the mouth (although the jaws and lips remained rigid as before;) and at length the same hideous voice which I have already described, broke forth:
+<lb/>“For God’s sake!—quick!—quick!—put me to sleep—or, quick!—waken me!—quick!—I say to you that I am dead
+<lb/>I was thoroughly unnerved, and for an instant remained undecided what to do. At first I made an endeavor to re-compose the patient; hut, failing in this through total abeyance of the will, I retraced my steps and as earnestly struggled to awaken him. In this attempt I soon saw that I should be successful—or at least I soon fancied that my success would be complete—and I am sure that all in the room were prepared to see the patient awaken.
+<lb/>For what really occurred, however, it is quite impossible that any human being could have been prepared.
+<lb/>As I rapidly made the mesmeric pasess, amid ejaculations of “dead! dead!” absolutely bursting from the tongue and not from the lips of the sufferer, his whole frame at once—within the space of a single minute, or even less, shrunk—crumbled—absolutely rotted away beneath my hands. Upon the bed, before that whole company, there lay a nearly liquid mass of loathsome—of detestable putrescence.
+<lb/>The Mountains.
+<lb/>Lowland, your sports are low as is your seat;
+<lb/>The Highland games and minds are high and great.
+<lb/>Taylor, the Water Poet.
+<lb/>I.
+<lb/>The axle of the Lowland wain Goes groaning from the fields of grain;
+<lb/>The Lowlands suit with craft and gain.
+<lb/>Good Ceres, with her plump brown hands,
+<lb/>And wheaten sheaves that burst their bands,
+<lb/>Is scornful of the mountain lands.
+<lb/>But mountain lands—so bare of corn—
+<lb/>Have that which puts, in turn, to scorn The careful Goddess and her Horn.
+<lb/>Go mark them when, with tramp and jar Of furious steeds, and flashing car,
+<lb/>The Thunderer sweeps them from afar.
+<lb/>Go mark them when their beauty lies Drooping, and veiled with violet dyes,
+<lb/>Beneath the light of breathless skies.
+<lb/>No lands of fat increase may vie
+<lb/>With their brave wealth, for heart and eye,
+<lb/>Of loveliness and majesty.
+<lb/>II.
+<lb/>I stand upon an upland lawn;
+<lb/>The river mists are quite withdrawn—
+<lb/>It is three hours beyond the dawn.
+<lb/>Autumn works well! But yesterday The mountain hues were green and gray: The elves have surely passed this way.
+<lb/>With crimping hands and frosty lip,
+<lb/>That merry elfin fellowship,
+<lb/>Robin, and Puck, and Numbernip,
+<lb/>Through the clear night have swiftly plied Their tricksy arts of change, and dyed Of all bright hues the mountain side.
+<lb/>In an old tale Arabian,
+<lb/>Sharp hammer strokes, not dealt by man, Startle a slumbering caravan.
+<lb/>At dawn the wondering merchants see A city built up gloriously Of jasper, and gold, and porphyry.
+<lb/>That night-built city of the sands Showed not, as show our mountain lands Changed in a night by elfin hands.
+<lb/>We may not find, in all the scene,
+<lb/>An unchanged bough or leaf, I ween,
+<lb/>Save of the constant evergreen.
+<lb/>The Maple, on his slope so cool,
+<lb/>Wears his new motley, like the Fool Prankt out to lead the games of Yule:
+<lb/>Or rather say, that tree of pride Stands in his mantle, many-dyed,
+<lb/>Bold monarch of the mountain side.
+<lb/>The Ash! a fiery chief is he,
+<lb/>High in the Highland heraldry—
+<lb/>He wears his proud robes gallantly.
+<lb/>Torch-bearers are the grim black Pines; Their torches are the flaming vines Bright on the mountain’s skyward lines.
+<lb/>The blushing Dogwood, thicketed,
+<lb/>Marks everywhere the torrent’s bed With winding lines of perfect red.
+<lb/>The Oak, so haughty in his green,
+<lb/>Looks craven in an altered mien,
+<lb/>And whimples in the air so keen.
+<lb/>The Hickories, tough although they be. The Chestnut, and the Tulip tree,
+<lb/>These too have felt the witchery.
+<lb/>The Tree of Life, and dusky Pine,
+<lb/>The Hemlock, swart and saturnine— Staunch like a demon by his mine—
+<lb/>These still retain a solemn dress,
+<lb/>But, sombre as they be, no less Make portion of the loveliness.
+<lb/>III.
+<lb/>Just now, no whisper of the air Awoke, or wandered anywhere.
+<lb/>In all that scene so wild and fair.
+<lb/>THE BROADWAY JOURNAL.
+<lb/>369
+<lb/>But hark! upborne by swift degrees,
+<lb/>Come forth the mountain melodies—
+<lb/>The music of the wind-tost trees.
+<lb/>And, startled by these utterings,
+<lb/>The parted leaves, like living things,
+<lb/>Skirl up and flock on shining wings.
+<lb/>And, rising from the rainbow route,
+<lb/>A hawk goes swooping round about—
+<lb/>And hark! a rifle shot and shout.
+<lb/>The rifle of the mountaineer—
+<lb/>I know its tongue so quick and clear—
+<lb/>Is out, to-day, against the deer.
+<lb/>Right hardy are the men, I trow,
+<lb/>Who build upon the mountain’s brow,
+<lb/>And love the gun, and scorn the plough.
+<lb/>Not such soft pleasures pamper these,
+<lb/>As lull the subtil Bengalese,
+<lb/>Or islanders of Indian seas.
+<lb/>A rugged hand to cast their seed—
+<lb/>A rifle for the red deer’s speed—
+<lb/>With these their swarming huts they feed.
+<lb/>Such men are Freedom’s body-guard,
+<lb/>On their high rocks, so cold and hard,
+<lb/>They keep her surest watch and ward.
+<lb/>Of such was William Tell, whose bow Hurtled its shafts, so long ago,
+<lb/>And quelled the Switzer’s haughty foe.
+<lb/>Of such was Arnold Winkelreid,
+<lb/>Who saved his Fatherland at need,
+<lb/>And won, in death, heroic meed.
+<lb/>That deed will live a thousand years!
+<lb/>Young Arnold, with his Switzer peers,
+<lb/>Stood hemmed and hedged with Austrian spears.
+<lb/>His naked arms he opened wide,
+<lb/>“Make way for Liberty,” he cried,
+<lb/>And clasped the hungry spears—and died.
+<lb/>He made a gap for Liberty—
+<lb/>His comrades filled it desperately,
+<lb/>And Switzerland again was free.
+<lb/>IV.
+<lb/>But mark! on yonder summit clear,
+<lb/>Stands the bold hunter of the deer—
+<lb/>The rifle-bearing mountaineer.
+<lb/>From this far hill we may not now Mark the free courage of his brow,
+<lb/>Or the clear eyes which well avow
+<lb/>The manly virtues of a heart Untrained to any baser art,
+<lb/>And bold to dare its lot and part.
+<lb/>But a strong vision may define His gaunt form’s every giant line,
+<lb/>Motionless in the broad sunshine.
+<lb/>And his long gun we note and know—
+<lb/>That weapon dire of overthrow,
+<lb/>More terrible than Tell’s true bow.
+<lb/>But mark again—his step descends;
+<lb/>And now his stately stature blends With the vague path whereon he wends.
+<lb/>Bare is the gray peak where he stood—
+<lb/>Again the blue sky seems to brood Over a lovely solitude.
+<lb/>V.
+<lb/>Our life on earth is full of cares,
+<lb/>And the worn spirit oft despairs Under the groaning load it bears.
+<lb/>When such dark moods will force their way—
+<lb/>When the soul cowers beneath their sway,
+<lb/>Go forth as I have done to-day.
+<lb/>Boon Nature is a foe severe To pallid brow and shadowy fear,
+<lb/>And lifts the fallen to valiant cheer.
+<lb/>Heed her good promptings—muse and learn—
+<lb/>And, haply, to thy toils return With a clear heart and courage stern.
+<lb/>P. P. Cooke.
+<lb/>The Modern Poetical Literature of Germany.
+<lb/>The genius and character of a people manifest themselves most clearly and to the greatest advantage in the language of poetry. Were I now to give a full history of poetical literature in Germany, it would be necessary to show the development of the national genius through all its periods; but such is not the intention of my present essay; my aim is only to give a few sketches of the character of modern poetical German literature. For this reason I do not now dwell on the ancient “Niebelungenlied,” (the German Iliad) and the “Gudrun,” (the German Odyssey,) or on the “Minnelied” of the Troubadours, or on the poems and dramas of Hans Sachs, the celebrated master-singer and shoemaker of Nȕrrenberg, or on the poems of Gellert, Gleim, von Kleist and many others of more recent date. I begin with Lessing, because from his time we date the most flourishing period of German poetry. His contemporaries and successors, whom he had guided by his criticisms, gave fresh life to poesy and successfully cultivated particularly the drama, to which the greatest German poets devoted themselves almost exclusively.
+<lb/>Other European literatures had flourished, before modern German poetry unfolded its flower. But other nations have also enjoyed the advantage of having had enlightened predecessors. The Italian, Spanish, English, French and German literature have followed each other in successive order. This phenomenon may be ascribed to the fact, that the splendid periods of a nation’s literature exert a powerful influence on neighboring nations.
+<lb/>Modern poetical literature in Germany is characterized by an harmonious union of nature, taste and cultivation, such as we find in the dramas of Gӧthe and Schiller, and also in the best society of that country. Literature and society are, in Germany, intimately connected, because literature and science there enliven everything and fill the whole sphere of action. Germany has no public political life; it has, instead of it, literature and the fine arts. This has produced there that literary aristocracy which acknowledges in its sphere no rank but that of genius and of learning, and in whose existence literature is flourishing and glorious.
+<lb/>Let us turn to some of the best representatives of modem German poetry.
+<lb/>It is with a mingled fueling of admiration and gratitude, that I first mention Lessing, who united wit and erudition, penetration and taste, criticism and creative imagination, in a degree, which
+<lb/>370
+<lb/>THE BROADWAY JOURNAL.
+<lb/>must fill every reader with astonishment and delight—that man, who by his eminent critical writings, was the first to free his country front the chains of a pedantic imitation of the French, and to point out to it an independent path. In his work, entitled “Dramaturgy,” he unfolded fully the errors of the French theories on dramatic composition, together with the defects of the French dramatic writers, and eulogized the best Spanish and English dramas, particularly those of Shakspeare. Of equal merit is his “Laocoon” on the limits of painting and poesy, in which he attacks the mannerism of poetical painting. He shows in this work that the supreme law of Grecian sculpture was ideal beauty of form; and that poesy not considering, like the plastic arts, material bodies, but temporary emotions and events, ought to regard ideal beauty of action as its supreme law. lie thus places in the fore-ground the Epos and Drama, as bearing the nearest affinity to the plastic arts.
+<lb/>In his critical writings he was the best pioneer of his time, or as he called himself, “The overseer in the picture-gallery of German literature.” He furnished, at the same time, excellent models in his dramas, “Miss Sarah Sampson,” Emilia Galotti;” and in his comedy, “Minna von Barnhelm.” All are correct and full of truth and nature, though deficient in warmth of poetical inspiration. His genius produced, near the close of his life, the most beautiful flowers. In his late writings, “The Education of Mankind,” and the didactic drama, “Nathan the Wise,” he unfolded a depth and clearness of thought which few of his contemporaries lightly valued, but for which he is now universally admired, as well as for the power and moral influence of all his works.
+<lb/>Widely different from him in style, and yet similar in patriotic sentiment, was Klopstock, the author of those poems which cast such lustre on the German name, and of that exalted epic, “The Messiah,” glorifying our Savior. The sublimity of thought embodied in this poem, renders it in no way inferior to even the productions of Milton. Klopstock commenced this epic in 1746, while yet a student at Jena and Leipzig, and concluded it in the year 1772, with the twentieth canto. In order to enable him to finish it the King of Denmark gave him a pension for life. The slowness of composition was unfavorable to the poem, as his first cantos, written under the influence of youthful enthusiasm, are the best. His poetical talent is more of a lyric than an epic character. The lyric and elegiac parts of the work are, therefore, those which appeal most to the feelings of the reader. His lyric muse, replete with genius and deep feeling, is devoted in his odes and elegies to religious and patriotic subjects.
+<lb/>At the close of the last century the court of the Duke of Weimar embraced Wieland, Herder, Schiller and Gӧthe, minds which would have conferred the highest renown on any nation.
+<lb/>Among the numerous productions of Wieland, I will only mention those pleasing romances, Oberon, Gandalin, Geron, Schach Lolo. In the Abderites, he exhibits the contrast between chivalrous romance and the spiritless life of matter-of-fact people. The works of Wieland and Klopstock present the most vivid contrast, which is also discoverable in the productions of their imitators. Thus, for instance, Wieland sings of earthly attachments, Klopstock of spiritual love; from the mixture of both arose that languishing sentimentality predominating in Gӧthe’s Wer-ther. A sort of levity pervades some of Wieland’s productions, but his language is easy, pleasing and graceful. His love for antiquity induced him to translate several congenial classic authors; their merits rest more in an able transformation, than in a correct version of the originals. In this species of writing, Wieland is greatly surpassed by Voss. He translated the letters and satires of Horace, Lucian’s works, the plays of Aristophanes, and the letters of Cicero.
+<lb/>Herder, in his writings when young, pursued the course of Lessing in his criticism, but gave freer play to his imagination and thus obtained an animating influence over young authors. He especially exerted a favorable influence on Gothe’s youth, and contributed much in deciding the bent of his genius. It may be remarked here in general, that the beneficial effects on literature resulting from the warm friendships existing among cultivated Germans, is a beautiful feature of German life. In their poetry we constantly meet with friends encouraging and guiding each other, and free from envy enjoying their mutual success. Such an intercourse we may behold between Herder, Klinger, Merck and Gӧthe; between Schiller and young Koerner; in the circle of the poets at Halle, with Gleim in its centre, and Rambler, Kleist, Karsch, &amp;c., &amp;c., as its members, and in the poetic circle of Gӧttingen, the so-called “Hainbund,” of which Boie, the counts Stollberg, Voss, Bürger and Hӧlty were the leading stars. Equally worthy of praise are the many instances of brothers uniting in literary pursuits, as for instance, the renowned brothers, the Batons A. and W. Von Humboldt, the Counts Stollberg, the brothers Grimm, Thibaut, &amp;c., &amp;c.
+<lb/>Herder possessed an extensive store of learning in every branch of literature, and his productions partake of this many-sided character. He was equally a critic, a poet, a philosopher and a theologian. His love of nature and primitive national customs, was exhibited in all his productions. This he drew from the constant study of Homer, Ossian and Shakspeare, but chiefly from the Bible. One of his most beautiful poetic effusions is the Cid, that interesting romance from Spanish chivalry, in which every character is portrayed with the greatest precision. His sound sense and genius are equally seen in his didactic odes, legends and parables. In him were combined historical investigation, philosophic combination and poetic conception. Hence his nice discrimination between right and wrong, and his skill in recognizing poetry in whatever language it might appear, as the common language of human nature. Thus he loved Oriental, Greek and Roman poetry; he appreciated Ossian, as well as Shakspeare, the Southron romances as well as the German popular airs. His “Hebrew poetry,” “Saadis,” “Rosenthal,’’ “Greek Epigrams,” “Romances,” “Stimmender Votker in Lie-dern,” are admirable specimens of his taste and style.
+<lb/>But what can I say of Gӧthe and Schiller, those heroes of our literature? It is with hesitation that I bring their merits in remembrance. Schiller and Gӧthe are renowned throughout the world, and their works are too numerous and too multifarious to admit of a separate enumeration and review, as my limits allow but a few general remarks. Gӧthe’s and Schiller’s views of life are almost as valuable as their poetry, and we treat them, both as philosophers and poets, as representatives of poesy as well as of life in general. Gӧthe’s early drama, “Gӧtz von Berlich-ingen,” true to nature, shows in every scene that the author is complete master of any subject he treats. Iphigehia” and “Tasso,” his later dramas, expressing the poet’s fervent and clear perceptions of antiquity, are fraught with touches of the finest taste and ideal beauty. His “ Faust,” in its first part the greatest effort of poetical diction and philosophical depth of thought, is his master-piece. Gӧthe’s talents were divided between tragedy, comedy, and romance, and the productions of his imitators and successors exhibit an almost equal number of each.
+<lb/>Schiller’s greatest productions are his dramas, among which “Don Carlos,” “Maria Stuart,” “Wilhelm Tell,” and “Wallenstein,” are the best—the latter is his master-piece, and has been admirably translated by Coleridge. He appears equally great as a poet and a philosopher. By uniting taste and nature he reached the highest perfection in the dramatic art. The form of his dramas places them clearly between those of Shakspeare and Sophocles-
+<lb break="no"/>371
+<lb/>THE BROADWAY JOURNAL.
+<lb/>Modern dramatists cannot, without the greatest danger, renounce the form given to the drama by Schiller.
+<lb/>But a criticism on the numerous productions of these authors is not my object; my aim being rather to depict the character of the two poets in a general view, in which I would compare the works of Schiller with Swiss scenery; those of Göthe with a variegated landscape.
+<lb/>Like the majestic Alps, raising their lofty pinnacles above the clouds, are the thoughts of Schiller; and pure as the eternal snow on these Alpine crests, is his morality; calm and lovely as Helvetia’s valleys are his feelings, and clear as the lake which bears the image of the sublime scenery around, and of the azure sky above, is the character of man reflected in Schiller’s mind.
+<lb/>Schiller’s works are to be found in every German family; he is the poet of the nation and the idol of youth.
+<lb/>Göthe’s works, on the' other hand, represent his versatile genius, and expand themselves before us like a variegated landscape, abounding in meadows, fields and trees, adorned with blossoms, and laden with fruit; which is traversed by a road, enlivened by travelers of all sorts and conditions, both great and small, high and low, good and bad, in silk and finery, and in the working clothes of common life, philosophers and statesmen, warriors and peaceful citizens, gay courtiers and care-worn artizans. Let us imagine this landscape to be bordered by the great ocean; its calm and tranquil surface reminds us, if far from home, of those peaceful scenes of domestic life, to which the poet occasionally introduces us; and does not that same ocean, when agitated by the tempest, present a picture of the misery and desolation created by passion and vice in those happy scenes to which we have alluded? The many treasures occasionally thrown up from the bosom of the ocean may afford us some idea of the value of those concealed beneath its waves, and thus it is with Göthe, who has displayed to us many of the pearls and gems drawn from the deep recesses of his mind.
+<lb/>With the dawn of German emancipation from the French yoke, Schiller’s poetry ignited, penetrated and matured every plan of action. At that time Göthe was fading in the estimation of the young, and Schiller’s spirit presided over the lyric of the day. His social and war-songs, as well as his ballads, have by the aid of composers become popular airs. Theodore Körner, the son of Schiller’s most faithful friend, the renowned martyr and leader of those songsters, joining the lyre with the sword, produced poems and dramas closely approaching those of Schiller, and breathing the spirit of those animated times. Though Körner’s life was short, he will forever live as the youthful poet in the grateful love of his country.
+<lb/>Jean Paid Richter, although contemporary of the before-named poets, stands alone in his original individuality. All the elements of German life of his time, the depth and sensitiveness of feeling, the severity of satire, the humor, the seriousness, the sparkling of juvenile fancy, the sober views of sound judgment, susceptibility and power of mind, poetry and knowledge, ideality and contentment, are concentrated in that one man as in a focus, and are reflected in his voluminous works. His writings show everywhere his warm feeling for innocence and purity of early youth; they breathe the enthusiasm of his friendship, love and virtue, and contain the most beautiful principles and reflections; and where he shows these feelings in contact with the rough touches of the world, he gives free play to his wit and humor, without bitterness. Jean Paul is in his writings perpetually youthful. As a humorist he stands highest among the German authors. He unites all the elements of the highest culture of mind and feeling as they more peculiarly exist in Germany, and he is its truest representative. The most intimate acquaintance with the social and literary life
+<lb/>in Germany is therefore requisite in order to understand him. His style is bold and therefore not very clear; but the originality of his thoughts and feelings excuses his peculiarities of expression. His humorous novels, Hesperus, Titan, Flegeljahre, Katzenber-ger’s Baclereise, and others, are universally known; and also his scientific and literary works are of the highest value.
+<lb/>If we turn from the period in which the genius of a Göthe and a Schiller united to raise the poetical literature of the German people to its culminating point, towards that of their immediate or later successors, we meet with difficulty in forming a just appreciation of the merits of the latter, from our judgment ever measuring their productions by the scale furnished by the effusions of the above-mentioned poets, and never reflecting on the plausibility of much good emanating from less prominent talents. Indeed, whatever severe critics may say to the contrary, German literature has of late been enriched by productions that are far from lessening the hopes for her future glory. Passing at once from the period of Göthe and Schiller, to the writings of the present time, an account of which may be expected from me, we find the vast store of new productions in the field of Belles-lettres, so materially increased within the last few years, as to render their enumeration in conjunction with a short sketch as to their critical value, a task of some difficulty. I shall accordingly omit many eminent names, and only review the most recent works of lyric, epic and dramatic poesy, and arrange them in groups, as far as their nature permits.
+<lb/>Lyric poetry, like the vine, seems chiefly suited to the southern scil of Germany, especially to Swabia, the fatherland of Schiller. Uhland’s delightful romances on topics from the ch valrous ages, are generally known and admired ; their innocence, gravity and depth of feeling corresponding perfectly with the German character. Contemporaneous and distinguished in the same species of poetry, are G. Schwab and Kerner, the latter replete with gloomy thoughts and forebodings of death, Wilhelm Muller, the writer of sweet and merry songs, Adolphus Tellkampf, whose poems, though scattered through a great variety of periodical and fugitive publications, are valued for depth and originality —more it does not become me to say of a brother. Von Eichen-dorff, with an inexhaustible love for the verdant forest, (a true German trait,) and Adelbert Von Chamisso, a Frenchman settled in Germany, distinguished for vigorous language and a fresh and independent spirit. Mrs. Robinson, wife of the professor in New York, also is distinguished for her elegant productions, among which are here to be noticed her beautiful poems, entitled “ Serbische Lieder,” published in Germany under the assumed name of Talvj.
+<lb/>One of the most distinguished modern poets among those who did not confine themselves to German subjects, are Riickert, the bard of the East, vieing with Hafiz in writing the most beautiful German verses after the Persian and Arabian manner. A master of that species of poetry, he has but one competitor, Count Platen, who strove with equal skill to imitate the Greek and Roman poets, but too early found a grave on the classic soil of Sicily. His poems are as smooth as the polished marble, and as graceful as the ancient statue. In strong contrast with Platen is Freiligrath, the poetic painter of the sea and desert, who amid the rich lustre of his coloring, and southern warmth of scenery, never ventures to portray the wonders of antiquity.
+<lb/>The latest style of Lyric poetry in Germany is opposed to this spirit, since it attaches itself exclusively to the German soil, and desires to express popular ideas. It might be called the political lyric, and has the disadvantage of treating on a subject which cannot be deemed poetical, namely, politics ! Thus this species of lyric often sacrifices entirely the character of poesy. The
+<lb/>372
+<lb/>THE BROADWAY JOURNAL.
+<lb/>first strains of this sort came from Heinrich Heine and from an Austrian, Count Auersperg, who, under the name of Anasta-sius Grün, published humorous scenes overflowing with rage against worldly and spiritual tyranny. He soon found an associate in Von Stre'itenan, (Nicolaus Lenau,) also an Austrian-His poems were succeeded by those of Hoffman Von Fallersleben, Dingelstedt and Prutz, ail of a similar tendency, written partly in a satirical and partly in a grave tone; Georg Herwegh and Harro Harring, with a revolutionary spirit, followed in their wake.
+<lb/>When we consider the numerous effusions of lyric poetry in Germany, the scarcity of epic productions appears surprising; in the Epos, only Ladislaus Pyker, and in the Idyl, only Eberhard, are worthy of notice, though their poems are of inferior value. Let us not, however, limit the idea of epic poetry to the strict form of verse, hut embrace in it every characteristic exhibition of epic matter, thus extending it to romance and novel. The latter presents a field for a rich harvest—so rich indeed, as to render their critical examination within our present limits a difficult task. Yet I will attempt it, taking the liberty of distinguishing the chief tendencies of German novels in the early part of this century, as the classic, romantic, and imaginative-humorous. Gӧthe, formed after the models of antiquity, marks the first, by making us, in the absorbing interest of his matter, lose sight of the author. The second emanated from Tieck, and the third from Jean Paul Richter. The manner of these three writers may be clearly traced in the later progress of literature, although we cannot deny that there is more or less coincidence in several of their productions. Gӧthe’s social novels, “Wilhelm Meister,” and the “Wahlver-wandschaften,” in which he exhibits, with psychological depth, the state of society, chiefly in the higher circles,—are succeeded by Immermann's “Epigonen,” and partly by his more original Munchhausen; the same style is followed by Von Sternberg, in a series of novels and romances, wherein he depicts, with simplicity, elegance, and sublimity, portraits and conflicts of European aristocratic society. Of the same nature are the novels of the Countess Hahn-Hahn, who delights in sketches of artless nature, as well as of high life, reflected in her high and unrestrained genius. Laube is less successful in his wanderings through the higher circles, since he depicts imaginary characters. Yet we must allow him the merit of being an agreeable describer of passing events. With deeper feeling, Dingelstedt, and with brilliant wit, Detmold, in Hanover, pursue the same line, in tragic and humorous pictures of the conflicts of life.
+<lb/>The poetry of the romantic school moves in an entirely different orbit. I have named Tieck as the leader of this school, though he too, in a series of novels, joined the above-mentioned species of writing. In a similar manner as Sir Walter Scott, who, in translating the Elenora of Bürger first found that he himself was a poet, thus roused by the poetic spirit of Sir Walter Scott’s historical novels, Tieck composed his “Revolt in the Cevennes," an exquisite, though as yet incomplete work. This historical painting is a fine specimen of the art, evincing both romantic poesy and psychological depth. He depicts public life with a continual reference to domestic circumstances; at one time presenting them at variance, and at another in harmony. His historical novels, “The Poet’s Life," and “The Poet’s Death,” are replete with beauties. The King of Prussia has given him a situation in Berlin, where he can at his leisure devote himself to his muse. He has had a series of able imitators. As favorite novelists of this school, I must mention Spindler and Blumenhagen, both gifted with imagination, but often overstepping the bounds of beauty, and sinking into caricature. Heinrich Zschokke is of surpassing value as a novelist, and theological and historical
+<lb/>writer. The clearness and simplicity of his diction, and the noble sentiments expressed, render him one of the most popular writers.
+<lb/>A truly poetic spirit is evinced by H. Steffens, in his “Norwegians,” by Win. Alexis (Häring), in his “Cabanis,” “Roland of Berlin,” and “Pseudo Waldemar,” subjects taken from the Prussian history, and treated with much truth and nature. Heinrich Kӧnig also belongs to this class; in his "Waldenses,” his renowned "Bride,” and his “Willis Dichten und Trachten,” he makes Europe, the south in the two former and the north in the latter, the scene of highly poetic events. The much-read “Godwin Castle,” “St. Roche,” &amp;c., &amp;c., are the late productions of Madame von Paalzou, a highly-gifted lady, who traversed England, France and Germany, in search of subjects for historical novels. With greater fidelity to history Theodor Mügge depicts the conflicts in the Vendee, and at Hayti, (in his "Vendeerin” and “Toussaint,”) and Theodor Mundt the war of the German peasants in his “ Thomas Münzer.” The former is distinguished by rare talents and vivid coloring, the latter, by wise reflections. In considering fantastic novels, in which wit is joined with humor, I would place on the foreground those of Leopold Schäfer, similar to Jean Paul’s original productions. The former bears the reader far from the German soil and the narrow sphere of domestic life in which Jean Paul delights to linger.
+<lb/>Gutykow's “Blasedon," as a comic novel, is an imitation of Jean Paul’s comic vein. Immermann’s “Münchhaussen,” too, comes partly under this head. For unvarnished descriptions of humble life and nature, perhaps, also, Eichendorffs charming novels should be mentioned here, though they, like Fouqué's “Undine,” contain more the purely romantic element of legends, a species of poetry once presenting so brilliant an appearance in Tieck’s “Phantasus,” but since led astray by Hoffmann’s strange creations, and at present but little cultivated.
+<lb/>Proceeding, finally, from the epic poetry to the comedy, we are forcibly struck by the gloomy perception of the art retrograding from the elevation it had attained by the exertions of Lessing and Göthe; and, in the present situation of German public life, there is small ground to hope for its improvement. Comedy, to flourish, must not be confined only to the representation of common life, but have a certain freedom to treat of public persons and events. The Princess Amalia of Saxony has made successful attempts in representing humble life in her popular comedies. Among the other writers of comedy none are worthy of notice, save Bauemfeld at Vienna, and Raupach at Berlin, though I know neither an Aristophanic satirical, nor a psychologically excellent comedy of their composition, nor even one which much surpasses the comedies of Kotzebue.
+<lb/>Tragedy has been cultivated with greater success and copious ness. Michael Beer, (as did once Theodor Kӧrner,) struggles to become a successful follower of Schiller; while Grabbe, and the talented Immermann, are both in their manner and choice of historical subjects, original writers. Under the influences of recent times have been furnished several successful dramas, which have been much applauded, as Gutykow’s “Richard Savage,” Julius Mooen’s “Otto III.,” and Prutz’s “ Charles of Bourbon.”
+<lb/>The lyric-idylic taste of the nation has prepared the way for a favorable reception of a few dramas, written with this tendency by Friedrich Halm (von Bellinghausen). They make us, however, feel but too deeply the insufficiency of an elegant style, and the invention of some charming scenes, to supply the want of a higher characteristic and of more eventful action.
+<lb/>What I deem of more importance than an allusion to so many eminent names, is the observation that German literature, and especially poetry, must not be viewed as standing isolated and
+<lb/>THE BROADWAY JOURNAL.
+<lb/>373
+<lb/>independent, since the same national genius manifests itself in various fine arts, especially in music.
+<lb/>Gӧthe and Mozart resemble each other in reflecting the images and sentiments presented by the occurrences of life clearly as a mirror, but embellished and perfectly harmonized. Schiller and Karl Maria Von Weber combine the highly ideal, with an ardent desire for the attainment of perfection. The compositions of Beethoven and of Jean Paul Richter are similar to each other, in both exhibiting a lively and playful imagination, united with a romantic depth of feeling. All have strewn imperishable songs and melodies over the path of life. Their songs resound in the cottage and the palace, filling the tranquil heart with delight, and weeping eyes with the brightness of cheerfulness and peace.
+<lb/>T. L. Tellkampf.
+<lb/>Critical Notices.
+<lb/>Biographical and Critical Notices. By William H. Prescott,
+<lb/>Author of “The History of Ferdinand and Isabella,” “The
+<lb/>Conquest of Mexico," etc. New York: Harper &amp; Brothers.
+<lb/>An octavo of 638 pages—uniform with the previous works of Prescott issued by the same house. In all respects this beautiful volume is a valuable addition to our literature.
+<lb/>The essays included are purely of a literary character, with little reference to local and temporary topics, and with a single exception are from “The North American Review”—styled by the author, in the Preface to the British edition, “the most considerable journal in the United States.” We fear that its consideration, at present, is confined chiefly to the precincts of Faneuil Hall.
+<lb/>Of the essays themselves it is quite superfluous to speak. They have been justly and universally admired, and in our own view are, generally, the best American papers of their kind. Their titles are, Charles Brockden Brown—Asylum for the Blind —Irving’s Conquest of Granada—Cervantes—Sir Walter Scott— Chateaubriand’s English Literature—Bancroft’s United States— Madame Calderon’s Life in Mexico—Moliére—Italian Narrative Poetry—Poetry and Romance of the Italians—Scottish Song— and Da Ponte’s Observations. The first of these articles is from Sparks’ “American Biography,” and is of unusual interest, conveying a just and forcible picture of one of the most singular and powerful of American intellects. The memoir can scarcely be termed critical, but it abounds in passages evincing the keenest discrimination in respect to the literary position of the author reviewed.
+<lb/>The papers next in value are, perhaps, those on Sir Walter Scott, and Chateaubriand’s English literature—but, in all, the the taste, judgment, and scholarship of Prescott are rendered manifest. We shall speak again of this volume, next week:
+<lb/>Trifles in Verse: a Collection of Fugitive Poems. By Lewis J.
+<lb/>Cist. Cincinnati: Robinson &amp; Jones.
+<lb/>This is a duodecimo of 184 pages, well printed and bound. We regret to say, also, that it has for frontispiece a very greasy-looking lithograph portrait of the author—we cannot conceive what could have beguiled Mr. Cist into the perpetration of such absurdity.
+<lb/>The collection is so modestly prefaced as to disarm criticism. Mr. C. says:
+<lb/>To the high and honored title of Poet, in the legitimate sense of the term, the writer of the following pages makes no pretensions. Engaged, from his earliest youth, upwards, in a daily round of mer-
+<lb break="no"/>cantile pursuits, the “Trifles” which he thus offers to the public— the offspring of moments stolen from the desk of the banking-house and the counting-room—can, at the best, only entitle him to the more humble name of Versifier. Conscious of his want of those qualifications which might justify him in seeking to enter the inner temple of the sacred Nine, he has but ventured to loiter around the base of the flowery mountain; contenting himself with occasionally gleaning—here, it may be, a weed, and there, perchance, a flower— from such by-nooks and out of the way corners of the field of Fancy, as had been passed over by the more worthy and accredited gatherers of the golden-hued harvests of Parnassus.
+<lb/>The poems themselves are not particularly imaginative, but evince much purity of taste and fervor of feeling. We copy one of the best:
+<lb/>OLDEN MEMORIES.
+<lb/>They are jewels of the mind;
+<lb/>They are tendrils of the heart,
+<lb/>That with being are entwined—
+<lb/>Of our very selves a part.
+<lb/>They the records are of youth,
+<lb/>Kept to read in after years;
+<lb/>They are manhood’s well of truth,
+<lb/>Filled with childhood’s early tears.
+<lb/>Like the low and plaintive moan Of the night-wind through the trees,
+<lb/>Sweet to hear, though sad and lone,
+<lb/>Are those “Olden Memories!”
+<lb/>Like the dim traditions, hoary,
+<lb/>Of our loved and native clime;
+<lb/>Like some half-forgotten story,
+<lb/>Read or heard in olden time;
+<lb/>Like the fresh’ning dew of even
+<lb/>To the parched and drooping flower;
+<lb/>Like the peaceful thought of Heaven,
+<lb/>In life's tempest-stricken hour;
+<lb/>Like the cadence of a song;—
+<lb/>Yet, oh! sweeter far than these Are the thoughts that round us throng With those “Olden Memories!”
+<lb/>In the solitude of even,
+<lb/>When the spirit, lone and dreary,
+<lb/>Turns from Earth away, to Heaven,
+<lb/>As the refuge of the weary;
+<lb/>In the dreamy twilight hour,
+<lb/>When the world is calm and still,
+<lb/>And light zephyrs fragrance shower Over dewy vale and hill;
+<lb/>Oh! then, sweeter than perfume Borne on aromatic breeze,
+<lb/>To the softened spirit come Those dear “Olden Memories!”
+<lb/>In our days of mirth and gladness We may spurn their faint control,
+<lb/>But they come, in hours of sadness,
+<lb/>Like sweet music to the soul;
+<lb/>And in sorrow, o’er us stealing With their gentleness and calm,
+<lb/>They are leaves of precious healing,
+<lb/>They are fruits of choicest balm.
+<lb/>Ever till, when life departs,
+<lb/>Death from dross the spirit frees,
+<lb/>Cherish, in thine heart of hearts,
+<lb/>All thine “ Olden Memories!”
+<lb/>374
+<lb/>THE BROADWAY JOURNAL.
+<lb/>The Diadem fur 1846. A Present for All Seasons. With Ten Engravings, after Pictures by Inman, Leutze, &amp;c. Philadelphia: Carey &amp; Hart.
+<lb/>The Diadem is a quarto of very rich appearance in every respect, and especially well adapted for a Christmas Gift. It is edited by the Rev. W. H. Furness of Philadelphia. Its engravings are, for the most part, of high merit. The frontispiece is particularly excellent—a mezzotint in Sartain’s best manner, from Inman’s painting, “The Page.” The face is one of great sweetness and dignity of expression—but there is a pursiness about the chest and shoulders which slightly displeases. The title-page is from Leutze—an emblematical design—an angel presenting various devices. The editor speaks justly of the figure’s “serene and earnest eyes”—but the composition of the whole work is confused. “The Momentous Question” by Sartain is from a well-known painting by Miss Setchal, representing a vivid scene from Crabbe—admirable altogether. “The Fisherman’s Daughter” and “The Falconer’s Son” are somewhat rashly taken from Landseer’s picture of Bolton Abbey, the composition of which is so remarkably meritorious. In cutting out portions from such a work, there should have been fresh accessories, etc. What is admirable in its due position in a large picture, is very often displeasing when taken by itself, or merely with the points immediately surrounding it. “The Heart’s Misgivings” by Sartain from Frank Stone, is excellent. “The Early Dawn” also by Sartain from Joshua Cristall is, we think, the best picture in the Annual, with the exception of “The Mask” from Inman:— the mezzotinting in this last, is exceedingly good. “The Homeless” is from a picture by P. Poole an English artist, and has much force. The only engraving left unmentioned is a portrait of the deceased Edward L. Carey, drawn and engraved by Sartain. As a likeness we do not think it does full justice to the original, but we learn that it was partially taken after death.
+<lb/>The literary matter is supplied by the Editor—by Miss Lynch, Emerson and others. In general it is superior to the literature in Annuals. Here is something exceedingly piquant and naive.
+<lb/>A FABLE.
+<lb/>BY R. W. EMERSON.
+<lb/>The mountain and the squirrel Had a quarrel,
+<lb/>And the former called the latter “ little prig”;
+<lb/>Bun replied,
+<lb/>“You are doubtless very big,
+<lb/>But all sorts of things and weather Must be taken in together To make up a year And a sphere;
+<lb/>And I think it no disgrace To occupy my place.
+<lb/>If I’m not so large as you,
+<lb/>You are not so small as I And not half so spry.
+<lb/>I’ 11 not deny you make A very pretty squirrel track;
+<lb/>Talents differ; all is well and wisely put;
+<lb/>If I cannot carry forests on my back,
+<lb/>Neither can you crack a nut.
+<lb/>The Missionary Memorial; A Literary and Religious Souvenir. New-York: E. Walker, 114 Fulton St.
+<lb/>A thick duodecimo of 372 pages, fine paper, richly bound, and embellished with an illuminated frontispiece presenting a specimen of Baxter’s new process of printing in oil colors—subject
+<lb/>the Destruction of the Tanjore by lightning off Ceylon. In its literary contents the volume is especially rich. Among the names of contributors we notice Mrs. Sigourney, Whittier, Lowell, Hoyt, Tuckerman, Miss Gould, Simms, Mrs. Mowatt, Man-cur, Epes Sargent, and others. The papers are, without exception well written, and principally of a religious cast. The volume is inscribed to “The Friends of Missions.” Too much praise cannot be bestowed upon the editorial conduct and general getting up of this truly beautiful and valuable Annual.
+<lb/>The Rose, or Affection's Gift for 1846. Edited by Emily Marshall. Illustrated with Ten highly finished Steel Engravings. New-York: D. Appleton &amp; Co.
+<lb/>A 16 mo of 252 pages—beautiful paper, type and binding— upon the whole one of the most meritorious gift-books of the season. The literary contributors (authors’ names not affixed) are all replete with interest, and there is not one of the ten engravings which is not a bijou. The Frontispiece and Title-page are exquisite, and the finest taste is displayed throughout.
+<lb/>The May-flower for 1846. Edited by Robert Hamilton.— Boston: Saxton &amp; Kelt. For sale in New- York by Saxton &amp; Miles and Saxton &amp; Huntingdon.
+<lb/>We have twice before noticed “The May-flower” but, while we are on the subject of Annuals, cannot refrain from once again calling attention to its merits.
+<lb/>It opens with a very beautiful frontispiece—a mezzotint by Sartain from a painting by Winterhalter. The engravings throughout are by Sartain, and all are excellent—particularly so—in the way of small mezzotints we have never seen anything better. One of them, “Cup-Tossing,” from Crowley, is truly exquisite.
+<lb/>The contributions are, in general, from the most noted pens in America.
+<lb/>Elinor Willys; or the Young Folk of Longbridge. A tale. By Amabel Penfeather. Two volumes. Edited by J. Fenimore Cooper. Philadelphia: Carey &amp; Hart.
+<lb/>Mr. Cooper, in an Editor’s preface, says very seriously:
+<lb/>The writer of this book is a valued female friend, who had a right to ask, and did ask, its editor’s advice and assistance in presenting it to the public. That advice and assistance have been cheerfully afforded, though neither has properly extended to the literary character of the work. As the author has not wished to appear, the name of the editor has been used in obtaining the copy-right, and his assistance given in forwarding and returning proof-sheets. Over a few of the last the editor has cast his eye; but believing the author fully competent herself to superintend her own work, this supervision on the part of the editor has been very slight.
+<lb/>The author (real or supposititious) says afterwards in her own preface:
+<lb/>It will be more honest to confess at once, before the reader undertakes the first chapter, that the tale now before him is a first appearance in print, etc.
+<lb/>And subsequently:
+<lb/>If there are books which must be read, stupid or not, owing to the claim of some great name on the binding, the present story is not one of the number, etc.
+<lb/>All which only makes it apparent to our mind that Mr. Cooper is both author and editor. The names, as well as grammar, throughout, are exceedingly Cooperish- -and the dialogue is especially so. The narrative is one of much interest.
+<lb/>Wiley &amp; Putnam's Library of Choice Reading, No. 38. The Book of Christmas. By Thomas K. Hervey.
+<lb/>The book of Christmas is descriptive of the “ Customs, Cere-
+<lb break="no"/>THE BROADWAY JOURNAL.
+<lb/>375
+<lb/>monies, Traditions, Superstitions, Fun, Feeling, and Festivities of the Christmas Season.” The volume now published is, we believe, only an initial one; being limited to a review of the festival and its observances as they exist in England—adverting to the practices of other countries only incidentally. The book is full of interest, and is very seasonably put forth.
+<lb/>First Lessons in English Composition; or, a Help to Young Writers. By E. Nott, D. D., President of Union College. Sixth Edition.
+<lb/>First Lessons in Political Economy, for the Use of Schools and Families. By John M‘Vicar, I). I)., Professor of Political Economy, Columbia College, N. Y. Seventh Edition.
+<lb/>First Lessons in Chemistry, for the Use of Schools and Families. By Uncle Davy. Sixth Edition.
+<lb/>These little works have been received with great favor, and it would be difficult to conceive any similar Lessons better adapted to the instruction of very young persons. The two volumes first mentioned are guaranteed by the names of the authors. The last (by Uncle Davy) may be by Humphrey Davy, or his ghost, for anything that we know to the contrary, but with a fund of accurate chemical information it contains some unusually loose grammar. On the very first page, for example, we read:
+<lb/>Heat means the substance, that, when enough of it gets into anything, it makes that thing feel hot.
+<lb/>We will put this sentence (punctuation and all) against anything written by Thomas Carlyle.
+<lb/>These three valuable little volumes are published in New York, by Saxton &amp; Miles.
+<lb/>The Illustrated History of Palestine, from the Patriarchal Age to the Present Time. By John Kitto, Editor of the “ Pictorial Bible," the “ Cyclopaedia of Biblical Literature," etc. New York: Wm. H. Graham, Tribune Buildings.
+<lb/>A duodecimo of 223 pages, illustrated by various engravings on wood. The history reaches from the Deluge to the Restoration of Syria to the dominion of the Porte—is well written, succinct and yet sufficiently comprehensive.
+<lb/>Love and Mesmerism. By Horace Smith. New York: Harper &amp; Brothers.
+<lb/>A really admirable work, by an author who never did anything ill. No. 67 of the “Library of Select Novels.”
+<lb/>The Wandering Jew. Superbly Illustrated by the most eminent Artists of Paris. New York: Harper &amp; Brothers.
+<lb/>This admirable edition will be completed in about 18 numbers. No. 7 is issued.
+<lb/>Harpers' Illuminated and Illustrated Shakspeare. Nos. 71 and 72.
+<lb/>The conclusion of Timon, and commencement of Coriolanus It is quite impossible to exaggerate the merit of the engravings, or of the paper and type.
+<lb/>Republication of the London Lancet. New York: Burgess, Stringer
+<lb/>&amp; Co.
+<lb/>The December number is issued—forming No. 6 of Vol. 2.
+<lb/>Pictorial History of the World. By John Frost, L. L. D. Philadelphia: Walker and Gillis. For sale in New York by Wm. H. Graham.
+<lb/>No. 11 is issued—commencing the History of the Middle Ages.
+<lb/>The Vigil of Faith, and other Poems. By Charles Ffnno Hoffman. Fourth Edition. New York: Harper &amp; Brothers.
+<lb/>We have received this volume of true poetry at too late a period to do more than announce it.
+<lb/>From J. S. Redfield &amp; Co., we have received, also, too late for more than announcement, a beautiful edition of Shelley, with a well-written Prefatory Essay by G. G. Foster—and from Messrs. Clark &amp; Austin, a handsome collection of Poems by Alfred Street.
+<lb/>Sonnetto.
+<lb/>Degna nutrice delle chiare genti,
+<lb/>Ch’ ai di men foschi trionfar del mondo,
+<lb/>Albergo gia di Dei fido e girondo,
+<lb/>Or di lagrime triste e di lamenti;
+<lb/>Come posso udir io le tue dolenti
+<lb/>Voci, e mirar senzi dolor profondo II sornmo imperio tuo caduto al fondo,
+<lb/>Tante tue pompe, e tanti fregi spenti?
+<lb/>Tal cosí ancella maestà riserbi,
+<lb/>E si dentro al mio cor suona il tuo nome,
+<lb/>Ch’ i tuoi sparsi vestigi inchino e adoro;
+<lb/>Che fu a vederti in tanti onor superbi Seder Reina, e’ncoronata d’oro Le gloriose e venerabil chiome?
+<lb/>Giovanni Giudiecione,
+<lb/>The Fine Arts.
+<lb/>The German Opera, at Palmo’s, affords a nightly reunion of the lovers of classical music. Der Freischutz is performed in a style we little expected to find. The choruses are admirable— belter in fact than any we ever had in this city—and any one who knows what is the drudgery and difficulty of rehearsing an opera, with choristers of five or six different nations, one half of them scarcely acquainted with the first rudiments of music, will award great credit to the chorus master, Mr. Albert Berg. The first and second ladies, Madame Otto and Fraulein Korsinsky, the first for her admirable and correct singing, the latter for singing and acting, deserve high praise. Mr. Boucher astonished us by his beautiful enunciation, and when we consider that this gentleman has not sung in public before for eight years, he did far better than could be expected. On the whole, we think that, for the first time the American public can hear German music performed in German style. From their continual improvement, the troupe will probably attain that degree of goodness, which will insure, for themselves, a sound reputation as artists, and for the public, a lasting and welcome gratification. Die Schweizer Familie is the next opera, and the managers could not have made a better selection.
+<lb/>Mr. Burke has announced a second Concert at Niblo’s. We have not seen any programme, but we suppose that Mr. Burke’s reputation alone will fill the house.
+<lb/>Miss Northall’s Concert in Brooklyn, on Monday evening last, was attended by one of the most fashionable audiences. She sang, encores and all, nine times; and the Gypsey in the North, a very difficult composition by the by, was given so well that repeated acclamations of delight during the performance, and a thunder of applause at the end of it, were her just reward. The duetts with Signor de Begnis were excellent, and we did not find the dragging we usually noticed in these pieces. Mr. Timm was as usual, and he seems to be the same favorite in Brooklyn as in New York.
+<lb/>From Firth, Hall &amp; Pond, we have received
+<lb/>La Belle Bohémienne: a favorite Polka, by Henri Herz. This
+<lb/>376
+<lb/>THE BROADWAY JOURNAL.
+<lb/>composition is certainly more characteristic than many, from the same source, which have been issued so liberally within the last eight months. As it is easy, it will, no doubt, command a large sale.
+<lb/>Devilshoof Quick Step arranged from the Opera of the Bohemian Girl, by Allen Dodworth. This composition comes out a day after the fair, for the whole Opera is almost forgotten by this time. It is arranged very nicely, and we are glad to see for once, a piece clear of the gross faults with which arrangements of the kind generally abound.
+<lb/>The Freshness of Life's Early Spring, a song composed by Benjamin S. Hart. The whole melody seems to be the first part of something yet coming. As such it is very good, and lies in a compass which almost every voice can command.
+<lb/>Editorial Miscellany.
+<lb/>The Broadway Journal may be obtained in the City of New York of the following agents:—Taylor, Astor House; Crosby, Exchange, William street; Graham, Tribune Buildings; Lock-wood, Broadway and Grand; and Burgess &amp; Stringer, Ann and Broadway.
+<lb/>————
+<lb/>A New Volume of the Broadway Journal, will commence on Saturday, the tenth of January next.
+<lb/>Mr. Thomas H. Lane is the only person (beside ourself) authorized to give receipts or transact business for The Broadway Journal.
+<lb/>Erratum.—In speaking, last week, of Mrs. Osgood’s Poems, we used the word anapæstic, when we intended dactylic.
+<lb/>In The “Southern Literary Messenger” for December, we find a review (signed L.) of Leigh Hunt’s “Imagination and Fancy.” The critic is severe, and not unjustly so, although there are fifty points, at least, in which we disagree with him. The truth is, Hunt has exposed his weakness in “The Imagination and Fancy” which is a pitiable book—a mere jumble of crude, contradictory, unformed opinion—the opinion, too,of an ignorant man. We quote a passage or two from the review:—
+<lb/>JOHN H. GENIN,
+<lb/>FASHIONABLE HAT AND CAP ESTABLISHMENT,
+<lb/>214 Broadway.
+<lb/>GURNEY’S
+<lb/>PREMIUM DAGUERRIAN GALLERY,
+<lb/>189 BROADWAY, NEW-YORK.
+<lb/>PICTURES taken at this Establishment are not excelled in this country—so say his numerous patrons. The public are invited to call and judge for themselves.	oct2
+<lb/>G. B. CLARKE,
+<lb/>MERCHANT TAILOR, (from Brundage, Broadway,) No. 132 William Street, 3 doors from Fulton, N. Y.
+<lb/>Dress Coat, from f 12 00 to §20 00	Making and Trimming.
+<lb/>Pants,	“	2	50 to	8	00	Dress Coat,	from $6 00 to $9 00
+<lb/>Vests,	“	1	50 to	4	50	Pams,	“ 1 50 to 2	00
+<lb/>Vests,	“ 1 50 to 2	00
+<lb/>N. B. Seasonable SACK COATS, VESTS, &amp;c., always on hand, from $1 50 upwards.	nov8—3m
+<lb/>JOHN BURFORD,
+<lb/>PORTRAIT AND LANDSCAPE PAINTER.
+<lb/>27 Dey Street.
+<lb/>Hunt has somewhat improved his language since his palmy days, when he wrote the Lingua Cockneyana, and was truculently blackguarded by Christopher North. He still retains, however, a portion of the old leaven, and some of his vulgar smartness and “jauntiness,” may be discerned with no microscopic eye in many of the passages quoted. His old coined words, “sphery,” “prosaical-ness,” “unsuperfluousness.” “one-ness,” &amp;c., still occasionally flutter round his pen, and force themselves in, despite his better judgment. He speaks of “Bottom and his brother mechanicals” in Midsummer’s Night Dream, and defines Count Cenci, in Shelley’s magnificent tragedy, to be a “potent ruffian.” Sometimes, indeed, he ambitiously attempts a higher flight than his ordinary, careless, slip-shod, chatty, rambling style, and then his hippogriff, ascend-ing into unaccustomed regions, becomes so utterly bewildered, that its devious course can scarcely be traced. How lucid is the following final definition of verse. He evidently feels that in it he has exhausted the subject; there is nothing more to be said concerning it, and that from so self-evident a decision there is no appeal.
+<lb/>Verse, in short, is that finishing and rounding, and ‘ tuneful planeting' of the poet’s creations, which is produced of necessity by the smooth tendencies of their energy, or inward working, and the harmonious dance into which they are attracted round the orb of the beautiful.
+<lb/>Well done! We especially like that idea of the poet’s creations skipping it on the light fantastic toe, and many-twinkling feet, round the “orb of the beautiful.” The only regret it leaves with us is, that we have not been there to see it.
+<lb/>Of Leigh Hunt, it may verily be said “nihil quod, teligit non inquinavit."* He attempts to praise nothing that he does not tend to lower in our estimation. His panegyric on Shelley, in “Byron and his Cotemporaries,” for a while almost gave us a dislike to that noble and nearly blameless character. He has a trifling, childish manner of praising, that frequently disgusts one with the objects of his admiration. How disagreeable are the following remarks concerning Shakspeare, whom he is comparing with Dante!
+<lb/>It is far better, that as a higher, more universal, and more beneficent variety of the genus Poet, he should have been the happier man he was, and left us the plump cheeks on his monument, instead of the carking visage of the great, but over-serious and one-sided Florentine. Even the imagination of Spenser, whom we take to have been a “nervous gentleman” compared with Shakspeare, was visited with no such dreams as Dante. Or, if it was, he did not choose to make himself thinner, (as Dante says he did,) with dwelling upon them. He had twenty visions of nymphs and bowers, to one of the mud of Tartarus.
+<lb/>• Mem. This is not our Latin .—Ed. B. J.
+<lb/>JAMES PIRSSON,
+<lb/>     PIANO FORTE MANUFACTURER, 88, 90, and 92 Walker Street, near Elm. A large stock of the finest instruments always on hand. Terms moderate. For Sale—a splendid Harp, nearly new—to be sold at a great bargain for cash.
+<lb/>PENMANS HIP.
+<lb/>RE-OPENING OF GOLDSMITH’S WRITING ACADEMY, 289 Broadway—La Farge Buildings, Corner of Reade street. Terms reduced to Three Dollars, and no extra charge.
+<lb/>Mr. Oliver B. Goldsmith respectfully informs the citizens of New York and Brooklyn, that his rooms are now open, during the day and evening, for Pupils and Visitors. Mr. G’s. specimens of PENMANSHIP
+<lb/>have received the First Premium Five Years, from the American Institute, and he guarantees to all, in TEN EASY AND INTERESTING EXERCISES, a free and elegant style of writing, that the pupils cannot possibly ever lose in their future practice.
+<lb/>For sale, at the Academy, GOLDSMITH’S GEMS OF PENMANSHIP.
+<lb/>Ladies’ Class meets daily at 11 o’clock. Gentlemen’s day and evening. See circular.	s18
+<lb/>WEDDING, VISITING, AND PROFESSIONAL CARDS Engraved and Printed at VALENTINE’S, 1 Beekman-st. Lovejoy’s Hotel.
+<lb/>THE BROADWAY JOURNAL.
+<lb/>377
+<lb/>NEW BOOKS,
+<lb/>TO BE PUBLISHED BY
+<lb/>MESSRS. WILEY &amp; PUTNAM,
+<lb/>IN DECEMBER.
+<lb/>I.
+<lb/>Carlyle’s new Work. The Letters and Speeches of Oliver Crorn-well, with Elucidations, by Thomas Carlyle, in 2 vols. 8 vo., with Portrait, engraved by F. Hall IVom an original by Cooper, in the possession of Archdeacon Berners. Also, 2 vols. 10mo., in the “ Library of Choice Readings.”
+<lb/>II.
+<lb/>Stories from the Italian PoetSy being a summary in Prose of the Poems of Dante, Pulci, Bolardo, Ariosto, and Tasso, with comments throughout, occasional passages versified, and Critical Notices of the Lives and Genius of the Authors. By Leigh Hunt, lGmo.
+<lb/>III.
+<lb/>The Book of Christmas. By T. K. Hervey.
+<lb/>IV.
+<lb/>Views and Reviews in American History, Literature. and Art. By W. Gilmore Simms.
+<lb/>V.
+<lb/>The Alps and the Rhine. By J. T. Headley.
+<lb/>VI.
+<lb/>Mrs. Southey's Poems. The Birth-day, and other Poems—Solitary Hours. By Caroline Southey, 2 vols. lGmo.—(Shortly.)
+<lb/>VII.
+<lb/>The Author of “Undine.” Theiodolf the Icelander. By La Motte Fouqué, l6mo.
+<lb/>VIII.
+<lb/>Tales from the German of Zschokkey second series. Illumination; or, the Sleep Walker—The Broken Cup—Jonathan Frock — The Involuntary Journey—Leaves from the Journal of a Poor Curate in Wiltshire. By Parke Godwin.
+<lb/>IX.
+<lb/>The Vicar of Wakefield.—An edition on superior paper, with choice Illustrations by Mulready,
+<lb/>JUST PUBLISHED.
+<lb/>The Life of the Great Condé By Lord Mahon, forming Nos. XXXIV. and XXXV. of “The Library of Choice Reading.” dec 4	WILEY &amp; PUTNAM, 161 Broadway.
+<lb/>PAINE &amp; BURGESS, 62 JOHN STREET.
+<lb/>HAVE lately published—
+<lb/>1. The Artist, Merchant and Statesman, 2 vols. 12mo.
+<lb/>2. Trippings in Authorland, by Fanny Forrester, 12mo.
+<lb/>3. Songs and Ballads, by Geo. P. Morris, 32mo. gilt.
+<lb/>4. Prariedom ; Rambles and Scrambles in Texas, or New Estre-madura, with a Map, by a Southron, 1 vol. 12mo.
+<lb/>5. Autobiography of Alfieri, 1 vol. 12mo.
+<lb/>6. Citizen of a Republic, by Ceba, 1 vol. 12mo.
+<lb/>7. Florentine Histories, by Machiavelli, 2 vols. 12mo.
+<lb/>8. Challenge of Barletta, by D’Azeglio, 1 vol. l2mo.
+<lb/>9. Musical Spelling Book, by E. Ives, 1 vol. 8vo.
+<lb/>10. Beethoven Collection of Sacred Music.
+<lb/>11. Rambles by Land and Water, or Notes of Travel in Cuba and Mexico, elegantly illustrated, by B. M. Norman, 1 vol. 12mo. NEARLY READY,
+<lb/>1. Montezuma, The Last of the Aztecs; an Historical Romance on the Conquest of Mexico, by Edward Maturin, 2 vols. 12mo.
+<lb/>2. Morris &amp; Willis’ Library of the Rose and Poetry of Europe and America, 1 vol. 8vo. An elegant and valuable Gift Book. 3. Old Continental, or the Price of Liberty ; by the author of “ Dutchman’s Fireside,” 2 vols. 12mo.
+<lb/>4. Man in the Republic, by C. Mathews, 32mo. gilt.
+<lb/>5. Musical ABC, for children, lGmo.
+<lb/>G. Greece of the Greeks, by G. A. Perdicaris, late U. S. Consul at Athens, 2 vols. 12mo. illustrated.
+<lb/>7. Musical Reader, 4to.
+<lb/>8. The Prince, by Machiavelli, 1 vol. 12mo.
+<lb/>9. The Musical Wreath, 4to.
+<lb/>10. Over the Ocean ! or Glimpses of Many Lands, by a Lady.
+<lb/>Knox's Hats.
+<lb/>THE FALL STYLE OF GENTLEMEN’S HATS are now ready for the season, 1845, which for lightness and superiority of color cannot be surpassed—which is a very important part of the hat, retaining the color'till it is worn out Any article sold in this establishment is never misrepresented but sold for what it is. Also the Fall style of Boy’s and Children’s Caps, of various patterns. Gentlemen can have their hats made to order in any shape or style they wish. A full assortment of Ladies’ Muff's, of all kinds.
+<lb/>C. KNOX, No. 110 Fulton st.
+<lb/>nov 8—3m	between William and Nassau sts.
+<lb/>HUNT’S MERCHANTS’ MAGAZINE
+<lb/>I	AND
+<lb/>COMMERCIAL REVIEW.
+<lb/>Established July, 1839,
+<lb/>BY FREEMAN HUNT, EDITOR AND PROPRIETOR.
+<lb/>PUBLISHED MONTHLY,
+<lb/>At 142 Fulton St., N. York—at $5 00 per annum, in advance.
+<lb/>THE MERCHANTS’ MAGAZINE and COMMERCIAL REVIEW embraces every subject connected with Commerce, Manufactures and Political Economy, as follows:—Commercial Legislation; Commercial History and Geography; Mercantile Biography; Descriptive, Statistical, and Historical Accounts of the various commodities which form the subject of Mercantile Transactions; Port Charges; Tariffs; Customs and Excise Regulations; Commercial Statistics of the United States and the different countries of the world, with which we have intercourse, including their Physical Character, Population, Productions; Exports, Imports, Seaports, Monies, Weights, Measures, Finance and Banking Associations, and Enterprises connected with Commerce, embracing Fisheries, Incorporated Companies, Railroads, Canals, Steamboats, Docks, Post Offices, &amp;c.; Principles of Commerce, Finance and Banking with Practical and Historical Details and Illustrations; Commercial Law, and Mercantile Reports and Descisions of Courts in the United States and Europe, including, Insurance, Partnership, Principal and Agent, Bills of Exchange, Sale, Guaranty, Bankruptcy, Shipping and Navigation, &amp;c., and whatever else should tend to develop the resources of the country and the world, and illustrate the various topics bearing upon Commerce and Commercial Literature.
+<lb/>It has been, and will continue to be, the aim of the Editor and Proprietor of the Merchants’ Magazine, to avoid everything of a party, political, or sectional bias or bearing, in the conduct of the work—opening its pages to the free and fair discussion of antagonistic doctrines connected with the great interests of Commerce, Agriculture, Manufactures and the Currency.
+<lb/>— Complete sets of the Merchants’ Magazine, embracing 13 semi-annual volumes, of about 600 large octavo pages each, bringing it down to December 1845, inclusive, may be obtained at the Publisher’s Office, 142 Fulton street, New York, at the subscription price.
+<lb/>— Publishers of newspapers, in the United States, by giving this advertisement two or three insertions and remitting Two Dollars to the Proprietor, will be entitled to the Magazine for one year.
+<lb/>Office of Merchants’ Magazine, Jan. 1846.
+<lb/>Dec. 20.—5t.
+<lb/>JOHN ANDERSON &amp;. Co.,
+<lb/>IMPORTERS AND DEALERS IN
+<lb/>CHOICE SEGARS, and Manufacturers of Premium Tobacco and Snuff’s—2 Wall, and 13 and 15 Duane streets, New York.
+<lb/>nov8—3m
+<lb/>TO MEDICAL MEN.
+<lb/>THTS DAY PUBLISHED, THE LONDON LANCET FOR NOVEMBER, a Journal of British, Foreign, Medical and Chemical Science, Criticism and News—edited by Thomas Wakely, M. P. Surgeon, and Henry Bennett, M. D.
+<lb/>This is the fifth number of the second volume, containing, besides its usual quantity of valuable matter, the 2d Lecture of a series of Lectures on Organic Chemistry, by Justus Liebig.
+<lb/>Also, four additional Lectures on the Mechanism and Management of Natural and Difficult Labors, by Edward W. Murphy, A. M. M. D.
+<lb/>Terms—§5 per annum, in advance; single numbers 50 cents— mailed to any part of the United States, by
+<lb/>BURGESS, STRINGER &amp; CO.
+<lb/>222 Broadway, corner of Ann st.
+<lb/>P. S.—The postage to any distance on the Lancet is 6 1/4 cts.
+<lb/>J. BALLARD,
+<lb/>PROFESSOR OF THE GUITAR, SINGING AND FLUTE. No. 15 Spring street.
+<lb/>UNITED STATES HOTEL.
+<lb/>THE PROPRIETOR OF THIS HOTEL, desires to return his thanks to his friends, and the traveling portion of the community generally, for the favors which they have bestowed upon him since he opened his establishment, and to assure them that he will spare no exertions to render his House worthy of the patronage of which he has already received so liberal a share.
+<lb/>II. JOHNSON.
+<lb/>Nov. 5th, 1845.	6m
+<lb/>378
+<lb/>THE BROADWAY JOURNAL
+<lb/>HARPER &amp; BROTHERS’ RECENT PUBLICATIONS.
+<lb/>In one splendidly printed volume, with above 1000 engravings.
+<lb/>Sheep Extra.—Price $3 75.
+<lb/>I.
+<lb/>ENCYCLOPAEDIA OF DOMESTIC ECONOMY.
+<lb/>“The wide range of topics comprised in this valuable publication, commends it to the attention of an unusually extended class of readers:—to the family circle primarily, the architect, the horticulturist, the cabinet-maker, and others to whom the work addresses itself. It is undoubtedly by far the best work of reference ever presented for the use of families. Every housekeeper would find the work a real treasure.”—Globe.
+<lb/>II.
+<lb/>PROFESSOR WLIEWELL’S ELEMENTS OF MORALITY. Two volumes 12mo. extra gilt, ft.—Forming the commencement of HARPERS NEW MISCELLANY.
+<lb/>“A work of extraordinary merit. It is a thorough discussion of the fundamental principles of morals, by one of the profoundest thinkers of the age; and whether his conclusions are adopted or not, no reader can fail to perceive in any page, the traces of discrimination, thought, and a high moral aim. its classic purity and precision of style is also a strong recommendation of the work.”—Observer.
+<lb/>III.
+<lb/>MORRELL’S AMERICAN SHEPHERD;
+<lb/>Being a complete history of the sheep, with their breeds, management, diseases, &amp;c. Illustrated by numerous engravings, 1 vol. 12mo., cloth binding, $l—paper covers 75 cents.
+<lb/>“The above named volume, which is issued under the immediate sanction of the New-York State Agricultural Society, is a work of great practical importance, and contains a prodigious amount of instructive matter, suited to the farmer, the cattle fattener, the agriculturist and the wool-grower. Every one interested in these departments of commerce, would find the work invaluable.”—Evening Gazette.
+<lb/>IV.
+<lb/>ILLUSTRATED WANDERING JEW.
+<lb/>In numbers; price 25 cents each. Profusely embellished.
+<lb/>“We think these illustrations evince more vigor, brilliancy, and effect, than almost anything of the kind we have yet seen. As the Harpers publish this revised and elegant edition at such very trifling charge, we doubt not a prodigious demand will await it from the public; and it richly merits the largest popularity.”—Ev. Post.
+<lb/>V.
+<lb/>GEN. GREEN’S
+<lb/>TEXAN EXPEDITION AGAINST MIER,
+<lb/>Including the subsequent imprisonment of the author; his sufferings and final escape from the Castle of Perote: with reflections upon the present political and probable future relations of Texas, Mexico and the United States, &amp;c. Illustrated by thirteen line engravings. One volume, 8vo. $2.
+<lb/>“This stirring narrative of the perilous and heroic exploits of a small band of patriotic Texans, who won not only laurels by their prowess, but liberty, is so rife with thrilling interest that it will win the attention of the public with the fascination of a romance.”— Com. Ado.
+<lb/>VI.
+<lb/>CURIOUS AND UNIQUE WORK.
+<lb/>Now ready in one beautiful octavo volume, with many Engravings on steel. Price, $2.
+<lb/>NARRATIVE OF A MISSION TO BOKHARA,
+<lb/>In the year 1843-45, to ascertain the fate of Col. Stoddart and Capt. Conolly.
+<lb/>By the Rev. Joseph Wolff, LL.D.
+<lb/>“This work has created a prodigious excitement throughout England; it is unique in its character, as a literary production. It seems to partake of the features of an autobiography; the narrative being full of personal detail, description of the perilous adventure and imminent hazard of the author, in his expedition through the East. No man living, perhaps, has traveled so extensively as this celebrated individual, and few could have contributed a more intensely interesting narrative of his experience.
+<lb/>“It will thus be seen that this extraordinary and eccentric man is admirably qualified to present a transcript of Asiatic Characteristics,—supplying much that is novel and exceedingly curious about tribes and nations of which we know so little To say that the work is an acceptable addition to the library of travel, is affirming far too little of so striking a production: it is a book that ought to be read and deliberately enjoyed by every intelligent person, for its quaintness, freshness, and superabounding interest. The work is elegantly printed as a library book, and aderned by some dozen curious fac-similes of oriental drawings.”—Courier and Enquirer.
+<lb/>IMPORTANT WORKS.
+<lb/>RECENTLY PUBLISHED BY
+<lb/>J. &amp; H. G. LANGLEY, 8 ASTOR HOUSE.
+<lb/>I.
+<lb/>VON RAUMER’S NEW WORK.
+<lb/>America and the American People: being the result of the author’s recent travels through the United States. Translated from the German of Frederick Von Raumer, by Professor Win. W. Turner. 1 vol. 8vo. 330 pp. Price $2.
+<lb/>II.
+<lb/>ELIZA COOK’S POETICAL WORKS.
+<lb/>New Edition, containing all her recent productions. Edited by Rufus Griswold. 1 vol. 12mo., illustrated with a portrait and twelve exquisite English engravings. Copies in Morocco, super. $3 50—Cloth Gilt, $2 50.
+<lb/>“This is a beautiful volume, splendidly bound, and still more elegantly illustrated, and combining some of the choicest poems in the language. The “Old Arm Chair” is one of the most popular poems, and has touched the hearts of thousands who never knew even the name of the author. She writes for the heart, and her beautiful songs always reach it. The book forms one of the most elegant holiday presents yet offered.”—Cour. &amp; Enq.
+<lb/>III.
+<lb/>MISS BARRETT’S POEMS.
+<lb/>The Drama of Exile, and other Poems, by Elizabeth B. Barrett, 2vols. 12mo., elegantly printed.—$ 2 00.
+<lb/>“Miss Barrett is worth a dozen of Tennyson, and six of Mother-well—equal, perhaps, in original genius, to Keats and Shelley— There are beauties enough in one of her poems to have made a fame in Waller’s time.”—Willis' Evening Mirror.
+<lb/>IV.
+<lb/>GREGG’S SANTA FE AND THE PRAIRIES.
+<lb/>Commerce of the Prairies, or the Journal of a Santa Fe Trader. The personal observation of a trader, made on eight several expeditions across the Great Western Prairies, and during an almost uninterrupted residence of nine years in Northern Mexico.—Illustrated with numerous engravings. New Edition, revised by the Author. By Josiah Gregg. 2vols. 12mo. $2 00.
+<lb/>V.
+<lb/>M. DE TOCQUEVILLE’S GREAT WORK.
+<lb/>Democracy in America, by Alexis De Tocqueville. Third edition, in 2 vols. 8vo. Corrected and Enlarged, with an original Index. Translated by Henry Reeve, Esq., with introductory Prefaces, by the honorable John C. Spencer. Price $4 00 in muslin or sheep.
+<lb/>“This work is one of the most profound and philosophical ever writen upon the character and institutions of our country.—Boston Traveler.
+<lb/>“As a study of political science, this book stands unrivaled in our times; equally remarkable for lucidity of style, acuteness and delicacy of reasoning, and for the moral and intellectual vigor with which it has been conceived and completed.”—London Times.
+<lb/>VI.
+<lb/>DE TOCQUEVILLE ABRIDGED.
+<lb/>Designed for District School Libraries, Colleges, Sec. In accordance with the recommendation of several superintendents of District Schools, the Publishers beg to announce that they have just issued a condensed edition of the above standard work, adapted expressly for the use of District Schools, Colleges, Sec., to form 1 vol. 12mo. Price $1 00.
+<lb/>VII.
+<lb/>THE LIFE OF GENERAL FRANCIS MARION.
+<lb/>By W. Gilmore Simms, author of “Guy Rivers.” Sec. Sec. Seventh edition, revised by the author, with numerous engravings, 1 vol. 12mo.—$1.
+<lb/>“Few characters have stood out more boldly on our Revolutionary Annals, or have supplied more interesting and exciting materials for the historian than that of Gen. Marion; and it is not saying too much to claim for the work before us no less the merit of accredited historical truth, than the most stirring and absorbing attributes of high-wrought fiction.”—Renwcratic Review.
+<lb/>VIII.
+<lb/>THE POETICAL WORKS OF PRAED.
+<lb/>Lillian, and other Poems, Fanciful and Facetious. By William Mackworth Praed. First collected edition. Edited by R. W. Griswold, 1 vol. 12mo., muslin,. $1 25.
+<lb/>“Praed was the Poet of Society, 'a fellow of infinite humor,’ and in scholarship and art, surpassed by none of the English poets of the age. Though many of his pieces have been almost universally read in this country, they have never yet been printed collectively, either here or in England.”—Democratic Review.
+<lb/>THE BROADWAY JOURNAL
+<lb/>379
+<lb/>THE SECOND VOLUME OF
+<lb/>THE ARISTIDEAN:
+<lb/>A JOURNAL OF REVIEWS, POLITICS, AND LIGHT LITERATURE—By Thomas Dunn English, and numerous collaborators—commences on the 20th of January, 1846.
+<lb/>The Aristidean is published monthly, each number containing 80 pages, octavo, printed on handsome white paper, with bold, clear type, at Five Dollars per annum, payable in advance.
+<lb/>The aim of the editor has been to establish a Journal of Art and Letters, whose papers should be distinguished for force, vigor, sarcasm and pith, rather than an unutterable and bathetic profundity; one, which should not fear to expose literary quackery, and give to writers a proper precedence; one that had the moral courage to praise an enemy’s good works, and censure a friend’s bad ones; one that would maintain a rigorous independence on literary, political and religious matters; one that would attack all abuses without scruple; one that was insensible to fear, and deaf to favor; and one that depended for success on the merit of its papers, and not on the names announced as contributors. If the editor may judge from the high panegyric of the press, and the more substantial evidence of an increasing subscription list, he has succeeded in his intention.
+<lb/>Those desiring to sustain an independent and fearless magazine will be kind enough to remit their subscriptions by mail, rather than through an agent.
+<lb/>THOMAS DUNN ENGLISH,
+<lb/>dec13—tf	304 Broadway, city of New York.
+<lb/>WILEY &amp; PUTNAM
+<lb/>PROPOSE to supply, if there is sufficient patronage, the original London editions of the following Periodicals at the prices annexed, to be mailed in London.
+<lb/>The Periodicals will be put in strong wrappers with printed address, and can be sent to any part of the United States; so that they may be received as soon as the letters per Boston Steamers.
+<lb/>All persons wishing to subscribe will please address Wiley &amp; Putnam, before the first of December next.
+<lb/>Subscriptions must be paid in all cases in advance.
+<lb/>Edinburgh Review,	$3	50	Quarterly Review’,	$3 	50
+<lb/>Foreign Quarterly Review, 3 50	North British Review,	3 	50
+<lb/>Westminster Review, 3 50	For. and Colonial Review, 3	50
+<lb/>Forbes’ Medical Review, 4 00	Blackwood’s Magazine,	5	 00
+<lb/>Frazer’s Magazine,	5	00	Presbyterian Review,	3 	50
+<lb/>dec 13—3t
+<lb/>PAINE &amp; BURGESS, 62 JOHN STREET,
+<lb/>WILL PUBLISH, IN A FEW DAYS,
+<lb/>THE ARTIST, MERCHANT, AND STATESMAN, Part I.— This work is made up of the choicest and most original material on Fine Arts, Commerce, and Political Economy, by C. Edwards Lester.
+<lb/>PRARIEDOM ; Rambles and Scrambles in Texas, or New Estre-madura, by a Southron, 1 vol. l2mo. with a map. “It is light and vivacious—filled with incident—easy and flowing in style, and brilliant in imagery.”—Evening Mirror.
+<lb/>THEY ARE PREPARING FOR PUBLICATION,
+<lb/>Songs and Ballads by Gen. G. P Morris, 32mo. gilt.
+<lb/>    Rambles by Land and Water, or Notes of Travel in Cuba and Mexico; including a canoe voyage up the river Panuco, and Researches among the Antiquities of Taumelipas, byB. M. Norman, 1 vol. 12mo. illustrated
+<lb/>The Greece of the Greeks, by G. A. Perdicaris, U. S. Consul at Athens, 2 vols. 12mo. illustrated.
+<lb/>Trippings in Authorland, by Fanny Forrester.
+<lb/>Montezuma, the Last of the Aztecs; an Historical Romance of the Conquest of Mexico, by Edward Maturin, 2 vols. 12mo.
+<lb/>“This is an original American work.”
+<lb/>The Prince, by Machiavelli, 1 vol. 12mo.
+<lb/>Man in the Republic, by C Mathews, 1 vol. 32mo. gilt.
+<lb/>The Old Continental, or the Price of Liberty; an historical romance, be the author of the “Dutchman’s Fireside,” 2 vols. 12mo. NOW READY,
+<lb/>The Medici Series of Italian Prose.
+<lb/>The Autobiography of Alfieri, 1 vol. 12mo. Price 50 cents.
+<lb/>The Secret Thoughts and Actions of Genius, blended with the wildest adventures and strongest caprices.
+<lb/>The Citizen of a Republic; what are his rights and duties, by Ansaldo Ceba, 1 vol. 12mo. Price 50 cents. “A book of condensed and rare thoughts, like diamonds finely polished and richly set.” The Challenge of Barletta, a Romance of the times of the Medici, 1 vol. 12mo.
+<lb/> "a gem gathered from the jeweled mine of Italian romance.” The Florentine Histories, by Machiavelli, 2 vols. 12mo.
+<lb/> "The charmed records of the classic city of the Arno, by the master spirit of his age.”	nov 8
+<lb/>CHEAP MUSIC.
+<lb/>HOMANS &amp; ELLIS have published the first No. of
+<lb/>THE MUSICAL, WORLD.
+<lb/>A Semi-monthly Magazine, containing sixteen pages of beautifully printed Music, and a Journal of Musical Biography, Criticism, and News.
+<lb/>Edited by Henry C. Watson.—Contents of No. 1.
+<lb/>I’ll be There,—words by Fitzball—music by Herbert Rodwell. Let no thought of care oppress thee,—words by Charles Jeffreys, music by Bellini.
+<lb/>Far away in my own bright land,—	“	 "Bellini.
+<lb/>O cast that shadow from thy brow,—a beautiful ballad.
+<lb/>The sunny hours of childhood,—words by J. L. Carpenter— music by J. Hanowav, 11. A.
+<lb/>The melodies of many lands,—words by Charles Jeffreys—music by C. W. Glover.
+<lb/>Price 25 Cents.
+<lb/>The second number of the Musical World will be published on the 15th inst.
+<lb/>In Press—Grand Galop, by Leopold de Meyer, with a portrait and critical biography, will be ready early next week.
+<lb/>PIANO FORTES.
+<lb/>THOMAS H. CHAMBERS, (formerly Conductor to Dubois and Stodart,) No. 385 Broadway, will keep a complete assortment of the latest approved Grand Action Piano Fortes of the most superior quality; such as he is prepared to guarantee for their excellence of l one, Touch, and External Finish, and to endure in any climate. A liberal discount from the standard prices. Fiano Fortes Tuned and Repaired. Piano Fortes always on hire
+<lb/>PIANO FORTES,
+<lb/>CHEAP FOR CASH.—The Subscribers have on hand a handsome assortment of 6, 6 1/2, and 7 octave mahogany and rosewood Pianos, which they will warrant, and sell low for cash or approved paper.	GLENN, ROGERS, &amp; Co.,
+<lb/>Manufacturers, 152 Fulton street, east of Broadway
+<lb/>PIANO FORTES.
+<lb/>XT F. HARRISON, 23 CANAL STREET, N. Y.—Instru-» • ments made with the most recent improvements, such as Iron Frames, &amp;c., with a compass of 6 and 7 octaves. They are made from choice materials, and highly finished, with the most faithful workmanship, the result of 23 years experience in the business.
+<lb/>N. B.—Wanted a second hand Parlor Organ.
+<lb/>Piano Fortes hired by the month.
+<lb/>ÆOLI AN ATTACHMENT.
+<lb/>Herrmann s. saroni, professor of music, 116
+<lb/>Leonard street, New York, teaches the Piano Forte, with or without Coleman’s celebrated Attachment.
+<lb/>PIANO FORTES.
+<lb/>H WORCESTER, No. 139 THIRD AVENUE, CORNER • of 14th street, respectfully informs his friends and the public, that he has a good assortment of Piano Fortes, in rosewood and mahogany cases, from 6 to 7 octavos. Persons wishing to purchase will find it to their advantage to call and examine before purchasing elsewhere.
+<lb/>Ceneral Furnishing Hardware, Cutlery, Tools, &amp;c.
+<lb/>OSBORN &amp; LITTLE,
+<lb/>Importers and General Dealers in English, German, and American
+<lb/>HARDWARE, CUTLERY, &amp;.C.,
+<lb/>No. 33 FULTON STREET,
+<lb/>BETWEEN pearl and water streets, [Where the business has been carried on for eighty years past.]
+<lb/>CHARLSES OSBORN. 	
+<lb/>CHARLES S. LITTLE. 	NEW YORK.
+<lb/>Hardware, Cutlery, Nails, Locks, Latches, Butts, Screws, Anvils, Vices, Saws, Files, Shovels and Spades, Hollow Ware, Corn and Coffee Mills, Rivets, Pumps, Curriers’ Hones, Crucibles, Black Lead, Pots, &amp;c. See. Also, Genuine Haarlaem Oil. American Coopers and Carpenters’ Edge Tools, of Albertson’s, Conger’s Barton’s Horton’s, Gifford’s, and other makers. Also, Cooper’s Truss Hoops.	nov8—3m
+<lb/>380
+<lb/>THE BROADWAY JOURNAL.
+<lb/>CATALOGUE OF TEAS,
+<lb/>ON SALE AT THE TEA WAREHOUSE OF THE
+<lb/>PEKIN TEA COMPANY,
+<lb/>Importers of fine Green and Black Teas, No. 75 Fulton street, New York.
+<lb/>[The teas mentioned in this Catalogue arc done up in quarter, half-pound, and pound packages—the first, or inside wrapper is lead, the second wrapper is water-proof paper, and the third, or outside wrapper, is of Chinese rice paper. The company sell none but good teas, done up in this superior manner, all of them grown in the most luxurious districts in China. Country dealers can select as small a quantity of each kind as they like, and have them packed in one chest. These teas also come in five pound Chinese packages, called quattoons, a very convenient, fanciful and portable shape.]
+<lb/>Green Teas.	Black Teas.
+<lb/>Young Hyson, sweet cargo, 50                      Pouchong, good, full flavor, 38 do	do	do do finer, 62 1/2	do	fine,	50
+<lb/>do	do	finer cargo, 75	do	very	superior,	75
+<lb/>do	do	extra fine,	87 1/2
+<lb/>do	do	Silver Leaf, 1,00                Souchong, good,	38
+<lb/>Silver Leaf — Seldom sold,	do	extra fine,	50
+<lb/>even by large dealers, because of the very small pro-          Oolong, strong, flavor fine, 50 fits made on its sale. This	   Oolong—This tea is a great
+<lb/>is a very superior tea.	favorite, and gives universal
+<lb/>do do Golden Chop, Planta- satisfaction.
+<lb/>tion or Garden growth, 1,50	    do	very fine,	62 1/2
+<lb/>Golden Chop — This is the	    do	in one pound	and
+<lb/>finest Green Tea cultivated	half pound cattys,
+<lb/>in China. It is of the first	extra fine,	75
+<lb/>pickings, and excels all otlier
+<lb/>Green Teas for its delicacy           Ne Plus Ultra,	1,50
+<lb/>of flavor, strength, and aro-        Ne Plus Ultra—This tea is ma. Heretofore this tea has	as fragrant and sweet as a
+<lb/>never reached this country,	nosegay. It yields a perfume
+<lb/>except in small lots, as pre-	that is truly delightful. It is
+<lb/>sents to importers.	of garden growth, and supe-
+<lb break="no"/>Hyson,* very fine,	75	rior to anything of the kind
+<lb/>do Plantation growth, 1,00	ever sold in this country.
+<lb/>Gunpowder, good,
+<lb/>do	superior, [Read	English Breakfast Tea, very
+<lb/>“monstrous fraud”	fine, 50
+<lb/>below,]	1,00 do	do do in
+<lb/>do	small leaf, planta-	one pound and half pound
+<lb/>tion growth,	1,25	cattys.	62 1/2
+<lb/>Imperial, good,	—
+<lb/>do brisk and fragrant,	Howqua’s Mixture, a strong
+<lb/>[Read “ monstrous	and rich black tea, Pekoe
+<lb/>fraud” below,] 1,00	flavor,	75
+<lb/>do curious leaf, very Congo, good,	37 1/2
+<lb/>superior,	1,25	do very fine,	50
+<lb/>Hyson Skin, good, fine flavor, 38 Pekoe Flowers, good,	87 1/2
+<lb/>do	do extra fine,	62 1/2	do do garden	growth, 1,50
+<lb/>* Caution.—Large quantities of Hyson Skin are retailed in this market as being a Hyson Tea. It is well worth while to compare the Hyson Tea usually sold at 75 cents with the genuine article that the company offer at the same price. The difference is so perceptible, on trial, as to render any further comment unnecessary.
+<lb/>Monstrous Fraud.—Gunpowder and Imperial Teas cannot be retailed by small dealers, in this country, at 75 cents per pound, because they frequently cost that money in China, and no Importer in this city can sell good Gunpowder or Imperial Tea at a less prica than 75 cents per pound by the hundred packages. T. F. Davies, Esq., in his interesting work on China, details the manner in which he saw the lowest grades of Black Teas manufactured and colored with Prussian Blue, so as to closely imitate Gunpowder and Imperial Teas, and adds, the Prussian Blue being a combination of Prussic Acid with Iron, is of course a dangerous poison. Let purchasers therefore beware of adulterated teas, and deal with those venders whose characters and resources raise them above suspicion. Beware of the Gunpowder and Imperial Teas retailed at 75 cents per pound, and compare them with the genuine article sold by the Pekin Tea Company. No one, it is presumed, wishes to drink poison. The company have published a book, giving full details on this subject, which may be had at their warehouse, 75 Fulton street, free of charge.
+<lb/>Recommendations.
+<lb/>We drink Green Tea, and for many years have been paying one dollar per pound for it. But thanks to the Pekin Tea Company, we now get a better tea from them at 75 cents per pound. We drink one pound per week, by which we are now saving thirteen dollars per year, and enjoying better tea in the bargain. Commend us to the Pekin Tea Company, say we.—[Mirror.
+<lb/>The Pekin Tea Company, 75 Fulton street, are performing a great and good work, and will, in a few years, beyond all doubt, drive all the poor teas which have deluged this country, and defrauded consumers of the article, out of the market. They import none but pure and fra-
+<lb break="no"/>grant teas, and retail them by the single pound at wholesale prices. Families are always sure of obtaining good teas at this great tea warehouse, in quantities to suit their convenience, and at the same price that the merchant pays who buys to sell again.—[Daily True Sun.
+<lb/>You may be sure of obtaining at all times, pure and highly flavored teas, by the single pound, at wholesale prices, of the Pekin Tea Company, 75 Fulton street. They have probably the largest stock, and greatest variety of green and black teas, of any one establishment in the United States. They are doing a large business, and a great benefit to consumers of tea.—[Atlas.
+<lb/>Heretofore it has been very difficult, indeed impossible, to always obtain good green and black teas; but now you have only to visit the ware:rooms of the Pekin Tea Company, 75 Fulton street, to obtain as delicious and fragrant teas as you could wish for.—Daily Sun.
+<lb/>If any of our readers desire to have good tea, they can obtain it of the Pekin Tea Company, 75 Fulton street.—[Mercury.
+<lb/>A Word to Tea Drinkers.—The Pekin Tea Company, 75 Fulton street, have imported into this market some five hundred thousand dollars worth of the finest grade of green and black teas, grown in the Celestial Empire, done up in all the various fancy packages that Chinese ingenuity can invent. It is a privilege to buy teas at this great establishment, and a luxury and comfort to drink them. They sell good teas only, and retail them at wholesale prices. Country merchants who wish to always sell good teas can always obtain them at this place, on reasonable terms.—[Emporium.
+<lb/>The Pekin Tea Company.—We very cheerfully call the attention of all lovers of pure and fragrant Teas, both in town and country, to the great tea warehouse of this company. Our long acquaintance with the proprietors enables us to bespeak for them the entire confidence of the public. We know that their teas, both in quality and price, are all that is stated of them. Many a lover of the fragrant herb has been compiled to eschew the drinking of tea in consequence of its injurious effects, until at length he has become hopeless of finding, among any of the imported varieties of tea in our market, a kind which had not such an effect. In this, however, such persons will be agreeably disappointed. The Pekin Tea Company have commenced the importation of choice varieties of Garden Teas, of most delicious flavor—cultivated and picked with great care, which have heretofore never been introduced into this country, except as presents to importers. Among these they have an Oolong, mild as zephyr, and fragrant as a rose, which we especially recommend to all nervous persons. Its effect upon many of those who have tried it, is to make them confirmed tea-drinkers. Ladies who have tried it say they never before drank such tea. But all tastes can here be suited, with the great advantage over other stores of getting a pure article at wholesale price, however small the quantity. The company's warehouse is at 75 Fulton street.—[New World.
+<lb/>Tea.—The Pekin Tea Company, No. 75Fulton street, unquestionably sell the best teas imported into this market. That they sell them cheaper than any other establishment, is a fact proven in a thousand instances since they have opened their store.
+<lb/>We would advise our friends to call at this place, and if they don’t wish to buy, at least to obtain a little pamphlet, kept on their counter, entitled “Hints to Tea-Drinkers,” and therefrom learn a little useful information on the subject. The pamphlet is given gratis.—[Anglo-American.
+<lb/>The finest specimens of green and black teas ever sold in this country, are imported by the Pekin Tea Company, 75 Fulton street. Those who want good teas at reasonable prices, can always get them there.—[Tribune.
+<lb/>We have tried the teas imported by the Pekin Tea Company, 75 Fulton street, and, if we live, will try them often. They are selling the most delicious teas we ever drank, and retail them at wholesale prices.—[Evening Post.	oct. 8.
+<lb/>THE BROADWAY JOURNAL:
+<lb/>Edgar A. Poe, ::::::	Editor and Proprietor.
+<lb/>IS PUBLISHED EVERY SATURDAY:
+<lb/>OFFICE304BROADWAY, CORNER OF DUANE.
+<lb/>Terms $3,00	annum—single numbers six and a quarter cents.
+<lb/>The Broadway Journal is, in its general character, a literary paper, occupying itself with original, and more especially with critical articles, in every department of Literature, properly so called—with a preference, nevertheless, for the Belles Lettres and the Fine Arts. There is no better medium in the country for literary or artistical advertisements.
+<lb/>AGENTS:
+<lb/>Redding &amp; Co., Boston, Mass                Thos H Pease, New Haven, Ct R G H Huntington, Hartford, Ct           J C Morgan, New Orleans M Baullemet, Mobile, Ala	W W Kingsley, New London, Ct
+<lb/>Robinson &amp; Jones, Cincinnati, O          G N Beesley, Utica, N Y D M Dewey, Rochester, NY                   H B Strang, Peekskill, N Y J Robertson, Syracuse, NY	Haliburlon&amp; Dudley, Boston, Mass
+<lb/>W E Bussell, Schenectady, NY              S Thompson, Worcester. Mass Levi Willard, Trov, N Y	Peter Cooke, Hartford, Ct
+<lb/>G Jones, Albany, NY	H Esten, Providence, R I
+<lb/>S F Hoyt, Newburgh, N Y	Safford &amp; Park, Norwich, Ct
+<lb/>Shurtz Wilde, Baltimore. Md                John Tomlin, P M Jackson, Tenn Colon &amp; Adriance, Philadelphia            S Hart, Sen., Charleston, S C.</body>
+<back>
+      <!-- here is a sample place for contextual information: -->
+      <div type="editorial">
+        <listPerson>
+          <person>
+            <persName><!-- canonical name --></persName>
+            <birth>
+              <placeName><!-- where born; date on when= of <birth> --></placeName>
+            </birth>
+            <death>
+              <placeName><!-- where died; date on when= of <death> --></placeName>
+            </death>
+          </person>
+        </listPerson>
+      </div>
+    </back>
+  </text>
+</TEI>
