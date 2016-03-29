@@ -1,0 +1,13 @@
+TEI { margin: 20px 200px; display: block;}
+
+* { color: #888; font-size: 0px; }
+
+person { background: #CCC; font-size: 14pt; float: left; padding: 1px; margin: 10px 20px;}
+
+persName { display: block; float: left; background: #FFD ; color: #000; font-size: 14pt; padding: 5px; margin: 5px;}
+
+placeName { display: block; float: left; background: #DFF; color: #000; font-size: 14pt; padding: 5px; margin: 5px;}
+
+name { display: block; float: left; background: #DFD; color: #000; font-size: 14pt; padding: 5px; margin: 5px;}
+
+persName *, placeName *, name * { font-size: 14pt }

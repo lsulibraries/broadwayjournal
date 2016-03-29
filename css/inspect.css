@@ -1,0 +1,43 @@
+TEI { margin: 20px 100px 20px; display: block; width: 100%;}
+
+
+teiHeader { display: block; background: #eee; margin: auto; max-width: 800px;}
+fileDesc, encodingDesc, revisionDesc, titleStmt, publicationStmt { display: block; max-width: 100px; padding: 5px;  }
+
+text { margin: 10px 100px; display: block; }
+front, body, back { margin: 10px 100px; display: block; }
+
+* { color: #888; font-size: 4px; }   /* greeked text */
+
+
+listPlace, listPerson, tagsDecl { display: block; width: 400px; }
+person, persName, name, author, byline { background: #FF0; }
+persName {   background: #FFD ; }
+placeName, pubPlace {  background: #DFF; }
+
+
+hi, rend, rendition, code, graphic { background: #F9F; }
+desc {  }
+ref, ptr, idno { border-bottom: 2px dotted #88F; }
+
+body, div, div1, div2, div3, div4, div5 { display: block; margin: 5px; padding: 5px; border: 2px solid #eee; float: left;}
+lg { display: block; padding: 1em; border: 1px solid #F88; float: left;}
+l { display: block; text-indent: 15px; }
+lb { display: block; float: left;}
+p { display: block; text-indent: 10px; width: 150px; margin: 5px; float: left;}
+
+i { font-style: italic; }
+
+birth, death, floruit, faith, date, ab, ref, salute, signed, opener, closer, trailer { background: #F0F; }
+reg, orig, choice, supplied, unclear, add, note, damage, sup, sub, cit, ornament, gap  { background: #8CC;  }
+del { text-decoration: line-through; color: #888;}
+
+
+title, head, label { color: #800; background: #F88;}
+
+q, quote { background: #8F8; }
+smcap { font-variant: small-caps; }
+
+pb:before, milestone:before { content: "●"; font-size: 8pt; position: relative; left: 0px; display: block; text-align: center; }
+
+table, row, cell { display: block; border: 1px dotted #444; }

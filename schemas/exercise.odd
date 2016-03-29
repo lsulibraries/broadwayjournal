@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<?xml-model href="../../ODD_exercise/schemas/odd4odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../ODD_exercise/schemas/odd4odds.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Generic TEI Schema for Teaching</title>
+        <author>Syd Bauman</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Northeastern University Women Writers Project</publisher>
+        <availability status="free">
+          <p>Copyright 2006 Syd Bauman</p>
+          <p>Licensing: publicly available for copying, use, and
+            distribution <!-- need license reference here --></p>
+          <p>Permission for direct modification is reserved; contact
+            the author if you need to do this.</p>
+          <p>On the other hand, permission to create your own ODD file
+            based on a complete copy of this file <emph>is</emph>
+            granted, so long as appropriate attribution is given. (E.g.,
+            copying the contents of this <gi>fileDesc</gi> into the
+            <gi>biblFull</gi> of the new ODD's <gi>sourceDesc</gi>, then
+            copying the entire <gi>body</gi> element into the new ODD's
+            <gi>text</gi>, and make any modifications there that you'd
+            like. Although I'd appreciate it if you'd change the name of
+            the language to avoid confusion.)</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>While this language is loosely based on the <title>A Small
+            Teaching TEI Schema</title>, there is no source, this file was
+          born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="#sbauman.emt" when="2013-02-21">
+        Bring up to P5 2.3.0 &#x2014; use <att>include</att> and no longer need to add <att>style</att>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart>A Generic TEI Schema for Teaching</titlePart>
+      </docTitle>
+      <docAuthor>Syd Bauman</docAuthor>
+      <argument>
+        <p>A TEI schema intended to be used for
+          demonstrations when teaching TEI</p>
+      </argument>
+    </front>
+    <body>
+      <div type="section">
+        <head>Modules Included</head>
+        <p>This schema is a very large subset of the TEI, likely to be too
+          large for most proactical purposes. It is intended for use when
+          teaching TEI. It includes the following modules:
+          <list>
+	    <item>analysis</item>
+	    <item>core</item>
+	    <item>corpus</item>
+	    <item>drama</item>
+	    <item>figures</item>
+	    <item>gaiji</item>
+	    <item>header</item>
+	    <item>linking</item>
+	    <item>namesdates</item>
+	    <item>nets</item>
+	    <item>tagdocs</item>
+	    <item>tei</item>
+	    <item>textcrit</item>
+	    <item>textstructure</item>
+	    <item>transcr</item>
+	    <item>verse</item>
+	  </list>
+          That is to say, it includes all TEI modules except:
+	  <list>
+	    <item>certainty</item>
+	    <item>declarefs</item>
+	    <item>dictionaries</item>
+	    <item>iso-fs</item>
+	    <item>msdescription</item>
+	    <item>nets</item>
+	    <item>spoken</item>
+	  </list>
+	</p>
+      </div>
+      <div type="section">
+        <head>Technical Specification</head>
+        <schemaSpec ident="exercise" start="TEI">
+          <!-- ******************************************************** -->
+          <!-- module inclusion section                                 -->
+          <!-- ******************************************************** -->
+          <moduleRef key="analysis"/>
+          <moduleRef key="core"/> <!--required-->
+          <moduleRef key="corpus"/>
+          <moduleRef key="drama"/>
+          <moduleRef key="figures"/>
+          <!-- moduleRef key="gaiji" / -->
+          <moduleRef key="header"/> <!--required-->
+          <moduleRef key="linking"/>
+          <moduleRef key="namesdates"/>
+          <!-- moduleRef key="nets" / -->
+          <moduleRef key="tagdocs" include="gi att val tag"/> <!-- [1] -->
+          <moduleRef key="tei"/> <!--required-->
+          <moduleRef key="textcrit"/>
+          <moduleRef key="textstructure" except="div0 div1 div2 div3 div4 div5 div6 div7"/> <!--required-->
+          <moduleRef key="transcr"/>
+          <moduleRef key="verse"/>
+          <moduleRef key="msdescription"/>
+          <!-- [1] Used for just a few phrase-level elements -->
+          <!-- ******************************************************** -->
+          <!-- attribute constraint section                             -->
+          <!-- ******************************************************** -->
+          <elementSpec module="core" ident="del" mode="change">
+            <attList>
+              <attDef ident="type" mode="replace">
+                <datatype maxOccurs="3">
+                  <rng:ref name="data.enumerated"/>
+                </datatype>
+                <valList type="semi">
+                  <valItem ident="crossout"/>
+                  <valItem ident="blotted-out"/>
+                  <valItem ident="squiggles"/>
+                </valList>
+              </attDef>
+            </attList>
+            <remarks>
+              <p>This schema uses <att>type</att> to describe what
+	      kind of deletion was performed, and <att>rend</att> to
+	      describe any nuances of that, e.g. color of pen,
+	      particularly heavy crossout, etc.</p>
+            </remarks>
+            <listRef>
+              <ptr target="#COEDADD" type="div3"/>
+            </listRef>
+          </elementSpec>
+        </schemaSpec>
+      </div>
+    </body>
+  </text>
+</TEI>

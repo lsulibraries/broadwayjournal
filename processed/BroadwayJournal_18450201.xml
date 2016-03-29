@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -41,7 +43,7 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab><ab>THE BROADWAY JOURNAL.
 <lb/>
 <lb/>VOL. 1.        NEW YORK, SATURDAY, FEBRUARY 1, 1845.                                 N° 5.
 <lb/>
@@ -2831,7 +2833,7 @@
 <lb/>
 <lb/>JOHN BISCO, Publisher, 153 Broadway.
 <lb/>
-<lb/>John Douglas, Printer, 68 Ann Street.</body>
+        <lb/>John Douglas, Printer, 68 Ann Street.</ab></body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

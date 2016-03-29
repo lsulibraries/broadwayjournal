@@ -1,0 +1,294 @@
+/*
+** This template file intended for workshop attendees to use
+** as a skeleton that represents the TEI files they created
+** making during the "samples" hands-on part of the class. This
+** template doesn't *do* anything but supply a suggested starting
+** list of selectors with 'display's. The list is derived not from
+** the TEI schema, but rather from the list of elements we discussed
+** during the first day of the workshop.
+**
+** written 2005-06-14 by Syd Bauman
+** updated 2006-02-17 by Syd Bauman -- upgraded to P5
+** updated 2011-03-21 by Julia Flanders -- created new version with rudimentary styling
+** Copyleft 2005 Syd Bauman and Julia Flanders
+*/
+
+TEI {
+	display: block;
+}
+
+/*
+** <teiHeader> section
+**
+** Note that these selectors are path specific (i.e., they list the
+** path from the root node to the element in question), so they do
+** not apply to elements elsewhere. E.g., a <title> can be used
+** inside <bibl>, but that would not be affected by the following
+** declaration.
+*/
+
+TEI > teiHeader {
+    display:block;
+    background-color:green;
+}
+
+TEI > teiHeader > fileDesc > titleStmt > title {
+	display: block;
+}
+TEI > teiHeader > fileDesc > titleStmt > author {
+	display: block;
+}
+TEI > teiHeader > fileDesc > titleStmt > editor,
+TEI > teiHeader > fileDesc > titleStmt > funder,
+TEI > teiHeader > fileDesc > titleStmt > principal,
+TEI > teiHeader > fileDesc > titleStmt > respStmt,
+TEI > teiHeader > fileDesc > titleStmt > sponsor { display: none; }
+
+TEI > teiHeader > fileDesc > publicationStmt > date {
+	display: block;
+}
+TEI > teiHeader > fileDesc > publicationStmt > address,
+TEI > teiHeader > fileDesc > publicationStmt > authority,
+TEI > teiHeader > fileDesc > publicationStmt > availability,
+TEI > teiHeader > fileDesc > publicationStmt > distributor,
+TEI > teiHeader > fileDesc > publicationStmt > idno,
+TEI > teiHeader > fileDesc > publicationStmt > p,
+TEI > teiHeader > fileDesc > publicationStmt > pubPlace,
+TEI > teiHeader > fileDesc > publicationStmt > publisher { display: none; }
+
+TEI > teiHeader > fileDesc > sourceDesc { display: none; }
+
+TEI > teiHeader > encodingDesc { display: none; }
+
+TEI > teiHeader > profileDesc { display: none; }
+
+TEI > teiHeader > revisionDesc { display: none; }
+
+/*
+** major structure
+*/
+group {
+	display: block;
+}
+
+text {
+	display: block;
+	background-color: #EDC;
+}
+
+front {
+	display: block;
+}
+
+body {
+	display: block;
+}
+
+back {
+	display: block;
+}
+
+div {
+	display: block;
+}
+
+/*
+** "divtop" and "divbot" kinds of things
+*/
+head {
+	display: block;
+	text-align:right;
+	font-size:400%;
+}
+
+argument {
+	display: block;
+}
+
+epigraph {
+	display: block;
+}
+
+dateline {
+	display: block;
+}
+
+salute {
+	display: block;
+}
+
+opener > salute {
+	display: block;
+}
+
+closer > salute {
+	display: block;
+}
+
+trailer {
+	display: block;	
+}
+
+/*
+** prose
+*/
+
+p {
+	display: block;
+	text-indent:1em;
+}
+
+figure {
+	display: block;
+}
+
+list {
+	display: block;
+}
+
+item {
+	display: block;
+}
+
+/*
+** poetry
+*/
+l {
+	display: block;
+}
+
+lg {
+	display: block;
+}
+
+/*
+** drama
+*/
+castList {
+  display: block;
+}
+castItem {
+  display: list-item;
+}
+sp {
+	display: block;
+	padding-top: 1em;
+	padding-left: 1ex; padding-right: 1ex;
+}
+
+speaker {
+	display: block;
+	font-weight: bold;
+	color: green;
+}
+
+stage {
+	display: block;
+}
+
+
+/*
+** phrase-level
+*/
+q {
+	display: inline;
+}
+
+said:before {
+    content: '«';
+}
+
+said:after {
+    content: '»';
+}
+
+name {
+	display: inline;
+}
+
+persName {
+    display:inline;
+    color:maroon;
+}
+
+placeName {
+    display:inline;
+    font-style:italic
+}
+
+date {
+	display: inline;
+}
+
+soCalled {
+	display: inline;
+}
+
+term {
+	display: inline;
+}
+
+distinct {
+	display: inline;
+}
+
+emph {
+	display: inline;
+	font-weight:bold;
+}
+
+/*
+** That which used to be Janus tags in P4
+*/
+
+/* First, when a child of <choice> ... */
+
+choice > abbr {
+	display: inline;
+}
+
+choice > expan {
+	display: inline;
+}
+
+choice > orig {
+	display: inline;
+}
+
+choice > reg {
+	display: inline;
+}
+
+choice > sic {
+	display: inline;
+}
+
+choice > corr {
+	display: inline;
+}
+
+/* ... then in any other circumstance */
+
+abbr {
+	display: inline;
+}
+
+expan {
+	display: inline;
+}
+
+orig {
+	display: inline;
+}
+
+reg {
+	display: inline;
+}
+
+sic {
+	display: inline;
+}
+
+corr {
+	display: inline;
+}
