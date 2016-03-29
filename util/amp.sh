@@ -3,7 +3,7 @@
 
 #mkdir bkup
 
-for i in ../txt/*; do
+for i in ../raw/*; do
     #echo "working on file $i\n"
     filename=$(echo $i | cut -f 3 -d '.')
     #echo "filename after first cut = $filename \n"
