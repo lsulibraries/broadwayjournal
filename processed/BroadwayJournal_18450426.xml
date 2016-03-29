@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL
 <lb/>VOL. I.	NEW YORK, SATURDAY, APRIL 26, 1845.	NO. 17.
 <lb/>Three Dollars per Annum.	Published at 153 Broadway
 <lb/>Single Copies, 6 1-4 Cents.	C. F. BRIGGS, EDGAR A. POE, H. C. WATSON, EDITORS.	By JOHN BISCO.
@@ -2524,7 +2525,8 @@
 <lb/>R. G. H. Huntington, •	.	.	Hartford, Ct.
 <lb/>George Jones, .... Albany,N. Y.
 <lb/>Thomas H. Pease,	.	.	.	New Haven, Ct.
-<lb/>John Douglas, Printer, 68 Ann Street.</body>
+<lb/>John Douglas, Printer, 68 Ann Street.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

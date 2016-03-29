@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.
 <lb/>NEW YORK, SATURDAY, AUGUST 2, 1845.
 <lb/>NO. 4.
@@ -677,7 +678,8 @@
 <lb/>L.	Willard,.......................Troy.
 <lb/>M.	BAULLEMET,.....................Mobile, Al.
 <lb/>J. C. Morgan, . . . ...............New Orleans.
-<lb/>Robinson &amp; Jones,. ....... Cincinnati, O.</body>
+<lb/>Robinson &amp; Jones,. ....... Cincinnati, O.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

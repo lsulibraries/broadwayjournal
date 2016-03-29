@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.	NEW YORK, SATURDAY, OCTOBER 18,1845.	NO. 15.
 <lb/>Three Dollars per Annum.	Edited BY	Published at 135 Nassau-st
 <lb/>Single Copies, 6 1-4 Cents.	EDGAR A. POE AND HENRY O. WATSON.	By JOHN BISCO.
@@ -625,7 +626,8 @@
 <lb/>H. Eston, Providence, R. I.
 <lb/>Safford &amp; Park, Norwich. Ct.
 <lb/>John Tomlin, P. M. Jackson, Tenn.
-<lb/>S. Hart, Sen., Charleston, S.C.</body>
+<lb/>S. Hart, Sen., Charleston, S.C.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

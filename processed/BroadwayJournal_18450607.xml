@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. I.
 <lb/>Three Dollars per Annum. Single Copies 6 1/4 Cents.
 <lb/>NEW YORK, SATURDAY, JUNE 7, 1845.	NO. 23.
@@ -598,7 +599,8 @@
 <lb/>George Jones,........................Albany, N.Y.
 <lb/>Thomas H Pease,......................New-Haven, Ct.
 <lb/>L. Willard............................Troy.
-<lb/>J. R. Winser, Printer, 138 Fulton-street.</body>
+<lb/>J. R. Winser, Printer, 138 Fulton-street.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

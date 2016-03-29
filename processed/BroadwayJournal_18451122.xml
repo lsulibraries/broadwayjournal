@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.	EDGAR A. POE,
 <lb/>editor and proprietor,	NO. 20.
 <lb/>NEW-YORK, SATURDAY, NOVEMBER 22, 1845.
@@ -2402,7 +2403,8 @@
 <lb/>Safford &amp; Park, Norwich. Ct.
 <lb/>John Tomlin, P. M. Jackson. Tenn.
 <lb/>S. Hart, Sen., Charleston, S. C.
-<lb/>PRINTED AT THE OFFICE OP THE PARMER AND MECHANIC.</body>
+<lb/>PRINTED AT THE OFFICE OP THE PARMER AND MECHANIC.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿OCT  2 6  1965 NCB
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿OCT  2 6  1965 NCB
 <lb/>THE BROADWAY JOURNAL.
 <lb/>VOL. 2.
 <lb/>NEW YORK, SATURDAY, JULY 12, 1845.	NO. l.
@@ -652,7 +653,8 @@
 <lb/>George Jones......................Albany, N. Y.
 <lb/>Thomas H. Pease..................New-Haven, Ct.
 <lb/>L. Willard........................Troy.
-<lb/>JOHN DOUGLAS, Printer, 106 Fulton-street, New-York</body>
+<lb/>JOHN DOUGLAS, Printer, 106 Fulton-street, New-York</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

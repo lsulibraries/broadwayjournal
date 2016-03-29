@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 1.	NEW YORK, SATURDAY, APRIL 19, 1845.
 <lb/>C. F. BRIGGS, EDGAR A. POE, H. C. WATSON, EDITORS.
 <lb/>NO. 16.
@@ -2445,7 +2446,8 @@
 <lb/>executed by his own hand, and a more beautiful, and indeed a more
 <lb/>wonderful display of the power of that little instrument which is said
 <lb/>to be “ more potent than the sword,” we never witnessed before.
-<lb/>John Douglas, Printer, 68 Ann Street.</body>
+<lb/>John Douglas, Printer, 68 Ann Street.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">

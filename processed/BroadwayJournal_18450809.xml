@@ -41,7 +41,8 @@
       <!-- main document goes here, possibly divided into <div>s -->
       <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
       text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>﻿THE BROADWAY JOURNAL.
+      should delete this at your earliest convenience. :-)</ab>
+      <ab>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.	NEW YORK, SATURDAY, AUGUST 9, 1845.	NO. 5.
 <lb/>Three Dollars per Annum.
 <lb/>Single Copies, 6 1-4 Cents.
@@ -2234,7 +2235,8 @@
 <lb/>D. M. Dewey.....................Rochester. N. Y.
 <lb/>J. Robertson,...................Syracuse, N. Y.
 <lb/>W. E. Husiell,..................Schenectady, N. Y.
-<lb/>Haliburton &amp; Dudley,............Boston, Mass.</body>
+<lb/>Haliburton &amp; Dudley,............Boston, Mass.</ab>
+</body>
 <back>
       <!-- here is a sample place for contextual information: -->
       <div type="editorial">
