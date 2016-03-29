@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- the line above is the "XML declaration"; it is not -->
+<!-- required, but we recommend using it -->
+<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- the two lines above are processing instructions for finding the schema; -->
+<!-- they are intended for oXygen, but other software might use them, also -->
+<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be transformed by "teibp.xsl" -->
+<?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be styled by "tiny_TEI_template.css" -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- put title here --></title>
+        <author>
+          <persName><!-- author's name here --></persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><!-- publisher here --></publisher>
+        <availability>
+          <ab><!-- copyright or copyleft information here --></ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <!-- source information here; better yet, use a <biblStruct> instead -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <!-- front matter, if any, goes in <div>s, here -->
+    </front>
+    <body>
+     <div><open><p><title>AMERICAN PROSE WRITERS.<title><p>
+
+<p><subtitle>NO. 3.<subtitle><p>
+
+<p><persName><subject><author>R. H. Dana.<author><subject><persName><p>
+
+<p>If fancy (as we justly conceive the case to be) represent
+the leading traits in the intellectual constitution of <persName><author>Mr.
+Willis<author><persName>: <emphasis>sentiment<emphasis>, we apprehend, with no less characteris-
+tic force, forms the most prominent features in the genius
+and writings of <persName><subject><author>Mr. Dana<author><subject><persName>. No mere sentimentalist, our au-
+thor is emphatically a man of sentiment: no hypocritical <persName><author>Jo-
+seph Surface<author><persName>, full of cant and moral pretensions, but a genu-
+ine man of feeling, unlike, or rather superior to, <persName><author>Mackenzie’s<author><persName>
+hero, in being, in addition, a true philosophic observer of
+life and character, a stem self-student, and, a powerful
+painter, according to the stereotyped phrase, of men and
+manners.<p>
+
+<p>This attribute of sentiment, in the instance of our author,
+is at one and the same time, a moral and an intellectual
+quality, religious, high-toned, upright, masculine, partaking
+of the softness of <persName><author>Mackenzie<author><persName> and the stern dignity of <persName><author>Words-
+worth<author><persName>. Apart from this faculty, <persName><subject><author>Mr. Dana<author><subject><persName> is a writer of
+great purity and power, of much acuteness and elegance in
+other walks than in those of philosophic sentiment or of
+sentimental description; but in those he is a master, and
+ranks first among his contemporaries and countrymen. He
+has vast powers in depicting the struggles of the darker pas-
+sions, jealousy, hatred, suspicion and remorse. <persName><character>Paul Felton<character><persName>
+has touches of Byronnic force, and discloses a similar vein to
+that so fully opened and with such popular effect in the
+works of <persName><author>Godwin<author><persName> and <persName><author>Chas. Brockden Brown<author><persName>.<p>
+
+<p>This, however, is what one would call, perhaps, with a
+certain degree of innocence, the uncomfortable portion of
+<persName><subject><author>Mr. Dana’s<author><subject><persName> genius, and of which the tendency is doubtful.
+It is an open literary question, as to the extent that such
+characters as that of <persName><character>Paul Felton<character><persName> should be taken, for the de-
+lineation of real characters. An idiot, a madman, a mono-
+maniac, may be made very effective in vigorous description,
+but is not the simple-hearted <persName><character>Jonathan Fords<character><persName>, for example,
+a better character both for study and imitation? Doubtless
+more than one <persName><character>Paul Felton<character><persName> has birds, but we do not go to
+nature, in bad extravagances or capricious words, for instruc-
+tion or delight—else the records of a Prison or a Lunatic
+Asylum would form the truest volumes of history, instead of
+merely furnishing a few supplementary chapters of strange
+idiosyncrasies, or morbid developments. But, we have no
+idea of going into a deep question of psychological criticism
+at present; merely remarking that we have not the remotest
+idea of any, but the purest intention, in the mind of the crea-
+tor of that wretched man, as he has himself called him, and
+yet from false sympathy or an unhappy bias, that way, the
+readers of that most terrible history may become unaware so
+strangely interested in the character and fate of the hero, as
+to feel the ill effects of such an unmanly weakness long after
+he had hurriedly perused the story—the wonderful truth and
+fidelity of the analysis of the heart, and the vivid description
+of the darkest passions, set off and release the hateful moral
+deformity of the diabolical passions, that festers and finally ut-
+terly corrupts the heart of their victim. Otherwise, as a
+picture of naked hideousness, the tale could be read only by
+the wisest and the weakest.<p>
+
+<p>The sentiments of the writer even in the midst of these
+harrowing scenes, comes in as an angel during a whirlwind
+excited by the most malicious fiends in hell, spreading a hea-
+venly calm, and casting a pure bright effulgence over an at-
+mosphere of gloom and despair.<p>
+
+<p>In <persName><character>Paul Felton<character><persName>, <persName><subject><author>Mr. Dana<author><subject><persName> has exhibited power in depicting
+passion, as well as sentiment: and the same criticism ap-
+plies to his <persName><character>Thornton<character><persName>, though in a much inferior degree.
+Yet he is most at home in pictures of domestic life; in de-
+scribing the charm of home scenes, in realizing the ideal of
+conjugal felicity. Strange, that the author, who as a man is
+so enthusiastic on such a theme, should, as a poet, (for he is
+one as much in <persName><character>Tom Thornton<character><persName> and <persName><character>Paul Felton<character><persName>, as in <title>the
+Buccaneers<title>,) delight in pictures, also, of gloom, of crime, of
+remorse.<p>
+
+<p>Sentiment furnishes the key, also, to the criticisms of
+<persName><subject><author>Dana<author><subject><persName>. We noticed this in his lectures a few winters since
+on the poets and dramatists. He finds this, his favorite facul-
+ty, beautifully expressed by the ballad writers and the Shaks-
+perian dramatists among the old writers; and by <persName><author>Words-
+worth<author><persName> and <persName><author>Coleridge<author><persName>, among the new; and to them he has
+given his heart. The single critical paper in the volume of
+<persName><subject><author>Dana’s<author><subject><persName> selected works, on the acting of <persName><artist>Kean<artist><persName>, is full of it, no less
+than of acuteness and deep insight into the mysteries of art,
+both of which indeed are colored and refined by it, to a point
+and degree that may be honestly declared as not being very
+far distant from perfection. The paper is almost equal in its
+way, to <persName><artist>Elia’s<artist><persName> admirable miniature sketches: differing, as
+widely in spirit, as they resemble each other in execution.<p>
+
+<p>As a writer of sentiment, love, in its forms both of senti-
+ment and passion, (for it varies in different natures, and is the
+offspring of the temperaments of the affections and of the
+fancy, according to the individual constitution, mental or mor-
+al, or sensitive of the recipient and cherisher of it,) constitutes
+the staple of <persName><subject><author>Dana’s<author><subject><persName> inventions and speculations—of love in
+all of its degrees, he is a delicate limner or a vigorous pain-
+ter, according as the subject is a delicate woman or a manly
+man: a quiet, retired, meditative nature, or a stirring, active,
+ambitious character. The female character has full justice
+done it, by the writer of <title>Edward and Mary<title>. Judging from
+his writings on this subject, Mr. Dana has been a happy man.
+Yet he can paint a weak credulous mother, or a dashing,
+heartless woman of fashion (see <persName><character>Tom Thornton<character><persName>) with as
+subtle skill as he can delineate the fond, confiding heart, the
+clear and wise judgment, the gentle and amiable tastes, of
+a true woman and a good wife.<p>
+
+<p>We have other points to speak of, than that only of our au-
+thor’s sentiments, however, and must not dwell too long on
+that.<p>
+
+<p><persName><subject><author>Mr. Dana<author><subject><persName> has been connected in ties of literature and fami-
+ly connection, with the first artist and finest poet of our
+country. <persName><artist><author>Allston<author><artist><persName> and <persName><subject><author>Dana<author><subject><persName> married sisters, and remained to
+the last intimate associates. We have heard <persName><subject><author>Mr. D.<author><subject><persName> speak of
+his works out at <placeName>Cambridgeport<placeName> (we think where <persName><artist><author>Allston<author><artist><persName> re-
+sided) and his conversations there with the Poet Painter, as
+among his richest pleasures, nor should we forget that <persName><author>Bry-
+ant<author><persName> was the early associate, as he remains the "oldest friend
+of our author. Some of <persName><subject><author>Dana’s<author><subject><persName> finest portrait contributions,
+were included in <persName><author>Bryant’s<author><persName> <title>New York Review<title>. The father,
+too, is happy in a son who has written one of the best books<pb>
+of its class since the world renowned fiction of <persName><author>De Foe<author><persName>. With
+these connections to boast of, the nobility of genius has had
+to contend with comparative neglect and poverty: sure ever
+of a high place in the esteem and admiration of good critics,
+honest readers and worthy men, whose applause constitutes
+his fame, but who have little else to give beyond sympathy
+and respect.<p>
+
+<p>The late reviews of American novelists, in the <title>Quarterly<title>,
+just and fair in the main, was yet guilty of omissions that
+should have been noticed at the time, and filled up by a
+competent critic. It is not our purpose, at present, to occupy
+the whole ground, nor fill the entire vacancy—that is to be
+left to the writer, who can honestly appraise the merits of
+the authors less unnoticed, in a sort of article supplementa-
+ry. Three comic writers, at least as worthy of notice as <persName><author><woman>Miss
+Leslie<woman><author><persName>,—<persName><author><woman>Neale<woman><author><persName>, <persName><author><woman>Matthews<woman><author><persName>, and the author of <title>Harry Fran-
+co<title>, our best comic satirists since <persName><author>Paulding’s<author><persName> <title>Salmagundi<title>,
+have escaped notice entirely; while two serious writers, of
+unquestionable excellence, <persName><author>Allston<author><persName> in his <title>Monaldi<title>, and <persName><subject><author>Dana<author><subject><persName>,
+in certain prose dramas, among prose fictions, what the
+masterpieces of <persName><author>Heywood<author><persName> or <persName><author>Middleton<author><persName> would prove by the
+side of the Shaksperian drama, have been passed by without
+ever attracting a casual remark.<p>
+
+<p>This neglect may furnish some excuse for the foregoing
+remarks and the critical observations that may follow, al-
+beit, we had hoped the task might have been committed to
+other hands. Nor shall we attempt to disentangle the mesh-
+es of the tales themselves; skilful unwinding of the thread
+of a narrative, or the decomposition of a plot, or an analysis
+of the conduct of the incidents, ranking in our opinion, when
+well done, almost with the original poem that gave birth to
+the fiction. And as we do not write tales, but merely criti-
+cisms upon them, we shall speak of the qualities displayed
+in the construction of these narratives, rather than the inci-
+dents or the characters they contain. Another and an equal-
+ly good reason, as it appears to us, for the present sketch,
+may be found in the fact, that our authors had been gradu-
+ally lost sight of by the generation of readers that have risen
+since he wrote. To a large number, we fear, nothing of
+<persName><subject><author>Dana<author><subject><persName> is known beyond his name; with whom, too, his name
+is getting to be matter of tradition. It is now nearly a quar-
+ter of a century, since we have seen anything in print by the
+author of <title>the Idle Man<title>. During which period so many can-
+didates for public honor and claimants for a niche in the
+temple of fame have been pouring in, that the public eye is
+well nigh clouded by the sparkling ephemerida, and the
+public ear confounded by loud clamors and noisy appeals.
+In the midst of this hubbub, the silent speculative genius
+of <persName><subject><author>Dana<author><subject><persName>, and the power, the purity, and the classic genius
+of <persName><subject><author>Dana’s<author><subject><persName> writings, have passed almost unregarded.—
+Among the thousands who devour <persName><author>James<author><persName>, the tens who
+study <persName><subject><author>Dana<author><subject><persName> may be easily enumerated; the lovers of his-
+torical melo-drama, see nothing in simple, undisguised,
+unaffected, yet most real and vigorous, true dramatic paint-
+ing. Perhaps the American is too much of a philosopher for
+those readers, who are captivated by detailed narrative and
+circumstantial description; though, as a mere writer of tales
+full of striking characters, closely crowded with stirring in-
+cidents, set in a frame of poetic description, and enshrined
+within a halo of imagination, <persName><subject><author>Dana<author><subject><persName> is in the first rank of no-
+velists. It is wrong to speak of him as a mere tale writer:
+for his tales are not only as long as certain short novels (as
+long and longer than <title>Rasselas<title>, <title>Zadig<title>, <title>Candide<title>, <title>the Man of
+Feeling<title>, or the admirable fictions of <persName><author>Richter<author><persName>, <persName><author>Zschokke<author><persName>,
+and other German novelists) but they are as closely woven,
+that they read sometimes like abstracts of longer works.
+There is nothing to be spared; the utmost economy is ob-
+served, consistent with real richness and vigor. Yet, as we
+said, the evident philosophic character of the author, the
+basis, indeed, of his portrait character, as well; the love of
+speculating upon character, the motives to action, the prin-
+ciples of conduct, may deter the mere readers for amuse-
+ment, since <persName><subject><author>Dana<author><subject><persName> is manifestly a teacher of men, and is to
+be estimated rightly only in that character. He had selected
+prose fiction, we imagine, only as a vehicle for conveying
+certain pictures of life, portraits of individuals, certain whole-
+some moral satire, an ideal of contented private enjoyments,
+and of a life of action, enlightened duty. His invention
+is probably, therefore, voluntary, and the offspring of ready
+impulse. Hence a want of the popular manner and of the
+<q>“taking”<q> style. He is not a popular writer, and has,
+rightly, not aimed at popularity. This he confesses, and
+justifies with sense and honesty. His real mind—the cast of
+a writer’s mind must be popular, to render his writings
+such, yet there is no element of that kind in our author’s
+intellectual constitution. He is too honest to disguise his
+defects to individuals; too sincere to please the literary mob.
+He is sure of the aristocracy of genius and scholarship and
+true worth; the class composed of the wisest and best—the
+true aristocracy. To take an elevated example, he, like <persName><author>Mil-
+ton<author><persName>, will always be read by the choice few, while, like him,
+he must remain caviere to the mass of readers. <p>
+
+<p>We insinuate nothing, byway of comparison between the
+two; for <persName><author>Milton<author><persName> is first among the greatest, while <persName><subject><author>Dana<author><subject><persName>
+would be too wise to accept of a place among the greatest at
+all. He is first among the lesser lights, the <emphasis><foreignphrase>Dii Minores<foreignphrase><emphasis> of
+our literary firmament.<p>
+
+<p>The facts of <persName><subject><author>Mr. Dana’s<author><subject><persName> literary career are known to few.
+Beside the history of his literary connexions, mentioned be-
+fore, we have heard of little else. We once heard <persName><subject><author>Mr, D.<author><subject><persName>
+speak of his life as passed in his room. He has been much of
+an invalid, and has led, we understand, a retired life. The
+only account the public at large, even here, at home, have
+of one of the first men we can point to, is to be found in
+<title>Blackwood’s Magazine<title> for <date>1824<date> or <date>5<date>. It occurs in a para-
+graph, in a series of papers on American writers, ascribed to
+<persName><author>John Neal<author><persName>, and evidently from his pen. It is instinct with
+the shrewdness and sense of that very clever man, and dash-
+ed off in his slashing off-hand style. Without a number of
+the Magazine by us, we must quote from memory. <persName><author>Neal<author><persName>
+complains of <persName><subject><author>Dana’s<author><subject><persName> indolence and careful polish; though he
+gives high and just praise for soundness, purity, and true
+genius, he adds certain censure on his excessive care, some-
+what after this manner. Dance (a misprint) is pure, sound,
+full of genius, but timid, where he has a fair chance, shuts
+the wrong eye and is apt to miss. Fond of carving heads,
+or cherry stones with his friend <persName><author>Bryant<author><persName>; but the public care
+nothing for the <emphasis><foreignphrase>otto<foreignphrase><emphasis> of prose. <persName>Neal<persName> says, that he almost
+ruined himself and damned <title>the North American Review<title>,
+by an article on <title>Hazlitt’s Poets<title>—an exaggerated sentence in
+the true <persName><author>John Neal<author><persName> style. When or how long <persName><subject><author>Dana<author><subject><persName> edited
+<title>the North American Review<title>, we cannot exactly discern.
+Two only of his reviews have attracted much attention—on
+<persName><author>Moore<author><persName> and on <persName><author>Hazlitt’s<author><persName> lectures—the latter harsh, and we
+think, unjust. <persName><subject><author>Mr. Dana<author><subject><persName> thinks (or did think) <persName><author>Hazlitt<author><persName> very
+much inferior to the notion his admirers entertain of him.
+The paper on <persName><author>Moore<author><persName> is just, manly, and creditable to the
+critic’s heart, as well as his taste. Much excellent matter is
+doubtless buried under a heap of quarterly rubbish. <persName><author>Neal<author><persName>,
+in a concluding sentence, reproves our author for his silence
+and indolence, stating that <persName><subject><author>Dana<author><subject><persName> had done in several years
+as much as he (<persName><author>Neal<author><persName>) could have done in as many weeks or
+months. Very likely, but with a difference; with a different
+quality, we make bold to think, however, and hardly destined
+to survive its year or deeds. <persName><author>Neal<author><persName>, with great cleverness,
+and wit, and industry, has furnished hardly anything, except
+a few critical sketches and moral essays, with a few brilliant
+tales, that show how much more might have been accom-
+plished. <persName><author>Neal<author><persName> could have been the first magazine writer of
+his day; but he could never equal <persName><subject><author>Dana<author><subject><persName>, lacking, as he does,
+the profound and subtle genius of the latter.<p>
+
+<p>In a general survey of the genius of <persName><subject><author>Dana<author><subject><persName>, we may remark
+his defect of wit and humor. He sometimes indulges in
+playful sarcasm, as in the letters from town (would he had
+given us more), which are models of their kind—elegant,
+familiar, and Addisonian, in the best sense—the natural union
+of sense and gaiety, of reflection and feeling.<p>
+
+<p><persName><subject><author>Dana<author><subject><persName> is a master of characters: his observation is keen
+and benevolent, and can at the same time grapple with vig-
+orous and strongly-marked characters. He has painted a
+character in <title>the First Letter<title>, which somewhat resembles his
+own; and which, together with the character of <persName><character>Edward<character><persName>,
+and a few touches (of the maiden kind) in the youthful cha-
+racter of <persName><character>Paul Felton<character><persName>, go to make up a pretty fair and just
+idea of the author.<p>
+
+<p><persName><subject><author>Dana<author><subject><persName> has more imagination than fancy, and which gives
+his fictions the air of reality. He is too habitually serious to
+be fanciful or fantastic. His imagination delights in tragic
+situations, and dark characters, and terrible deeds, that carry
+a fearful moral with them. His style is admirable; close,
+clear, precise, final. He is equally powerful in his critical
+capacity, as he is an original writer. His essays are musings,
+the finest reflections of a scholar, and many given to reverie
+and sentimental disquisition. The man, too, is but the natu-<pb>
+ral converse of the author—kind, sincere, honorable; with-
+out a meanness, without a flaw—such is <persName><subject><author>Richard H. Dana<author><subject><persName>,
+one of our very best writers; one of our very best men.<p>
+
+<p><authorinitials><author>J.<author><authorinitials><p><close><div>
+    </body>
+    <back>
+      <!-- here is a sample place for contextual information: -->
+      <div type="editorial">
+        <listPerson>
+          <person>
+            <persName><!-- canonical name --></persName>
+            <birth>
+              <placeName><!-- where born; date on when= of <birth> --></placeName>
+            </birth>
+            <death>
+              <placeName><!-- where died; date on when= of <death> --></placeName>
+            </death>
+          </person>
+        </listPerson>
+      </div>
+    </back>
+  </text>
+</TEI>
