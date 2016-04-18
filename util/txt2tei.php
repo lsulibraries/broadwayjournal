@@ -16,13 +16,16 @@ foreach($input_files as $file){
         continue;
     }
     $rawtext   = file_get_contents($input_dir.DIRECTORY_SEPARATOR.$file);
+    var_dump($rawtext); die();
     $cleantext = clean_entities($rawtext);
+    
+    
     $text_elem = get_text_element($cleantext);
 
     $rawXML    = $teiheader.$text_elem.$teiclose;
-    file_put_contents($output_dir.DIRECTORY_SEPARATOR.'testingTEIauto.xml', $rawXML); die();
+    file_put_contents($output_dir.DIRECTORY_SEPARATOR.get_basename($file).'.xml', $rawXML);
     $xml       = make_doc($rawXML);
-    file_put_contents($output_dir.DIRECTORY_SEPARATOR.'testingTEIauto.xml', $xml);
+    //file_put_contents($output_dir.DIRECTORY_SEPARATOR.get_basename($file).'.xml', $xml);
 }
 
 function make_doc($raw){
@@ -68,6 +71,7 @@ TEX;
 }
 
 function get_body_element($txt){
+    var_dump($txt);
     $broken_pages = break_pages($txt);
     $paragraphized = paragraphize($broken_pages);
     return $paragraphized;
@@ -129,3 +133,14 @@ function clean_entities($txt){
     return $out;
 }
 
+function get_basename($filename){
+
+    $chunks = explode(DIRECTORY_SEPARATOR, $filename);
+    if(count($chunks) > 0){
+        $filenamne = array_pop($chunks);
+    }
+    $fixes  = explode('.', $filenamne);
+    $prefix = $fixes[0];
+
+    return $prefix;
+}
