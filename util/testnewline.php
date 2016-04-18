@@ -26,6 +26,16 @@ $pattern = '#([0-9]+)\n+THE BROADWAY JOURNAL\.*#';
         //$printmatches = array();
 $match = preg_match($pattern, $text, $matches);
 
+
+
+$pairs = array(
+        '#([0-9]+)\n+THE BROADWAY JOURNAL\.*#' => "<pb n=\"$1\"/>",
+    );
+$txt = preg_replace(array_keys($pairs), array_values($pairs), $text);
+//$txt = preg_replace('#([0-9]+)\n+THE BROADWAY JOURNAL\.*#', "<pb n=\"$1\"/>", $text);
+
 var_dump($matches);
+
+var_dump($txt);
 
 ?>
