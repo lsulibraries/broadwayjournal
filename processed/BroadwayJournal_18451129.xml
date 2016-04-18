@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.
 <lb/>EDGAR A. POE,
 <lb/>EDITOR AND PROPRIETOR.
@@ -155,7 +152,7 @@
 <lb/>1845, when similar miracles are witnessed daily by thou-
 <lb break="no"/>sands, that I dare venture to record this apparent impos-
 <lb break="no"/>sibility as a matter of serious fact.
-<pb  n="316"/>
+<lb/><pb n="316"/>
 <lb/>The temperature of Bedloe was, in the highest degree,
 <lb/>sensitive, excitable, enthusiastic. His imagination was
 <lb/>singularly vigorous and creative ; and no doubt it derived
@@ -290,7 +287,7 @@
 <lb/>in these were displayed rich wares in infinite variety and
 <lb/>profusion—silks, muslins, the most dazzling cutlery, the
 <lb/>most magnificent jewels and gems. Besides these things,
-<pb n="317"/>
+<lb/><pb n="317"/>
 <lb/>were seen, on all sides, banners and palanquins, litters
 <lb/>with stately dames close veiled, elephants gorgeously
 <lb/>caparisoned, idols grotesquely hewn, drums, banners and
@@ -425,7 +422,7 @@
 <lb/>to make. Here is a water-colour drawing, which I should
 <lb/>have shown you before, but which an unaccountable sen-
 <lb break="no"/>iment of horror has hitherto prevented me from showing.”
-<pb  n="318"/>
+<lb/><pb n="318"/>
 <lb/>We looked at the picture which he presented. I saw
 <lb/>nothing in it of an extraordinary character ; but its effect
 <lb/>upon Bedloe was prodigious. He nearly fainted as he
@@ -556,7 +553,7 @@
 <lb/>in the language ol the deacons, “ the natural heart of man.” It is
 <lb/>scarcely necessary to add that we agree with our correspondent
 <lb/>throughout.	Ed. B. J.
-<pb n="319"/>
+<lb/><pb n="319"/>
 <lb/>itself—pictures love, hope, or mirth in their comprehen-
 <lb break="no"/>sive aspect. But nearly every nation has its peculiarities
 <lb/>and its idioms, which make its best intellectual efforts
@@ -683,9 +680,7 @@
 <lb/>And dare thy spell, and dare thy spell—
 <lb/>And when a happier won thee,
 <lb/>Thus bid farewell, thus bid farewell!
-<lb/>Fitz Greene Halleck.
-<lb/>
-<lb/>Epigram.
+<lb/>Fitz Greene Halleck.</p><p/><p>Epigram.
 <lb/>Ralph’s self-esteem.
 <lb/>From the Saxon.
 <lb/>Ralph says, on such as I, he still looks down,—
@@ -693,7 +688,7 @@
 <lb/>That, in the moral ptllory of the town,
 <lb/>The scoundrel may see anything below.
 <lb/>W. Gilmore Simms.
-<pb  n="320"/>
+<lb/><pb n="320"/>
 <lb/>Critical Notices.
 <lb/>Wiley &amp; Putnam's Library of American Books. No. 7.
 <lb/>Western Clearings. By Mrs. C. M. Kirkland, Author
@@ -801,9 +796,7 @@
 <lb break="no"/>tion; and in a marvellous felicity of expression, whereby
 <lb/>a world of meaning or humor is convey ed in some brief
 <lb/>phrase, she is approached by no female writer in the
-<lb/>country.
-<lb/>
-<lb/>America and the American People. By Frederick Von
+<lb/>country.</p><p/><p>America and the American People. By Frederick Von
 <lb/>Raumer, Professor of History in the University of
 <lb/>Berlin, etc, etc. Translated from the German by
 <lb/>William W. Turner. New-York; J. &amp; G. H. Lang-
@@ -830,7 +823,7 @@
 <lb/>	Elsewhere the translator well observes that it is ra-
 <lb break="no"/>ther the subjectivity than the objectivity of the book
 <lb/>that will claim the attention of readers in this country
-<pb n="321"/>
+<lb/><pb n="321"/>
 <lb/>—that Americans will not resort to a work of this kind,
 <lb/>written by a foreigner, and which treats of such a va-
 <lb break="no"/>riety of delicate and different topics, to obtain minute
@@ -963,8 +956,7 @@
 <lb/>Wiley &amp; Putnam's Library of Choice Reading, Nos.
 <lb/>34 and 35. The Life of Condé, By Lord Mahon.
 <lb/>This is also a translation ; the work having been ori-
-<lb break="no"/>322
-<lb/>THE BROADWAY JOURNAL.
+<lb break="no"/><pb n="322" break="no"/>
 <lb/>ginally written in French and without any view to publi-
 <lb break="no"/>cation. We need scarcely add that the work is one of
 <lb/>interest—for it concerns “ The Great Conde,” and is writ-
@@ -1096,7 +1088,7 @@
 <lb/>others of note. “Lake Michigan at Night” is the title of
 <lb/>a particularly meritorious poem by M----e.
 <lb/>We are happy to understand that The Columbian is in
-<pb n="323"/>
+<lb/><pb n="323"/>
 <lb/>a very prosperous condition. It is published by Israel
 <lb/>Post, 140 Nassau street.
 <lb/>The Aristidean, for October, is unusually rich in good
@@ -1166,19 +1158,14 @@
 <lb/>others were retained, hut no reply made. To some we received
 <lb/>answers, with the required poems.
 <lb/>Here is a specimen:
-<lb/>Boston.
-<lb/>
-<lb/>Dear Sir:—I am happy to oblige you. I send you the enclosed
+<lb/>Boston.</p><p/><p>Dear Sir:—I am happy to oblige you. I send you the enclosed
 <lb/>written in my usual, terse, epigrammatic style. The high opinion
 <lb/>you express ot my powers as a poet, are just; and show you have
 <lb/>more taste than the Hollis street congregation.
 <lb/>I am, very truly,
-<lb/>John Pierpont.
-<lb/>
-<lb/>ODE TO THE MUSES
-<lb/>BY THE REV. JOHN PIERPONT.
-<lb/>
-<lb/>Ye gentle muses! make me first
+<lb/>John Pierpont.</p><p>ODE TO THE MUSES
+BY THE REV. JOHN PIERPONT.
+</p><p>Ye gentle muses! make me first
 <lb/>Of bards—like Harry Hirst !
 <lb/>To me the fire afford,
 <lb/>Of William W. Lord!
@@ -1204,9 +1191,7 @@
 <lb/>I’ll treat you to abundant fol
 <lb/>-lol,
 <lb/>fol
-<lb/>de riddle dol!
-<lb/>
-<lb/>Simms’ Magazine, Graham, Godey, The Illustrated,
+<lb/>de riddle dol!</p><p/><p>Simms’ Magazine, Graham, Godey, The Illustrated,
 <lb/>The Western, The Southern Messenger,and the South-
 <lb break="no"/>ern Quarterly Review, have all been received and
 <lb/>shall be noticed next week—until when, also, we must
@@ -1217,9 +1202,7 @@
 <lb break="no"/>diate notice Mrs. Osgood’s Poems—Mr. Cist’s.—The Pil-
 <lb break="no"/>grim’s Progress (Illustrated edition.)—The Sufferings of
 <lb/>Christ—and The Whiteboy, a Story of Ireland—the three
-<lb/>last from the fertile press of the Harpers.
-<lb/>
-<lb/>Epigram.
+<lb/>last from the fertile press of the Harpers.</p><p/><p>Epigram.
 <lb/>From the Saxon.
 <lb/>Tom’s choice in fellowship and friends,
 <lb/>Behold his levee’s silent throngs;
@@ -1230,7 +1213,7 @@
 <lb/>Crowd to the saloon of his sires,			
 <lb/>Yet Tom is in his house,—alone!			
 <lb/>W. G. Simms.		
-<pb  n="324"/>
+<lb/><pb n="324"/>
 <lb/>The Double Dream.
 <lb/>Our life is two-fold—Byron.
 <lb/>Fondly all through yesternight,
@@ -1248,9 +1231,7 @@
 <lb/>Wilt thou hear me sing the scenes
 <lb/>Mirrored in that Eden sleep —
 <lb/>Unto thee my spirit leans,
-<lb/>Enchantress, for the meaning deep!
-<lb/>
-<lb/>I.
+<lb/>Enchantress, for the meaning deep!</p><p/><p>I.
 <lb/>First, within a brilliant hall.
 <lb/>’Mid the youthful, gay, and bright,
 <lb/>Glanced a form more fair than all,
@@ -1266,9 +1247,7 @@
 <lb/>Thoughts, like fountains years-subdued,
 <lb/>In my bosom poured their tide,
 <lb/>And, entranced like Saul, I stood,
-<lb/>Mute with homage at her side!
-<lb/>
-<lb/>II.
+<lb/>Mute with homage at her side!</p><p/><p>II.
 <lb/>Months seemed passed,—and now a scene
 <lb/>Pastoral-sweet was round me spread ;—
 <lb/>On the hills, the spring-time’s green,
@@ -1284,9 +1263,7 @@
 <lb/>Long we sailed,—and passion’s sighs
 <lb/>Kneeling then, I dared to pour,—
 <lb/>But a storm o’erwhelmed the skies!
-<lb/>I was wrecked upon the shore!
-<lb/>
-<lb/>III.
+<lb/>I was wrecked upon the shore!</p><p/><p>III.
 <lb/>Fancy now more wild became!
 <lb/>Far through foreign lands I roved,
 <lb/>Armed,—a knight,—in lists of fame,—
@@ -1357,12 +1334,9 @@
 <lb break="no"/>cult composition. Mrs. Mott acquitted herself well, and
 <lb/>Mr. Wollenhaupt was so scared that it would not be
 <lb/>doing him justice to make any comments on his perform-
-<lb break="no"/>ance.
-<lb/>
-<lb/>A full notice of Ole Bull’s Concert, on Wednesday last,
-<lb/>will be found in our next.
-<lb/>
-<lb/>Mr. Huber, the celebrated Violincellist, gave a Musi-
+<lb break="no"/>ance.</p><p>A full notice of Ole Bull’s Concert, on Wednesday last,
+will be found in our next.
+</p><p>Mr. Huber, the celebrated Violincellist, gave a Musi-
 <lb break="no"/>cal Soirée on Tuesday evening last. We found a most
 <lb/>brilliant array of ladies, and a most interesting party of
 <lb/>gentlemen. Ms. Huber favored us with some of his
@@ -1372,7 +1346,7 @@
 <lb break="no"/>nied on the Piano, by his sister, and many a complete
 <lb/>professor could yet learn of her. Mrs. Mott sang some
 <lb/>very beautiful airs with her usual good grace ; and Mr.
-<pb n="325"/>
+<lb/><pb n="325"/>
 <lb/>White, an amateur, sang a bass-solo very respectably.—
 <lb/>We feel assured that Mr. Huber’s concerts will be attended
 <lb/>by the elite of New-York.
@@ -1411,11 +1385,8 @@
 <lb/>Apollo, on the fourth of December. In addition to the at-
 <lb break="no"/>traction of her own voice—no small attraction by the bye
 <lb/>—she has obtained the assistance of Sig. De Begnis and
-<lb/>Mr. Timm.
-<lb/>
-<lb/>The Drama.
-<lb/>
-<lb/>Mr. Forrest is playing occasionally in the English pro-
+<lb/>Mr. Timm.</p><p>The Drama.
+</p><p>Mr. Forrest is playing occasionally in the English pro-
 <lb break="no"/>vinces, always to great houses, and with brilliant success.
 <lb/>Miss Cushman, at the latest advices, did not appear to
 <lb/>be employed.
@@ -1446,15 +1417,10 @@
 <lb/>Mr. Hudson’s new Lectures at Boston, (Lear and Othel-
 <lb break="no"/>lo,) have attracted a great deal of attention, and have been
 <lb/>very successful with the audiences to which they have
-<lb/>been delivered.
-<lb/>
-<lb/>Editorial Miscellany.
-<lb/>
-<lb/>The Frog-Pond seems to be dried up—and the Frogs
+<lb/>been delivered.</p><p>Editorial Miscellany.
+</p><p>The Frog-Pond seems to be dried up—and the Frogs
 <lb/>are, beyond doubt, all dead—as we hear no more croaking
-<lb/>from that quarter.
-<lb/>
-<lb/>We copy the subjoined passage from “Wilmer &amp;
+<lb/>from that quarter.</p><p/><p>We copy the subjoined passage from “Wilmer &amp;
 <lb/>Smith’s European Times.” The observations are so
 <lb/>plainly just as to need not a word in the way of com-
 <lb break="no"/>ment :
@@ -1508,15 +1474,12 @@
 <lb/>at once thought and brains for its comprehension.
 <lb/>We do not intend to claim the honor of originating
 <lb/>in the Journal the exquisite poem, by Halleck, now pub-
-<lb break="no"/>326
-<lb/>THE BROADWAY JOURNAL.
+<lb break="no"/><pb n="326" break="no"/>
 <lb/>lished. It is not included, however, in any edition of his
 <lb/>poems. Independently of the high intrinsic merit of the
 <lb/>piece, there is a tale about it—a romantic tale—which
 <lb/>we could unfold, if we thought proper, and which to cer-
-<lb break="no"/>tain readers will give it additional interest.
-<lb/>
-<lb/>Items from foreign Sources.
+<lb break="no"/>tain readers will give it additional interest.</p><p/><p>Items from foreign Sources.
 <lb/>In these days of peace and political fusion, the Revolution and
 <lb/>the Empire in France are, as we have seen, gradually com-
 <lb break="no"/>completing their unfinished monuments. Fifty years after the first
@@ -1542,9 +1505,7 @@
 <lb/>member of the municipality of Lille, at the period of the siege,
 <lb/>the “ Star of the Brave,” as the latter called it in the figurative
 <lb/>mood of the occasion—“ one of the finest episodes of the day,” say
-<lb/>the highly excited journals of the department.—London Athenaum.
-<lb/>
-<lb/>It is an amusing sight, and enlivening withal, to look at the rows
+<lb/>the highly excited journals of the department.—London Athenaum.</p><p/><p>It is an amusing sight, and enlivening withal, to look at the rows
 <lb/>of white tents, the beautiful girls and their elegant dresses, the
 <lb/>crowds of spectators, each sheltered by a bright coloured umbrella,
 <lb/>and some thirty or forty ladies and gentlmen, fat and thin, tall and
@@ -1589,9 +1550,7 @@
 <lb break="no"/>bers, and in the departments of France 898, with about
 <lb/>350,000 subscribers.
 <lb/>ELEGANT NEW WORK.
-<lb/>C. SHEPARD, BOOKSELLER, 191 BROADWAY.
-<lb/>
-<lb/>CHAUNT OF LIFE—and other Poems, by Rev. R. Hoyt, a
+<lb/>C. SHEPARD, BOOKSELLER, 191 BROADWAY.</p><p/><p>CHAUNT OF LIFE—and other Poems, by Rev. R. Hoyt, a
 <lb/>Clergyman of the Episcopal Church, New York. Parts 1 &amp; 2.
 <lb/>This work is beautifully printed on fine paper, embellished, and
 <lb/>handsomely bound. Price 37 1/2 cents.
@@ -1645,16 +1604,12 @@
 <lb/>taken with than this. It is a pleasure to meet an author who can,
 <lb/>like Mr. Hoyt, make his theories attractive and his method strik-
 <lb break="no"/>ing without setting up for a misanthrope, or invoking the aid of
-<lb/>the infernals.—Phil. Sat. Eve. Post.
-<lb/>
-<lb/>GURNEY’S
+<lb/>the infernals.—Phil. Sat. Eve. Post.</p><p/><p>GURNEY’S
 <lb/>PREMIUM DAGUERRIAN GALLERY,
 <lb/>189 BROADWAY, NEW-YORK.
 <lb/>PICTURES taken at this Establishment are not excelled in this
 <lb/>country—so say his numerous patrons. The public are in-
-<lb break="no"/>vited to call and judge for themselves.	o2
-<lb/>
-<lb/>G. B. CLARKE,
+<lb break="no"/>vited to call and judge for themselves.	o2</p><p/><p>G. B. CLARKE,
 <lb/>MERCHANT TAILOR, (from Brundage, Broadway) 
 <lb/>No 132 William Street, 3 doors from Fulton, N. Y.
 <lb/>		Dress Coat, from $12 to $20 00 		               Making and Trimming			
@@ -1663,15 +1618,13 @@
 <lb/>Vests,	“	1 50	to	2	00
 <lb/>N. B. Seasonable SACK COATS, VESTS, &amp;c. always on
 <lb/>hand, from $1 50 upwards.	nov8—3m
-<pb n="327"/>
+<lb/><pb n="327"/>
 <lb/>THIS DAY IS PUBLISHED—IN ADVANCE OF THE LONDON EDITION,
 <lb/>LIFE OF THE GREAT CONDE.
 <lb/>BY LORD MAHON.
 <lb/>Two Numbers beautifully printed, in clear type, $1 00. “A highly interesting and skilful narrative.”—Quarterly Review
 <lb/>The above work forms Nos. 34 and 35 of the Library of Choice Reading.
-<lb/>Published and for sale by WILEY &amp; PUTNAM, 161 Broadway.
-<lb/>
-<lb/>J. F. BROWNE &amp; CO.
+<lb/>Published and for sale by WILEY &amp; PUTNAM, 161 Broadway.</p><p/><p>J. F. BROWNE &amp; CO.
 <lb/>MANUFACTURER OF THE
 <lb/>IMPROVED PATENT DOUBLE-ACTION HARP,
 <lb/>By Royal Letters Patent, London. Established 1810. (Many years with Erard.
@@ -1770,7 +1723,7 @@
 <lb/>JOHN BURFORD,
 <lb/>PORTRAIT AND LANDSCAPE PAINTER,
 <lb/>27 Dey Street.
-<pb  n="328"/>
+<lb/><pb n="328"/>
 <lb/>HARPER &amp; BROTHERS’ RECENT PUBLICATIONS,
 <lb/>In one splendidly printed volume, with above 1000 engravings.
 <lb/>Sheep Extra:—Price $3 75.
@@ -1944,7 +1897,7 @@
 <lb/>their excellence of Tone, Touch, and External Finish, and to en-
 <lb break="no"/>dure in any climate. A liberal discount from the standard prices.
 <lb/>Piano Fortes Tuned and Repaired. Piano Fortes always on hire.
-<pb n="329"/>
+<lb/><pb n="329"/>
 <lb/>DENTISTRY.
 <lb/>DOCT. H. E. SCHOONMAKER, Dental Surgeon, Office 446
 <lb/>Houston St., two doors from Broadway—opposite St. Thomas’
@@ -1974,9 +1927,7 @@
 <lb/>Dr. S. would be happy to refer those who require it, to many of
 <lb/>the best families in this City, in which he has practised.
 <lb/>Ladies who desire it, can have their teeth examined at their re-
-<lb break="no"/>sidences, by sending their address as above.	nov. 8—9t
-<lb/>
-<lb/>PAINE &amp; BURGESS,
+<lb break="no"/>sidences, by sending their address as above.	nov. 8—9t</p><p/><p>PAINE &amp; BURGESS,
 <lb/>62 John Street,
 <lb/>WILL PUBLISH IN A FEW DAYS,
 <lb/>THE ARTIST, MERCHANT, AND STATESMAN, 
@@ -2017,9 +1968,7 @@
 <lb/>“ A gem gathered from the jewelled mine of Italian romance.”
 <lb/>The Florentine Histories, by Machiavelli, 2 vols. 12mo.
 <lb/>“ The charmed records of the classic city of the Arno, by the
-<lb/>master spirit of his age.”	nov 8
-<lb/>
-<lb/>TO MEDICAL MEN.
+<lb/>master spirit of his age.”	nov 8</p><p/><p>TO MEDICAL MEN.
 <lb/>This day published, the London lancet
 <lb/>for November, a Journal of British, Foreign, Medical and
 <lb/>Chemical Science, Criticism and News—edited by Thomas Wake- ,
@@ -2055,9 +2004,7 @@
 <lb/>The second number of the Musical World will be published on
 <lb/>the 15th inst.
 <lb/>In Press—Grand, Galop, by Leopold De Meyer, with a portrait
-<lb/>and critical biography, will be ready early next week.
-<lb/>
-<lb/>WILEY &amp; PUTNAM
+<lb/>and critical biography, will be ready early next week.</p><p/><p>WILEY &amp; PUTNAM
 <lb/>PROPOSE to supply, if there is sufficient patronage,
 <lb/>the original London editions of the following Periodicals at
 <lb/>the prices annexed, to be mailed in London.
@@ -2073,9 +2020,7 @@
 <lb/> Westminster Review,	 3 50	For. &amp; Colonial Review,	 3	 50
 <lb/>Forbes’ Medical Review, 	4 00	Blackwood’s Magazine,	 5	 00
 <lb/>Frazer’s Magazine, 	5 00	Presbyterian Review,	 3 	50
-<lb/>dec 13—3t
-<lb/>
-<lb/>NEW WORKS,
+<lb/>dec 13—3t</p><p/><p>NEW WORKS,
 <lb/>TO BE PUBLISHED BY
 <lb/>MESSRS. WILEY &amp; PUTNAM, 161 BROADWAY,
 <lb/>IN THE MONTH OF NOVEMBER.
@@ -2100,9 +2045,7 @@
 <lb/>VIII.
 <lb/>The Fall of the Jesuits, 1 vol. 16 mo. 37 1/2 cts.
 <lb/>IX.
-<lb/>Lectures on the English Poets, by Wm. Hazlitt.16mo. 1 vol.
-<lb/>
-<lb/>KNOX’S HATS.
+<lb/>Lectures on the English Poets, by Wm. Hazlitt.16mo. 1 vol.</p><p/><p>KNOX’S HATS.
 <lb/>THE FALL STYLE OF GENTLEMEN’S HATS are now
 <lb/>ready for the season, 1845, which for lightness and superiority
 <lb/>of color cannot be surpassed, which is a very important part of the
@@ -2112,9 +2055,7 @@
 <lb/>Gentlemen can have their hats made to order in any shape or style
 <lb/>they wish. A full assortment of ladies’ Muffs, of all kinds.
 <lb/>			C. KNOX, No. 110 Fulton st.,
-<lb/>Nov. 8—3m	between William and Nassau sts.
-<lb/>
-<lb/>UNITED STATES HOTEL.
+<lb/>Nov. 8—3m	between William and Nassau sts.</p><p/><p>UNITED STATES HOTEL.
 <lb/>THE PROPRIETOR OF THIS HOTEL, desires to return his
 <lb/>thanks to his friends, and the travelling portion of the commu-
 <lb break="no"/>nity generally, for the favors which they have bestowed upon him
@@ -2123,7 +2064,7 @@
 <lb/> which he has already received so liberal a share.
 <lb/>H. JOHNSON.
 <lb/>Nov. 8th, 1845.	6m
-<pb  n="330"/>,
+<lb/><pb n="330"/>,
 <lb/>CATALOGUE OF TEAS,
 <lb/>ON SALE AT THE TEA WAREHOUSE OF THE
 <lb/>PEKIN TEA COMPANY,
@@ -2346,23 +2287,23 @@
 <lb/>S. F. Hoyt, Newburgh, N. Y.	Safford &amp; Park, Norwich, Ct.
 <lb/>Shurtz &amp; Wilde, Baltimore, Md.	John Tomlin, P. M. Jackson, Tenn.
 <lb/>Colon &amp; Adriance, Philadelphia. 	S. Hart, Sen., Charleston, S. C.
-<lb/>printed at the office of the farmer and mechanic.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>printed at the office of the farmer and mechanic.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

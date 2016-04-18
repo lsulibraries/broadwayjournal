@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. I. NO. 14.	NEW YORK, SATURDAY, APRIL 5, 1845.	Published at
 <lb/>Three Dollars per Annum.	153 BROADWAY, by
 <lb/>Single Copies, 6 1-4 cents.	C. F. BRIGGS, EDGAR A. POE, H. C. WATSON, EDITORS.	John Bisco.
@@ -196,7 +193,7 @@
 <lb break="no"/>tain phenomena might be counterfeited; and the existence of counter-
 <lb break="no"/>feit coin is rather a proof that there is somewhere the genuine stand-
 <lb break="no"/>ard gold to be imitated.”
-<pb  n="210"/>
+<lb/><pb n="210"/>
 <lb/>Now the fallacy here is obvious, and lies in a mere varia-
 <lb break="no"/>tion of what the logicians style “ begging the question.”
 <lb/>Counterfeit coin is said to prove the existence of genuine—
@@ -326,7 +323,7 @@
 <lb/>first visit to New Orleans in the winter of 1835-36; but these
 <lb/>incidents are in fact but a nucleus for very amusing gossip of
 <lb/>all kinds, intermingled not unfrequently with some matter of
-<pb n="211"/>
+<lb/><pb n="211"/>
 <lb/>far loftier pretension than gossip. The book is that of a
 <lb/>thoughtful, polished and well-informed man. We are pro-
 <lb break="no"/>mised a continuation.
@@ -459,8 +456,7 @@
 <lb break="no"/>tion, I here fully disclaim them upon the spot.
 <lb/>In fact, the one strong point of defence for his friends has
 <lb/>been unaccountably neglected by Outis. To attempt the re-
-<lb break="no"/>212
-<lb/>THE BROADWAY JOURNAL.
+<lb break="no"/><pb n="212" break="no"/>
 <lb/>butting of a charge of plagiarism by the broad assertion that
 <lb/>no such thing as plagiarism exists, is a sotticism, and no
 <lb/>more—but there would have been nothing of unreason in re-
@@ -612,7 +608,7 @@
 <lb/>counsel, dictation, suggestion, and a sort of watchful guar-
 <lb break="no"/>dianship, these are Goethe’s duties; deference, devotion, nay,
 <lb/>the very outward ministry, for which women seem so essen-
-<pb break="no" n="213"/>
+<lb break="no"/><pb n="213" break="no"/>
 <lb/>tially fitted, comes from Schiller; it is Schiller who sends
 <lb/>the frequent box of biscuits—Goethe now and then furnishes
 <lb/>his friend a fish, snared in the free waters, but the remem-
@@ -751,7 +747,7 @@
 <lb/>which appears delightful in our eyes, because it seems na-
 <lb break="no"/>tural and appropriate ; but the moment that we attempt to
 <lb/>adopt them to our own uses, their beauty vanishes and they
-<pb  n="214"/>
+<lb/><pb n="214"/>
 <lb/>appear incongruous and out of place.
 <lb/>An age of ignorance and semi-barbarism is much more fa-
 <lb break="no"/>vorable to the development of good taste than one of high
@@ -886,7 +882,7 @@
 <lb/>circumstances under which the style or circumstances originated.
 <lb/>Thus, if we talk pure Greek and build a Grecian temple for a dwell-
 <lb break="no"/>ing, we shall be little understood, or perhaps only laughed at by our
-<pb n="215"/>
+<lb/><pb n="215"/>
 <lb/>neighbors. It is not much better in the present day to recite an epic
 <lb/>poem by building a cathedral, or a heroic one by constructing a castle
 <lb/>for our habitation. Let us rather be more sensible, though not less
@@ -1035,7 +1031,7 @@
 <lb/>That blessed, as passed the star in air,
 <lb/>The rivulet lone and lowly.
 <lb/>KATE CAROL.
-<pb  n="216"/>
+<lb/><pb n="216"/>
 <lb/>MR. HUDSON, THE NEW LECTURER ON SHAKSPEARE.
 <lb/>We present our readers with a sketch of this popular lecturer, as he appears in the desk, while delivering his unique remarks on the Shaks-
 <lb break="no"/>pearian age. We have already awarded to Mr. Hudson the claim of a Genius. His peculiarities are very striking, and his manner provincial
@@ -1067,7 +1063,7 @@
 <lb/>“ At the commencement of his college life, Mr. Hudson says, he finally resolved 'to make just as much of himself as possible;’ and his sub-
 <lb break="no"/>sequent course shows that thus far he has not lost sight of his determination. He is now preparing for one of the learned professions, and in-
 <lb break="no"/>tends only to continue his lectures until he shall have procured the means of defraying his old arrears, and of prosecuting his future studies.”
-<pb n="217"/>
+<lb/><pb n="217"/>
 <lb/>"SO LET IT BE.”
 <lb/>TO------.
 <lb/>Perhaps you think it right and just,
@@ -1222,7 +1218,7 @@
 <lb/>more especially indulged in by persons of ardent imagination.
 <lb/>It was not even, as might be at first supposed, an extreme
 <lb/>condition, or exaggeration of such propensity, but primarily
-<pb  n="218"/>
+<lb/><pb n="218"/>
 <lb/>and essentially distinct and different. In the one instance,
 <lb/>the dreamer, or enthusiast, being interested by an object usu-
 <lb break="no"/>ally not frivolous, imperceptibly loses sight of this object in
@@ -1386,7 +1382,7 @@
 <lb break="no"/>night, and I was well aware that since the setting of the sun
 <lb/>Berenice had been interred. But of that dreary period which
 <lb/>intervened I had no positive—at least no definite comprehen-
-<pb break="no" n="219"/>
+<lb break="no"/><pb n="219" break="no"/>
 <lb/>sion. Yet its memory was replete with horror—horror more
 <lb/>horrible from being vague, and terror more terrible from am-
 <lb break="no"/>biguity. It was a fearful page in the record of my existence,
@@ -1527,8 +1523,7 @@
 <lb/>cases is equivalent :-but yet, in fact, the drama has not re-
 <lb break="no"/>ceded: on the contrary it has very slightly advanced in one or
 <lb/>two of the plays of Sir Edward Lytton Bulwer. The appa-
-<lb break="no"/>220
-<lb/>THE BROADWAY JOURNAL.
+<lb break="no"/><pb n="220" break="no"/>
 <lb/>rent recession or degradation, however, will, in the end,
 <lb/>work out its own glorious recompense. The extent—the
 <lb/>excess of the seeming declension will put the right intellects
@@ -1670,7 +1665,7 @@
 <lb/>“ Bloxams and Mayfields;" Mrs. Hale has “ The Gold Pen”—a poem;
 <lb/>Mrs. Embury contributes “Intimate Friends;” Mrs. Mowatt (we
 <lb/>think) furnishes “ The Mercenary Marriage,” and also " A Sketch of
-<pb n="221"/>
+<lb/><pb n="221"/>
 <lb/>Joseph Buonaparte”—both very excellent magazine articles. The
 <lb/>“ Intercepted Letter” by Mrs. Seba Smith, is a well written plate il-
 <lb break="no"/>lustration. Miss Gould has a brief poem of much force and originality
@@ -1817,7 +1812,7 @@
 <lb/>by Mr. Coleman for his right, both here and in Europe. They are in
 <lb/>every way, we believe, newspaper puffs, put forth with the sole ob-
 <lb break="no"/>ject of deception. The mark has, however, been overshot, and the
-<pb  n="222"/>
+<lb/><pb n="222"/>
 <lb/>people are now scarcely inclined to credit even the simple truth. We
 <lb/>were told many months since that Mr. Coleman was to be paid a cer-
 <lb break="no"/>tain proportion upon every instrument sold, and under such an ar-
@@ -1987,7 +1982,7 @@
 <lb/>polish, which is imparted solely by the friction of the palm of the
 <lb/>hand. The labor of this operation, as may be imagined, is immense.
 <lb/>(To be Continued.)
-<pb n="22"/>
+<lb/><pb n="22"/>
 <lb/>MISCELLANY.
 <lb/>The Governor’s room in the City-Hall, has recently been
 <lb/>painted and newly carpeted, and it will soon be decorated with two
@@ -2136,9 +2131,7 @@
 <lb/>Boston.
 <lb/>Messrs. G. J. Webb.
 <lb/>J. G Maedar.
-<lb/>H. T. Hach.
-<lb/>
-<lb/>E. L. White.
+<lb/>H. T. Hach.</p><p/><p>E. L. White.
 <lb/>David Paine.
 <lb/>A. Kurek.
 <lb/>T. B. Moses.
@@ -2153,9 +2146,7 @@
 <lb/>Albany—O. J. Shaw.
 <lb/>Professors and Teachers are respectfully invited to examine the work.
 <lb/>American edition published by E. H. WADE and W. H. OAKES, 197 Wash
-<lb/>ington street, Boston.
-<lb/>
-<lb/>MITCHELL’S OLYMPIC THEATRE.
+<lb/>ington street, Boston.</p><p/><p>MITCHELL’S OLYMPIC THEATRE.
 <lb/>PERFORMANCES EVERY EVENING.  DOORS
 <lb/>open at Seven; Curtain rises at half-past Seven.
 <lb/>Dress Circle, 50 Cents. Upper Boxes, 25 cents. Pit, 12 1-2 cents. Private
@@ -2167,7 +2158,7 @@
 <lb/>with neatness, accuracy, and despatch, on terms which he feels con-
 <lb break="no"/>fident will be satisfactory to those who employ him.
 <lb/>January 16, 1845
-<pb  n="224"/>
+<lb/><pb n="224"/>
 <lb/>JUST PUBLISHED,
 <lb/>NUMBER THREE OF MARTIN’S EDITION
 <lb/>OF
@@ -2324,23 +2315,23 @@
 <lb/>struments of the very best quality, with plates, cases, chemical polish
 <lb/>ing materials, &amp;c., kept constantly on hand. All orders receive
 <lb/>promptly attended to.
-<lb/>John Douglas, Printer, 68 Ann Street.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>John Douglas, Printer, 68 Ann Street.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

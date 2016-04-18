@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. I. NO. 12.
 <lb/>Three Dollars per Annum.
 <lb/>Single Copies, 6 1-4 Cents.
@@ -173,7 +170,7 @@
 <lb/>the people that will be like to put you to death for not being a vagrant
 <lb/>for not being a robber, for not being armed, and houseless. There is
 <lb/>comfort in that—health, comfort, and strength to one who is dying
-<pb  n="178"/>
+<lb/><pb n="178"/>
 <lb/>from very weariness of that poor, dear, middle-aged, deserving, ac-
 <lb break="no"/>complished, pedantic, and pains-taking governess Europe.
 <lb/>• •••••••
@@ -344,7 +341,7 @@
 <lb/>character, inasmuch as I should be employing Outis’ identi-
 <lb break="no"/>cal words.
 <lb/>The fact is, Outis has happened upon the idea that the
-<pb n="179"/>
+<lb/><pb n="179"/>
 <lb/>most direct method of rebutting one accusation, is to get up
 <lb/>another. By showing that I have committed a sin, he pro-
 <lb break="no"/>poses to show that Mr. Aldrich and Mr. Longfellow have
@@ -497,7 +494,7 @@
 <lb/>The first point to be attended to here is the "ten to one
 <lb/>that I never saw it before.” Ten to one that I never did—
 <lb/>but Outis might have remembered that twenty to one I
-<pb  n="180"/>
+<lb/><pb n="180"/>
 <lb/>should like to see it. In accusing either Mr. Aldrich or Mr.
 <lb/>Hood, I printed their poems together and in full. But an
 <lb/>anonymous gentleman rebuts my accusation by telling me
@@ -631,7 +628,7 @@
 <lb/>“ Get thee back into the tempest and the Night’s Plutonian
 <lb/>shore !
 <lb/>Leave no black plume as a token of that lie thy soul hath spoken '
-<pb n="181"/>
+<lb/><pb n="181"/>
 <lb/>Leave my loneliness unbroken !—quit the bust above my door!
 <lb/>Take thy beak from out my heart, and take thy form from off
 <lb/>my door!”
@@ -774,7 +771,7 @@
 <lb/>there is nothing remarkable in this. Death is a naturally
 <lb/>poetic theme, and suggests itself by a seeming spontaneity
 <lb/>to every poet in the world. But had the subject chosen by
-<pb  n="182"/>
+<lb/><pb n="182"/>
 <lb/>the two widely separated poets, been even strikingly pecu-
 <lb break="no"/>liar—had it been, for example, a porcupine, a piece of ginger-
 <lb break="no"/>bread, or anything unlikely to be made the subject of a poem,
@@ -907,7 +904,7 @@
 <lb/>“ I would not have it so.” We did not snub Miss Fuller for
 <lb/>this, as the writer in the Charleston Mercury asserts, but we
 <lb/>are sorry for not doing so, and we repair our neglect, by tell-
-<pb break="no" n="183"/>
+<lb break="no"/><pb n="183" break="no"/>
 <lb/>ing Miss Fuller that no unmarried woman has any right to
 <lb/>say any thing on the subject. Let any wife, if one can be
 <lb/>found to say it, declare that she would not have it so. But
@@ -1037,7 +1034,7 @@
 <lb/>ourselves here in the North and East, and we shall not fail
 <lb/>to do our part in this endeavour. The New-York agent is
 <lb/>Mr John Bisco, publisher of the " Broadway Journal,"  153
-<pb  n="184"/>
+<lb/><pb n="184"/>
 <lb/>Broadway. Any communications or subscriptions for the
 <lb/>Messenger, may be forwarded either to him or to Edgar A.
 <lb/>Poe, at the same office. The March number is just issued
@@ -1171,7 +1168,7 @@
 <lb/>sneer. Yet what can be more beautiful, more elevating, than
 <lb/>the true doctrine of the divine Plato—of him who was the
 <lb/>purest and noblest of that glorious company of truth seekers,
-<pb n="185"/>
+<lb/><pb n="185"/>
 <lb/>the ancient philosophers—of him who taught that “ Beauty
 <lb/>is but the reflected glory of Virtue, and Love only the yearn-
 <lb break="no"/>ing of the Soul after that perfection of which Deity is the
@@ -1454,7 +1451,7 @@
 <lb/>to mind not only that extinct race beyond whom even no In-
 <lb break="no"/>dian tradition can go, but also the great natural features of
 <lb/>our country upon which they have left the record of their
-<pb n="187"/>
+<lb/><pb n="187"/>
 <lb/>names and labors. The interest which would attach to it is
 <lb/>common to the Union. We have scarcely a State or Territory
 <lb/>in which some vestiges of the lost race do not appear.
@@ -1610,7 +1607,7 @@
 <lb/>a collection of Original American works would have a beneficial effect
 <lb/>in other departments, and lead to self-dependence in other things of
 <lb/>seemingly greater importance than paintings and statues.
-<pb  n="188"/>
+<lb/><pb n="188"/>
 <lb/>THE FINE ARTS.
 <lb/>Mr. A. L. Dick, of this city, has nearly ready for publica-
 <lb break="no"/>tion a steel engraving of the last supper by Leonardo da Vinci,
@@ -1740,7 +1737,7 @@
 <lb break="no"/>sail each other, we should say that they were the most jeal-
 <lb break="no"/>ous tribe in the world, and much more worthy of being cal-
 <lb break="no"/>led the genus irritabile than authors, who are as insensible to
-<pb n="189"/>
+<lb/><pb n="189"/>
 <lb/>reproof as cast iron when compared with them. The cor-
 <lb break="no"/>respondents and essayists of the Architects’ Journal, the Can-
 <lb break="no"/>diduses and Dr. Fultons, are the most waspish tribe that we
@@ -1881,7 +1878,7 @@
 <lb/>ful in the committee to have chosen any other than a German Director,
 <lb/>and it shows a littleness of spirit and want of national feeling in the
 <lb/>Germans composing the orchestra, that they did not resist the implied
-<pb  n="190"/>
+<lb/><pb n="190"/>
 <lb/>imputation that the city could boast of no German professor capable
 <lb/>of conducting such a concert.
 <lb/>We hear that the fact of Signora Pico being engaged, was taken as
@@ -2037,7 +2034,7 @@
 <lb/>enunciation upon our nerves, that after sitting fifteen minutes in the
 <lb/>sound of his voice, the marrow in our bones began to dissolve, our
 <lb/>teeth were set on edge as by the filing of a saw, and chills crept
-<pb n="191"/>
+<lb/><pb n="191"/>
 <lb/>over us like an ague-fit; to have listened a moment longer would
 <lb/>have induced a paralysis, or something worse; and we did not begin
 <lb/>to resume our usual serenity until we had beeu jolted in an omnibus
@@ -2197,7 +2194,7 @@
 <lb/>with neatness, accuracy, and despatch, on terms which he feels con-
 <lb break="no"/>fident will be satisfactory to those who employ him.
 <lb/>January 16, 1846.
-<pb  n="192"/>
+<lb/><pb n="192"/>
 <lb/>THIS DAY PUBLISHED,
 <lb/>No. 1 of
 <lb/>WILEY &amp; PUTNAM’S LIBRARY OF CHOICE READING,
@@ -2349,23 +2346,23 @@
 <lb/>struments of the very best quality, with plates, cases, chemical polish
 <lb/>ing materials, &amp;c., kept constantly on hand. All orders receive
 <lb/>promptly attended to.
-<lb/>John Douglas, Printer, 68 Ann Street.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>John Douglas, Printer, 68 Ann Street.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

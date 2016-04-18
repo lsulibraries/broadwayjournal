@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 1.
 <lb/>Three Dollars per Annum. Single Copies, 6 1-4 Cents.
 <lb/>NEW YORK, SATURDAY, MAY 10, 1845.
@@ -57,7 +54,7 @@
 <lb/>Every year upon the opening of the exhibition, we hear the senseless cry repeated from shallow-thoughted writers, "too many portraits—who wants to see men’s faces—why don't they give us more historical works?” as if historical pictures were anything but groups of men’s faces. A portrait is 
 <lb/>to a historical composition what a biography is to history, or a legend to a novel. For ourselves, we prefer portraiture to historical compositions; and we regard a good portrait as the very highest reach of art: and so does the world at large regard it. The most valuable paintings in the world are portraits ; they sell at higher prices than any other pictures, and give the highest degree of pleasure. Even the gross beauties
 <lb/>of Rubens are valued more highly than any other of his paintings, and the portraits of Van Dyke and Titian are the most esteemed of their productions. Take the portraits from the list of Reynolds’ works, and there would be nothing left worth having. Among our own painters, Copley, Stewart, Trumbull, and Alston’s portraitures comprise the best and most numerous of their productions. Perhaps the finest collection of pictures in the country, is the Portrait Gallery of Harvard College, which contains some of the finest of Copley’s and Stuart’s heads. A bad portrait of a bad subject is certainly not a pleasant thing to contemplate ; but a fine portrait of a fine head, is one of the most charming and profitable objects in Art. A portrait of Shakspeare by such an artist as Van Dyke, would be worth more than all the historical pictures painted in his century. It is the true object of
-<pb  n="290"/>
+<lb/><pb n="290"/>
 <lb/>Art to counterfeit Nature, and preserve the forms which would be forever obliterated without its aid. We would by no means discourage historical composition, but then we would have each century paint its own history. It is very obvious that no painter can give us a reflection of a past age. We do not want mockeries in a picture, but realities. The modest sculptures on the ruins of Palenque, give a more vivid impression of the life of the Mexicans, than such pictures as that by Mr. Rothermel in the present exhibition can do. The two little pictures by Mr. Mount, numbers 145, 242, will convey to our descendants a better idea of their ancestors, than the most learned composition by one of themselves ever can. If we must paint historical pictures, let us paint our own history, which we thoroughly understand, and leave the dead to paint themselves. We want no masquerades on canvas, but living men and women in their real characters.
 <lb/>Our exhibition is rich in portraits, and particularly poor in history pieces, which we are extremely happy to see; and we draw more hopeful auguries for the Arts among us, than if the case were reversed.
 <lb/>We miss from the walls of the Academy the perfect portraits of Page, which for many years were its chief glory in portraiture. It is a puzzling anomaly that one of the greatest artists in the country should be compelled to leave the metropolis, and seek for employment in a provincial town. But such is the truth, and a mortifying truth it is, for it proves that there is a want of appreciation of the highest order of talent in the community, or at least it seems to prove it, for we do not believe that there is any lack of enthusiasm for high Art, although fortuitous circumstances may sometimes defeat its manifestation.
@@ -74,7 +71,7 @@
 <lb/>No. 69. Portrait—E. H. May. This young artist has two other portraits in the exhibition ; the best of the three, and indeed among the best portraits in the room, is No. 130; it is altogether a most admirable portrait, modest, substantial, and fleshly.
 <lb/>No. 83. Brig. Gen. Roumfort, of the Second Brigade, Philadelphia.—W. E. Winn. We are very happy to perceive that this is a production of the right-angled city. Why it was sent here for exhibition we are at a loss to conceive. Gen. Roumfort may be a brave man and good citizen, for aught we know to the contrary, but the artist appears to have tried hard to make him look like the reverse. Not content with giving him all the swagger possible, he has made the gallant General’s sword several inches longer than its scabbard. It is a woful picture, and it brings to mind most woful events, which the Philadelphians should be ambitious to forget.
 <lb/>No. 158. Portrait of a Gentleman.—T. H. Smith. There is nothing in this modest picture, excepting the marked character of the subject, to attract attention, and the posi-tion in which it is hung not being a favorable one. we should hardly have noticed it had we not known the painter to be one of the most industrious, most enthusiastic, and most
-<pb n="291"/>
+<lb/><pb n="291"/>
 <lb/>promising of all our young artists. No. 221, another head of an old gentleman, is a very truthful, unpretending portrait.
 <lb/>No. 165. A Greek.—By F. Fink. This portrait attracts a good deal of attention, and is universally admired. The hands are exquisitely painted, and the whole picture reflects great credit on the artist. But it is not the portrait of a Greek ; it is a gentleman in a greek costume, and so it should have been called.
 <lb/>No. 172. Portrait of Jacob Barker.—By H. Inman, N. A. This is the only portrait by this gentleman in the exhibition ; but this is one of the best that he has ever painted. It is a good likeness and a very pleasing picture. Considering that it was painted from three sittings, and those short ones, it must be regarded among this distinguished artist happiest efforts. It is somewhat slight and sketchy, but we see that it is just what the artist aims at in painting. The resemblance of the head to the portraits of Doctor Franklin is very remarkable.
@@ -118,7 +115,7 @@
 <lb/>And St. John’s self, great Dryden’s friend before,
 <lb/>With open arms receive one poet more.”
 <lb/>There is nothing more delightful in authorship, than an unchecked genial strain of friendly altercation, a rivalry in the appreciation of one another’s qualities, where it takes place between men who possess something in themselves worth eulogizing, and are of sufficient importance for the world to take an interest in the matter. We know what a much dreaded word egotism is in society and among critics, and how instinctively alarm is taken by a class of very sensitive persons at the slightest approach to personality; how
-<pb  n="292"/>
+<lb/><pb n="292"/>
 <lb/>many very careful guardians there are in the world with the zeal of duennas, whose prudish, nicely-educated souls are offended at an improper exhibition of self, and we appreciate very kindly the good taste which would reduce men and women to a vapid state of insipidity, by closing the mouths of everybody to anything which might prove hazardous to the personal comfort of—fools. Yet in spite of all this, we are advocates of plain speaking, downright thinking, egotism, personality, and any other terror “within the limits of becoming mirth,” and guarded by a never to be relinquished spirit of honest dealing. So long as fair play is shown, let us have the game out, come the good or ill fortune of it where it may.
 <lb/>One large class of objectors to the egotism of authors is that numerous body who are not authors, and who sometimes affect to be superior to the supposed vanity which, they imagine, is at the bottom of these exhibitions in print. Let us look into the matter. Waiving, for a moment, all questions of the kind of notoriety, in the case of the author, it may be, as it very often is, that the name of a fault-finder, if he be a merchant, for instance, is a hundred times in the paper to the author’s once. The most greedy, carnivorous candidate for fame, who bites with the avidity of a pike at a newspaper puff, and urges his literary wares upon the public, amid the general laughter, and particular contempt of his own class, is not half so industrious as the tradesman with his signs, bill-heads, check-books, agencies, correspondences, runners, gazetteers, advertisements, with his name on every packing box, placarded on every dead wall, running about the streets on carts, labelled on sloops, making the tour of rivers on steamboats, from the broad bunting to the very plates and dishes in cabin, and the last pewter spoon, or reaching that apotheosis of reputation, the figure head and bow of a ship ploughing the ocean. A prolific literary rabbit keeps before the people with some diligence, but not with half the success of the last pill manufacturer. But, it will be said, the fact is nothing, the motive is everything. The merchant pursues notoriety purely as an affair of business, of dollar and cents, and, when these are attained, his own private character, his domestic interests, his heart and soul, are his own uncorrupted, while the author is making trade and merchandize of all that a man should hold most dear and secret, of his affections, his sensibilities, the pretended goodness of his heart, and nicety of his feelings. Is the merchant so entirely uncorrupted as he represents himself? Is there nothing involved in his notoriety-seeking but matters of interest and profit ? Is it all outward, material, separable from the man ? No, his good name stands for a thousand things besides his dollars and cents. Go into the interior of the country, and see the fluttering which the presence of a man whose name has stood a quarter of a century, with honor, in Pearl Street, creates. He may be courted for his wealth, but he is respected for all that stands behind it, the probity, the self-denial, the industry, the talent, the energy, which have made him celebrated. Is name, is notoriety nothing? Why, without any impeachment to his modesty, he goes up to the desk of the hotel, and writes his autograph, in the traveller’s book, with the air of a man drawing a check on the spectators for an unlimited amount of respect, attention and deference, with the certainty of its being honored. The merchant seeks notoriety for the same ends, and as nearly as he can, with the same means as the author. Talk not of the vanity of authors, and the love of puffs and notoriety, ye merchants, before editors. As soothing to the soul of the ship-owner in South st., or the Captain on the seas, is a few inches of type, eulogistically arranged, as to the glistening eyes of the most self-idolatrous youngster, who ever perpetrated rhyme or prose.
 <lb/>We see that the merchant, in his own argument, does not stand quite clear of the suspicions he urges against the author. He is very righteously and commendably strengthening his own convictions and deference to duty by the voice of public opinion. And he is by no means necessarily making sale of his virtues, because he is prosperous by the credit he gets for them. The author assuredly goes further in the voluntary exhibition of himself,—in his egotism,—to admit the point at once. It is his vocation. To find fault with him for this is to beg the whole question. It is his business to write out what he knows, thinks and feels, that other men may learn to know, think and feel. If he were to do otherwise, and cease to exhibit, directly or indirectly, his own personal character on the page, biography would soon be an
@@ -126,7 +123,7 @@
 <lb/>We have certainly " fetched a compass” to get to our port of magazine writing, and vindicate its personalities. Are not our American writers, lecturers, preachers, politicians, editors, actors and other publicans, enough talked about ? It may be that they are too much talked about, and too little —that their names are better known than their actions—that they are often heard of, but poorly understood. We want the niceties of knowledge: all is nothing, mere barrenness, till we find out or are taught the peculiar secret principle which constitutes their vitality. We do not know anything of the men till we know that. We must have a niche for our writers, in the gallery of the mind, otherwise they are so much lumber thrown together at the threshold. No man’s knowledge is to be valued till he offers you something of his own, which is not to be picked up on the highway, or to which has been added some value from use or keeping. We get this rarely. Every one knows everything about our public men, few know anything. How little of all that has been written can we refer a stranger visiting the country to for a keen, just, appreciative character of our worthies! The magazines should be looked to for its criticism. Here is a field where the genuine writers of the country should come to one another’s help, and not leave the best characters of our authors and statesmen, as is the fact at present, to be written abroad. If we wish to learn anything of our great men, beyond, of course, the fact that they are great, we must go to Miss Martineau and the foreign reviews.
 <lb/>Authors have always been a generous body of men to one another in dedications, compliments, reviews, &amp;c., and there is nothing more graceful or valuable than these things, when they are conscientiously bestowed by good and true men. The old scholarship of the Continent, the verses prefixed to the Elizabethan editions, the tributes in the writings of Hazlitt and his friends, are so many well remembered instances among others. It was a peculiarity of the old English authors—insomuch that Leigh Hunt in his new work on Imagination and Fancy, has gone somewhat at length and apologetically into the matter, in reference to Shakspeare, who mentions none of his contemporaries. “ Has any body,’’ says he, “discovered the reason why he never noticed a living contemporary, and but one who was dead ? and this too, in an age of great men, and when they were in the habit of acknowledging the pretensions of one another.”
 <lb/>How necessary this spirit of appreciation is among others, where literature is an affair sustained and defended by the few, is a point only to be suggested. In the present state of our literature it is of the next importance to being true to themselves, that literary men should be true to one another. Short as our history has been, and comparatively few as
-<pb n="293"/>
+<lb/><pb n="293"/>
 <lb/>have been our men of letters, there has been time to forget and neglect some of the best spirits among them. American criticism has yet many a genial hour’s delightful toil to come, in making the acquaintance of the inner life of many who are but little understood.—Dem. Review.
 <lb/>AURORA AGRICULTURAL INSTITUTE.
 <lb/>A circular has been issued by several gentlemen of this County, for the establishment of an Institute at Aurora, in which young men may become thoroughly acquainted with “the principles of Agricultural Science, and their application to Practical Husbandry." The plan is one which received the fullest approval of the late Judge Buel; and the arrangements made, are such as cannot fail to offer every desirable inducement to those interested. The farm chosen consists 212 acres, adjoining the beautiful village of Aurora, which is well fitted by soil, location, improvement, &amp;c., for such purpose. No pupils under 14 years of age received. Charles C. Young, A. M. is Proprietor and principal; A. Thompson, A. M., M. D. Lecturer on Botany, Geology, Agricultural Chemistry, &amp;c., and David Thomas, Visitor and Adviser.—Auburn Journal.
@@ -161,7 +158,7 @@
 <lb/>say precisely ?”
 <lb/>“If you please, uncle—precisely.-
 <lb break="no"/>“Well, then, Bobby, my boy—you’re a fine fellow, are’nt
-<pb  n="294"/>
+<lb/><pb n="294"/>
 <lb/>you ?—since you will have the exact time, I’ll—why, I’ll oblige you for once.”
 <lb/>“ Dear uncle !”
 <lb/>“Hush, sir!” [drowning my voice]—“I’ll oblige you for once. You shall have my consent—and the plum, we mus’nt forget the plum—let me see ! when shall it be ? To-day’s Sunday—is’nt it? Well, then, you shall be married precisely—precisely, now mind!—when three Sundays come together in a week ! Do you hear me, sir! What are you gaping at ? I say, you shall have Kate and her plum when three Sundays come together in a week—but not till then—you young scapegrace—not till then, if I die for it. You know me—I’m a man of my word—now be off!” Here he swallowed his bumper of port, while I rushed from the room in despair.
@@ -185,7 +182,7 @@
 <lb/>Unde. “ To-day’a Sunday, I say—don't I know ?’’
 <lb/>Pratt. Oh no !—to-morrow's Sunday.”
 <lb/>Smitherton. “ You are all mad—every one of you. I am
-<pb n="295"/>
+<lb/><pb n="295"/>
 <lb/>as positive that yesterday was Sunday as I am that I sit upon this chair.”
 <lb/>Kate, (jumping up eagerly.) “I see it—I see it all. Papa, this is a judgment upon you, about—about you know what. Let me alone, and I’ll explain it all in a minute. It’s a very simple thing, indeed. Captain Smitherton says that yesterday was Sunday: so it was; he is right. Cousin Bobby, and uncle and I, say that to-day is Sunday: so it is; we are right. Captain Pratt maintains that to-morrow will be Sunday; so it will ; he is right too. The fact is, we are all right, and thus three Sundays have come together in a week."
 <lb/>Smitherton, (after a pause.) “By the bye, Pratt, Kate has us completely. What fools we two are! Mr. Rumgudgeon, the matter stands thus: the earth, you know, is twenty-four thousand miles in circumference. Now this globed the earth turns upon its own axis—revolves—spins round—these twenty-four thousand miles of extent, going from west to east, in precisely twenty-four hours. Do you understand, Mr. Rumgudgeon ?”
@@ -228,7 +225,7 @@
 <lb/>Upon the whole, this edition of Homer is not only one of the most valuable of the series, but one of the most important additions to classical literature which this country or any other has produced.
 <lb/>Letters from New York. Second Series. By L. M. Child. New York. C. S. Francis, &amp; Co. 1845.
 <lb/>The great popularity of the first series of Mrs. Child’s letters from New York, will insure a hearty welcome and a large sale for this new volume. Without possessing any of the charms which private epistles derive from their confidential revelations and bits of private scandal that all people love, the letters of Mrs. Child make a direct appeal to
-<pb  n="296"/>
+<lb/><pb n="296"/>
 <lb/>every human heart and cause the reader to feel as though they had been addressed to himself personally. It is because the author opens her own heart that she gains admission to the hearts of others so rapidly. Nothing will so disarm reserve as confidence; ice can alone be melted by heat; hatred and anger must be overcome by love and kindness. Bitter, sarcastic writers can never hope for popularity, or at least love. We rarely see one of Swift’s essays carried about as a pocket companion, but the good natured genial writings of Goldsmith are oftener bound up as pocket volumes than the works of any other author. The popularity of Mrs. Child’s letters must be attributed to a similar cause ; and to the fact that they treat of human beings and things that interest humanity. The sympathies of men are more wide than we are apt to believe. The stories of washerwomen, of street-sweepers and little beggar children, interest us beyond the most elaborate histories of merely official personages. Mrs. Child instinctively seizes upon subjects which are interesting to all classes, to men and women rather than to statesmen, or ladies and gentlemen. The present volume of her letters has a most taking table of contents. 'Christmas,’ 'Ole Bul,’
 <lb/>'New Year’s Festivities,’ 'Valentine’s Day,’ 'Fourth of July,’
 <lb/>'Children in Union Park,’ 'Genius and Skill,’ ‘Greenwood Cemetery,’ 'The Violin,’ 'Autumn Woods,’ The Spirite of Trade,’ 'Sir Harry Falkland;’ these are some of the titles to the letters ; suggestive of charming reading and delightful heart-touching subjects.
@@ -246,7 +243,7 @@
 <lb/>Saul, A Mystery. By the Author of “Christian Ballads,” "Athan-
 <lb break="no"/>asion,” etc. etc. etc. New York : D. Appleton, &amp; Co.
 <lb/>This poem was announced as about to be published in the fall of 1842, but withheld for private reasons. It is the longest dramatic work ever written, we believe, by an American,—occupying more than 280 pages, large duodecimo. The history on which it is founded, is contained in the Books of Samuel, commencing with the twentieth chapter of the first book, and ending with the first chapter of the second. “It may be proper to say," says the author in a note, "that I am not acquainted with any other poem in the language plotted
-<pb n="297"/>
+<lb/><pb n="297"/>
 <lb/>on the same incidents. Mr. Sotheby’s Epic, which very probably occupies the same ground, I believe I have never seen, and am sure that I never read.”
 <lb/>This we look upon as a very remarkable thing. How a poet, writing a Jong dramatic poem on the same theme, and with the same title and hero which have been already employed by another, could have forborne (at least after the completion of his own work) to peruse the work of his fellow-laborer in the field, is to our apprehension, we say, a eery remarkable thing, and plainly shows Mr. Coxe to be a very remarkable man.
 <lb/>We have no faith in dramatic poems—they are paradoxical. What is poetical is not dramatic—what is dramatic is never poetical. “Saul,” however, is not entitled a “Dramatic Poem,” but a “ Mystery”—and if there is any thing in the World we detest, it is a mystery of any kind. We confess, therefore, that we proceed to the perusal of this book with a host of prejudice. We do not think we shall like it, and if we do not, we shall endeavor to say so, in the plainest of all possible terms.
@@ -321,7 +318,7 @@
 <lb/>reach in the department of magazine literature, than the country has ever offered before. While the three dollar magazine, cheap and flashy, flourish best in Philadelphia,
 <lb/>the five dollar ones thrive best in New York ; indeed it is the only place, except Richmond, Va., where one has ever
 <lb/>thrived at all. But there is still room for another to administer
-<pb  n="298"/>
+<lb/><pb n="298"/>
 <lb/>to tastes and preserve interests, which the others neglect. No magazine in this country has yet done anything for the interests of art, but there is a growing appetite in tne American people for works of artistic excellence, which we trust that some intelligent publisher will before long turn to a profitable account.
 <lb/>Blackwood.—Mess. Leonard, Scott &amp; Co. have issued the April number of Blackwood. It cont .ins eight papers of varied excellence, but all good. “ Ping-Kee’s view of the stage” is piquant exceeding, ly, and North’s Account of Dryden (although disfigured with the usual carelessness and rant of Wilson) is an admirable essay. The continuation of the papers called “ Confessions of an Opium Eater” is better, we think, than the original—which was a lie throughout. There is yet room for a book on opium eating, which shall be the most profoundly interesting volume ever penned. It would be written, however, by no De Quincy.
 <lb/>NEW WORKS IN PRESS.
@@ -352,16 +349,14 @@
 <lb/>BOBUS SMITH.
 <lb/>It is not generally known to American readers, that the Rev. Sydney Smith had a brother who was nearly as bright a genius as the great wit himself. Robert Smith, commonly called Bobus by his friends, died just a fortnight after the decease of his elder and more famous brother. We find the following biographical notice in the last number of the London Critic, the new weekly review which defends the cause of Young England ;
 <lb/>“It has very recently fallen to our lot to attempt some commemoration of the life, character, and genius of the late Rev. Sydney Smith. We little apprehended at the time that we should so soon afterwards be called upon to record the death of his brother, elder by one year, Robert Smith, Esq., which took place on the day fortnight after the other. These two | most remarkable men had always entertained a strong degree | of reciprocal attachment and admiration for each other; but the life of the elder had, especially of late years, been so comparatively withdrawn from the more prominent scenes of business and society, that we have little doubt that we shall surprise the larger proportion of our readers by affirming that, while the younger justly attracted an ampler share of the public notice by the more active part he bore in questions
-<pb n="299"/>
+<lb/><pb n="299"/>
 <lb/>and measures affecting the public welfare, and while in a species of inspiration which he imparted to mirth and wit, though by no means his most valuable characteristic, he, among the men of his own, and perhaps of any time, may with truth be pronounced inimitable; at the same time, we believe that the most discerning of the contemporaries who were happy enough to enjoy the friendship of both—we are sure that the lamented Sydney himself—would in extent of acquirement, in original force of thought, in mastery of mind, have given the palm to Robert, or to call him by the name he inherited from the happy familiarity of early days, Bobus Smith.
 <lb/>“We cannot pretend to give a full or accurate account of his life. He was born iu 1770. At Eton he was the intimate associate of Canning, Frere, and Lord Holland, and a contri-butor to the Microcosm. At Cambridge he materially added to the reputation for scholarship and classical composition which he had established at school; and if the most fastidi-ous critic of our day would diligently peruse the three Triposes which he composed in Lucretian rhythm, on the three systems of Plato, Descartes, and Newton, we believe that we should not run the least risk of incurring the charge of exaggeration, in declaring our belief that these compositions in Latin verse have not been excelled since Latin was a living language. Be this said with the peace of Milton and Cowley—with the peace of his fellow Etonians, Grey and Lord Wellesley.
 <lb/>“We are not aware that we can refer to any subsequent compositien by Mr. Smith which could be put on a level with these youthful effusions. We should, indeed, imagine that no person with his powers of intellect had ever published so little. Nor were his achievements in active public life, from the same fastidious aversion to display, though by no means wanting in usefulness, at all commensurate with the ideas conceived of him by every one that approached him. He was nine years in Bengal as Advocate General, and one short extract from Sir James Macintosh’s Diary may show the value entertained for him there:—“I hear frequently of Bobus; always merry and always kind. Long live Bobus !”	
 <lb/>We believe his acquaintances were disposed to form brilliant auguries of what he was likely to effect as a speaker in Parliament. His first essay, in 1812, is supposed not to have come up at least to the mark of his own fastidious judgment, and he seldom afterwards addressed the House at any length, or upon subjects which excited the contest and passions of parties. He rendered, however, really eminent services as a most diligent and pains-taking member of committees, which might have put many an idle mediocrity to the blush. He finally retired from Parliament in 1826. He spent the remainder of his life in comparative retirement, in the serene enjoyment of the various literature he loved, and the cheerful intercourse of the restricted society that delighted him. Nothing can be imagined more rich and racy in its variety of material, and in its force of reflection, than his conversation. “ Pourquoi ne parlez-vous comme-ca dans la Cham-bre des Communes?" said Madame de Stael to him one day, after listening for some time to its eloquent flow; though there was in it nothing of the harangue, in its manly ease and simplicity it partook of his character; there was much in him of the sturdy Saxon combined with the refined and thoroughly finished scholar. No one was ever so clear of all frippery, and the only thing for which he probably felt no toleration was a prig. Of his conversation Mr. Canning said “Bobus's language is the essence of English.”
 <lb/>In his inner domestic life he was full of gentle and attaching qualities. He married Caroline Vernon, daughter of Richard Vernon, esq. and Evelyn, Countess of Upper Ossory. He lost a son and a daughter in their prime of youth, each of most rare promise. His eldest son, and only surviving child, is the Right Hon. R. Vernon Smith, M. P. for Northampton.
 <lb/>Professor Gouraud.—The following extract from the Professor's lecture on Memory, is a remarkable instance of fluent writing in a foreigner, who, three or four years since, was almost ignorant of our languge. M. Gouraud’s style is somewhat too luxuriant for these days of classic severity, but it has wonderful ease as the production of a foreigner.
-<lb/>Already have the birds of night, preceded by the white-winged owl, who seems to serve them as a warning beacon, begun to regain their obscure retreats in the shadowy depths of the forests: the timid hare
-<lb/>
-<lb/>and cautious deer have already left the open fields for the more propi-
+<lb/>Already have the birds of night, preceded by the white-winged owl, who seems to serve them as a warning beacon, begun to regain their obscure retreats in the shadowy depths of the forests: the timid hare</p><p/><p>and cautious deer have already left the open fields for the more propi-
 <lb break="no"/>tious shadow of the woods. At their return, the implacable eagle and the voracious hawk begin to prepare anew their sharp talons for the morning’s hunt; while, disengaging their heads from underneath the warm wings which covered them during the night, the birds of day among whom they must soon choose again their prey, little foreseeing the cruel fate which may and which must before long overtake them, open their eyes, shuffle their glossy feathers, and begin to hop from branch to branch, as if to stretch their little limbs, and prepare their light wings for flight.	
 <lb/>All at once, the air rings with a melodious sound, which causes the atmosphere to vibrate afar, with a sweet and tremulous thrill; the echo, hitherto silent, repeats it in successive adulations to the distant streamlet of the valley. Immediately cadencing a harmonious rou-lade, which seems to run over a thousand varied notes at once the fairy voice which produced these ravishing sounds awakens all the surrounding echoes, and they repeat it in chorus—while the voice itself seems to pause, as if, submerged in the torrent of harmonies with which she has filled the atmosphere, she were listening to herself in rapturous astonishment. At these enchanting accents, the joyous troop are suddenly arrested, as if under the infatuation of a spell to listen also; for they have recognised the harmonious ringing notes of the lyric enchantress of the groves, the morning leader of the song-sters of the forest—the melodious nightingale ! who, already preluding at her morning concerts, offers thus abruptly her first salutations to Aurora, always attentive to her songs. It would seem indeed that her melodious notes had been carried by the surrounding echoes even to the carminated gates of the horizon, and were understood by the elements; for Aurora at the moment seems to have redoubled her pace. The birds, preluding already to the harmonies of their matin hymns, seem to prepare themselves for singing her triumphs. At their head is the rustic cuckoo, the gay linnet, the lively red-breast and the sensitive turtle-dove. The nightingale by their side, presiding t over the concert, redoubles her harmonious cadences, as the Goddess of the dawn approaches. Most of the stars have vanished from the firmament; the heavens now appear like an ocean of shining gold and liquid gems of a thousand hues. And now Aurora reigns in undisputed sovereignty. But, alas! “ a natural image of pleasure: as nothing is more beautiful than her reign, so nothing is shorter than its duration.”
 <lb/>The god of day follows her with hasty steps ; she must soon resign her empire, like the night, which just now fled so rapidly before her.  In vain the hours, with redoubled energy, scatter in precipitated floods
@@ -376,9 +371,7 @@
 <lb break="no"/>tacle so majestic and sublime! . . . . . . .	
 <lb/>Soon the laborers resume their wonted toils; the flocks and herds
 <lb/>are reconducted to the fields; the butterflies begin to flit from flower
-<pb  n="300"/>
-<lb/>
-<lb/>to flower, the bees of the neighbouring trees come to dispute with them for the sweet ambrosia of their streaming nectaria ; the lady-birds leave their rosy couches ; the gilded day-beetles quit their pro-tecting recesses, while those of the night regain their mossy cells. The nocturnal flowers fold their humid petals, while the blossoms of the day unfold their fresh corollas. The dew evaporates beneath the increasing heat of the Sun, whose vivifying influence, animating all nature, infuses life, vigor, and gladness into every particle of matter, into every sensitive bosom.......
+<lb/><pb n="300"/></p><p/><p>to flower, the bees of the neighbouring trees come to dispute with them for the sweet ambrosia of their streaming nectaria ; the lady-birds leave their rosy couches ; the gilded day-beetles quit their pro-tecting recesses, while those of the night regain their mossy cells. The nocturnal flowers fold their humid petals, while the blossoms of the day unfold their fresh corollas. The dew evaporates beneath the increasing heat of the Sun, whose vivifying influence, animating all nature, infuses life, vigor, and gladness into every particle of matter, into every sensitive bosom.......
 <lb/>ANNIVERSARY WEEK.
 <lb/>In addition to the usual religious societies which hold their anniversaries in this city during the second week in May, we have this season a convention of Infidels, whose meetings are held in a small brick building in Broadway called the Coliseum. The city was startled at the sight of placards on the corners of all the principal streets, headed Infidel Convention, notifying the people that a meeting of infidels would be held at certain hours during Sunday. We like the honesty of these people, in proclaiming their Infidelity, although it appears that the great man among them, Mr. Owen, objected to the term, and preferred being called, a “ friend of universal freedom and unlimited charity,” which is a very comprehensive designation, but not a very forcible one. The Tribune makes some strange comments upon this convention, which we do not fully comprehend, but they appear to us highly commendatory. “ Saying nothing of the influence of belief,” says the paper, “ who can doubt that the isolated condition of all infidels, their independence of the restraining influ-ence of sympathy and fellowship are clearly unfavorable to high moral attainments? We rejoice, then, that they have resolved to know each other, and fix upon some definite and endearing plan of organization and action.”
 <lb/>This is surely very distinct and unequivocal. A paper possessing the immense circulation of the Tribune, which is taken in many pious families for the reason that it excludes theatrical advertisements, and other wicked matter from its columns, is rejoiced that the infidels in this country have had the shrewdness to adopt the machinery by which other classes of men contrive to strengthen themselves in their errors, and trusts that they may fix upon some plan for rendering their infidelity enduring. The want of “high moral attainments” among infidels, the Tribune attributes to the isolated manner in which they have heretofore lived, and thinks that by meeting together frequently, and adopting the machinery of a party, whereby they may become more thoroughly imbued with infidelity, that their morals will be improved. The morality and the reasoning of the Tribune are decidedly original, and we would advise the proprietors to get out a patent for them.
@@ -423,7 +416,7 @@
 <lb break="no"/>MUSICAL ITEMS.
 <lb/>The Bcehm Flute.—We rarely have the good fortune to be able to chronicle one really useful improvement in musical instruments; numberless modern inventions come under our notice daily, but they are, for the most part, if not entirely, valueless—of but little practical advantage.
 <lb/>The Boehm Flute is, however, a noble exception; we look upon it as the most valuable improvement ever effected in this instrument; and we believe, although there is no limit to the ingenuity of the human intellect, that it brings the flute as near perfection as it ever will be. It not only renders every scale of the instrument comparatively easy, but it ensures, beyond every contingency, that every scale shall be in perfect tune. It renders also the upper and the lower tones very easy to produce, while it improves and equalizes the tone throughout. Passages which were im practicable upon the old flute can be played with perfect fa
-<pb n="301"/>
+<lb/><pb n="301"/>
 <lb/>cility upon the Boehm flute, while, added to all these advan-tages, and many more advantages which we shall take an early opportunity of pointing out to amateur and professional players, the exterior appearance of the flute is much improved and beautified.
 <lb/>A strong feeling of prejudice was exhibited against the Boehm innovation, as it was arrogantly called, by professional players, both here and in Europe; but its striking advantages and sterling excellence silenced them one by one, and the Boehm flute is now universally adopted.
 <lb/>To Mr. W. J. Davis, the talented flutist, every honor must be given as the first man who had the boldness to introduce it into this country ; and to Mr. Larrabee, the ingenious maker, the public and the professors owe a debt of gratitude for his sacrifice of self-interest, in substituting the new for the old flute.
@@ -438,7 +431,7 @@
 <lb/>We have no reason to believe that Mr. Hamblin would break adrift from the legitimate drama, or that he would do any better in Broadway than he has heretofore done in the Bowery; and therefore we would rather see him fail than succeed in his present undertaking; not that we wish him any ill as an individual, but as a manager he cannot but do harm in the community. He has had a large theatre under his control for many years, but he has done nothing to elevate the drama or correct the corrupt tastes of his audiences. If Mr. Hamblin must have a theatre, let him by all means stick to the Bowery. He would be a fish out of water in Broadway, and his theatre would mar the beauty of our magnificent thoroughfare.
 <lb/>We shall have a theatre in New York by and by, we have no doubt, that will reflect the manners of the people and satirise their vices, but it must be under the control of a manager to the manor born.
 <lb/>We are sorry for Mr. Hamblin’s misfortunes, and would not put the slightest obstacle in his way to retrieve his losses ; and our remarks are only intended to apply to the erection of a theatre in Broadway.
-<pb  n="302"/>
+<lb/><pb n="302"/>
 <lb/>Fact and Fiction.—From Thoughts on Reading, in Colton’s Magazine, by H. N. Hudson, the Lecturer on Shakspeare:
 <lb/>“ Good people often seem laboring under a great mistake in regard to works of fiction. They appear to think of truth as synonymous with matters of fact, and of fiction as synony- mous with falsehood. Now, there is probably nothing that lies so frequently or so abominably as narratives of facts. Why, if a man wants to make any falsehood go down, he always sweetens it with some “ fact whch came under his own observation.” Facts, indeed, we know to be the readiest vehicle of lies in the world : and whenever one under- takes to inflict them on us, we take for granted that there is no truth in him; or that, if there be, it is not coming out this time. On the other hand, as some one has said, the purest fictions often contain more of truth than many histories and scientific theories. In Spenser or Cervantes, for example, perhaps you shall not find a single falsehood, or a single fact; in a Gibbon or a Paley, you shall scarcely find a single fiction or a single truth. In the former, all shall be true but the names; in the latter all but the names shall be false. Take, for example, Addison’s Cato and Sancho Panza. Now, Cato is unquestionably a real name; nobody doubts the existence of such a man ; or that he was a genuine old, eating, breathing, thinking and speaking Roman, of the staunchest and noblest make. But Addison's Cato is one of the sheerest falsehoods that ever was perpetrated ; such a being never did exist, and never could exist; all the princi- ples of human nature must be changed before his existence were possible. Sancho Panza, on the contrary, is doubtless a fictitious name; nobody pretends that a real man ever bore that name ; but the character is a perfect form of truth ; is as real as the old Roman Cato was, whom Addison meant to give us, but could not; wants, in short, all that Addison’s Cato has, and has all that Addison’s Cato wants. And thus it is, that, in the hands of an artist, a fiction becomes the truest of realities, while, in the hands of a bungler, a fact becomes the emptiest of falsehoods.
 <lb/>Again ; take Spenser’s Una and Johnson’s Milton. Now, Una is a mere personification of truth—one of the purest abstractions which the mind can frame, and with which, as such, we could no more sympathize, than with a triangle or an octagon. And yet, in Spenser’s hands, it has turned out a fair humanity, breathing and blushing before us, like life itself. Uniting all the purity of an abstraction, with the flesh-and-blood reality of an actual person, we at once revere her as truth, and feel for her as the real subject of sympathies and affections answering to our own. Here, then, is a genuine character; a pure abstraction has come out a living person; a perfect fiction has become a perfect truth. This is the miracle that genius performs. Milton, on the contrary, is an actual person ; nay, he has stamped his individuality, as a full length portrait, on every page of his works, so that he who runs may read, provided he have eyes. In Johnson’s hands, however, he becomes a mere abstraction ; no longer he, but it ; or rather, a bundle of the mo t inconsistent and irreconcilable abstractions. You could no more mould such elements into the same living character, than you could mix fire and water, without destroying either.— Here is a genuine fact turned into a perfect falsehood. This is the miracle that genius does not perform. We could multiply instances beyond either our time or the reader’s patience. It is truth, in this sense, that forms the substance and the soul of all true books ; and we care not what form you give it, it is as genuine and as indestructible as the eye of God.	1
@@ -475,7 +468,7 @@
 <lb/>NOTICE TO PUBLISHERS.
 <lb/>We shall furnish in our columns hereafter, a weekly list of new works published in the U. S. and in London. Publishers in New-York, Boston, Philadelphia, and other cities, are requested to send us lists of their new works, and of works in press, in order to make our publication as full as possible.
 <lb/>To booksellers at a distance, and to professional men generally, as well as readers at large, this occasional list will be interesting and valuable. We propose to make it complete, so that it shall be a full index to alt the operations of the “ Press ” in the English language.
-<pb n="303"/>
+<lb/><pb n="303"/>
 <lb/>BOARD IN BROOKLYN.—A Single Gentleman,
 <lb/>who is partial to Chess and Music, can be provided with a furnished room, and breakfast and tea, in a private family, residing near Fulton street, Brooklyn, in one of its most pleasant streets.
 <lb/>Address W. S. Office of Broadway Journal: or enquire at said office.
@@ -513,9 +506,7 @@
 <lb/>Music-Piano Forte, -	-	- 15 00	"
 <lb/>" Singing, - - -			15 00 "
 <lb/>Drawing, - - - -  			10 00 "
-<lb/>Dancing, - - - -			12 00 	"
-<lb/>
-<lb/>For Board, (payable Quarterly in advance,) $175 per Annum.
+<lb/>Dancing, - - - -			12 00 	"</p><p/><p>For Board, (payable Quarterly in advance,) $175 per Annum.
 <lb/>Board during vacations at the same rate.	
 <lb/>The young ladies are required to bring towels, spoons, fork and napkin ring—every article fully marked,
 <lb/>Washing $7 50 per Quarter.	
@@ -585,7 +576,7 @@
 <lb/>Messrs. G. J. Webb.
 <lb/>J. G Maedar. H. T. Hach. E. L. White. David Paine. A. Kurek.
 <lb/>T. B. Moses.
-<pb  n="304"/>
+<lb/><pb n="304"/>
 <lb/>WORKS IN PRESS.
 <lb/>BY HARPER AND BROTHERS, NEW YORK.
 <lb/>ENCYCLOPAEDIA OF DOMESTIC ECONOMY :
@@ -686,23 +677,23 @@
 <lb/>Colon &amp; Adriance,	- - - - 	Philadelphia, Pa.
 <lb/>R. G. H. Huntington, - - - - 		Hartford, Ct. George Jones,	- - - - 		 Albany,N. Y.
 <lb/>Thomas H. Pease, - - - - 	New Haven, Ct.
-<lb/>John Douglas, Printer, 106 Fulton street.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>John Douglas, Printer, 106 Fulton street.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

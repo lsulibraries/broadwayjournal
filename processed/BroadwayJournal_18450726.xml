@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.	NEW YORK, SATURDAY, JULY 26, 1845.	NO. 3.
 <lb/>Three Dollars per Annum.	EDITED BY	Published at 136 Nassau St.
 <lb/>Single Copies, 6 1-4 Cents.	EDGAR A. POE AND HENRY C. WATSON.	By JOHN BISCO.
@@ -154,7 +151,7 @@
 <lb/>each up nicely in a separate envelope, I despatched one to
 <lb/>each of the four principal Magazines, with a request for
 <lb/>speedy insertion and prompt pay. The result of this well
-<pb  n="34"/>
+<lb/><pb n="34"/>
 <lb/>conceived plan, however, (the success of which would have
 <lb/>saved me much trouble in after life,) served to convince me
 <lb/>that some editors are not to be bamboozled, and gave the
@@ -254,7 +251,7 @@
 <lb break="no"/>dy-Dow.’ They will ‘insert' it. They ‘insert’ every month just
 <lb/>such stuff. Send it to them. WE are not to be insulted with im-
 <lb break="no"/>punity.”
-<lb/>This made an end of me ; and as for the “ Hum-Drum,’>
+<lb/>This made an end of me ; and as for the “ Hum-Drum,’&gt;
 <lb/>the “Rowdy-Dow,” and the “Lollipop,” I never could com-
 <lb break="no"/>prehend how they survived it. The putting them in the
 <lb/>smallest possible minion, (that was the rub—thereby insinu-
@@ -288,7 +285,7 @@
 <lb/>dilemma I had recourse to paternal aid ; and, after some hours
 <lb/>of mature thought, my father and myself thus constructed
 <lb/>the poem:
-<pb n="35"/>
+<lb/><pb n="35"/>
 <lb/>To pen an Ode upon the 
 <lb/>"Oil-of-Bob”
 <lb/>Is all sorts of a job.
@@ -423,7 +420,7 @@
 <lb/>One fine morning, very shortly afterwards, “ I awoke and
 <lb/>found myself famous.” The extent of my renown will e
 <lb/>best estimated by reference to the editorial opinions of the
-<pb  n="36"/>
+<lb/><pb n="36"/>
 <lb/>day. These opinions, it will be seen, were embodied in cri-
 <lb break="no"/>tical notices of the number of the “ Lollipop-’ containing my
 <lb/>poem, and are perfectly satisfactory, conclusive and clear
@@ -560,7 +557,7 @@
 <lb/>Katy-Did, and the Bunker-Hill Katy-Did’nt.’
 <lb/>“ The most able papers in the present number, are, of course,
 <lb/> those furnished by the editor, (the eminent Mr. CRAB.) but there
-<pb n="37"/>
+<lb/><pb n="37"/>
 <lb/>are numerous magnificent contributions from such names as Snob;
 <lb/>Mademoiselle Cribalittle ; Slyass; Mrs. Fibalittle; Mumblethumb;
 <lb/>Mrs. Squibalittle; and. last, though not least, Fatquack. The world
@@ -694,7 +691,7 @@
 <lb/>Mr. Crab. He took me into his confidence, gave me a per-
 <lb break="no"/>manent situation as Thomas Hawk of the “ Lollipop,” and
 <lb/>as, for the present, he could afford me no salary, allowed me
-<pb  n="38"/>
+<lb/><pb n="38"/>
 <lb/>to profit, at discretion, by his advice.
 <lb/>“ My Dear Thingum,” said he to me one day after dinner,
 <lb/>“I respect your abilities and love you as a son. You shall
@@ -827,7 +824,7 @@
 <lb/>you should. I leaned to the right. I leaned to the left. I
 <lb/>sat forward. I sat backward. I sat upon end. I sat tete
 <lb/>baissee, (as they have it in the Kickapoo,) bowing my head
-<pb n="39"/>
+<lb/><pb n="39"/>
 <lb/>close to the alabaster page. And, through all, I—wrote.
 <lb/>Through joy and through sorrow, I—wrote. Through hung-
 <lb break="no"/>er and through thirst, I—wrote. Through good report and 
@@ -959,7 +956,7 @@
 <lb/>Ere the garden of my heart was blighted—
 <lb/>To the core!
 <lb/>I have tottered here to look once more !
-<pb  n="40"/>
+<lb/><pb n="40"/>
 <lb/>All the picture now to me how dear!
 <lb/>E'en this gray old rock where I am seated,
 <lb/>Is a jewel worth a journey here;
@@ -1100,7 +1097,7 @@
 <lb/>The Mysteries of Berlin. To be Completed in Ten Parts.
 <lb/>Part VII.
 <lb/>This is a very weak and absurd imitation, or rather exagger-
-<pb break="no" n="41"/>
+<lb break="no"/><pb n="41" break="no"/>
 <lb/>ation of all the most reprehensible features of “The Myste-
 <lb break="no"/>ries of Paris.”
 <lb/>The Roman Pontiff, or a Sketch of the Lives of the Su-
@@ -1366,7 +1363,7 @@
 <lb/>in C minor, 3-4 time. Its character is mournful to a painful
 <lb/>degree. The principal subject is to be found in the symphony,
 <lb/>and is given to the left hand. It is well carried out through
-<pb n="43"/>
+<lb/><pb n="43"/>
 <lb/>the song, and imparts to it a sad and reflective lone, which
 <lb/>forcibly impresses the hearer. This song has not the stamp
 <lb/>of genuineness so strongly marked as the second under
@@ -1494,7 +1491,7 @@
 <lb break="no"/>lection should not be divided. It should form the nucleus of
 <lb/>a great gallery.
 <lb/>If the wealthy and ardent admirers of the Fine Arts in
-<pb  n="44"/>
+<lb/><pb n="44"/>
 <lb/>New York, would but take the matter in hand, how easy it
 <lb/>would he, by subscription, to purchase the entire collection
 <lb/>for New York.
@@ -1637,7 +1634,7 @@
 <lb/>Is this the conduct of narrow-minded or illiberal men? If
 <lb/>they desired to keep the entire public patronage, why should
 <lb/>they voluntarily instruct so large a number of young men,
-<pb n="45"/>
+<lb/><pb n="45"/>
 <lb/>some of whom might naturally be expected to deprive them
 <lb/>of some portion of that patronage, when they might if they
 <lb/>choose appropriate that money to themselves, which is now
@@ -1768,7 +1765,7 @@
 <lb break="no"/>riage-horses are occurring continually. Nothing seems to
 <lb/>"do" like the McAdam pavement, and wherever you find it
 <lb/>in London, you find it in as perfect order as the floor of
-<pb  n="46"/>
+<lb/><pb n="46"/>
 <lb/>bowling-alley. I see that all heavy vehicles, (by the way)
 <lb/>are compelled to have very broad wheels, and they rather
 <lb/>improve the road than spoil it. A law to the same effect
@@ -1891,7 +1888,7 @@
 <lb/>scenes: the eye wanders over the immense panorama of the woods
 <lb/>of Vesmay and Charenton—admires the sides of Marli—and follows
 <lb/>the “ sinuous Seine," winding its slow way through “alleys green.”
-<pb n="47"/>
+<lb/><pb n="47"/>
 <lb/>To the Author of the “ Lines on the Grecian Flute.” 
 <lb/>We fear that we have mislaid the poem.
 <lb/>Index to our first Volume.—We did not purpose to pub-
@@ -2057,7 +2054,7 @@
 <lb/>will recommend themselves, and are finished in the highest state of
 <lb/>perfection, with the best French grand action, warranted in every re
 <lb/>spect by the manufacturer.
-<pb  n="48"/>
+<lb/><pb n="48"/>
 <lb/>A CARD.
 <lb/>WM. A. KING, PROFESSOR of the PIANO-
 <lb break="no"/> FORTE, ORGAN. &amp;c. has removed to No. 22 Bank street,
@@ -2231,23 +2228,23 @@
 <lb/>Thomas H. Pease..................New-Haven, Ct.
 <lb/>L.	Willard,.....................Troy.
 <lb/>M.	Baullemet,...................Mobile, Al.
-<lb/>J. C. Morgan, .	. . New Orleans.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>J. C. Morgan, .	. . New Orleans.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

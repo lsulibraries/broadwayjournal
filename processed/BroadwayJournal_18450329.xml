@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>vol. I. no. 13. NEW YORK, SATURDAY, MARCH 29, 1845.
 <lb/>Three Dollars per Annum.
 <lb/>Single Copies, 6 1-4 Cents.
@@ -159,7 +156,7 @@
 <lb/>create as much distress, only because they are not as widely
 <lb/>spread as were the operations of those arch-financiers. A
 <lb/>company was projected in Wall street, the past winter, in
-<pb  n="194"/>
+<lb/><pb n="194"/>
 <lb/>which several men of capital embarked, which was hardly
 <lb/>more explicit in its objects than one started by a great genius
 <lb/>in the time of the South Sea Bubble, entitled “ A Company
@@ -291,7 +288,7 @@
 <lb/>my own course—without daring to arrogate to myself a sin-
 <lb break="no"/>gle other quality of either of these eminent men than that
 <lb/>pure contempt for mere prejudice and conventionality which
-<pb n="195"/>
+<lb/><pb n="195"/>
 <lb/>actuated them all, I will now unscrupulously call the atten- J
 <lb/>tion of the Outises to the fact, that it was during what they
 <lb/>(the Outises) would insinuate to be the unpopularity of my
@@ -462,7 +459,7 @@
 <lb/>No mist nor stain !
 <lb/>Then, too, the Old Year dieth,
 <lb/>And the forests utter a moan,
-<pb  n="196"/>
+<lb/><pb n="196"/>
 <lb/>Like the voice of one who crieth
 <lb/>In the wilderness alone,
 <lb/>Vex not his ghost!
@@ -674,7 +671,7 @@
 <lb/>• Sammlung vorzuglicher Volkalieder der bekanntesten Nationen,
 <lb/>grostentheils run ersten male, metrisch in das Deutche ubertragen.
 <lb/>Frankfurt, 1837.
-<pb n="197"/>
+<lb/><pb n="197"/>
 <lb/>And grow in silence, and in silence perish.
 <lb/>Who hears the falling of the forest leaf?
 <lb/>Or who takes note of every flower that dies ?
@@ -857,7 +854,7 @@
 <lb/>Like a sad votarist in palmer’s weeds.
 <lb/>And again:—these lines by Professor Longfellow will be
 <lb/>remembered by every body:
-<pb  n="198"/>
+<lb/><pb n="198"/>
 <lb/>Art is long and time is fleeting,
 <lb/>And our hearts, though stout and brave,
 <lb/>Still like muffled drums are beating
@@ -990,7 +987,7 @@
 <lb/>but yourself? No reason for shaving ? O! my son !”
 <lb/>“ True,” replied the unfortunate youth as he stroked his
 <lb/>beard with ineffable content, “ true, but they are all mad or
-<pb n="199"/>
+<lb/><pb n="199"/>
 <lb/>they would not. I need my beard to protect my face and
 <lb/>throat from the wet and cold. It helps to hide the sharp
 <lb/>angles of my jaws, it makes me more comely, adds to my
@@ -1151,7 +1148,7 @@
 <lb/>lest I should establish a precedent by which I might at some
 <lb/>future day be pronounced mad myself.
 <lb/>HARRY FRANCO.
-<pb  n="200"/>
+<lb/><pb n="200"/>
 <lb/>PORTRAIT OF AN ANNEXATIONIST.
 <lb/>It has not been for lack of interest, or of opinion, that we have kept silent on the important subject of annexation. But
 <lb/>seeing that the thing was determined upon, we saw no good in wasting our little space in the reading world by fretting
@@ -1177,7 +1174,7 @@
 <lb/>He has put on his crown of iron horns to give intensity to his anger. He will play the-------with those foolish annexees
 <lb/>who will not accept the terms of denationalization which have been offered to them. But his majesty will again be satisfied :
 <lb/>there is little doubt of the work being done to his mind by and by.
-<pb n="201"/>
+<lb/><pb n="201"/>
 <lb/>THE ART OF THE USE OF COLOR IN IMITATION IN PAINTING,
 <lb/>NO. VI.
 <lb/>REYNOLDS, ALSTON, STUART.
@@ -1310,7 +1307,7 @@
 <lb/>it will be apparent that he more nearly approached that which
 <lb/>I have endeavored to set forth, than most of the other pain-
 <lb break="no"/>ters about. He alternated the three primitive colors all through
-<pb  n="202"/>
+<lb/><pb n="202"/>
 <lb/>his flesh, solidly to he sure, and on the surface instead of
 <lb/>laying them over each other, and often mixed them all to-
 <lb break="no"/>gether, producing a sort of neutral olive tint, and passed this
@@ -1472,7 +1469,7 @@
 <lb/>marching to meet some formidable foe.
 <lb/>As they passed across the desert, the blessed influence of
 <lb/>the fairy was exerted with such strength that springs of wa-
-<pb break="no" n="203"/>
+<lb break="no"/><pb n="203" break="no"/>
 <lb/>ter burst from the sand wherever site pointed the golden
 <lb/>sceptre which she carried; while along the line of march as
 <lb/>soon as her train had passed, flowers and plants sprung up;
@@ -1600,9 +1597,7 @@
 <lb/>the sight of a well proportioned building, or in a high moun-
 <lb break="no"/>tain, but such heaps of granite and marble as the Exchange
 <lb/>and Custom-House, in Wall-street, seem to weigh upon the
-<lb/>mind like a nightmare.	H. F.
-<lb/>
-<lb/>the theatre.
+<lb/>mind like a nightmare.	H. F.</p><p/><p>the theatre.
 <lb/>THE NEW COMEDY BY MRS. MOWATT.
 <lb/>The plot of “ Fashion” runs thus : Adam Trueman, a blunt, warm-
 <lb break="no"/>hearted shrewd, irascible, wealthy, and generous old farmer of Cat-
@@ -1618,7 +1613,7 @@
 <lb/>that she was dead. The Geneva friends were instructed to educate
 <lb/>her in habits of self-dependence, and to withold from her the secret
 <lb/>of her parentage, and heirship ;-the grandfather’s design being to se
-<pb  n="204"/>
+<lb/><pb n="204"/>
 <lb/>cure for her a husband who will love her solely for herself. The
 <lb/>friends by advice of the grandfather, procured for her when grown up
 <lb/>to womanhood, a situation as music teacher in the house of Mr. Tif-
@@ -1953,7 +1948,7 @@
 <lb/>The orchestral arrangements of this duett by Signor Milon, were, as
 <lb/>far as we could judge from the imperfect way in which they were
 <lb/>played, very clever, clear, effective, and well conceived. The brass
-<pb  n="206"/>
+<lb/><pb n="206"/>
 <lb/>instruments, particularly, were well treated. We should like to hear
 <lb/>it done justice to.
 <lb/>The dancing was dreadful. Md’lle Desjardines has but a very im-
@@ -2113,9 +2108,7 @@
 <lb/>finished instrument.
 <lb/>The Lumber-Yard is the first point which demands attention.
 <lb/>Around its spacious area, are stacked the various kinds of wood used
-<lb/>in the manufacture of Pianos, such as pine, oak, ash, rosewood, ma-
-<lb break="no"/>
-<pb n="207"/>
+<lb/>in the manufacture of Pianos, such as pine, oak, ash, rosewood, ma-</p><p/><p><pb n="207" break="no"/>
 <lb/>hogany, holly, maple, &amp;c. &amp;c. Many thousand dollars worth of such
 <lb/>stock will be found here, continually exposed to every change of wea-
 <lb break="no"/>ther—cold, heat, raiu, &amp;c., &amp;c., in order to inure it to all climates. The
@@ -2289,7 +2282,7 @@
 <lb/>with neatness, accuracy, and despatch, on terms which he feels con-
 <lb break="no"/>fident will be satisfactory to those who employ him.
 <lb/>January 16, 1845.
-<pb  n="208"/>
+<lb/><pb n="208"/>
 <lb/>THIS DAY PUBLISHED,
 <lb/>No. 1 of
 <lb/>WILEY &amp; PUTNAM’S LIBRARY OF CHOICE READING,
@@ -2376,9 +2369,7 @@
 <lb/>Joshua Herrick, Me.	John H. Lumpkin, Geo.
 <lb/>James Irvin, Pa.	J. Thompson, Miss.
 <lb/>Dr. A. G. Bigelow’s Office and Residence, 103 Liberty st., New York.
-<lb/>DISBROW’S RIDING SCHOOL,
-<lb/>
-<lb/>No. 408, BOWERY, near Astor and La Fayette
+<lb/>DISBROW’S RIDING SCHOOL,</p><p/><p>No. 408, BOWERY, near Astor and La Fayette
 <lb/>Places. New York.
 <lb/>Mr. D. has the honor to announce that his School is open Day and Even-
 <lb break="no"/>ing, for Equestrian Tuition and Exercise Riding.
@@ -2407,9 +2398,7 @@
 <lb/>6.	No Gentlemen admitted during the hours appropriated to Ladles.
 <lb/>A card of address is requested previous to commencing.
 <lb/>N. B. Gentlemen keeping their horses at tills establishment, will have the
-<lb/>privilege of riding them in the School gratis.
-<lb/>
-<lb/>GREAT REDUCTION IN PRICE.
+<lb/>privilege of riding them in the School gratis.</p><p/><p>GREAT REDUCTION IN PRICE.
 <lb/>The first Premium awarded five years by the American Institute for the
 <lb/>best Specimen of Off-hand Penmanship.
 <lb/>GOLDSMITH'S WRITING AND BOOK-KEEPING ACADEMY,
@@ -2449,23 +2438,23 @@
 <lb/>struments of the very best quality, with plates, cases, chemical polish
 <lb/>ing materials, &amp;c., kept constantly on hand. All orders receive
 <lb/>promptly attended to.
-<lb/>John Douglas, Printer, 68 Ann Street.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>John Douglas, Printer, 68 Ann Street.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

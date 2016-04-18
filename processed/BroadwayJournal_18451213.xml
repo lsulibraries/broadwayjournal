@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL
 <lb/>VOL. 2.
 <lb/>EDGAR A. POE,
 <lb/>EDITOR AND PROPRIETOR.
@@ -86,7 +83,7 @@
 <lb/>On the day is which I visited the ship, (the fourteenth,) Wyatt and party were also to visit it—so the captain informed me—and I waited on board an hour longer than I had designed, in hope of being presented to the bride; but then an apology came. “Mrs. W. was a little indisposed, and would decline coming on board until to-morrow, at the hour of sailing.”
 <lb/>The morrow having arrived, I was going from my hotel to the wharf, when Captain Hardy met me and said that, “owing to circumstances,” (a stupid but convenient phrase,) “he rather thought the ‘Independence’ would not sail for a day or two, and that when all was ready, he would send up and let me know.” This I thought strange, for there was a stiff southerly breeze; but as “the circumstances” were not forthcoming, although I pumped for them with much perseverance, I had nothing to do but to return home and digest my impatience at leisure.
 <lb/>I did not receive the expected message from the captain for nearly a week. It came at length, however, and I immediately wont on board. The ship was crowded with passengers, and everything was in the bustle attendant upon making sail. Wyatt’s party arrived in about ten minutes after myself. There were the two sisters, the bride, and the artist—the latter in one of his customary fits of moody misanthropy. I was too well used to these, however, to pay them any especial attention. He did not even
-<pb  n="350"/>
+<lb/><pb n="350"/>
 <lb/>introduce me to his wife;—this courtesy devolving, perforce, upon his sister Marian—a very sweet and intelligent girl, who, in a few hurried words, made us acquainted.
 <lb/>Mrs. Wyatt had been closely veiled; and when she raised her veil, in acknowledging my bow, I confess that I was very profoundly astonished. I should have been much more so, however, had not long experience advised me not to trust, with too inplicit a reliance, the enthusiastic descriptions of my friend, the artist, when indulging in comments upon the loveliness of woman. When beauty was the theme, I well knew with what facility he soared into the regions of the purely ideal.
 <lb/>The truth is, I could not help regarding Mrs. Wyatt as a decidedly plain-looking woman. If not positively ugly, she was not, I think, very far from it. She was dressed, however, in exquisite taste—and then I had no doubt that she had captivated my friend’s heart by the more enduring graces of the intellect and soul. She said very few words and passed at once into her stateroom with Mr. W.
@@ -99,7 +96,7 @@
 <lb/>Mrs. Wyatt herself, was far more agreeable. That is to say, she was chatty; and to be chatty is no slight recommendation at sea. She became excessively intimate with most of- the ladies; and, to my profound astonishment, evinced no equivocal disposition to coquet with the men. She amused us all very much. I say “amused’’—and scarcely know how to explain myself. The truth is, I soon found that Mrs. W. was far oftener laughed at than with. The gentlemen said little about her; but the ladies, in a little while, pronounced her “a good-hearted thing, rather indifferent-looking, totally uneducated, and decidedly vulgar.” The great wonder was, how Wyatt had been entrapped into such a match. Wealth was the general solution—but this I knew to be no solution at all; for Wyatt had told me that she neither brought him a dollar nor had any expectations from any source whatever. “He had married,” he said, “for love, and for love only; and his bride was far more than worthy of his love.’ When I thought of these expressions, on the part of my friend, l confess that I felt indescribably puzzled. Could it be possible that he was taking leave of his senses? What else could I think? He, so refined, so intellectual, so fastidious, with so exquisite a perception of the faulty, and so keen an appreciation of the beautiful! To be sure, the lady seemed especially fond of him—particularly so in his absence—when she made herself ridiculous by frequent quotations of what had been said by her “beloved husband, Mr. Wyatt.” The word “husband” seemed forever—to use one of her own delicate expressions—forever “on the tip of her tongue.” In the mean time, it was observed by all on board, that he avoided her in the most pointed manner, and, for the most part, shut himself up alone in his state-room, where, in fact, he might have been said to live altogether, leaving his wife at full liberty to amuse herself as she thought best, in the public society of the main cabin.
 <lb/>My conclusion, from what I saw and heard, was, that the artist, by some unaccountable freak of fate, or perhaps in some fit of enthusiastic and fanciful passion, had been induced to unite himself with a person altogether beneath him, and that the natural result, entire and speedy disgust, had ensued. I pitied him from the bottom of my heart—but could not, for that reason, quite forgive his incommunicativeness in the matter of the “Last Supper.” For this I resolved to have my revenge.
 <lb/>One day he came upon deck, and, taking bis arm as had been my wont, I sauntered with him backwards and forwards. His gloom, however, (which I considered quite natural under the circumstances,) seemed entirely unabated. He said little, and tha moodily, and with evident effort. I ventured a jest or two, and he made a sickening attempt at a smile. Poor fellow!—as I thought of his wife, I wondered that he could have heart to put on even the semblance of mirth. At last I ventured a home thrust. I determined to commence a series of covert insinuations, or inuendoes, about the oblong box—just to let him perceive, gradually, that I was not altogether the butt, or victim, of his little bit of pleasant mystification. My first observation was by way of opening a masked battery. I said something about the “peculiar shape of that box;" and, as I spoke the words, I smiled knowingly, winked, and touched him gently with my forefinger in the ribs.
-<pb n="351"/>
+<lb/><pb n="351"/>
 <lb/>The manner in which Wyatt received this harmless pleasantry, convinced me, at once, that he was mad. At first he stared at me as if he found it impossible to comprehend the witticism of my remark; but as its point seemed slowly to make its way into his brain, his eyes, in the same proportion, seemed protruding from their sockets. Then he grew very red—then hideously pale—then, as if highly amused with what I had insinuated, he began a loud and boisterous laugh, which, to my astonishment, he kept up, with gradually increasing vigor, for ten minutes or more. In conclusion, he fell flat and heavily upon the deck. When I ran to uplift him, to all appearance he was dead.
 <lb/>I called assistance, and, with much difficulty, we brought him to himself. Upon reviving he spoke incoherently for some time. At length we bled him and put him to bed. The next morning he was quite recovered, so far as regarded his mere bodily health. Of his mind I say nothing, of course. I avoided him during the rest of the passage, by advice of the captain, who seemed to coincide with me altogether in my views of his insanity, but cautioned me to say nothing on this head to any person on board.
 <lb/>Several circumstances occurred immediately after this fit of Wyatt’s, which contributed to heighten the curiosity with which I was already possessed. Among other things, this: I had been nervous—drank too much strong green tea, and slept ill at night —in fact, for two nights I could not be properly said to sleep at all. Now, my state-room opened into the main cabin, or diningroom, as did those of all the single men on board. Wyatt’s three rooms were in the after-cabin, which was separated from the main one by a slight sliding door, never locked even at night. As we were almost constantly on a wind, and the breeze was not a little stiff, the ship heeled to leeward very considerably; and whenever her starboard side was to leeward, the sliding door between the cabins slid open, and so remained, nobody taking the trouble to get up and shut it. But my berth was in such a position, that when my own state-room door was open, as well as the sliding door in question, (and my own door was always open on account of the heat,) I could see into the after-cabin quite distinctly, and just at that portion of it, too, where were situated the state-rooms of Mr. Wyatt. Well, during two nights (not consecutive) while I lay awake, I clearly saw Mrs. W., about eleven o’clock upon each night, steal cautiously from the stateroom of Mr. W. and enter the extra room, where she remained until daybreak, when she was called by her husband and went back. That they were virtually separated was clear. They had separate apartments—no doubt in contemplation of a more permanent divorce; and here, after all, I thought, was the mystery of the extra state-room.
@@ -113,7 +110,7 @@
 <lb/>At sundown, the gale had sensibly diminished in violence, and, as the sea went down with it, we still entertained faint hopes of saving ourselves in the boats. At eight, P. M., the clouds broke away to windward, and we had the advantage of a full moon —a piece of good fortune which served wonderfully to cheer our  drooping spirits.
 <lb/>After incredible labor we succeeded, at length, in getting the  long-boat over the side without material accident, and into this we crowded the whole of the crew and roost of the passengers.
 <lb/> This party made off immediately, and, after undergoing much suffering, finally arrived, in safety, at Ocracoke Inlet, on the third day after the wreck.
-<pb  n="352"/>
+<lb/><pb n="352"/>
 <lb/>Fourteen passengers, with the Captain, remained on board, resolving to trust their fortunes to the jolly-boat at the stern. We lowered it without difficulty, although it was only by a miracle that we prevented it from swamping as it touched the water. It contained, when afloat, the captain and his wife, Mr. Wyatt and party, a Mexican officer, wife, four children, and myself, with a negro valet.
 <lb/>We had no room, of course, for anything except a few positively necessary instruments, some provision, and the clothes upon our backs. No one had thought of even attempting to save anything more. What must have been the astonishment of all then, when, having proceeded a few fathoms from the ship, Mr. Wyatt stood up in the stern-sheets, and coolly demanded of Captain Hardy that the boat should be put back for the purpose of taking in his oblong box!
 <lb/>“Sit down, Mr. Wyatt,” replied the Captain, somewhat sternly; “you will capsize us if you do not sit quite still. Our gunwale is almost in the water now.”
@@ -155,7 +152,7 @@
 <lb/>Despair and Pride in silence fling Its rich freight to the wave,
 <lb/>And now an aimless wreck it floats,
 <lb/>That none would stoop to save. F. S. Osgood.
-<pb n="353"/>
+<lb/><pb n="353"/>
 <lb/>Critical Notices.
 <lb/>—
 <lb/>Poems. By Frances S. Osgood. New- York: Clark &amp; Austin.
@@ -218,7 +215,7 @@
 <lb/>To charm my wild heart in the worldly revel,
 <lb/>Lest I, too, join the aimless, false, and vain;
 <lb/>Let me not lower to the soulless level Of those whom now I pity and disdain!
-<pb  n="354"/>
+<lb/><pb n="354"/>
 <lb/>Leave me not yet!—leave me not cold and pining,
 <lb/>Thou bird of paradise, whose plumes of light,
 <lb/>Where’er they rested, left a'glory shining;
@@ -302,7 +299,7 @@
 <lb/>And thou art madly pledging Each gay and jovial guest,—
 <lb/>A ghost shall glide amid the flowers—
 <lb/>The shade of Love’s departed hours!
-<pb n="355"/>
+<lb/><pb n="355"/>
 <lb/>And thou shalt drink in sadness From all the splendor there,
 <lb/>And curse the revel’s gladness,
 <lb/>And hate the banquet’s glare,
@@ -341,7 +338,7 @@
 <lb/>An admirable book—No. 66 of “ The Library of Select Novels.”
 <lb/>The Wandering Jew—superbly Illustrated. New-York: Harper &amp; Brothers.
 <lb/>No. 5 is issued. The wood designs in this edition are certainly among the most magnificent we ever beheld.
-<pb  n="356"/>
+<lb/><pb n="356"/>
 <lb/>Sermons preached in the Chapel of Rugby School, with an Address before Confirmation. -By Thomas Arnold, D. D.,Head Master of Rugby School, and author of "The History of Rome,” etc. First American edition. New York : D Appleton &amp; Co.
 <lb/>A neat duodecimo of 284 pages. Independently of the interest attached to the mere name of Dr. Arnold, these Sermons have a rich intrinsic value. The Appletons have conferred a favor on the public in the issue of this series of books—the compositions, we mean, of Dr. Arnold.
 <lb/>Francis &amp; Co’s Cabinet Library of Choice Prose and Poetry. Nos. 3 and 4. The Dream and other Poems. By the Hon. Mrs. Norton—and The Child of the Islands, by the Hon. Mrs. Norton.
@@ -379,7 +376,7 @@
 <lb/>At Palmo’s, on Thursday last, a company of fashionable amateurs made an attempt at “Hamlet.” We shall give an account of the performance in our next.
 <lb/>The German Opera promises well.
 <lb/>The Olympic, the Bowery, the Chatham, and the Richmond Hill theatres have all, we learn, been well attended of late, but we have been prevented, by an unusual press of business, from visiting either. It is our purpose to speak somewhat at large, hereafter, of theatrical matters.
-<pb n="357"/>
+<lb/><pb n="357"/>
 <lb/>Sleep On.
 <lb/>Sleep on—for the starlight above thee is gleaming,
 <lb/>While love’s eye keeps watch o’er the couch of thy rest:
@@ -440,7 +437,7 @@
 <lb/>The Broadway Journal may be obtained in the City of New York of the following agents:—Taylor, Astor House; Crosby, Exchange, William street; Graham, Tribune Buildings; Lock-wood, Broadway and Grand; and Burgess &amp; Stringer, Ann and Broadway.
 <lb/>“The Harbinger—Edited by The Brook-Farm Phalanx”— is, beyond doubt, the most reputable organ of the Crazyites. We sincerely respect it—odd as this assertion may appear. It is conducted by an assemblage of well-read persons who mean no harm—and who, perhaps, can do less. Their objects are honorable, and so forth—all that anybody can understand of them—and we really believe that Mr. Albert Brisbane and one or two other ladies and gentlemen understand all about them that is necessary to be understood. But what we, individually, have done to “The Harbinger,” or what we have done to “The Brook-Farm Phalanx,” that “The Brook-Farm Phalanx” should stop the ordinary operations at Brook-Farm for the purpose of abusing us, is a point we are unable to comprehend. If we have done anything to affront “The Brook-Farm Phalanx” we will make an apology forthwith—provided “The Brook-Farm Phalanx” (which we have a great curiosity to see) will just step into our office, which is 304 Broadway.
 <lb/>In the mean time, by way of doing penance for any unintentional offence that we may have given The Phalanx, we will just
-<pb  n="358"/>
+<lb/><pb n="358"/>
 <lb/>copy, verbatim, a very severe lesson it has been lately reading | to ourselves.
 <lb/>The Raven and other Poems. By Edgar A. Poe. New York 
 <lb/>and London: Wiley and Putnam, 161 Broadway; 6 Waterloo
@@ -468,7 +465,7 @@
 <lb/>“Has acquired some renown by the Raven.” We cannot approve of the “same”—especially in the mouths of those worshippers of Truth, The Brook Farm Phalanx.
 <lb/>The Brook Farm Phalanx knows very well—and so do we— that no American poem gained for its author even one half so much “renown” in the same period of time. The renown is quite as small a thing as the poem—and we have therefore no scruple in alluding to it—although we do so only because it shocks us to hear a set of respectable Crazyites talking in so disingenuous a manner. Reform it altogether, or give up preaching about Truth.
 <lb/>As for the rest, we believe it is all leather and prunella—the opinion of “The Snook Farm Phalanx.” We do trust that, in future, “The Snook Farm Phalanx” will never have any opinion of us at all.
-<pb n="359"/>
+<lb/><pb n="359"/>
 <lb/>The most eminent living writer of Portugal, indeed the only one of any considerable eminence, is Senhor Almeida Garrett, a leading deputy of the ultra-liberal opposition in Lisbon, who has very high powers both as an orator and a poet; though his poetical works appear rather deficient in strength of original thought. His prose is both brilliant and powerful. His poems are of considerable extent, and not the least of their charms is that he is a good scholar and eminent for antiquarian research. He is of the blank-verse school, which in Portugal is a great misfortune. We extract the following as a favorable specimen, and the more willingly because it unfolds the beauties of a word, “Saudade,” upon the exclusive possession of which the Portuguese particularly pride themselves. There is certainly no one word in any other European language which conveys the same idea. It expresses the sweet yet painful sensation created by the contemplation of a beloved object from which we are separated:—
 <lb/>Oh tender yearning! bitterness of joy For the unhappy, thorn of absence with Delicious puncture piercing through the heart,
 <lb/>Awakening pain that lacerates the soul.
@@ -494,7 +491,7 @@
 <lb/>Connoisseurs and amateurs of Tea would do well to look over the Catalogue of Teas on sale at the warehouse of the Pekin Tea Company, No. 75 Fulton street. See advertisement in this week’s Journal. Hitherto it has been impossible to procure really good green tea at less than a dollar per pound. The Pekin Company afford an exquisite article at 75 cents—other teas at proportionate rates. We can conscientiously recommend them.
 <lb/>A late "Tribune” has a very just review of Longfellow. We quote a few passages:—
 <lb/>The portrait which adorns this volume is not merely flattered or idealized, but there is an attempt at adorning it, by expression thrown into the eyes, with just that which the original does not possess, whether in face or mind. We have often seen faces whose usually coarse and heavy lineaments were harmonized at times into beauty by the light that rises from the soul into the eyes. The intention Nature had with regard to the face and its wearer, usually eclipsed beneath bad habits or a bad education, is then disclosed and we see what hopes Death has in stove for that soul. But here the
-<pb  n="360"/>
+<lb/><pb n="360"/>
 <lb/>enthusiasm thrown into the eyes only makes the rest of the face look more weak, and the idea suggested is the anomalous one of a Dandy Pindar.
 <lb/>Such is not the case with Mr. Longfellow himself. He is never a Pindar, though he is sometimes a Dandy even in the clear and ornamented streets and trim gardens of his verse But he is still more a man of cultivated taste, delicate though not deep feeling, and some, though not much, poetic force.
 <lb/>Mr. Longfellow has been accused of plagiarism. We have been surprised that any one should have been anxious to fasten special charges of this kind upon him, when we had supposed it so obvious that the greater part of his mental stores were derived from the works of others. He has no style of his own growing out of his own experiences and observations of nature. Nature with him, whether human or external, is always seen through the windows of literature. There are in his poems sweet and tender passages descriptive of his personal feelings, but very few showing him as an observer, at first hand, of the passions within, or the landscape without.
@@ -546,7 +543,7 @@
 <lb/>JOHN BURFORD,
 <lb/>PORTRAIT AND LANDSCAPE PAINTER.
 <lb/>27 Dey Street.
-<pb n="361"/>
+<lb/><pb n="361"/>
 <lb/>NEW BOOKS,
 <lb/>TO BE PUBLISHED BY
 <lb/>MESSRS. WILEY &amp; PUTNAM,
@@ -628,7 +625,7 @@
 <lb/>_	JOHN H. GENIN,
 <lb/>FASHIONABLE HAT AND CAP ESTABLISHMENT,
 <lb/>214 Broadway.
-<pb  n="362"/>
+<lb/><pb n="362"/>
 <lb/>HARPER &amp; BROTHERS’ RECENT PUBLICATIONS.
 <lb/>In one splendidly printed volume, with above 1000 engravings.
 <lb/>Sheep Extra.—Price $3 75.
@@ -692,7 +689,7 @@
 <lb/>THE POETICAL WORKS OF PRAED.
 <lb/>Lillian, and other Poems, Fanciful and Facetious. By William Mackworth Praed. First collected edition. Edited by R. W. Griswold, 1 vol. 12mo., muslin,. $1 25.
 <lb/>“Praed was the Poet of Society, a fellow of infinite humor,’ and in scholarship and art, surpassed by none of the English poets of the age. Though many of his pieces have been almost universally read in this country, they have never yet been printed collectively, either here or in England.”—Democratic Review.
-<pb n="363"/>
+<lb/><pb n="363"/>
 <lb/>DENTISTRY.
 <lb/>DOCT. H. E. SCHOONMAKER, Dental Surgeon, Office, 446 Houston st., two doors from Broadway—opposite St. Thomas’ Church.
 <lb/>Doct. S.’s experience and skill in his profession give him confidence in asserting that his operations are unsurpassed by any Dentist in this city. Dr. S.’s manner of inserting artificial teeth varies in many essential points from the usual mode; and his success in pleasing all, he is happy to say, has brought him many difficult cases, which had been unsuccessfully treated by Dentists of established professional reputation, and whose prices for the same operation were double his own. The object in inserting artificial teeth is to supply the deficiency occasioned by the loss of natural teeth, both in regard to utility, comfort in wearing, and natural appearance. In all these points, Dr. S.’s manner is pre-eminent. His mechanical tact and ingenuity have enabled him to surmount many obstacles, which have long, with the profession generally, impeded the path to success in every operation. He makes use of the best materials in all his operations—and in cases where the gum has fallen away by absorption, (which is always the case, more or less, when teeth have been extracted,) which causes a contraction of the lips and cheeks, the disfigurement of which cannot be fully obviated without adopting the artificial gums, which will supply the deficiency, and give to the mouth its usual redundancy—besides, their beauty and natural appearance render detection impossible.
@@ -776,7 +773,7 @@
 <lb/>BURGESS, STRINGER &amp; CO.
 <lb/>222 Broadway, corner of Ann st.
 <lb/>P. S.—The postage to any distance on the Lancet is 6 1/4 cts.
-<pb  n="364"/>
+<lb/><pb n="364"/>
 <lb/>CATALOGUE OF TEAS,
 <lb/>ON SALE AT THE TEA WAREHOUSE OF THE
 <lb/>PEKIN TEA COMPANY,
@@ -805,7 +802,7 @@
 <lb/>do Plantation growth,           1,00	ever sold in this country.
 <lb/>Gunpowder, good,
 <lb/>do	superior, [Read	English Breakfast Tea, very
-<lb/>“monstrous fraud”	fine> 50
+<lb/>“monstrous fraud”	fine&gt; 50
 <lb/>below,]	1,00        do	do do in
 <lb/>do	small leaf, planta-	one pound and half pound
 <lb/>tion growth,	1,25	cattys.	62£
@@ -842,23 +839,23 @@
 <lb/>Robinson &amp; Jones, Cincinnati, O   G N Beesley, Utica, N Y D M Dewey, Rochester, NY            B Strang, Peekskill, N Y J Robertson, Syracuse, N Y            Haliburton &amp; Dudley, Boston, Mass W E Russell, Schenectady, NY       S Thompson, Worcester, Mass Levi Willard, Troy, N Y                  Peter Cooke, Hartford, Ct
 <lb/>G Jones, Albany, NY                       H Esten, Providence, R I
 <lb/>S F Hoyt, Newburgh, N Y               Safford &amp; Park, Norwich, Ct
-<lb/>Shurtz &amp; Wilde, Baltimore. Md     John Tomlin, P M Jackson, Tenn Colon &amp; Adriance, Philadelphia     S Hart, Sen., Charleston, S C.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>Shurtz &amp; Wilde, Baltimore. Md     John Tomlin, P M Jackson, Tenn Colon &amp; Adriance, Philadelphia     S Hart, Sen., Charleston, S C.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>

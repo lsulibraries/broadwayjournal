@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +33,13 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <text>
-    <front>
-      <!-- front matter, if any, goes in <div>s, here -->
-    </front>
-    <body>
-      <!-- main document goes here, possibly divided into <div>s -->
-      <ab>This <soCalled style="font-weight:bold;">block</soCalled> of
-      text is just here so that this template document is valid. You
-      should delete this at your earliest convenience. :-)</ab>
-      <ab>﻿THE BROADWAY JOURNAL.
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
 <lb/>VOL. 2.	NEW YORK, SATURDAY, AUGUST 30, 1845.	NO. 8.
 <lb/>Three Dollars per Annum.	Edited by	Published at 135 Nassau St.
 <lb/>Single Copies, 6 1-4 Cents.	EDGAR A. POE AND HENRY C. WATSON.	By JOHN BISCO.
@@ -152,7 +149,7 @@
 <lb break="no"/>owed avenues, inhale the fragrance of its thousand shrub-
 <lb break="no"/>beries, and thrill anew with undefinable delight, at the deep
 <lb/>hollow note of the church-bell, breaking, each hour, with
-<pb  n="114"/>
+<lb/><pb n="114"/>
 <lb/>sullen and sudden roar, upon the stillness of the dusky at-
 <lb break="no"/>mosphere in which the fretted Gothic steeple lay imbedded
 <lb/>and asleep.
@@ -285,7 +282,7 @@
 <lb break="no"/>titious title not very dissimilar to the real. My namesake
 <lb/>alone, of those who in school phraseology constituted “ our
 <lb/>set," presumed to compete with me in the studies of the
-<pb n="115"/>
+<lb/><pb n="115"/>
 <lb/>class—in the sports and broils of the play-ground—to refuse
 <lb/>implicit belief in my assertions, and submission to my will—
 <lb/>indeed, to interfere with my arbitrary dictation in any res-
@@ -419,7 +416,7 @@
 <lb/>strangely sarcastic smiles of my namesake himself. Satis-
 <lb break="no"/>fied with having produced in my bosom the intended effect,
 <lb/>be seemed to chuckle in secret over the sting he had inflict
-<pb  n="116"/>
+<lb/><pb n="116"/>
 <lb/>ed, and was characteristically disregardful of the public ap-
 <lb break="no"/>plause which the success of his witty endeavours might have
 <lb/>so easily elicited. That the school, indeed, did not feel his
@@ -552,7 +549,7 @@
 <lb/>were not wanting other and perhaps more dangerous seduc-
 <lb break="no"/>tions; so that the grey dawn had already faintly appeared
 <lb/>in the east, while our delirious extravagance was at its
-<pb n="117"/>
+<lb/><pb n="117"/>
 <lb/>height. Madly flashed with cards and intoxication, I was
 <lb/>in the act of insisting upon a toast of more than wonted
 <lb/>profanity, when my attention was suddenly diverted by the
@@ -685,8 +682,7 @@
 <lb/>affect him. That he was overcome by the wine just swal-
 <lb break="no"/>lowed, was the idea which most readily presented itself;
 <lb/>and, rather with a view to the preservation of my own char-
-<lb break="no"/>118
-<lb/>THE BROADWAY JOURNAL.
+<lb break="no"/><pb n="118" break="no"/>
 <lb/>acter in the eyes of my associates, than from any less inter-
 <lb break="no"/>ested motive, I was about to insist, peremptorily, upon a
 <lb/>discontinuance of the play, when some expressions at my
@@ -819,7 +815,7 @@
 <lb/>Could he, for an instant, have supposed that, in my admon-
 <lb break="no"/>isher at Eton—in the destroyer of my honor at Oxford,—in
 <lb/>him who thwarted my ambition at Rome, my revenge at
-<pb n="119"/>
+<lb/><pb n="119"/>
 <lb/>Paris, my passionate love at Naples, or what he falsely term-
 <lb break="no"/>ed my avarice in Egypt,—that in this, my arch-enemy and
 <lb/>evil genius, I could fail to recognise the William Wilson of
@@ -946,8 +942,7 @@
 <lb/>meritorious compositions of one of the most remarkable men
 <lb/>of his time.
 <lb/>The quizzical Letters entitled “ Copyright and Copy-
-<lb break="no"/>120
-<lb/>THE BROADWAY JOURNAL.
+<lb break="no"/><pb n="120" break="no"/>
 <lb/>wrong” should be read by all true friends and fair enemies
 <lb/>of International Copyright. The strong points of the ques-
 <lb break="no"/>tion of copyright, generally, were never more forcibly, if ever
@@ -1079,7 +1074,7 @@
 <lb/>has too little of the raw material. As a critic he is merely
 <lb/>saucy, or lackadaisical, or falsely enthusiastic, or at best
 <lb/>pointedly conceited. His judgment is not worth a rush —
-<pb n="121"/>
+<lb/><pb n="121"/>
 <lb/>witness his absurd eulogies on Coleridge's “Pains of Sleep”
 <lb/>quoted in the volume before us. In his “ Remarks upon (on)
 <lb/>De Basso’s Ode to a Dead Body,” he has said critically some
@@ -1210,7 +1205,7 @@
 <lb/>knowledge of the human, at least in knowledge of the Ital-
 <lb break="no"/>ian heart. He has been grossly maligned, not because mis-
 <lb break="no"/>understood in himself, but in his relations to his age and
-<pb  n="122"/>
+<lb/><pb n="122"/>
 <lb/>countrymen. The “ Florentine Histories ” show his great
 <lb/>powers—but not in their clearest light.
 <lb/>A Latin Grammar, Comprising all the Rules and Observa-
@@ -1333,7 +1328,7 @@
 <lb/>the day of sale, (before delivery of the paintings,) otherwise
 <lb/>they may be re-sold at the expense of the purchaser.
 <lb/>The pictures will be sold by Thomas Birch, Jr., who, be-
-<pb break="no" n="123"/>
+<lb break="no"/><pb n="123" break="no"/>
 <lb/>ing himself a painter of merit, will, undoubtedly, do full
 <lb/>justice to the beauty and the character of the works entrust-
 <lb break="no"/>ed to his care.
@@ -1474,7 +1469,7 @@
 <lb/>Hell, rising from a thousand thrones,
 <lb/>Shall do it reverence.
 <lb/>EDGAR A. POE
-<pb  n="124"/>
+<lb/><pb n="124"/>
 <lb/>Musical Department.
 <lb/>Mr. Sheppard, a Bass singer of considerable merit, as we
 <lb/>have been told, who appeared at the Park Theatre four or
@@ -1594,7 +1589,7 @@
 <lb break="no"/>cuit, which comprises some thirty or forty theatres. It is
 <lb/>said that he will take about two hundred actors and actres-
 <lb break="no"/>ses with him.
-<pb n="125"/>
+<lb/><pb n="125"/>
 <lb/>Editorial Miscellany.
 <lb/>Carey &amp; Hart will publish in October “ Literature and
 <lb/>Art in America, with an Introductory Plea for Copyright,
@@ -1714,7 +1709,7 @@
 <lb/>Mercy,’ as mine, equally without my consent or knowledge ; sent
 <lb/>thither, doubtless, by some friend who may have seen the Song in the
 <lb/>little work in question, and had overlooked the disclaiming note.
-<pb  n="126"/>
+<lb/><pb n="126"/>
 <lb/>To those wishing a neat wedding, visiting, or business
 <lb/>Card, we recommend Valentine's Card Engraving and Print-
 <lb break="no"/>ing establishment, No. 1 Beekman street. His work is neat-
@@ -1852,7 +1847,7 @@
 <lb/>upon examination, equal to any in the market.
 <lb/>STODART &amp; DUNHAM, 361 Broadway.
 <lb/>Manufactory, 13th st , between 3d and 4th Avenues.
-<pb n="127"/>
+<lb/><pb n="127"/>
 <lb/>A CARD.
 <lb/>WM. A. KING, PROFESSOR of the PIANO-
 <lb break="no"/>FORTE, ORGAN, &amp;c. has removed to No. 22 Bank street,
@@ -2025,7 +2020,7 @@
 <lb break="no"/>preciate its high value.
 <lb/>XV.
 <lb/> PROF. LEWIS’S PLATO ON ATHEISTS. Price $1 5 .
-<pb  n="128"/>
+<lb/><pb n="128"/>
 <lb/>J. F. BROWNE &amp; CO.
 <lb/>MANUFACTURERS OF THE
 <lb/>IMPROVED PATENT DOUBLE-ACTION HARP,
@@ -2165,23 +2160,23 @@
 <lb/>S. Thompson, Worcester, Mass.
 <lb/>Peter Cooke, Hartford, Ct.
 <lb/>H. Esten, Providence, R. I.
-<lb/>Safford &amp; Park, Norwich, Ct.</ab>
-</body>
-<back>
-      <!-- here is a sample place for contextual information: -->
-      <div type="editorial">
-        <listPerson>
-          <person>
-            <persName><!-- canonical name --></persName>
-            <birth>
-              <placeName><!-- where born; date on when= of <birth> --></placeName>
-            </birth>
-            <death>
-              <placeName><!-- where died; date on when= of <death> --></placeName>
-            </death>
-          </person>
-        </listPerson>
-      </div>
-    </back>
-  </text>
+<lb/>Safford &amp; Park, Norwich, Ct.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
 </TEI>
