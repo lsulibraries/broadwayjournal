@@ -18,11 +18,10 @@ foreach($input_files as $file){
     $rawtext   = file_get_contents($input_dir.DIRECTORY_SEPARATOR.$file);
     $cleantext = clean_entities($rawtext);
     $text_elem = get_text_element($cleantext);
-
+    $outfile   = str_replace('txt', 'xml', $file);
     $rawXML    = $teiheader.$text_elem.$teiclose;
-    file_put_contents($output_dir.DIRECTORY_SEPARATOR.'testingTEIauto.xml', $rawXML); die();
     $xml       = make_doc($rawXML);
-    file_put_contents($output_dir.DIRECTORY_SEPARATOR.'testingTEIauto.xml', $xml);
+    file_put_contents($output_dir.DIRECTORY_SEPARATOR.$outfile, $rawXML);
 }
 
 function make_doc($raw){
