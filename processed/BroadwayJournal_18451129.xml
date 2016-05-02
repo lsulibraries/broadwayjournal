@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!-- the line above is the "XML declaration"; it is not -->
 <!-- required, but we recommend using it -->
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
@@ -11,7 +11,7 @@
 <?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
 <!-- the line above is a processing instruction that asks that -->
 <!-- this file be styled by "tiny_TEI_template.css" -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" >
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,33 +39,33 @@
         </front>
         <body>
           <!-- main document goes here, possibly divided into <div>s -->
-              <div><p/><p>﻿THE BROADWAY JOURNAL.
-<lb/>VOL. 2.
-<lb/>EDGAR A. POE,
-<lb/>EDITOR AND PROPRIETOR.
-<lb/>NO. 21.
-<lb/>NEW-YORK, SATURDAY, NOVEMBER 29, 1845.
-<lb/>The Office of the Broadway Journal is removed to 304
-<lb/>Broadway, corner of Duane.
-<lb/>Sonnet.
-<lb/>TO MISS ANNE C. LYNCH.
-<lb/>As on the tempest-chafed and struggling sea
-<lb/>In silence falls the pensile, silvery beam,
-<lb/>And the vexed waters murmur tranquilly,
-<lb/>And imaged there the stars of beauty gleam,—
-<lb/>Even so—sweet lady—o’er my spirit glide
-<lb/>Thy lyre’s soft melodies, like summer light;
-<lb/>And lo, within, as on the moonlit tide,
-<lb/>A vision fairer than the heaven of night!
-<lb/>Oh, ever might the high and holy Thought
-<lb/>Waked by thy muse—the senseless heart enfold,
-<lb/>As once warm life within the marble cold
-<lb/>With passionate clasp the noble sculptor wrought,—
-<lb/>Thus would the flame that still aspires on high
-<lb/>Be kindled there—thus life be bom that could not die!
-<lb/>E. F. ELLET.
-<lb/>A Tale of the  Ragged Mountains.
-<lb/>During the fall of the year 1827, while residing near
+              <div><p>﻿THE BROADWAY JOURNAL.
+VOL. 2.
+EDGAR A. POE,
+EDITOR AND PROPRIETOR.
+NO. 21.
+NEW-YORK, SATURDAY, NOVEMBER 29, 1845.
+The Office of the Broadway Journal is removed to 304
+Broadway, corner of Duane.
+Sonnet.
+TO MISS ANNE C. LYNCH.
+As on the tempest-chafed and struggling sea
+In silence falls the pensile, silvery beam,
+And the vexed waters murmur tranquilly,
+And imaged there the stars of beauty gleam,—
+Even so—sweet lady—o’er my spirit glide
+Thy lyre’s soft melodies, like summer light;
+And lo, within, as on the moonlit tide,
+A vision fairer than the heaven of night!
+Oh, ever might the high and holy Thought
+Waked by thy muse—the senseless heart enfold,
+As once warm life within the marble cold
+With passionate clasp the noble sculptor wrought,—
+Thus would the flame that still aspires on high
+Be kindled there—thus life be bom that could not die!
+E. F. ELLET.
+A Tale of the  Ragged Mountains.
+</p><p>During the fall of the year 1827, while residing near
 <lb/>Charlottesville, Virginia, I casually made the acquaint-
 <lb break="no"/>ance of Mr. Augustus Bedloe. This young gentleman
 <lb/>was remarkable in every respect, and excited in me a
@@ -96,14 +96,12 @@
 <lb/>of excitement the orbs grew bright to a degree almost in-
 <lb break="no"/>conceivable ; seeming to emit luminous rays, not of a re-
 <lb break="no"/>flected, but of an intrinsic lustre, as does a candle or the
-<lb/>sun; yet their ordinary condition was so totally vapid,
-<lb/>filmy and dull, as to convey the idea of the eyes of a
-<lb/>long-interred corpse.
-<lb/>These peculiarities of person appeared to cause him
+<lb/>sun; yet their ordinary condition was so totally vapid,</p><p>filmy and dull, as to convey the idea of the eyes of a
+long-interred corpse.
+</p><p>These peculiarities of person appeared to cause him
 <lb/>much annoyance, and he was continually alluding to them
 <lb/>in a sort of half explanatory, half apologetic strain,
-<lb/>which, when I first heard it, impressed me very painfully.
-<lb/>I soon, however, grew accustomed to it, and my uneasi-
+<lb/>which, when I first heard it, impressed me very painfully.</p><p></p><p>I soon, however, grew accustomed to it, and my uneasi-
 <lb break="no"/>ness wore off. It seemed to be his design rather to in-
 <lb break="no"/>sinuate than directly to assert that, physically, he had
 <lb/>not always been what he was—that a long series of neu-
@@ -118,8 +116,7 @@
 <lb break="no"/>rangement with Doctor Templeton, by which the latter,
 <lb/>in consideration of a liberal annual allowance, had con-
 <lb break="no"/>sented to devote his time and medical experience exclu-
-<lb break="no"/>sively to the care of the invalid.
-<lb/>Doctor Templeton had been a traveller in his younger
+<lb break="no"/>sively to the care of the invalid.</p><p></p><p>Doctor Templeton had been a traveller in his younger
 <lb/>days, and, at Paris, had become a convert, in great meas-
 <lb break="no"/>ure, to the doctrines of Mesmer. It was altogether by
 <lb/>means of magnetic remedies that he had succeeded in
@@ -151,9 +148,8 @@
 <lb/>was unaware of his presence. It is only now, in the year
 <lb/>1845, when similar miracles are witnessed daily by thou-
 <lb break="no"/>sands, that I dare venture to record this apparent impos-
-<lb break="no"/>sibility as a matter of serious fact.
-<lb/><pb n="316"/>
-<lb/>The temperature of Bedloe was, in the highest degree,
+<lb break="no"/>sibility as a matter of serious fact.</p><p><pb n="316"/>
+</p><p>The temperature of Bedloe was, in the highest degree,
 <lb/>sensitive, excitable, enthusiastic. His imagination was
 <lb/>singularly vigorous and creative ; and no doubt it derived
 <lb/>additional force from the habitual use of morphine, which
@@ -166,20 +162,17 @@
 <lb/>upon a long ramble among the chain of wild and dreary
 <lb/>hills that lie westward and southward of Charlottesville,
 <lb/>and are there dignified by the title of the Ragged Moun-
-<lb break="no"/>tains.
-<lb/>Upon a dim, warm, misty day, towards the close of
+<lb break="no"/>tains.</p><p></p><p>Upon a dim, warm, misty day, towards the close of
 <lb/>November, and during the strange interregnum of the
 <lb/>seasons which in America is termed the Indian Summer
 <lb/>Mr. Bedloe departed, as usual, for the hills. The day
-<lb/>passed, and still he did not return.
-<lb/>About eight o’clock at night, having become seriously
+<lb/>passed, and still he did not return.</p><p></p><p>About eight o’clock at night, having become seriously
 <lb/>alarmed at his protracted absence, we were about setting
 <lb/>out in search of him, when he unexpectedly made his ap-
 <lb break="no"/>pearance, in health no worse than usual, and in rather
 <lb/>more than ordinary spirits. The account which he gave
 <lb/>of his expedition, and of the events which had detained
-<lb/>him, was a singular one indeed.
-<lb/>“You will remember,” said he, “that it was about
+<lb/>him, was a singular one indeed.</p><p></p><p>“You will remember,” said he, “that it was about
 <lb/>nine in the morning when I left Charlottesville. I bent
 <lb/>my steps immediately to the mountains, and, about ten,
 <lb/>entered a gorge which was entirely new to me. I fol-
@@ -194,8 +187,7 @@
 <lb/>inaccessible, except through a series of accidents, is the
 <lb/>entrance of the ravine, that it is by no means impossible
 <lb/>that I was indeed the first adventurer—the very first and
-<lb/>sole adventurer who had ever penetrated its recesses.
-<lb/>“ The thick and peculiar mist, or smoke, which distin-
+<lb/>sole adventurer who had ever penetrated its recesses.</p><p></p><p>“ The thick and peculiar mist, or smoke, which distin-
 <lb break="no"/>guishes the Indian Summer, and which now hung heavi-
 <lb break="no"/>ly over all objects, served, no doubt, to deepen the vague
 <lb/>impressions which these objects created. So dense was
@@ -210,8 +202,7 @@
 <lb/>of a bee—in the gleaming of a dew-drop—in the breath-
 <lb break="no"/>ing of the wind—in the faint odors that came from the
 <lb/>forest—there came a whole universe of suggestion—a gay
-<lb/>and motly train of rhapsodical and immethodical thought.
-<lb/>“ Busied in this, I walked on for several hours, during
+<lb/>and motly train of rhapsodical and immethodical thought.</p><p></p><p>“ Busied in this, I walked on for several hours, during
 <lb/>which the mist deepened around me to so great an ex-
 <lb break="no"/>tent, that at length I was reduced to an absolute groping
 <lb/>of the way. And now an indescribable uneasiness pos-
@@ -219,12 +210,10 @@
 <lb/>I feared to tread, lest I should be precipitated into some
 <lb/>abyss. I remembered, too, strange stories told about these
 <lb/>Ragged Hills, and of the uncouth and fierce races of men
-<lb/>who tenanted their groves and caverns. A thousand
-<lb/>vague fancies oppressed and disconcerted me—fancies
+<lb/>who tenanted their groves and caverns. A thousand</p><p></p><p>vague fancies oppressed and disconcerted me—fancies
 <lb/>the more distressing because vague. Very suddenly
 <lb/>my attention was arrested by the loud beating of a
-<lb/>drum.
-<lb/>“ My amazement was, of course, extreme. A drum in
+<lb/>drum.</p><p></p><p>“ My amazement was, of course, extreme. A drum in
 <lb/>these hills was a thing unknown. I could not have been
 <lb/>more surprised at the sound of the trump of the Arch-
 <lb break="no"/>angel. But a new and still more astounding source of
@@ -238,8 +227,7 @@
 <lb/>Scarcely had he disappeared in the mist, before, panting
 <lb/>after him, with open mouth and glaring eyes, there dart-
 <lb break="no"/>ed a huge beast. I could not be mistaken in its charac-
-<lb break="no"/>ter. It was a hyena.
-<lb/>“ The sight of this monster rather relieved than heigh-
+<lb break="no"/>ter. It was a hyena.</p><p></p><p>“ The sight of this monster rather relieved than heigh-
 <lb break="no"/>tened my terrors—for I now made sure that I dreamed,
 <lb/>and endeavored to arouse myself to waking consciousness.
 <lb/>I stepped boldly and briskly forward. I rubbed my eyes.
@@ -248,16 +236,14 @@
 <lb/>bathed my hands and my head and neck. This seemed
 <lb/>to dissipate the equivocal sensations which had hitherto
 <lb/>annoyed me. I arose, as I thought, a new man, and pro-
-<lb break="no"/>ceeded steadily and complacently on my unknown way.
-<lb/>“ At length, quite overcome by exertion, and by a
+<lb break="no"/>ceeded steadily and complacently on my unknown way.</p><p></p><p>“ At length, quite overcome by exertion, and by a
 <lb/>certain oppressive closeness of the atmosphere, I seated
 <lb/>myself beneath a tree. Presently there came a feeble
 <lb/>gleam of sunshine, and the shadow of the leaves of the
 <lb/>tree fell faintly but definitely upon the grass. At this
 <lb/>shadow I gazed wonderingly for many minutes. Its cha-
 <lb break="no"/>racter stupified me with astonishment. I looked upward.
-<lb/>The tree was a palm.
-<lb/>“ I now arose hurriedly, and in a state of fearful agita-
+<lb/>The tree was a palm.</p><p></p><p>“ I now arose hurriedly, and in a state of fearful agita-
 <lb break="no"/>tion—for the fancy that I dreamed would serve me no
 <lb/>longer. I saw—I felt that I had perfect command of my
 <lb/>senses—and these senses now brought to my soul a world
@@ -265,12 +251,10 @@
 <lb/>at once intolerable. A strange odor loaded the breeze.—
 <lb/>A low continuous murmur, like that arising from a full,
 <lb/>but gently-flowing river, came to my ears, intermingled
-<lb/>with the peculiar hum of multitudinous human voices.
-<lb/>“ While I listened in an extremity of astonishment
+<lb/>with the peculiar hum of multitudinous human voices.</p><p></p><p>“ While I listened in an extremity of astonishment
 <lb/>which I need not attempt to describe, a strong and brief
 <lb/>gust of wind bore off the incumbent fog as if by the wand
-<lb/>of an enchanter.
-<lb/>“I found myself at the foot of a high mountain, and
+<lb/>of an enchanter.</p><p></p><p>“I found myself at the foot of a high mountain, and
 <lb/>looking down into a vast plain, through which wound a
 <lb/>majestic river. On the margin of this river stood an
 <lb/>Eastern-looking city, such as we read of in the Arabian
@@ -286,9 +270,8 @@
 <lb/>and fantastically carved oriels. Bazaars abounded ; and
 <lb/>in these were displayed rich wares in infinite variety and
 <lb/>profusion—silks, muslins, the most dazzling cutlery, the
-<lb/>most magnificent jewels and gems. Besides these things,
-<lb/><pb n="317"/>
-<lb/>were seen, on all sides, banners and palanquins, litters
+<lb/>most magnificent jewels and gems. Besides these things,</p><p><pb n="317"/>
+</p><p>were seen, on all sides, banners and palanquins, litters
 <lb/>with stately dames close veiled, elephants gorgeously
 <lb/>caparisoned, idols grotesquely hewn, drums, banners and
 <lb/>gongs, spears, silver and gilded maces. And amid the
@@ -310,8 +293,7 @@
 <lb/>thatched hut of a peasant, a tank, a stray temple, a gyp-
 <lb break="no"/>sy camp, or a solitary graceful maiden taking her way,
 <lb/>with a pitcher upon her head, to the banks of the magni-
-<lb break="no"/>ficent river.
-<lb/>“ You will say now, of course, that I dreamed; but not so.
+<lb break="no"/>ficent river.</p><p></p><p>“ You will say now, of course, that I dreamed; but not so.
 <lb/>What I saw—what I heard—what I felt—what I thought
 <lb/>—had about it nothing of the unmistakeable idiosyncrasy
 <lb/>of the dream. All was rigorously self-consistent. At
@@ -325,11 +307,9 @@
 <lb/>occured to me as I describe it, without my suspecting it
 <lb/>as a dream, then a dream it might absolutely have been,
 <lb/>but, occurring as it did, and suspected and tested as it
-<lb/>was, I am forced to class it among other phenomena.”
-<lb/>“ In this I am not sure that you are wrong,” observed
+<lb/>was, I am forced to class it among other phenomena.”</p><p></p><p>“ In this I am not sure that you are wrong,” observed
 <lb/>Dr. Templeton, “ but proceed. You arose and descended
-<lb/>into the city.”
-<lb/>“ I arose,” continued Bedloe, regarding the Doctor with
+<lb/>into the city.”</p><p></p><p>“ I arose,” continued Bedloe, regarding the Doctor with
 <lb/>an air of profound astonishment, “ I arose, as you say,
 <lb/>and descended into the city. On my way, I fell in with
 <lb/>an immense populace, crowding, through every avenue,
@@ -354,12 +334,10 @@
 <lb/>and, for the present, were secure. From a loop-hole near
 <lb/>the summit of the kiosk, I perceived a vast crowd, in fu-
 <lb break="no"/>rious agitation, surrounding and assaulting a gay palace
-<lb/>that overhung the river. Presently, from an upper win-
-<lb break="no"/>dow of this palace, there descended an effeminate-look-
+<lb/>that overhung the river. Presently, from an upper win-</p><p></p><p>dow of this palace, there descended an effeminate-look-
 <lb break="no"/>ing person, by means of a string made of the turbans of
 <lb/>his attendants. A boat was at hand, in which he escap-
-<lb break="no"/>ed to the opposite bank of the river.
-<lb/>And now a new object took possession of my soul. I
+<lb break="no"/>ed to the opposite bank of the river.</p><p></p><p>And now a new object took possession of my soul. I
 <lb/>spoke a few hurried but energetic words to my compan-
 <lb break="no"/>ions, and, having succeeded in gaining over a few of them
 <lb/>to my purpose, made a frantic sally from the kiosk. We
@@ -377,18 +355,15 @@
 <lb/>creeping serpent, and were long and black, with a pois-
 <lb break="no"/>oned barb. One of them struck me upon the right tem-
 <lb break="no"/>ple. I reeled and fell. An instantaneous and deadly
-<lb/>sickness seized me. I struggled—I gasped—I died.”
-<lb/>“ You will hardly persist now,” said I, smiling, “ that
+<lb/>sickness seized me. I struggled—I gasped—I died.”</p><p></p><p>“ You will hardly persist now,” said I, smiling, “ that
 <lb/>the whole of your adventure was not a dream. You are
-<lb/>not prepared to maintain that you are dead ?”
-<lb/>When I said these words, I of course expected some
+<lb/>not prepared to maintain that you are dead ?”</p><p></p><p>When I said these words, I of course expected some
 <lb/>lively sally from Bedloe in reply ; but, to my astonish-
 <lb break="no"/>ment, he hesitated, trembled, became fearfully pallid, and
 <lb/>remained silent. I looked towards Templeton. He sat
 <lb/>erect and rigid in his chair—his teeth chattered, and his
 <lb/>eyes were starting from their sockets. “ Proceed !” he
-<lb/>at length said hoarsely to Bedloe.
-<lb/>“For many minutes,” continued the latter, “ my sole
+<lb/>at length said hoarsely to Bedloe.</p><p></p><p>“For many minutes,” continued the latter, “ my sole
 <lb/>sentiment—my sole feeling—was that of darkness and
 <lb/>nonentity, with the consciousness of death. At length,
 <lb/>there seemed to pass a violent and sudden shock through
@@ -412,8 +387,7 @@
 <lb/>my steps eagerly homewards—but the past had not lost
 <lb/>the vividness of the real—and not now, even for an in-
 <lb break="no"/>stant, can I compel my understanding to regard it as a
-<lb/>dream.”
-<lb/>“ Nor was it,” said Templeton, with an air of deep
+<lb/>dream.”</p><p></p><p>“ Nor was it,” said Templeton, with an air of deep
 <lb/>solemnity, “yet it would be difficult to say how other-
 <lb break="no"/>wise it should be termed. Let us suppose only, that the
 <lb/>soul of the man of to-day is upon the verge of some stupen-
@@ -421,16 +395,14 @@
 <lb/>this supposition. For the rest I have some explanation
 <lb/>to make. Here is a water-colour drawing, which I should
 <lb/>have shown you before, but which an unaccountable sen-
-<lb break="no"/>iment of horror has hitherto prevented me from showing.”
-<lb/><pb n="318"/>
-<lb/>We looked at the picture which he presented. I saw
+<lb break="no"/>iment of horror has hitherto prevented me from showing.”</p><p><pb n="318"/>
+</p><p>We looked at the picture which he presented. I saw
 <lb/>nothing in it of an extraordinary character ; but its effect
 <lb/>upon Bedloe was prodigious. He nearly fainted as he
 <lb/>gazed. And yet it was but a miniature portrait—a mi-
 <lb break="no"/>raculously accurate one, to be sure—of his own very re-
 <lb break="no"/>markable features. At least this was my thought as I
-<lb/>regarded it.
-<lb/>“ You will perceive,” said Templeton, “ the date of
+<lb/>regarded it.</p><p></p><p>“ You will perceive,” said Templeton, “ the date of
 <lb/>this picture—it is here, scarcely visible, in this corner—
 <lb/>1780. In this year was the portrait taken. It is the like-
 <lb break="no"/>ness of a dead friend—a Mr. Oldeb—to whom I became
@@ -444,8 +416,7 @@
 <lb/>companion. In accomplishing this point, I was urged
 <lb/>partly, and perhaps principally, by a regretful memory
 <lb/>of the deceased, but also, in part, by an uneasy, and not
-<lb/>altogether horrorless curiosity respecting yourself.
-<lb/>“ In your detail of the vision which presented itself to
+<lb/>altogether horrorless curiosity respecting yourself.</p><p></p><p>“ In your detail of the vision which presented itself to
 <lb/>you amid the hills, you have described, with the mi-
 <lb break="no"/>nutest accuracy, the Indian city of Benares, upon the
 <lb/>Holy River. The riots, the combats, the massacre, were
@@ -461,16 +432,14 @@
 <lb/>Oldeb. You will perceive by these manuscripts,” (here
 <lb/>the speaker produced a note-book in which several pages
 <lb/>appeared to have been freshly written) “ that at the very
-<lb/>period in which you fancied these things amid the hills,
-<lb/>I was engaged in detailing them upon paper here at
-<lb/>home.”
-<lb/>In about a week after this conversation, the following
-<lb/>paragraphs appeared in a Charlottesville paper.
-<lb/>“We have the painful duty of announcing the death
+<lb/>period in which you fancied these things amid the hills,</p><p>I was engaged in detailing them upon paper here at
+home.”
+In about a week after this conversation, the following
+paragraphs appeared in a Charlottesville paper.
+</p><p>“We have the painful duty of announcing the death
 <lb/>of Mr. Augustus Bedlo, a gentleman whose amiable
 <lb/>manners and many virtues have long endeared him to
-<lb/>the citizens of Charlottesville.
-<lb/>“Mr. B., for some years past, has been subject to neur-
+<lb/>the citizens of Charlottesville.</p><p></p><p>“Mr. B., for some years past, has been subject to neur-
 <lb break="no"/>algia, which has often threatened to terminate fatally ;
 <lb/>but this can be regarded only as the mediate cause of
 <lb/>his decease. The proximate cause was one of especial
@@ -486,41 +455,35 @@
 <lb/>ponds. This creature fastened itself upon a small artery
 <lb/>in the right temple. Its close resemblance to the medi-
 <lb break="no"/>cinal leech caused the mistake to be overlooked until too
-<lb/>late.
-<lb/>“ N. B. The poisonous sangsue of Charlottesville may
+<lb/>late.</p><p></p><p>“ N. B. The poisonous sangsue of Charlottesville may
 <lb/>always be distinguished from the medicinal leech by its
 <lb/>blackness, and especially by its writhing or vermicular
-<lb/>motions, which very nearly resemble those of a snake.”
-<lb/>I was speaking with the editor of the paper in ques-
+<lb/>motions, which very nearly resemble those of a snake.”</p><p></p><p>I was speaking with the editor of the paper in ques-
 <lb break="no"/>tion, upon the topic of this remarkable accident, when it
 <lb/>occurred to me to ask how it happened that the name of
-<lb/>the deceased had been given as Bedlo.
-<lb/>“ I presume,” said I, “ you have authority for this
+<lb/>the deceased had been given as Bedlo.</p><p></p><p>“ I presume,” said I, “ you have authority for this
 <lb/>spelling, but I have always supposed the name to be writ-
-<lb break="no"/>ten with an e at the end.”
-<lb/>“ Authority ?—no,” he replied. “ It is a mere typo-
+<lb break="no"/>ten with an e at the end.”</p><p></p><p>“ Authority ?—no,” he replied. “ It is a mere typo-
 <lb break="no"/>graphical error. The name is Bedlo with an e, all the
 <lb/>world over, and I never knew it to be spelt otherwise in
-<lb/>my life.”
-<lb/>“ Then,” said I mutteringly, as I turned upon my heel,
+<lb/>my life.”</p><p></p><p>“ Then,” said I mutteringly, as I turned upon my heel,
 <lb/>“ then indeed has it come to pass that one truth is
 <lb/>stranger than any fiction—for Bedlo, without the e, what
 <lb/>is it but Oldeb conversed ? And this man tells me it is
-<lb/>a typographical error.”	Edgar A. Poe.
-<lb/>To ---------
-<lb break="no"/>“ In Heaven a spirit doth dwell,
-<lb/>Whose heart-strings are a lute.”
-<lb/>I cannot tell the world how thrills my heart
-<lb/>To every touch that flies thy lyre along;
-<lb/>How the wild Nature and the wondrous Art,
-<lb/>Blend into Beauty in thy passionate song—
-<lb/>But this I know—in thine enchanted slumbers,
-<lb/>Heaven’s poet, Israfel,—with minstrel fire—
-<lb/>Taught thee the music of his own sweet numbers,
-<lb/>And tuned—to chord with his—thy glorious lyre!
-<lb/>Francis S. Osgood.
-<lb/>Art-Singing and Heart-Singing.*
-<lb/>Great is the power of Music over a people ! As for
+<lb/>a typographical error.”	Edgar A. Poe.</p><p>To ---------
+“ In Heaven a spirit doth dwell,
+Whose heart-strings are a lute.”
+I cannot tell the world how thrills my heart
+To every touch that flies thy lyre along;
+How the wild Nature and the wondrous Art,
+Blend into Beauty in thy passionate song—
+But this I know—in thine enchanted slumbers,
+Heaven’s poet, Israfel,—with minstrel fire—
+Taught thee the music of his own sweet numbers,
+And tuned—to chord with his—thy glorious lyre!
+Francis S. Osgood.
+Art-Singing and Heart-Singing.*
+</p><p>Great is the power of Music over a people ! As for
 <lb/>us of America, we have long enough followed obedient
 <lb/>and child-like in the track of the Old World. We have
 <lb/>received her tenors and her buffos, her operatic troupes
@@ -542,29 +505,24 @@
 <lb/>the government for the time being. But no human pow-
 <lb break="no"/>er can thoroughly suppress the spirit which lives in na-
 <lb break="no"/>tional lyrics, and sounds in the favorite melodies sung by
-<lb/>high and low.
-<lb/>There are two kinds of singing—heart-singing and art-
+<lb/>high and low.</p><p></p><p>There are two kinds of singing—heart-singing and art-
 <lb break="no"/>singing. That which touches the souls and sympathies
 <lb/>of other communities may have no effect here—unless it
-<lb/>appeals to the throbbings of the great heart of humanity
-<lb/>* The author desires us to say, for him, that he pretends to no
+<lb/>appeals to the throbbings of the great heart of humanity</p><p></p><p>* The author desires us to say, for him, that he pretends to no
 <lb/>scientific knowledge of music. He merely claims to appreciate
 <lb/>so much of it (a sadly disdained department, just now) as affects,
 <lb/>in the language ol the deacons, “ the natural heart of man.” It is
 <lb/>scarcely necessary to add that we agree with our correspondent
-<lb/>throughout.	Ed. B. J.
-<lb/><pb n="319"/>
-<lb/>itself—pictures love, hope, or mirth in their comprehen-
+<lb/>throughout.	Ed. B. J.</p><p><pb n="319"/>
+</p><p>itself—pictures love, hope, or mirth in their comprehen-
 <lb break="no"/>sive aspect. But nearly every nation has its peculiarities
 <lb/>and its idioms, which make its best intellectual efforts
 <lb/>dearest to itself alone, so that hardly any thing which
 <lb/>comes to us in the music and songs of the Old World, is
-<lb/>strictly good and fitting to our own nation.
-<lb/>With all honor and glory to the land of the olive and
+<lb/>strictly good and fitting to our own nation.</p><p></p><p>With all honor and glory to the land of the olive and
 <lb/>the vine, fair-skied Italy—with no turning up of noses at
 <lb/>Germany, France, or England—we humbly demand
-<lb/>whether we have not run after their beauties long enough.
-<lb/>“ At last we have found it!” exclaimed we, some nights
+<lb/>whether we have not run after their beauties long enough.</p><p></p><p>“ At last we have found it!” exclaimed we, some nights
 <lb/>since, at the conclusion of the performances by the Che-
 <lb break="no"/>ney Family, in Niblo’s Saloon. At last we have found,
 <lb/>and heard, and seen something original and beautiful in
@@ -578,8 +536,7 @@
 <lb/>must supplant the stale, second-hand, foreign method,
 <lb/>with its flourishes, its ridiculous sentimentality, its anti-
 <lb break="no"/>republican spirit, and its sycophantic influence, tainting
-<lb/>the young taste of the republic.
-<lb/>The Cheney young men are such brown-faced, stout-
+<lb/>the young taste of the republic.</p><p></p><p>The Cheney young men are such brown-faced, stout-
 <lb break="no"/>shouldered fellows as you will see in almost any Ameri-
 <lb break="no"/>can church, in a country village, of a Sunday. The girl
 <lb/>is strangely simple, even awkward, in her ways. Or it
@@ -596,104 +553,98 @@
 <lb/>country, at sunrise—the dewy, earthy fragrance that
 <lb/>comes up then in the moisture, and touches the nostrils
 <lb/>more gratefnlly than all the perfumes of the most ingen:
-<lb/>ious chemist.
-<lb/>These hints we throw out rather as suggestive of a
+<lb/>ious chemist.</p><p></p><p>These hints we throw out rather as suggestive of a
 <lb/>train of thought to other and more deliberate thinkers
 <lb/>than we—and not as the criticisms of a musical connois-
 <lb break="no"/>seur. If they have pith in them, we have not much
 <lb/>doubt others will|carry them out. If not, we at least know
 <lb/>they are written in that true wish for benefitting the sub-
 <lb break="no"/>ject spoken of, which should characterize all such es-
-<lb break="no"/>says.	Walter Whitman.
-<lb/>Lines.
-<lb/>TO HER WHO CAN UNDERSTAND THEM.
-<lb/>Air—To ladies’ eyes a round—boy.
-<lb/>The song that o’er me hovered
-<lb/>In summer’s hour—in summer’s hour
-<lb/>To day with joy has covered
-<lb/>My winter bower—my winter bower.
-<lb/>Blest be the lips that breathe it!
-<lb/>As mine have been—as mine have been
-<lb/>When pressed, in dreams, beneath it,
-<lb/>To hers unseen—to hers unseen.
-<lb/>And may her heart, wherever
-<lb/>Its hope may be—its hope may be—
-<lb/>Beat happily, though never
-<lb/>To beat for me—to beat for me!
-<lb/>Is she spirit, given
-<lb/>One hour to earth—one hour to earth,
-<lb/>To bring me dreams from heaven
-<lb/>Her place of birth—her place of birth?
+<lb break="no"/>says.	Walter Whitman.</p><p>Lines.
+TO HER WHO CAN UNDERSTAND THEM.
+Air—To ladies’ eyes a round—boy.
+The song that o’er me hovered
+In summer’s hour—in summer’s hour
+To day with joy has covered
+My winter bower—my winter bower.
+Blest be the lips that breathe it!
+As mine have been—as mine have been
+When pressed, in dreams, beneath it,
+To hers unseen—to hers unseen.
+And may her heart, wherever
+Its hope may be—its hope may be—
+Beat happily, though never
+To beat for me—to beat for me!
+Is she spirit, given
+One hour to earth—one hour to earth,
+To bring me dreams from heaven
+</p><p>Her place of birth—her place of birth?
 <lb/>Or minstrel maiden—hidden
-<lb/>Like cloistered nun—like cloistered nun—
-<lb/>A bud, a flower forbidden
+<lb/>Like cloistered nun—like cloistered nun—</p><p></p><p>A bud, a flower forbidden
 <lb/>To air and sun—to air and sun?
 <lb/>For had I power to summon
-<lb/>With harp divine—with harp divine—
-<lb/>The angel, or the woman,
-<lb/>The last were mine—the last were mine!
-<lb/>If earth-born beauty’s fingers
+<lb/>With harp divine—with harp divine—</p><p>The angel, or the woman,
+The last were mine—the last were mine!
+</p><p>If earth-born beauty’s fingers
 <lb/>Awaked the lay, awaked the lay
 <lb/>Whose echoed music lingers
-<lb/>Around my way, around my way—
-<lb/>Where smiles the hearth she blesses
-<lb/>With voice and eye, with voice and eye?
-<lb/>Where binds the Night her tresses,
-<lb/>When sleep is nigh, when sleep is nigh?
+<lb/>Around my way, around my way—</p><p>Where smiles the hearth she blesses
+With voice and eye, with voice and eye?
+Where binds the Night her tresses,
+</p><p>When sleep is nigh, when sleep is nigh?
 <lb/>Is Fashion’s bleak, cold mountain
 <lb/>Her bosom’s throne, her bosom’s throne?
-<lb/>Or Love’s green vale and fountain,
-<lb/>With one alone, with one alone?
-<lb/>Why ask, why seek a treasure
+<lb/>Or Love’s green vale and fountain,</p><p>With one alone, with one alone?
+</p><p>Why ask, why seek a treasure
 <lb/>Like her I sing, like her I sing?
 <lb/>Her name, nor pain nor pleasure
-<lb/>To me should bring, to me should bring.
-<lb/>Love must not grieve nor gladden
-<lb/>My thoughts of snow, my thoughts of snow;
-<lb/>Nor woman soothe or sadden
-<lb/>My hours below, my hours below.
-<lb/>Before a worldlier altar
-<lb/>I’ve knelt too long, I’ve knelt too long;
-<lb/>And if my footsteps falter,
-<lb/>’Tis but in song, ’tis but in song.
-<lb/>Nor would I break the vision
-<lb/>Young fancies frame, young fancies frame,
-<lb/>That decks, with stars elysian,
-<lb/>A poet’s name, a poet’s name—
-<lb/>For her, whose gentle spirit
+<lb/>To me should bring, to me should bring.</p><p>Love must not grieve nor gladden
+My thoughts of snow, my thoughts of snow;
+Nor woman soothe or sadden
+My hours below, my hours below.
+Before a worldlier altar
+I’ve knelt too long, I’ve knelt too long;
+And if my footsteps falter,
+’Tis but in song, ’tis but in song.
+Nor would I break the vision
+Young fancies frame, young fancies frame,
+That decks, with stars elysian,
+A poet’s name, a poet’s name—
+</p><p>For her, whose gentle spirit
 <lb/>Such dreams sublime, such dreams sublime
 <lb/>Gives hues they do not merit
-<lb/>To sons of rhyme, to sons of rhyme.
-<lb/>But place the proudest near her,
-<lb/>Whate’er his pen, whate’er his pen,
-<lb/>She’ll say—(be mute who hear her!)
-<lb/>“ Mere mortal men—mere mortal men!”
-<lb/>Yet though unseen, unseeing,
-<lb/>We meet and part, we meet and part,
-<lb/>Be still my worshipped being, 
-<lb/>In mind and heart, in mind and heart.
-<lb/>And bid thy song that found me,
-<lb/>My minstrel maid, my minstrel maid!
-<lb/>Be winter’s sunbeam round me,
-<lb/>And summer’s shade, and summer’s shade.
-<lb/>I could not gaze upon thee,
-<lb/>And dare thy spell, and dare thy spell—
-<lb/>And when a happier won thee,
-<lb/>Thus bid farewell, thus bid farewell!
-<lb/>Fitz Greene Halleck.</p><p/><p>Epigram.
-<lb/>Ralph’s self-esteem.
-<lb/>From the Saxon.
-<lb/>Ralph says, on such as I, he still looks down,—
-<lb/>We shall not doubt of this, if he can show
-<lb/>That, in the moral ptllory of the town,
-<lb/>The scoundrel may see anything below.
-<lb/>W. Gilmore Simms.
-<lb/><pb n="320"/>
-<lb/>Critical Notices.
-<lb/>Wiley &amp; Putnam's Library of American Books. No. 7.
-<lb/>Western Clearings. By Mrs. C. M. Kirkland, Author
-<lb/>of “A New Home"  etc.
-<lb/>Very few American books have produced as widely ex-
+<lb/>To sons of rhyme, to sons of rhyme.</p><p>But place the proudest near her,
+Whate’er his pen, whate’er his pen,
+She’ll say—(be mute who hear her!)
+“ Mere mortal men—mere mortal men!”
+Yet though unseen, unseeing,
+We meet and part, we meet and part,
+Be still my worshipped being, 
+In mind and heart, in mind and heart.
+And bid thy song that found me,
+My minstrel maid, my minstrel maid!
+Be winter’s sunbeam round me,
+And summer’s shade, and summer’s shade.
+I could not gaze upon thee,
+And dare thy spell, and dare thy spell—
+And when a happier won thee,
+Thus bid farewell, thus bid farewell!
+Fitz Greene Halleck.
+
+Epigram.
+Ralph’s self-esteem.
+From the Saxon.
+Ralph says, on such as I, he still looks down,—
+We shall not doubt of this, if he can show
+That, in the moral ptllory of the town,
+The scoundrel may see anything below.
+W. Gilmore Simms.
+<pb n="320"/>
+Critical Notices.
+Wiley &amp; Putnam's Library of American Books. No. 7.
+Western Clearings. By Mrs. C. M. Kirkland, Author
+of “A New Home"  etc.
+</p><p>Very few American books have produced as widely ex-
 <lb break="no"/>tended a sensation as Mrs. Kirkland’s “New Home.”—
 <lb/>The cause of this lay not merely in its picturesque and
 <lb/>amusing descriptions, its fresh and racy humor, or its
@@ -725,8 +676,7 @@
 <lb/>as individual portraits, by many who have been disposed
 <lb/>to plead trumpet-tongued, if not like angels, against what
 <lb/>they imagined “ the deep damnation of their taking off."
-<lb/>This was to be expected, and inevitable.
-<lb/>It will readily be seen that a minute and truthful pic-
+<lb/>This was to be expected, and inevitable.</p><p></p><p>It will readily be seen that a minute and truthful pic-
 <lb break="no"/>ture of Western life could never be given in any grave his-
 <lb break="no"/>tory half so well as in the form of stories, where the per-
 <lb break="no"/>sons are suffered to develope themselves. This method
@@ -748,15 +698,13 @@
 <lb/>colored with glowing hues of the West. “The Bee-tree”
 <lb/>exhibits a striking, but too numerous class among the
 <lb/>settlers, and marks, also, the length and breadth of the
-<lb/>bitterness that grows out of an unprosperous condition.
-<lb/>“Ambuscades,” and “ Half-lengths from Life,” we re-
+<lb/>bitterness that grows out of an unprosperous condition.</p><p></p><p>“Ambuscades,” and “ Half-lengths from Life,” we re-
 <lb break="no"/>member as the most piquant and delightful of the stories
 <lb/>in an annual a year or two since, to which the book owed,
 <lb/>according to the confession of the publishers, a large sale
 <lb/>among the conscious and pen-dreading Western people
 <lb/>themselves. Tom Oliver, in the first mentioned Tale, is
-<lb/>admirably sketched “ Half-lengths from Life,” has the
-<lb/>heart’s core and spirit of a backwoods life, on the trying
+<lb/>admirably sketched “ Half-lengths from Life,” has the</p><p></p><p>heart’s core and spirit of a backwoods life, on the trying
 <lb/>subject of caste. “ The Schoolmaster’s Progress,” is un-
 <lb break="no"/>rivalled in truth and humor. The Western Schoolmas-
 <lb break="no"/>ter—that walking nondescript—that stiff, solitary, unique
@@ -775,8 +723,7 @@
 <lb break="no"/>cording. How important that such good old customs
 <lb/>should be preserved on the speaking page, when hereaf-
 <lb break="no"/>ter they may lose their peculiarity, if they be not effaced
-<lb/>from the memory, in the march of improvement!
-<lb/>“An Embroidered Fact,” is a narration of actual events,
+<lb/>from the memory, in the march of improvement!</p><p></p><p>“An Embroidered Fact,” is a narration of actual events,
 <lb/>described to the author by the hero himself. We like it
 <lb/>less than the other stories. The incidents are singular—
 <lb/>but not illustrative of the country. The same may be
@@ -785,8 +732,7 @@
 <lb/>touches of character. All the horrors of the Tale are
 <lb/>caused by the suspicion of pride ; an accusation, says the
 <lb/>author, as destructive at the West as that of witchcraft
-<lb/>in olden times, or the cry of mad dog at the present day.
-<lb/>“Western Clearings,” we are confident, will sustain
+<lb/>in olden times, or the cry of mad dog at the present day.</p><p></p><p>“Western Clearings,” we are confident, will sustain
 <lb/>the author’s high reputation as one of the most original
 <lb/>and accomplished of American writers. Even her style
 <lb/>has a touch of Western freshness that renders it, and her
@@ -796,15 +742,15 @@
 <lb break="no"/>tion; and in a marvellous felicity of expression, whereby
 <lb/>a world of meaning or humor is convey ed in some brief
 <lb/>phrase, she is approached by no female writer in the
-<lb/>country.</p><p/><p>America and the American People. By Frederick Von
-<lb/>Raumer, Professor of History in the University of
-<lb/>Berlin, etc, etc. Translated from the German by
-<lb/>William W. Turner. New-York; J. &amp; G. H. Lang-
-<lb break="no"/>ley.
-<lb/>We cannot better preface the few words we have to
+<lb/>country.</p><p>
+America and the American People. By Frederick Von
+Raumer, Professor of History in the University of
+Berlin, etc, etc. Translated from the German by
+William W. Turner. New-York; J. &amp; G. H. Lang-
+ley.
+</p><p>We cannot better preface the few words we have to
 <lb/>say of this book than by the citation of a passage in
-<lb/>Professor Turner’s introduction.
-<lb/>His opinions on the whole respecting the institutions, the past
+<lb/>Professor Turner’s introduction.</p><p></p><p>His opinions on the whole respecting the institutions, the past
 <lb/>history, and the future prospects of this country, are in the highest
 <lb/>degree favorable ; and whenever he allows himself to find fault,
 <lb/>which is but seldom, he does it with evident reluctance, and with
@@ -814,32 +760,27 @@
 <lb/>institutions of Europe, will be found useful and instructive. One
 <lb/>virtue of his will not be the less esteemed on account of its rarity
 <lb/>among writers in this country; and that is, that he has at least en-
-<lb break="no"/>deavored to make himself well acquainted with what he has under-
-<lb break="no"/>taken to write about. He has also shown great and commendable 
-<lb/>carefulness in every instance, not to violate the privileges of a guest 
-<lb/>by exposing to the world the confidences of private and social in-
-<lb break="no"/>tercourse,--a proceeding which some writers on both sides of the 
-<lb/>water might imitate with advantage. 
-<lb/>	Elsewhere the translator well observes that it is ra-
+<lb break="no"/>deavored to make himself well acquainted with what he has under-</p><p>taken to write about. He has also shown great and commendable 
+carefulness in every instance, not to violate the privileges of a guest 
+by exposing to the world the confidences of private and social in-
+tercourse,--a proceeding which some writers on both sides of the 
+water might imitate with advantage. 
+</p><p>	Elsewhere the translator well observes that it is ra-
 <lb break="no"/>ther the subjectivity than the objectivity of the book
-<lb/>that will claim the attention of readers in this country
-<lb/><pb n="321"/>
-<lb/>—that Americans will not resort to a work of this kind,
+<lb/>that will claim the attention of readers in this country</p><p><pb n="321"/>
+</p><p>—that Americans will not resort to a work of this kind,
 <lb/>written by a foreigner, and which treats of such a va-
 <lb break="no"/>riety of delicate and different topics, to obtain minute
-<lb/>information on matters of fact.
-<lb/>The Baron himself, with a genuine modesty, admits
+<lb/>information on matters of fact.</p><p></p><p>The Baron himself, with a genuine modesty, admits
 <lb/>that he is not unaware of his incapacity for such detail.
 <lb/>“Should my book reach America,” he says, “I request
 <lb/>my readers there not to forget that it is especially in-
 <lb break="no"/>tended for Germany and that it can offer nothing new to
-<lb/>the well-informed inhabitants of the United States.”
-<lb/>These considerations and admissions should be care-
+<lb/>the well-informed inhabitants of the United States.”</p><p></p><p>These considerations and admissions should be care-
 <lb break="no"/>fully borne in mind by every American who reads the
 <lb/>book. Its commendable features are candor, evident de-
 <lb break="no"/>sire for truth, freedom from prejudice, comprehensive-
-<lb break="no"/>ness, and masterly breadth of generalization.
-<lb/>Perhaps there are no points at which we have greater
+<lb break="no"/>ness, and masterly breadth of generalization.</p><p></p><p>Perhaps there are no points at which we have greater
 <lb/>need of making allowance for the foreigner’s imperfect
 <lb/>means of information in detail, than those which concern
 <lb/>the state of our National Literature. Were we to say,
@@ -848,22 +789,19 @@
 <lb/>we fear that we should not be very far from the truth.
 <lb/>The German who is so rash as to estimate our condition by
 <lb/>what he here reads, will find himself in what may be
-<lb/>termed a high state of information.
-<lb/>“ The greater American periodicals or critical re-
+<lb/>termed a high state of information.</p><p></p><p>“ The greater American periodicals or critical re-
 <lb break="no"/>views” says the Baron, among other things, “ distinguish
 <lb/>themselves by propriety, moderation, and dignity ; they
 <lb/>display an accurate knowledge of all sciences and often
 <lb/>contain criticisms which are masterly both in form and
-<lb/>substance.”
-<lb/>Of the “propriety” we are not prepared to speak—
+<lb/>substance.”</p><p></p><p>Of the “propriety” we are not prepared to speak—
 <lb/>and the “ dignity” will do—but the “moderation” (so far
 <lb/>at least as concerns the Down-East Review) must have
 <lb/>reference to the applause or attention bestowed upon
 <lb/>those insignificant indivduals who have the misfortune
-<lb/>to reside out of the limits of Massachusetts.
-<lb/>“Authors of really able productions” continues the
-<lb/>Baron, “ are liberally rewarded in America.”
-<lb/>Some one has informed the traveller, no doubt, that
+<lb/>to reside out of the limits of Massachusetts.</p><p>“Authors of really able productions” continues the
+Baron, “ are liberally rewarded in America.”
+</p><p>Some one has informed the traveller, no doubt, that
 <lb/>Mr. Prescott received six thousand dollars for “ The
 <lb/>Conquest of Mexico”—for this is the one brilliant point
 <lb/>usually cited in defence of the liberality of American
@@ -873,11 +811,9 @@
 <lb/>necessary books and other materials a large sum :—
 <lb/>the compensation thus afforded him, amounting in the
 <lb/>end to little more than any common scavenger might
-<lb/>have earned in the same period, upon our highways.
-<lb/>The most really curious portion, however, of the com-
+<lb/>have earned in the same period, upon our highways.</p><p></p><p>The most really curious portion, however, of the com-
 <lb break="no"/>ments on American Literature, is to be found in the fol-
-<lb break="no"/>lowing passage:
-<lb/>The richest or at least the most prolific department of poetry is
+<lb break="no"/>lowing passage:</p><p></p><p>The richest or at least the most prolific department of poetry is
 <lb/>the lyric. But as in thousands of years there have been but one
 <lb/>Pindar and one Horace, (although every spring puts forth count-
 <lb break="no"/>less pleasing yet mostly perishable lyric blossoms,) it is performing
@@ -885,14 +821,12 @@
 <lb/>suitable, well assorted selection, and guides the friend of poetry in
 <lb/>his ramble through those groves, from which he might otherwise
 <lb/>be deterred by their immensity. Such service has been rendered
-<lb/>by Mr. Griswold, in his Poets and Poetry of America.
-<lb/>We have heard it asserted that it was out of the pow-
+<lb/>by Mr. Griswold, in his Poets and Poetry of America.</p><p></p><p>We have heard it asserted that it was out of the pow-
 <lb break="no"/>er of any such book as that of Mr. Griswold to effect
 <lb/>either good or evil—but we think that the evil is here
 <lb/>sufficiently obvious. His book is the largest one of its
 <lb/>kind. A distinguished foreigner very naturally supposes
-<lb/>it the best. He is not in condition to consider or to com-
-<lb break="no"/>prehend the innumerable petty arts by which, in Ameri-
+<lb/>it the best. He is not in condition to consider or to com-</p><p></p><p>prehend the innumerable petty arts by which, in Ameri-
 <lb break="no"/>ca, a dexterous quack may force even the most contempt-
 <lb break="no"/>ible work into notoriety and consequent circulation. The
 <lb/>foreigner’s opinions, and through him the opinions of
@@ -902,12 +836,10 @@
 <lb/>Griswold’s book is really to be received as a fair re-
 <lb break="no"/>presentation of our poetical literature, then are we in a
 <lb/>very lamentable—or rather in a very ridiculous condi-
-<lb break="no"/>tion indeed.
-<lb/>Following such authority, Professor Von Raumer quotes
+<lb break="no"/>tion indeed.</p><p></p><p>Following such authority, Professor Von Raumer quotes
 <lb/>in especial, “ The Old Man’s Carousal” by Paulding!
 <lb/>and a lyric (the name of which we forget) by the Right
-<lb/>Reverend Bishop Doane!
-<lb/>We have been much surprised to find, in the Trans-
+<lb/>Reverend Bishop Doane!</p><p></p><p>We have been much surprised to find, in the Trans-
 <lb break="no"/>lator’s Preface, no acknowledgment of his indebtedness
 <lb/>to those who aided him in his very difficult task—to
 <lb/>Mr. Kirkland, for example, and to the accomplished
@@ -916,33 +848,28 @@
 <lb/>may either have been accidental or have arisen from
 <lb/>some motives of publishing policy—motives which, we
 <lb/>admit, are now and then exceedingly difficult to under-
-<lb break="no"/>stand.
-<lb/>The Philosophy of Mystery. By Walter Cooper Dendy,
-<lb/>Fellow and Honorary Librarian of the Medical Socie-
+<lb break="no"/>stand.</p><p>The Philosophy of Mystery. By Walter Cooper Dendy,
+</p><p>Fellow and Honorary Librarian of the Medical Socie-
 <lb break="no"/>ty of London, etc. etc. New York: Harper and Bro-
-<lb break="no"/>thers.
-<lb/>This really beautiful volume is No. 3 of Harper’s New
+<lb break="no"/>thers.</p><p></p><p>This really beautiful volume is No. 3 of Harper’s New
 <lb/>Miscellany. The style of this series is especially good;
 <lb/>the type is of proper size, the paper unusually fine, and the
 <lb/>binding (in boards, with embossed muslin,) particularly
 <lb/>neat and tasteful. The number of pages in a volume is
 <lb/>about 450. In literary character, the books of this se-
 <lb break="no"/>ries will tend towards the utile rather than the dulce—
-<lb/>combining the two as far as possible.
-<lb/>“ The Philosophy of Mystery” is an exceedingly able
+<lb/>combining the two as far as possible.</p><p></p><p>“ The Philosophy of Mystery” is an exceedingly able
 <lb/>work—far better, we think, than the “ Natural Magic”
 <lb/>of Brewster—a book of identical purpose carried out in a
 <lb/>totally different way. The “ Natural Magic” is the more
 <lb/>ratiocinative—Mr. Dendy’s essay the more poetical, the
 <lb/>more imaginative, and to us the more interesting. Sel-
 <lb break="no"/>dom, indeed, have we read any book which, for the time,
-<lb/>so thoroughly engrossed us.
-<lb/>Wiley &amp; Putman's Foreign Library. Nos. 3 and 4. The
-<lb/>Rhine. By Victor Hugo.
-<lb/>This is a re-print of the best of two British translations
+<lb/>so thoroughly engrossed us.</p><p>Wiley &amp; Putman's Foreign Library. Nos. 3 and 4. The
+Rhine. By Victor Hugo.
+</p><p>This is a re-print of the best of two British translations
 <lb/>—and is the first American edition. A prefatory discourse
-<lb/>on European affairs, is very properly omitted.
-<lb/>The style of this “ Tour” is particularly French—there
+<lb/>on European affairs, is very properly omitted.</p><p></p><p>The style of this “ Tour” is particularly French—there
 <lb/>is no other word for the idea. We find a great deal of
 <lb/>point, vivacity, wit, humor, archness, novelty—the whole
 <lb/>pervaded and “ toned down” by a delicious simplicity.—
@@ -952,18 +879,16 @@
 <lb/>as a builder of brief fictions he is unequalled among his
 <lb/>countrymen—very far surpassing, we think, Eugene Sue.
 <lb/>His “ Notre Dame” is a work of high genius controlled
-<lb/>by consummate art.
-<lb/>Wiley &amp; Putnam's Library of Choice Reading, Nos.
-<lb/>34 and 35. The Life of Condé, By Lord Mahon.
-<lb/>This is also a translation ; the work having been ori-
-<lb break="no"/><pb n="322" break="no"/>
-<lb/>ginally written in French and without any view to publi-
+<lb/>by consummate art.</p><p>Wiley &amp; Putnam's Library of Choice Reading, Nos.
+34 and 35. The Life of Condé, By Lord Mahon.
+This is also a translation ; the work having been ori-
+<pb n="322" break="no" />
+</p><p>ginally written in French and without any view to publi-
 <lb break="no"/>cation. We need scarcely add that the work is one of
 <lb/>interest—for it concerns “ The Great Conde,” and is writ-
-<lb break="no"/>ten by Mahon.
-<lb/>Trippings in Authorland. By Fanny Forrester. New
-<lb/>York: Paine &amp; Burgess.
-<lb/>This will assuredly prove to the public a very accept-
+<lb break="no"/>ten by Mahon.</p><p>Trippings in Authorland. By Fanny Forrester. New
+York: Paine &amp; Burgess.
+</p><p>This will assuredly prove to the public a very accept-
 <lb break="no"/>able collection. Few Americans have attained so much
 <lb/>of celebrity as has “ Fanny Forrester,” in so brief a time.
 <lb/>Some of her fame is, beyond question, due to the kindly
@@ -972,112 +897,94 @@
 <lb/>talent of the author. She is one of our best Magazinists
 <lb/>the very best in her way—and her way would be admi-
 <lb break="no"/>rable in all respects but for a slight taunt of Willisism.
-<lb/>Not that we object to Willisism—in Willis.
-<lb/>We quote a portion of the Preface:
-<lb/>About a year ago, a girl sat down in her own quiet little room,
+<lb/>Not that we object to Willisism—in Willis.</p><p>We quote a portion of the Preface:
+</p><p>About a year ago, a girl sat down in her own quiet little room,
 <lb/>and, for very idleness, without object and without plan, produced
 <lb/>plan, produced a letter, which, the next week, found its way into
 <lb/>the New York Mirror. It was the first letter in this collection;
 <lb/>and Mr. Willis, one of the editors, after various speculations con-
-<lb break="no"/>cerning the author, added—
-<lb/>“ Well—we give in!—On condition that you are under twenty-
+<lb break="no"/>cerning the author, added—</p><p></p><p>“ Well—we give in!—On condition that you are under twenty-
 <lb break="no"/>five, and that you will wear a rose (recognizably) in your boddice
 <lb/>the first day you appear in Broadway with the hat and 'balzarine,’
 <lb/>we will pay the bills. Write us, thereafter, a sketch of ‘ Bel’ and
 <lb/>and yourself, as cleverly done as this letter, and you may 'snug-
 <lb break="no"/>gle down’ on the sofa, and consider us paid, and the public charmed
-<lb/>with you.”
-<lb/>A reply was given by way of carrying out the frolic still father,
+<lb/>with you.”</p><p></p><p>A reply was given by way of carrying out the frolic still father,
 <lb/>accompanied by the sketch of “ The Cousins,” which appeared in
 <lb/>the Mirror immediately after. These met with such a kind recep-
 <lb break="no"/>tion, that the pen became a more familiar thing than formerly in
-<lb/>those fingers, and so, behold upon them an indelible ink-mark.
-<lb/>We presume that there are not more than one or two of
+<lb/>those fingers, and so, behold upon them an indelible ink-mark.</p><p></p><p>We presume that there are not more than one or two of
 <lb/>our readers unaware of the fact that “ Fanny Forrester”
-<lb/>and Mrs. Emily S. Chubbuck are one and the same.
-<lb/>The Songs and Ballads of George P. Morris. First
-<lb/>Complete Edition. New York: Paine &amp; Burgess.
-<lb/>It is utterly impossible to deny that many of these com-
+<lb/>and Mrs. Emily S. Chubbuck are one and the same.</p><p>The Songs and Ballads of George P. Morris. First
+Complete Edition. New York: Paine &amp; Burgess.
+</p><p>It is utterly impossible to deny that many of these com-
 <lb break="no"/>yositions have merit of a high order—and, of course, we
-<lb/>have no disposition to deny it.
-<lb/>The Sibyl’s Wreath and Floral Emblems, with the Natal
-<lb/>Mouths. New.York: Published for the Prorpietor by
-<lb/>E. G. Langdon, 409 Broadway.
-<lb/>Some person has had the audacity to send us a book
+<lb/>have no disposition to deny it.</p><p>The Sibyl’s Wreath and Floral Emblems, with the Natal
+Mouths. New.York: Published for the Prorpietor by
+E. G. Langdon, 409 Broadway.
+</p><p>Some person has had the audacity to send us a book
 <lb/>thus entitled, with a slip of paper containing the follow-
-<lb break="no"/>ing words:
-<lb/>“ The Sibyl’s Wreath.—In this very pretty little volume we
+<lb break="no"/>ing words:</p><p></p><p>“ The Sibyl’s Wreath.—In this very pretty little volume we
 <lb/>have found more real fun than all the games we have yet seen.—
 <lb/>It is well got up, and deserves the patronage of every family in
-<lb/>the Union.”
-<lb/>The intention, of course, is that we shall adopt this
-<lb/>opinion as editorial—as our own.
-<lb/>We have no such opinion. The book is contemptible
+<lb/>the Union.”</p><p>The intention, of course, is that we shall adopt this
+opinion as editorial—as our own.
+</p><p>We have no such opinion. The book is contemptible
 <lb/>at all points, and we should be sorry to recommend it to
 <lb/>"every family in the Union.” What would “ every fami-
 <lb break="no"/>ly in the Union” think of us, if, upon looking into a book
 <lb/>at our recommendation, “ every family in the Union”
-<lb/>should find the detestable vulgarity which follows:
-<lb/>Love and stewed oysters.
-<lb/>A handsome husband, (or wife) and a moderate portion of ju-
-<lb break="no"/>venile responsibilities.
-<lb/>One dumpling and two plates.
-<lb/>Quizzing, courting, a quilting frolic, and a glass of soda-water,
-<lb/>with a stick in it.
-<lb/>Love, lace, literature and ’lasses.
-<lb/>Oh, Mr. Coon, you’re come too soon.
-<lb/>Prehaps I mought—prehaps I moughn n’t, etc., etc.
-<lb/>These things are designed as answers—and are nearly
-<lb/>all of them to be found on one page.
-<lb/>Poems, by Alfred Tennyson. Two Volumes. Boston:
-<lb/>William D. Ticknor &amp; Co.
-<lb/>This is a very neat, and altogether tasteful new edition
+<lb/>should find the detestable vulgarity which follows:</p><p>Love and stewed oysters.
+A handsome husband, (or wife) and a moderate portion of ju-
+venile responsibilities.
+One dumpling and two plates.
+Quizzing, courting, a quilting frolic, and a glass of soda-water,
+with a stick in it.
+Love, lace, literature and ’lasses.
+Oh, Mr. Coon, you’re come too soon.
+Prehaps I mought—prehaps I moughn n’t, etc., etc.
+These things are designed as answers—and are nearly
+all of them to be found on one page.
+Poems, by Alfred Tennyson. Two Volumes. Boston:
+William D. Ticknor &amp; Co.
+</p><p>This is a very neat, and altogether tasteful new edition
 <lb/>of a poet, who (in our own humble, but sincere opinion,)
 <lb/>is the greatest that ever lived. We are perfectly wil-
 <lb break="no"/>ling to undergo all the censure which so heretical an
-<lb/>opinion may draw down upon us.
-<lb/>Poems of Many Years. By Richard Monckton Milnes.
-<lb/>Boston : William D. Ticknor &amp; Co.
-<lb/>This is also a new edition of a poet much and justly ad-
+<lb/>opinion may draw down upon us.</p><p>Poems of Many Years. By Richard Monckton Milnes.
+Boston : William D. Ticknor &amp; Co.
+</p><p>This is also a new edition of a poet much and justly ad-
 <lb break="no"/>mired in England—and insufficiently appreciated by our-
-<lb break="no"/>selves. We may allude to the volume hereafter.
-<lb/>Americanism. An Address delivered before the Eucleian
+<lb break="no"/>selves. We may allude to the volume hereafter.</p><p></p><p>Americanism. An Address delivered before the Eucleian
 <lb/>Society of the New-York University, 30th of June, 1845,
 <lb/>by Cornelius Mathews. New-York: Paine &amp; Burgess.
 <lb/>An excellent address, to which we shall refer more fully
 <lb/>next week, and from which we shall take the liberty of
-<lb/>making some extracts.
-<lb/>Narrative of the Exploring Expedition to the Rocky
+<lb/>making some extracts.</p><p></p><p>Narrative of the Exploring Expedition to the Rocky
 <lb/>Mountains, in the year 1842 ; and to Oregon and North
 <lb/>California, in the years 1843—4. By Brevet Captain
 <lb/>J. C. Fremont, of the Topographical Engineers. Re-
 <lb break="no"/>printed from the Original Copy published by order of
 <lb/>the Senate of the U.S. New-York: D. Appleton &amp;
-<lb/>Co.
-<lb/>We scarcely know what to say of this narrative—so as
+<lb/>Co.</p><p></p><p>We scarcely know what to say of this narrative—so as
 <lb/>to recommend it with sufficient positiveness to our read-
 <lb break="no"/>ers. Undoubtedly it is one of the most interesting books
 <lb/>ever penned. “ Robinson Crusoe” is not better as a com-
 <lb break="no"/>position, and here we have the additional charm of truth
 <lb/>—a truth that cannot be doubted, and which, the tone of
-<lb/>narration assures us, is not exaggerated in any degree.
-<lb/>Harper's Illuminated Pictorial Bible, No. 43.
-<lb/>A number of more than average excellence. The
+<lb/>narration assures us, is not exaggerated in any degree.</p><p>Harper's Illuminated Pictorial Bible, No. 43.
+</p><p>A number of more than average excellence. The
 <lb/>smaller wood-engravings are especially meritorious. No
 <lb/>English edition approaches this in the general beauty of
-<lb/>its embellishments.
-<lb/>The Wandering Jew, superbly Illustrated by the Most
+<lb/>its embellishments.</p><p></p><p>The Wandering Jew, superbly Illustrated by the Most
 <lb/>Eminent Artists of Paris. A New and Elegant
-<lb/>Translation. Harper if Brothers. New-York.
-<lb/>No. 4 is issued. Its designs are beyond praise. When
+<lb/>Translation. Harper if Brothers. New-York.</p><p></p><p>No. 4 is issued. Its designs are beyond praise. When
 <lb/>completed, this will form one of the most richly illustrated
-<lb/>works ever published.
-<lb/>The Modern Standard Drama. Edited by Epes Sargent.
+<lb/>works ever published.</p><p></p><p>The Modern Standard Drama. Edited by Epes Sargent.
 <lb/>No. 7. The School for Scandal, etc. etc. New
-<lb/>York: William Taylor.
-<lb/>We are glad of the opportunity again to call attention
-<lb/>to this series. It is in all respects an excellent one.
-<lb/>The Columbian Magazine, for December, has an excel-
+<lb/>York: William Taylor.</p><p>We are glad of the opportunity again to call attention
+to this series. It is in all respects an excellent one.
+</p><p>The Columbian Magazine, for December, has an excel-
 <lb break="no"/>lent line engraving by Dick, from a painting by Allom—
 <lb/>the subject a Chinese Raree-show—also a good mezzo-
 <lb break="no"/>tint by Sadd. Its contributions are of more than average
@@ -1085,245 +992,244 @@
 <lb/>Mrs. Osgood—touching and graceful. There are articles,
 <lb/>also, by Mrs. Child, Mrs. Sigourney, Fanny Forrester,
 <lb/>Wm. Kirkland, Park Benjamin, John Brougham, and
-<lb/>others of note. “Lake Michigan at Night” is the title of
-<lb/>a particularly meritorious poem by M----e.
-<lb/>We are happy to understand that The Columbian is in
-<lb/><pb n="323"/>
-<lb/>a very prosperous condition. It is published by Israel
-<lb/>Post, 140 Nassau street.
-<lb/>The Aristidean, for October, is unusually rich in good
+<lb/>others of note. “Lake Michigan at Night” is the title of</p><p>a particularly meritorious poem by M----e.
+We are happy to understand that The Columbian is in
+<pb n="323"/>
+a very prosperous condition. It is published by Israel
+Post, 140 Nassau street.
+</p><p>The Aristidean, for October, is unusually rich in good
 <lb/>things—more particularly in the way of poetry. “ The
 <lb/>Nameless River,” (which we attribute to A. M. Ide, Jr.)
 <lb/>is exquisitely versified and has some passages of a high
-<lb/>order of poetic excellence. We make a few quotations.
-<lb/>Serene its radiant waters flow,
-<lb/>In valleys calm and deep,
-<lb/>Where pine and ever-green cedar grow
-<lb/>And bending willows weep.
-<lb/>Beautiful flowers its banks adorn,
-<lb/>Its waves are lily-crowned,
-<lb/>And harvests of the emerald com
-<lb/>Swell o’er the plains around.
-<lb/>Yet not for this, for evermore
-<lb/>I love its silvery tide;
-<lb/>My steadfast, peerless Isadore
-<lb/>Dwells on the river-side!
-<lb/>Still unto her my spirit leans,
-<lb/>When, by the river side,
-<lb/>’Mid fragrant flowers and evergreens
-<lb/>I walk at eventide.
-<lb/>Upon its grassy banks at noon,
-<lb/>Like one in dreams astray,
-<lb/>I listen to the tremulous tune
-<lb/>The gliding waters play.
-<lb/>I loiter by its waves at night,
-<lb/>Through shadowy vales afar,
-<lb/>With visions of ideal delight
-<lb/>Entranced as lovers are.
-<lb/>With tremulous stars the waters gleam,
-<lb/>Like old enchanted streams:—
-<lb/>Beneath her lattice, wreathed with vine,
-<lb/>They murmur whilst she dreams!
-<lb/>“The Hope of the Broken-Hearted” is remarkable for
+<lb/>order of poetic excellence. We make a few quotations.</p><p>Serene its radiant waters flow,
+In valleys calm and deep,
+Where pine and ever-green cedar grow
+And bending willows weep.
+Beautiful flowers its banks adorn,
+Its waves are lily-crowned,
+And harvests of the emerald com
+Swell o’er the plains around.
+Yet not for this, for evermore
+I love its silvery tide;
+My steadfast, peerless Isadore
+Dwells on the river-side!
+Still unto her my spirit leans,
+When, by the river side,
+’Mid fragrant flowers and evergreens
+I walk at eventide.
+Upon its grassy banks at noon,
+Like one in dreams astray,
+I listen to the tremulous tune
+The gliding waters play.
+I loiter by its waves at night,
+Through shadowy vales afar,
+With visions of ideal delight
+Entranced as lovers are.
+With tremulous stars the waters gleam,
+Like old enchanted streams:—
+Beneath her lattice, wreathed with vine,
+They murmur whilst she dreams!
+</p><p>“The Hope of the Broken-Hearted” is remarkable for
 <lb/>its passionate expression. We attribute it to the pen of T.
-<lb/>Mayne Reed, Esq., of Philadelphia.
-<lb/>Here is something terse and passionate—undoubtedly
-<lb/>by Mr. English.
-<lb/>Take back the token !
-<lb/>The words have been spoken ;
-<lb/>The cord and the chain
-<lb/>Have been severed in twain,
-<lb/>So that never again
-<lb/>May we bind up the links that are broken.
-<lb/>Quench the last ember,
-<lb/>Nor ever remember
-<lb/>The heart tempest-tost,
-<lb/>Nor the love thou hast lost,
-<lb/>Nor the tears that it cost,
-<lb/>Nor the life which has reached its December.
-<lb/>Now and forever
-<lb/>Our spirits must sever,—
-<lb/>Must sever, and yet
+<lb/>Mayne Reed, Esq., of Philadelphia.</p><p>Here is something terse and passionate—undoubtedly
+by Mr. English.
+Take back the token !
+The words have been spoken ;
+The cord and the chain
+Have been severed in twain,
+So that never again
+May we bind up the links that are broken.
+Quench the last ember,
+Nor ever remember
+The heart tempest-tost,
+Nor the love thou hast lost,
+Nor the tears that it cost,
+Nor the life which has reached its December.
+Now and forever
+Our spirits must sever,—
+</p><p>Must sever, and yet
 <lb/>Can we ever forget
 <lb/>Our delight when we met?
-<lb/>By the wo of our memory never!
-<lb/>Among the prose papers there is an exceedingly queer,
+<lb/>By the wo of our memory never!</p><p></p><p>Among the prose papers there is an exceedingly queer,
 <lb/>one (no doubt by the editor.) We give an extract which
-<lb/>will explain the design :
-<lb/>Anxious to present our readers with the best specimens of the
-<lb/>poetry of this country, we addressed notes to various of our poets,
-<lb/>requesting them to furnish us, without charge, the means of ful-
+<lb/>will explain the design :</p><p>Anxious to present our readers with the best specimens of the
+poetry of this country, we addressed notes to various of our poets,
+</p><p>requesting them to furnish us, without charge, the means of ful-
 <lb break="no"/>filling our desire. This, we conceived, to be a very modest re-
 <lb break="no"/>quest. To our surprise, some ot these notes were returned; and
 <lb/>others were retained, hut no reply made. To some we received
-<lb/>answers, with the required poems.
-<lb/>Here is a specimen:
-<lb/>Boston.</p><p/><p>Dear Sir:—I am happy to oblige you. I send you the enclosed
+<lb/>answers, with the required poems.</p><p>Here is a specimen:
+Boston.
+
+</p><p>Dear Sir:—I am happy to oblige you. I send you the enclosed
 <lb/>written in my usual, terse, epigrammatic style. The high opinion
-<lb/>you express ot my powers as a poet, are just; and show you have
-<lb/>more taste than the Hollis street congregation.
-<lb/>I am, very truly,
-<lb/>John Pierpont.</p><p>ODE TO THE MUSES
+<lb/>you express ot my powers as a poet, are just; and show you have</p><p>more taste than the Hollis street congregation.
+I am, very truly,
+John Pierpont.
+
+ODE TO THE MUSES
 BY THE REV. JOHN PIERPONT.
-</p><p>Ye gentle muses! make me first
-<lb/>Of bards—like Harry Hirst !
-<lb/>To me the fire afford,
-<lb/>Of William W. Lord!
-<lb/>And be my songs like Coxe’s “ Saul,’’
-<lb/>Filled up with most abundant fol
+
+Ye gentle muses! make me first
+Of bards—like Harry Hirst !
+To me the fire afford,
+Of William W. Lord!
+And be my songs like Coxe’s “ Saul,’’
+</p><p>Filled up with most abundant fol
 <lb/>-lol,
-<lb/>fol
-<lb/>de riddle dol!
-<lb/>Ye gentle muses! let my rhymes
+<lb/>fol</p><p>de riddle dol!
+</p><p>Ye gentle muses! let my rhymes
 <lb/>Ring like the clinking chimes
 <lb/>Of those Campanalo-
-<lb break="no"/>—gian ringers, whom you know,
-<lb/>Within the Tabernacle Hall,
-<lb/>Present abundantly the fol
+<lb break="no"/>—gian ringers, whom you know,</p><p>Within the Tabernacle Hall,
+</p><p>Present abundantly the fol
 <lb/>—lol,
-<lb/>fol
-<lb/>de riddle ded!
-<lb/>Ye gentle muses! if you will,
-<lb/>With fire my verses fill;
-<lb/>Permit this lamp of mine
-<lb/>O’er other lamps to shine;
-<lb/>And, if you won’t, confound ye all!
-<lb/>I’ll treat you to abundant fol
+<lb/>fol</p><p>de riddle ded!
+Ye gentle muses! if you will,
+With fire my verses fill;
+Permit this lamp of mine
+O’er other lamps to shine;
+And, if you won’t, confound ye all!
+</p><p>I’ll treat you to abundant fol
 <lb/>-lol,
-<lb/>fol
-<lb/>de riddle dol!</p><p/><p>Simms’ Magazine, Graham, Godey, The Illustrated,
+<lb/>fol</p><p>de riddle dol!
+
+</p><p>Simms’ Magazine, Graham, Godey, The Illustrated,
 <lb/>The Western, The Southern Messenger,and the South-
 <lb break="no"/>ern Quarterly Review, have all been received and
 <lb/>shall be noticed next week—until when, also, we must
 <lb/>defer what we have to say of the Annuals— some of
 <lb/>which (The Missionary Memorial, for example, The
 <lb/>Rose, The Diadem, and the Mayflower) are of a very
-<lb/>high order of excellence. We have on hand for imme-
-<lb break="no"/>diate notice Mrs. Osgood’s Poems—Mr. Cist’s.—The Pil-
+<lb/>high order of excellence. We have on hand for imme-</p><p></p><p>diate notice Mrs. Osgood’s Poems—Mr. Cist’s.—The Pil-
 <lb break="no"/>grim’s Progress (Illustrated edition.)—The Sufferings of
 <lb/>Christ—and The Whiteboy, a Story of Ireland—the three
-<lb/>last from the fertile press of the Harpers.</p><p/><p>Epigram.
-<lb/>From the Saxon.
-<lb/>Tom’s choice in fellowship and friends,
-<lb/>Behold his levee’s silent throngs;
-<lb/>Bad measures, meant for viler ends,
-<lb/>		Foul thoughts and meditated wrongs;		
-<lb/>All passions low, all base desires,			
-<lb/>And prejudices monster-grown,			
-<lb/>Crowd to the saloon of his sires,			
-<lb/>Yet Tom is in his house,—alone!			
-<lb/>W. G. Simms.		
-<lb/><pb n="324"/>
-<lb/>The Double Dream.
-<lb/>Our life is two-fold—Byron.
-<lb/>Fondly all through yesternight,
-<lb/>Fondly did I dream of thee,
-<lb/>And my soul, in deep delight,
-<lb/>Wandered with thine far and free:
-<lb/>Brightest visions round me shone;
-<lb/>All for which my heart had yearned,
-<lb/>All the dearest scenes I’d known,
-<lb/>’Neath the spell of sleep , returned:
-<lb/>Fancy too assumed the helm,
-<lb/>And the ship of thought drove far,
-<lb/>O’er the dream-sea’s mystic realm,—
-<lb/>Thou, the sole and guiding star!
-<lb/>Wilt thou hear me sing the scenes
-<lb/>Mirrored in that Eden sleep —
-<lb/>Unto thee my spirit leans,
-<lb/>Enchantress, for the meaning deep!</p><p/><p>I.
-<lb/>First, within a brilliant hall.
-<lb/>’Mid the youthful, gay, and bright,
-<lb/>Glanced a form more fair than all,
-<lb/>Like a spirit on my sight!
-<lb/>Proudly through the circling dance,
-<lb/>As, between the stars, the moon,
-<lb/>Moved she, with a stately glance,
-<lb/>To the old and festive tune.
-<lb/>Sweet the music,—for it seemed
-<lb/>But her motion’s atmosphere,—
-<lb/>Filled with light that round her beamed,—
-<lb/>Captivating eye and ear.
-<lb/>Thoughts, like fountains years-subdued,
-<lb/>In my bosom poured their tide,
-<lb/>And, entranced like Saul, I stood,
-<lb/>Mute with homage at her side!</p><p/><p>II.
-<lb/>Months seemed passed,—and now a scene
+<lb/>last from the fertile press of the Harpers.</p><p>
+Epigram.
+From the Saxon.
+Tom’s choice in fellowship and friends,
+Behold his levee’s silent throngs;
+Bad measures, meant for viler ends,
+		Foul thoughts and meditated wrongs;		
+All passions low, all base desires,			
+And prejudices monster-grown,			
+Crowd to the saloon of his sires,			
+Yet Tom is in his house,—alone!			
+W. G. Simms.		
+<pb n="324"/>
+The Double Dream.
+Our life is two-fold—Byron.
+Fondly all through yesternight,
+Fondly did I dream of thee,
+And my soul, in deep delight,
+Wandered with thine far and free:
+Brightest visions round me shone;
+All for which my heart had yearned,
+All the dearest scenes I’d known,
+’Neath the spell of sleep , returned:
+Fancy too assumed the helm,
+And the ship of thought drove far,
+O’er the dream-sea’s mystic realm,—
+Thou, the sole and guiding star!
+Wilt thou hear me sing the scenes
+Mirrored in that Eden sleep —
+Unto thee my spirit leans,
+Enchantress, for the meaning deep!
+
+I.
+First, within a brilliant hall.
+’Mid the youthful, gay, and bright,
+Glanced a form more fair than all,
+Like a spirit on my sight!
+Proudly through the circling dance,
+As, between the stars, the moon,
+Moved she, with a stately glance,
+To the old and festive tune.
+Sweet the music,—for it seemed
+But her motion’s atmosphere,—
+Filled with light that round her beamed,—
+Captivating eye and ear.
+Thoughts, like fountains years-subdued,
+In my bosom poured their tide,
+And, entranced like Saul, I stood,
+Mute with homage at her side!
+
+II.
+</p><p>Months seemed passed,—and now a scene
 <lb/>Pastoral-sweet was round me spread ;—
-<lb/>On the hills, the spring-time’s green,
-<lb/>And the blue sky overhead!
-<lb/>Winding down a forest river,
-<lb/>In a lightly-leaning boat,—
-<lb/>Snowy sails in breezy quiver,
-<lb/>By her side I seemed to float.
-<lb/>Music from her voice was breathed,
-<lb/>Sweeter than a singing bird’s;
-<lb/>Smiles around her lips were wreathed,
-<lb/>Like the starlight of her words.
-<lb/>Long we sailed,—and passion’s sighs
-<lb/>Kneeling then, I dared to pour,—
-<lb/>But a storm o’erwhelmed the skies!
-<lb/>I was wrecked upon the shore!</p><p/><p>III.
-<lb/>Fancy now more wild became!
-<lb/>Far through foreign lands I roved,
+<lb/>On the hills, the spring-time’s green,</p><p>And the blue sky overhead!
+Winding down a forest river,
+In a lightly-leaning boat,—
+Snowy sails in breezy quiver,
+By her side I seemed to float.
+Music from her voice was breathed,
+Sweeter than a singing bird’s;
+Smiles around her lips were wreathed,
+Like the starlight of her words.
+Long we sailed,—and passion’s sighs
+Kneeling then, I dared to pour,—
+But a storm o’erwhelmed the skies!
+I was wrecked upon the shore!
+
+III.
+Fancy now more wild became!
+</p><p>Far through foreign lands I roved,
 <lb/>Armed,—a knight,—in lists of fame,—
-<lb/>Championing my Ladye-Love.
-<lb/>Pomp and splendor round me shone,
-<lb/>Cavaliers and maidens bright,—
-<lb/>But above them all was one
-<lb/>Beautiful as morning light!—
-<lb/>On my shield her scroll I bore,—
-<lb/>Fairest Virgin op the West,—
-<lb/>Round my breast her scarf I wore,
-<lb/>And her colors in my crest.
-<lb/>Shouting loud defiance out,
-<lb/>Sought I then the marshalled strife,—
+<lb/>Championing my Ladye-Love.</p><p>Pomp and splendor round me shone,
+Cavaliers and maidens bright,—
+But above them all was one
+Beautiful as morning light!—
+On my shield her scroll I bore,—
+Fairest Virgin op the West,—
+Round my breast her scarf I wore,
+And her colors in my crest.
+Shouting loud defiance out,
+</p><p>Sought I then the marshalled strife,—
 <lb/>Proudly with the boldest fought,—
-<lb/>Perilling with joy my life!
-<lb/>Soon a victor, from the scene
-<lb/>To her feet I bore the prize,—
-<lb/>Crowned her there as Beauty’s Queen,—
-<lb/>Drank my plaudits from her eyes!
-<lb/>IV.
-<lb/>But a change now strangely passed
-<lb/>O’er my wild and fevered dream;—
-<lb/>Where tall trees their shadows cast,
-<lb/>By a sweet, secluded stream,
-<lb/>We were roving;—overhead,
-<lb/>Smiling like an angel’s face,
-<lb/>Hung the moon, as if to shed
-<lb/>Love-light on that trysting place.
-<lb/>In the shadows and the hush
-<lb/>Of that old, moon-silvered grove,—
-<lb/>Prayer, and vow, and tear, and blush!—
-<lb/>Plighted we our troth and love!—
-<lb/>What beside this then occurred
-<lb/>Underneath that smiling sky,
-<lb/>Thou must ask that startled bird!—
-<lb/>Thou must dream as well as I!
-<lb/>Such my visions yesternight,—
-<lb/>So my spirit roved with thine,—
-<lb/>Drinking in a wild delight,—
-<lb/>Revelling ’mid scenes divine!
-<lb/>Strange indeed our dreams are wrought;
-<lb/>Fancy, Memory and Hope,
-<lb/>All combine to cheat the thought
-<lb/>With their gay Kaleidescope!
-<lb/>What within my dream was drawn
-<lb/>From the Past, thy heart can tell;
-<lb/>What was Fancy’s work alone,
-<lb/>Thou canst see and solve as well.
-<lb/>But our dreams are Sibyls too;—
-<lb/>Could we read their visits right,
-<lb/>We might in their lessons view
-<lb/>Stars to guide the Future’s night.
-<lb/>Then, enchantress, solve the scenes
-<lb/>Mirrored in my last night’s sleep!
-<lb/>Unto thee my spirit leans,
-<lb/>Belshazzar-like, for meaning deep.
-<lb/>A. B. Meek.
-<lb/>Musical Department.
-<lb/>First Concert of the Philharmonic Society.—The
+<lb/>Perilling with joy my life!</p><p>Soon a victor, from the scene
+To her feet I bore the prize,—
+Crowned her there as Beauty’s Queen,—
+Drank my plaudits from her eyes!
+IV.
+But a change now strangely passed
+O’er my wild and fevered dream;—
+Where tall trees their shadows cast,
+By a sweet, secluded stream,
+We were roving;—overhead,
+Smiling like an angel’s face,
+Hung the moon, as if to shed
+Love-light on that trysting place.
+In the shadows and the hush
+Of that old, moon-silvered grove,—
+Prayer, and vow, and tear, and blush!—
+Plighted we our troth and love!—
+What beside this then occurred
+Underneath that smiling sky,
+Thou must ask that startled bird!—
+Thou must dream as well as I!
+Such my visions yesternight,—
+So my spirit roved with thine,—
+Drinking in a wild delight,—
+Revelling ’mid scenes divine!
+Strange indeed our dreams are wrought;
+Fancy, Memory and Hope,
+All combine to cheat the thought
+With their gay Kaleidescope!
+What within my dream was drawn
+From the Past, thy heart can tell;
+What was Fancy’s work alone,
+Thou canst see and solve as well.
+But our dreams are Sibyls too;—
+Could we read their visits right,
+We might in their lessons view
+Stars to guide the Future’s night.
+Then, enchantress, solve the scenes
+Mirrored in my last night’s sleep!
+Unto thee my spirit leans,
+Belshazzar-like, for meaning deep.
+A. B. Meek.
+Musical Department.
+</p><p>First Concert of the Philharmonic Society.—The
 <lb/>Overtures and Symphonies were certainly performed in a
 <lb/>style worthy of the Philharmonic Society, and we tender
 <lb/>our thanks to the government thereof, for thus interrupt-
@@ -1334,8 +1240,10 @@ BY THE REV. JOHN PIERPONT.
 <lb break="no"/>cult composition. Mrs. Mott acquitted herself well, and
 <lb/>Mr. Wollenhaupt was so scared that it would not be
 <lb/>doing him justice to make any comments on his perform-
-<lb break="no"/>ance.</p><p>A full notice of Ole Bull’s Concert, on Wednesday last,
+<lb break="no"/>ance.</p><p>
+A full notice of Ole Bull’s Concert, on Wednesday last,
 will be found in our next.
+
 </p><p>Mr. Huber, the celebrated Violincellist, gave a Musi-
 <lb break="no"/>cal Soirée on Tuesday evening last. We found a most
 <lb/>brilliant array of ladies, and a most interesting party of
@@ -1345,86 +1253,77 @@ will be found in our next.
 <lb/>style in which they were performed. He was accompa-
 <lb break="no"/>nied on the Piano, by his sister, and many a complete
 <lb/>professor could yet learn of her. Mrs. Mott sang some
-<lb/>very beautiful airs with her usual good grace ; and Mr.
-<lb/><pb n="325"/>
-<lb/>White, an amateur, sang a bass-solo very respectably.—
+<lb/>very beautiful airs with her usual good grace ; and Mr.</p><p><pb n="325"/>
+</p><p>White, an amateur, sang a bass-solo very respectably.—
 <lb/>We feel assured that Mr. Huber’s concerts will be attended
-<lb/>by the elite of New-York.
-<lb/>Mr. Templeton’s Concert at the Tabernacle.—Al-
+<lb/>by the elite of New-York.</p><p></p><p>Mr. Templeton’s Concert at the Tabernacle.—Al-
 <lb break="no"/>though the price of the tickets was only 50 cents, a
 <lb/>most fashionable audience greeted this charming vocalist
 <lb/>with their cheers, and the desire was universally expres-
 <lb break="no"/>sed, that he might repeat his entertainment as soon as
-<lb/>possible.
-<lb/>The Delcy Troupe, we believe, are not quite as suc-
+<lb/>possible.</p><p></p><p>The Delcy Troupe, we believe, are not quite as suc-
 <lb break="no"/>cessful as the placards in the street try to make one be-
 <lb break="no"/>lieve. The performance of Lucia di Lammermoor was
 <lb/>as good a specimen of musical murder as we have wit-
-<lb break="no"/>nessed.
-<lb/>The German Opera.—Der Freischutz is to be the first
+<lb break="no"/>nessed.</p><p></p><p>The German Opera.—Der Freischutz is to be the first
 <lb/>performance, and Mr. Rapetti will lead the orchestra.—
-<lb/>If properly managed, it will be a profitable enterprise.
-<lb/>A New system of musical notation for the Blind has
+<lb/>If properly managed, it will be a profitable enterprise.</p><p></p><p>A New system of musical notation for the Blind has
 <lb/>been invented. We shall speak at length of it at some
-<lb/>future opportunity.
-<lb/>Ole Bull has invited the pupils of the Institution for
-<lb/>the Blind to his last Farewell Concert.
-<lb/>Homans &amp; Ellis have published some of De Meyer’s
-<lb/>compositions.
-<lb/>We heard some of the best singing at Dr. Potts’ church,
-<lb/>on Sunday last.
-<lb/>An Oratorio, composed by an American, will be
+<lb/>future opportunity.</p><p>Ole Bull has invited the pupils of the Institution for
+the Blind to his last Farewell Concert.
+Homans &amp; Ellis have published some of De Meyer’s
+compositions.
+We heard some of the best singing at Dr. Potts’ church,
+on Sunday last.
+</p><p>An Oratorio, composed by an American, will be
 <lb/>brought out soon, in this city. We hope it will be more
-<lb/>successful than the American Grand Opera.
-<lb/>Mrs. Mott, assisted by Mr. Kyle, intend giving a
-<lb/>series of Concerts at Boston.
-<lb/>Ole Bull sails positively on the 1st of December, for
+<lb/>successful than the American Grand Opera.</p><p>Mrs. Mott, assisted by Mr. Kyle, intend giving a
+series of Concerts at Boston.
+</p><p>Ole Bull sails positively on the 1st of December, for
 <lb/>Havre. We are really anxious to hear what his old ac-
-<lb break="no"/>quaintances in Europe will say of his playing.
-<lb/>Miss Northall.—This lady gives a concert at the
+<lb break="no"/>quaintances in Europe will say of his playing.</p><p></p><p>Miss Northall.—This lady gives a concert at the
 <lb/>Apollo, on the fourth of December. In addition to the at-
 <lb break="no"/>traction of her own voice—no small attraction by the bye
 <lb/>—she has obtained the assistance of Sig. De Begnis and
-<lb/>Mr. Timm.</p><p>The Drama.
-</p><p>Mr. Forrest is playing occasionally in the English pro-
-<lb break="no"/>vinces, always to great houses, and with brilliant success.
-<lb/>Miss Cushman, at the latest advices, did not appear to
-<lb/>be employed.
-<lb/>Mr. Andersoh, formerly in this country, is playing in
+<lb/>Mr. Timm.</p><p>
+The Drama.
+
+Mr. Forrest is playing occasionally in the English pro-
+vinces, always to great houses, and with brilliant success.
+Miss Cushman, at the latest advices, did not appear to
+be employed.
+</p><p>Mr. Andersoh, formerly in this country, is playing in
 <lb/>London with moderate success—Mr. Macready to
 <lb/>crowded audiences, and, according to report, better than
-<lb/>for many years.
-<lb/>Mr. Murdock played at Baltimore five nights, to the
+<lb/>for many years.</p><p></p><p>Mr. Murdock played at Baltimore five nights, to the
 <lb/>best houses of the season. His next engagement, we un-
-<lb break="no"/>derstand, is at Boston.
-<lb/>The Keans are playing at this latter city with fair suc-
+<lb break="no"/>derstand, is at Boston.</p><p></p><p>The Keans are playing at this latter city with fair suc-
 <lb break="no"/>cess. The American public, begin, we think, to grow ‘ a
-<lb/>weary of them.’
-<lb/>Mrs. Mowatt passed through Richmond last week, on
-<lb/>her way to engagements at the South.
-<lb/>Some one or other in the name of the “Santee” River,
+<lb/>weary of them.’</p><p>Mrs. Mowatt passed through Richmond last week, on
+her way to engagements at the South.
+</p><p>Some one or other in the name of the “Santee” River,
 <lb/>makes himself conspicuous in a letter to the Charleston
 <lb/>Courier, in sneering at dramatic and musical performers:
 <lb/>compares, in a most exceptionable spirit, the Philadelphia
 <lb/>audiences to bourgeois, and thinks to be an American actor
 <lb/>“ is’nt much,” &amp;c. We doubt whether the able and gen-
 <lb break="no"/>tlemanly conductor of that print, or any body else, egrees
-<lb/>with him in that.
-<lb/>The Delcy engagement, at the Park Theatre, has prov-
-<lb break="no"/>ed a failure. The organization of the company is ineffi-
+<lb/>with him in that.</p><p>The Delcy engagement, at the Park Theatre, has prov-
+</p><p>ed a failure. The organization of the company is ineffi-
 <lb break="no"/>cient, but the best we imagine it was in the power of the
-<lb/>management to command.
-<lb/>Mr. Hudson’s new Lectures at Boston, (Lear and Othel-
+<lb/>management to command.</p><p></p><p>Mr. Hudson’s new Lectures at Boston, (Lear and Othel-
 <lb break="no"/>lo,) have attracted a great deal of attention, and have been
 <lb/>very successful with the audiences to which they have
-<lb/>been delivered.</p><p>Editorial Miscellany.
+<lb/>been delivered.</p><p>
+Editorial Miscellany.
+
 </p><p>The Frog-Pond seems to be dried up—and the Frogs
 <lb/>are, beyond doubt, all dead—as we hear no more croaking
-<lb/>from that quarter.</p><p/><p>We copy the subjoined passage from “Wilmer &amp;
+<lb/>from that quarter.</p><p>
+</p><p>We copy the subjoined passage from “Wilmer &amp;
 <lb/>Smith’s European Times.” The observations are so
 <lb/>plainly just as to need not a word in the way of com-
-<lb break="no"/>ment :
-<lb/>A Boston publication, called ‘ Littell’s Living Age,’ has found
+<lb break="no"/>ment :</p><p></p><p>A Boston publication, called ‘ Littell’s Living Age,’ has found
 <lb/>its way to this city, and is advertised in our newspapers, though it
 <lb/>consists of nothing but pilfering from the English magazines and
 <lb/>reviews. It may also be met with in one or two cabinets de lecture,
@@ -1439,8 +1338,7 @@ will be found in our next.
 <lb/>roaring trade by reprinting all the works that issued from the Eng-
 <lb break="no"/>lish press, and smuggling them into England for the circulating
 <lb/>libraries; one of these honest men actually became enriched from
-<lb/>his wholesale piracies on Walter Scott alone.
-<lb/>But a law lately passed, directing the immediate destruction of
+<lb/>his wholesale piracies on Walter Scott alone.</p><p></p><p>But a law lately passed, directing the immediate destruction of
 <lb/>every pirated work, has put a considerable check on their consci-
 <lb break="no"/>entious trade; and it now appears that they find it more profitable
 <lb/>to import from the United States than to reprint. Belgium preys
@@ -1455,32 +1353,29 @@ will be found in our next.
 <lb/>sold 100,000 copies. It is a burning and scandalous shame to gov-
 <lb break="no"/>ernments of such enlightened countries as America, England,
 <lb/>France and Belgium, that a law of literary copyright is not estab-
-<lb break="no"/>lished.
-<lb/>The Mirror says:
-<lb/>Americans.—An address delivered before the Eucleian Society
+<lb break="no"/>lished.</p><p>The Mirror says:
+</p><p>Americans.—An address delivered before the Eucleian Society
 <lb/>of the New-York University, June 30, 1845, by Cornelius Ma-
 <lb break="no"/>thews. We published the address in the Mirror soon after its de-
-<lb break="no"/>livery. We could not understand it then, and cannot now.
-<lb/>Mr. Mathews, we should judge, punctuates his manuscript with
+<lb break="no"/>livery. We could not understand it then, and cannot now.</p><p></p><p>Mr. Mathews, we should judge, punctuates his manuscript with
 <lb/>a pepper-box. We like his thoughts better than the idiosyncrasies
-<lb/>of his style. He should reform it altogether.
-<lb/>Whatever, in the opinion of the worshippers of Bri-
+<lb/>of his style. He should reform it altogether.</p><p></p><p>Whatever, in the opinion of the worshippers of Bri-
 <lb break="no"/>tain and everything British, may be objectionable in the
 <lb/>matter of Mr. Mathews’ address, its manner, at least, is
 <lb/>simple and unaffected, and we are quite at a loss to dis-
 <lb break="no"/>cover anything incomprehensible in any portion of the
 <lb/>essay. There is a good saying of Dr. Johnson’s, about
 <lb/>the extreme unfairness of requiring an author to supply
-<lb/>at once thought and brains for its comprehension.
-<lb/>We do not intend to claim the honor of originating
-<lb/>in the Journal the exquisite poem, by Halleck, now pub-
-<lb break="no"/><pb n="326" break="no"/>
-<lb/>lished. It is not included, however, in any edition of his
+<lb/>at once thought and brains for its comprehension.</p><p>We do not intend to claim the honor of originating
+in the Journal the exquisite poem, by Halleck, now pub-
+<pb n="326" break="no" />
+</p><p>lished. It is not included, however, in any edition of his
 <lb/>poems. Independently of the high intrinsic merit of the
 <lb/>piece, there is a tale about it—a romantic tale—which
 <lb/>we could unfold, if we thought proper, and which to cer-
-<lb break="no"/>tain readers will give it additional interest.</p><p/><p>Items from foreign Sources.
-<lb/>In these days of peace and political fusion, the Revolution and
+<lb break="no"/>tain readers will give it additional interest.</p><p>
+Items from foreign Sources.
+</p><p>In these days of peace and political fusion, the Revolution and
 <lb/>the Empire in France are, as we have seen, gradually com-
 <lb break="no"/>completing their unfinished monuments. Fifty years after the first
 <lb/>proposal of the project by the celebrated painter David, and its
@@ -1505,7 +1400,8 @@ will be found in our next.
 <lb/>member of the municipality of Lille, at the period of the siege,
 <lb/>the “ Star of the Brave,” as the latter called it in the figurative
 <lb/>mood of the occasion—“ one of the finest episodes of the day,” say
-<lb/>the highly excited journals of the department.—London Athenaum.</p><p/><p>It is an amusing sight, and enlivening withal, to look at the rows
+<lb/>the highly excited journals of the department.—London Athenaum.</p><p>
+</p><p>It is an amusing sight, and enlivening withal, to look at the rows
 <lb/>of white tents, the beautiful girls and their elegant dresses, the
 <lb/>crowds of spectators, each sheltered by a bright coloured umbrella,
 <lb/>and some thirty or forty ladies and gentlmen, fat and thin, tall and
@@ -1523,8 +1419,7 @@ will be found in our next.
 <lb/>one of his acquaintance: but everything is conducted with the
 <lb/>strictest propriety and decorum; so that however extraordinary the
 <lb/>style may appear at first to a stranger, he soon becomes accustomed
-<lb/>to it.
-<lb/>The most amusing scenes have passed, never to recur, when the
+<lb/>to it.</p><p></p><p>The most amusing scenes have passed, never to recur, when the
 <lb/>friars came down to bathe. Some years ago there was an enor-
 <lb break="no"/>mously fat friar, who was ordered to take a certain number of baths
 <lb/>at a certain hour in the morning, and it was the general amusement
@@ -1542,263 +1437,235 @@ will be found in our next.
 <lb/>let him out till he had taken the prescribed number of dips—he
 <lb/>spluttering, and crying, and praying and swearing all the time.
 <lb/>Now and then, though seldom, the same scene is enacted with a
-<lb/>stout artizan, or a country farmer.—Lusitawan Sketches.
-<lb/>Dr. Balfour, of Glasgow, has been appointed Professor
+<lb/>stout artizan, or a country farmer.—Lusitawan Sketches.</p><p></p><p>Dr. Balfour, of Glasgow, has been appointed Professor
 <lb/>of Botany, at Edinburgh University, vice Dr. Graham
-<lb/>deceased.
-<lb/>In Paris there are 396 newspapers, with 700,000 subscri-
+<lb/>deceased.</p><p></p><p>In Paris there are 396 newspapers, with 700,000 subscri-
 <lb break="no"/>bers, and in the departments of France 898, with about
-<lb/>350,000 subscribers.
-<lb/>ELEGANT NEW WORK.
-<lb/>C. SHEPARD, BOOKSELLER, 191 BROADWAY.</p><p/><p>CHAUNT OF LIFE—and other Poems, by Rev. R. Hoyt, a
+<lb/>350,000 subscribers.</p><p>ELEGANT NEW WORK.
+C. SHEPARD, BOOKSELLER, 191 BROADWAY.
+
+</p><p>CHAUNT OF LIFE—and other Poems, by Rev. R. Hoyt, a
 <lb/>Clergyman of the Episcopal Church, New York. Parts 1 &amp; 2.
 <lb/>This work is beautifully printed on fine paper, embellished, and
-<lb/>handsomely bound. Price 37 1/2 cents.
-<lb/>The following are extracts from a few of the notices it has re-
-<lb break="no"/>ceived from the Press:—
-<lb/>“ There is a natural vigor in this poem (World for Sale) which
-<lb/>is wrung from the life,—a wild music from the very heart strings.”
-<lb/>—Morning News.
-<lb/>“ This is a scene (snow) that every one will recognize as life-
+<lb/>handsomely bound. Price 37 1/2 cents.</p><p>The following are extracts from a few of the notices it has re-
+ceived from the Press:—
+“ There is a natural vigor in this poem (World for Sale) which
+is wrung from the life,—a wild music from the very heart strings.”
+—Morning News.
+</p><p>“ This is a scene (snow) that every one will recognize as life-
 <lb break="no"/>like and truthful,—no artist could paint it better.”—Hud. Riv.
-<lb/>Chronicle.
-<lb/>“We have seen many quartos, not taken either from the lowest
-<lb/>rank of dullness, with far less that is acceptable in them.”—Dem.
-<lb/>Review.
-<lb/>“We commend this volume to the lover of true poetry, and can
+<lb/>Chronicle.</p><p>“We have seen many quartos, not taken either from the lowest
+rank of dullness, with far less that is acceptable in them.”—Dem.
+Review.
+</p><p>“We commend this volume to the lover of true poetry, and can
 <lb/>say, in all sincerity, if Mr. Hoyt, in his following numbers, sus-
 <lb break="no"/>tains the character of this, there is no doubt of his success.”—N.
-<lb/>Y. Evening Mirror.
-<lb/>“ It is printed in a very neat and even elegant style, worthy of
+<lb/>Y. Evening Mirror.</p><p></p><p>“ It is printed in a very neat and even elegant style, worthy of
 <lb/>the grace, delicacy and beauty of the poems.”—N. Y. Courier and
-<lb/>Enquirer.
-<lb/>“ He writes with grace, taste and genius, and many of his pro-
+<lb/>Enquirer.</p><p></p><p>“ He writes with grace, taste and genius, and many of his pro-
 <lb break="no"/>ductions possess merit of the highest order. Some of his best
 <lb/>pieces will be incorporated in a new edition of the Poets and
-<lb/>Poetry of America.”—Phil. Nat. Gazette.
-<lb/>“We give a stanza from the principal poem in the volume,
+<lb/>Poetry of America.”—Phil. Nat. Gazette.</p><p></p><p>“We give a stanza from the principal poem in the volume,
 <lb/>commending this delicious little brochure as one of the best New
-<lb/>Year’s presents that could be selected."—N. Y. Express.
-<lb/>" The Chaunt is one of the finest modern poems that we have
+<lb/>Year’s presents that could be selected."—N. Y. Express.</p><p></p><p>" The Chaunt is one of the finest modern poems that we have
 <lb/>read this many a day, and abounds in highly wrought and beautiful
 <lb/>passages. The author, Rev. Ralph Hoyt, is destined to a high
 <lb/>rank in the American temple of poetry, and we heartily thank
 <lb/>him for providing us such a rare poetic feast as he has given us
-<lb/>in this volume.”—N. Y. Rambler.
-<lb/>“ Full of delicate description, perfect truth and beauty of senti-
+<lb/>in this volume.”—N. Y. Rambler.</p><p></p><p>“ Full of delicate description, perfect truth and beauty of senti-
 <lb break="no"/>ment; and style pure and limpid as the chrystal stream, all envel-
 <lb break="no"/>oped in a charming atmosphere of grace and piety and purest im-
-<lb break="no"/>agination. It is a gem and a noble offering,”— Churchman.
-<lb/>“Part II. contains the second canto of a very fine poem,—the
+<lb break="no"/>agination. It is a gem and a noble offering,”— Churchman.</p><p></p><p>“Part II. contains the second canto of a very fine poem,—the
 <lb/>Chaunt of Life: From the first stanza we quote three remarkably
 <lb/>beautiful lines. The fourth and fifth stanzas are very noble.—
 <lb/>The poem Old has so many rare and peculiar excellences, that
-<lb/>we shall venture to copy it in full.”—Broadway Journal.
-<lb/>“ The Chaunt of Life is like the opening of some glorious ma
-<lb/>jestic strain of music, through which the mournful spirit of the
+<lb/>we shall venture to copy it in full.”—Broadway Journal.</p><p>“ The Chaunt of Life is like the opening of some glorious ma
+</p><p>jestic strain of music, through which the mournful spirit of the
 <lb/>past gives tone and unutterable earnestness to the aspirations of
 <lb/>the present and the hopes of the future. Such strains as those of
 <lb/>our author will be heard. They sink at once into the heart and
-<lb/>abide there."—Prot. Churchman.
-<lb/>“We have not seen a volume in a year that we have been more
+<lb/>abide there."—Prot. Churchman.</p><p></p><p>“We have not seen a volume in a year that we have been more
 <lb/>taken with than this. It is a pleasure to meet an author who can,
 <lb/>like Mr. Hoyt, make his theories attractive and his method strik-
 <lb break="no"/>ing without setting up for a misanthrope, or invoking the aid of
-<lb/>the infernals.—Phil. Sat. Eve. Post.</p><p/><p>GURNEY’S
-<lb/>PREMIUM DAGUERRIAN GALLERY,
-<lb/>189 BROADWAY, NEW-YORK.
-<lb/>PICTURES taken at this Establishment are not excelled in this
-<lb/>country—so say his numerous patrons. The public are in-
-<lb break="no"/>vited to call and judge for themselves.	o2</p><p/><p>G. B. CLARKE,
-<lb/>MERCHANT TAILOR, (from Brundage, Broadway) 
-<lb/>No 132 William Street, 3 doors from Fulton, N. Y.
+<lb/>the infernals.—Phil. Sat. Eve. Post.</p><p>
+GURNEY’S
+PREMIUM DAGUERRIAN GALLERY,
+189 BROADWAY, NEW-YORK.
+PICTURES taken at this Establishment are not excelled in this
+country—so say his numerous patrons. The public are in-
+vited to call and judge for themselves.	o2
+
+G. B. CLARKE,
+MERCHANT TAILOR, (from Brundage, Broadway) 
+</p><p>No 132 William Street, 3 doors from Fulton, N. Y.
 <lb/>		Dress Coat, from $12 to $20 00 		               Making and Trimming			
-<lb/>Pants,	“	2	 50 to	 8 00	Dress Coat,	from	 $6 00 	to 	9 00
-<lb/>Vest,	      "   1 50	to 	4 50	Pants,	" 	1 50 	to 	2 	00
-<lb/>Vests,	“	1 50	to	2	00
-<lb/>N. B. Seasonable SACK COATS, VESTS, &amp;c. always on
-<lb/>hand, from $1 50 upwards.	nov8—3m
-<lb/><pb n="327"/>
-<lb/>THIS DAY IS PUBLISHED—IN ADVANCE OF THE LONDON EDITION,
-<lb/>LIFE OF THE GREAT CONDE.
-<lb/>BY LORD MAHON.
-<lb/>Two Numbers beautifully printed, in clear type, $1 00. “A highly interesting and skilful narrative.”—Quarterly Review
-<lb/>The above work forms Nos. 34 and 35 of the Library of Choice Reading.
-<lb/>Published and for sale by WILEY &amp; PUTNAM, 161 Broadway.</p><p/><p>J. F. BROWNE &amp; CO.
-<lb/>MANUFACTURER OF THE
-<lb/>IMPROVED PATENT DOUBLE-ACTION HARP,
-<lb/>By Royal Letters Patent, London. Established 1810. (Many years with Erard.
-<lb/>J. F. BROWNE respectfully informs his Friends and the Musical World, that he has established himself for the manufacture
-<lb/>and importation of these very beautiful instruments, at
-<lb/>281 BROADWAY, and 73 1-2 CHAMBERS STREET.
-<lb/>His arrangements are such as to enable him to transact business at European prices, thereby saving purchasers the high duties
-<lb/>mposed by Tariff on these Instruments.
-<lb/>J. F. Browne would observe, these Harps are constructed on the most approved principles, with all the modern improvements of
+<lb/>Pants,	“	2	 50 to	 8 00	Dress Coat,	from	 $6 00 	to 	9 00</p><p>Vest,	      "   1 50	to 	4 50	Pants,	" 	1 50 	to 	2 	00
+Vests,	“	1 50	to	2	00
+N. B. Seasonable SACK COATS, VESTS, &amp;c. always on
+hand, from $1 50 upwards.	nov8—3m
+<pb n="327"/>
+THIS DAY IS PUBLISHED—IN ADVANCE OF THE LONDON EDITION,
+LIFE OF THE GREAT CONDE.
+BY LORD MAHON.
+Two Numbers beautifully printed, in clear type, $1 00. “A highly interesting and skilful narrative.”—Quarterly Review
+The above work forms Nos. 34 and 35 of the Library of Choice Reading.
+Published and for sale by WILEY &amp; PUTNAM, 161 Broadway.
+
+J. F. BROWNE &amp; CO.
+MANUFACTURER OF THE
+IMPROVED PATENT DOUBLE-ACTION HARP,
+By Royal Letters Patent, London. Established 1810. (Many years with Erard.
+J. F. BROWNE respectfully informs his Friends and the Musical World, that he has established himself for the manufacture
+and importation of these very beautiful instruments, at
+281 BROADWAY, and 73 1-2 CHAMBERS STREET.
+His arrangements are such as to enable him to transact business at European prices, thereby saving purchasers the high duties
+mposed by Tariff on these Instruments.
+</p><p>J. F. Browne would observe, these Harps are constructed on the most approved principles, with all the modern improvements of
 <lb/>London and Paris, are unequalled in brilliancy of tone, fineness of touch, and perfectness of mechanism. Particular care is taken
 <lb/>to fit them for the extremes of climate in this country, in which respect they will be found far superior to any of European manufac-
-<lb break="no"/>ture, imported in the usual way.
-<lb/>These Harps are patronized by the elite of musical taste and professional talent in Europe; among the latter, he would mention
-<lb/>N. C. Boscha, who invariably selects from this establishment.
-<lb/>J. F. Browne begs to offer the opinions of some of the first professional talent in this country.
-<lb/>Mr. J. F. Browne, Sir Having had for several years past, the opportunity of making a professional use of your Harps, and of
+<lb break="no"/>ture, imported in the usual way.</p><p>These Harps are patronized by the elite of musical taste and professional talent in Europe; among the latter, he would mention
+N. C. Boscha, who invariably selects from this establishment.
+J. F. Browne begs to offer the opinions of some of the first professional talent in this country.
+</p><p>Mr. J. F. Browne, Sir Having had for several years past, the opportunity of making a professional use of your Harps, and of
 <lb/>testing their qualities, it affords me pleasure to certify, that in point of tone, workmanship, and above all, a solidity that stands proof
-<lb/>against the inconstancy of our trying climate, they have in all cases given me the most entire satisfaction.
-<lb/>January, 1845.	I am yours, CHARLES THIBAULT, No. 40 Beach St., N. Y.
-<lb/>Dear Sir:—I write to express the delight I experienced in performing on one of your Harps at Sig. Casella’s Concert in this city.—
+<lb/>against the inconstancy of our trying climate, they have in all cases given me the most entire satisfaction.</p><p>January, 1845.	I am yours, CHARLES THIBAULT, No. 40 Beach St., N. Y.
+</p><p>Dear Sir:—I write to express the delight I experienced in performing on one of your Harps at Sig. Casella’s Concert in this city.—
 <lb/>The mechanism is perfect, and the quality of Tone certainly superior to any harp I have heard for many years. I remember my old
 <lb/>Master, Boscha, always gave the preference to your Harps, indeed he himself used no other. Yours, most truly, H. G. TRUST!
-<lb/>Philadelphia, March 4th, 1844.
-<lb/>Mr. J. F. Browne, Sir :—I have much pleasure in saying, that the Harp of your make I performed on at the St. George’s Society
+<lb/>Philadelphia, March 4th, 1844.</p><p></p><p>Mr. J. F. Browne, Sir :—I have much pleasure in saying, that the Harp of your make I performed on at the St. George’s Society
 <lb/>Concert, is, in brilliancy of tone, touch, and elegance of workmanship, the finest I ever played on. This will apply to all your Harps
 <lb/>The grand six and a half Gothic Double action, is a most splendid instrument. Yours, with respect, ELIZABETH SLOMAN.
-<lb/>New York, January 16th, 1845.	A pupil of N. C. Boscha.
-<lb/>Mr. J. F. Browne, Sir:--Having at your request closely scrutinized your double-action Harps, I find they possess the best quali-
+<lb/>New York, January 16th, 1845.	A pupil of N. C. Boscha.</p><p></p><p>Mr. J. F. Browne, Sir:--Having at your request closely scrutinized your double-action Harps, I find they possess the best quali-
 <lb break="no"/>ties of the first makers in Europe combined. That in the ease of touch, by which the most brilliant tone is obtained, in perfection and
 <lb/>ease of modulation, they are superior to any I have used; their elegance of exterior must gratify the most refined taste. Your new
 <lb/>Grand Gothic six and a half octave, is the most splendid effort of art yet produced in the musical world ; it will give me great pleasure
-<lb/>in recommending your Harps at every opportunity.	Yours Truly, HENRY HORN.
-<lb/>January 12th, 1845.	An eminent professor, and Member of the Royal Academy.
-<lb/>These are but a very small part of the testimonials received, but will suffice to show the estimate of persons every way capable of
+<lb/>in recommending your Harps at every opportunity.	Yours Truly, HENRY HORN.</p><p>January 12th, 1845.	An eminent professor, and Member of the Royal Academy.
+</p><p>These are but a very small part of the testimonials received, but will suffice to show the estimate of persons every way capable of
 <lb/>making a correct decision. J. F. Browne has also received the Franklin Medal of the Society of Arts, Philadelphia, for his splendid
-<lb/>improvements in this delightful Instrument.
-<lb/>Harps from 300 to 1000 dollars. Harps repaired, strings, &amp;c.
-<lb/>JOHN N. GENIN,
-<lb/>FASHIONABLE HAT AND CAP ESTABLISHMENT,
-<lb/>214 Broadway.
-<lb/>PIANO FORTES
-<lb/>CHEAP FOR CASH.—The Subscribers have on hand a
-<lb/>handsome assortment, 6, 6 1/2, and 7 octave mahogany and rose-
+<lb/>improvements in this delightful Instrument.</p><p>Harps from 300 to 1000 dollars. Harps repaired, strings, &amp;c.
+JOHN N. GENIN,
+FASHIONABLE HAT AND CAP ESTABLISHMENT,
+214 Broadway.
+PIANO FORTES
+CHEAP FOR CASH.—The Subscribers have on hand a
+</p><p>handsome assortment, 6, 6 1/2, and 7 octave mahogany and rose-
 <lb break="no"/>wood Pianos, which they will warrant and sell low for cash or ap-
-<lb break="no"/>proved paper.	GLENN, ROGERS &amp; CO.,
-<lb/>Manufacturers, 152 Fulton street, east of Broadway.
-<lb/>General Furnishing Hardware, Cutlery, Tools, &amp;c.
-<lb/>OSBORN &amp; LITTLE,
-<lb/>Importers and General Dealers in English, German and
-<lb/>American
-<lb/>HARDWARE, CUTLERY, &amp;C.,
-<lb/>No. 33 FULTON STREET,
-<lb/>BETWEEN PEARL AND WATER STREETS,
-<lb/>[Where the business has been carried on for Eighty Years past,]
-<lb/>CHARLES OSBORN.                              New York.
-<lb/>CHARLES S. LITTLE. 	
-<lb/>Hardware, Cutlery, Nails, Locks, Latches, Butts, Screws, An-
+<lb break="no"/>proved paper.	GLENN, ROGERS &amp; CO.,</p><p>Manufacturers, 152 Fulton street, east of Broadway.
+General Furnishing Hardware, Cutlery, Tools, &amp;c.
+OSBORN &amp; LITTLE,
+Importers and General Dealers in English, German and
+American
+HARDWARE, CUTLERY, &amp;C.,
+No. 33 FULTON STREET,
+BETWEEN PEARL AND WATER STREETS,
+[Where the business has been carried on for Eighty Years past,]
+CHARLES OSBORN.                              New York.
+CHARLES S. LITTLE. 	
+</p><p>Hardware, Cutlery, Nails, Locks, Latches, Butts, Screws, An-
 <lb break="no"/>vils, Vices, Saws, Files, Shovels and Spades, Hollow Ware, Corn
 <lb/>and Coffee Mills, Rivets, Pumps, Curriers’ Hones, Crucibles,
 <lb/>Black Lead, Pots, &amp;c. &amp;c. Also Genuine Haarlem Oil. Ameri-
 <lb break="no"/>can Coopers and Carpenters Edge Tools, of Albertson’s Conger’s
 <lb/>Barton’s, Horton’s, Gifford’s, and other makers. Also, Cooper’s
-<lb/>Truss Hoops.nov8—3m
-<lb/>JOHN ANDERSON &amp; CO.
-<lb/>IMPORTERS AND DEALERS IN
-<lb/>CHOICE SEGARS, and Manufacturers of Premium
+<lb/>Truss Hoops.nov8—3m</p><p>JOHN ANDERSON &amp; CO.
+IMPORTERS AND DEALERS IN
+</p><p>CHOICE SEGARS, and Manufacturers of Premium
 <lb/>Tobacco and Snuffs—2 Wall, and 13 and 15 Duane streets,
-<lb/>New-York.	nov8—3m
-<lb/>JAMES PIRSSON,
-<lb/>PIANO FORTE MANUFACTURER, 88, 90, and 92 
-<lb/>Walker street, near Elm. A large slock of the finest instru-
+<lb/>New-York.	nov8—3m</p><p>JAMES PIRSSON,
+PIANO FORTE MANUFACTURER, 88, 90, and 92 
+</p><p>Walker street, near Elm. A large slock of the finest instru-
 <lb break="no"/>ments always on hand. Terms moderate. For Sale—A splendid
-<lb/>Harp, nearly new—to be sold at a great bargain for cash.
-<lb/>J. BALLARD,
-<lb/>PROFESSOR OF THE GUITAR, SINGING AND FLUTE.
-<lb/>No. 135 Spring-street.
-<lb/>PENMANSHIP.
-<lb/>RE-OPENING OF GOLDSMITH’S WRITING ACADEMY,
+<lb/>Harp, nearly new—to be sold at a great bargain for cash.</p><p>J. BALLARD,
+PROFESSOR OF THE GUITAR, SINGING AND FLUTE.
+No. 135 Spring-street.
+PENMANSHIP.
+</p><p>RE-OPENING OF GOLDSMITH’S WRITING ACADEMY,
 <lb/>289 Broadway—La Farge Buildings, corner of Reade street.
-<lb/>Terms reduced to three dollars, and no extra charge.
-<lb/>Mr. Oliver B. Goldsmith respectfully informs the citizens of New
+<lb/>Terms reduced to three dollars, and no extra charge.</p><p></p><p>Mr. Oliver B. Goldsmith respectfully informs the citizens of New
 <lb/>York and Brooklyn, that his rooms are now open, during the day
 <lb/>and evening, tor Pupils and Visitors. Mr. G’s. specimens of
-<lb/>PENMANSHIP
-<lb/>have received the First Premium Five Years, from the American
+<lb/>PENMANSHIP</p><p></p><p>have received the First Premium Five Years, from the American
 <lb/>Institute, and he guarantees to all in TEN EASY AND INTER-
 <lb break="no"/>ESTING EXERCISES, a free and elegant style of writing, that
-<lb/>the pupils cannot possibly ever lose in their future practice.
-<lb/>For sale at the Academy GOLDSMITH’S GEMS OF PEN-
-<lb break="no"/>MANSHIP.
-<lb/>Ladies’ Class meets daily at 11 o'clock. Gentleman's day and
-<lb/>evening. See circular.	sl8
-<lb/>WEDDING, VISITING, A PROFESSIONAL CARDS 
-<lb/>Engraved and Printed at VALENTINE’S, 1 Beekman-st.
-<lb/>Lovejoy’s Hotel.
-<lb/>JOHN BURFORD,
-<lb/>PORTRAIT AND LANDSCAPE PAINTER,
-<lb/>27 Dey Street.
-<lb/><pb n="328"/>
-<lb/>HARPER &amp; BROTHERS’ RECENT PUBLICATIONS,
-<lb/>In one splendidly printed volume, with above 1000 engravings.
-<lb/>Sheep Extra:—Price $3 75.
-<lb/>I.
-<lb/>ENCYCLOPÆDIA OF DOMESTIC ECONOMY.
-<lb/>The wide range of topics comprised in this valuable publication,
+<lb/>the pupils cannot possibly ever lose in their future practice.</p><p>For sale at the Academy GOLDSMITH’S GEMS OF PEN-
+MANSHIP.
+Ladies’ Class meets daily at 11 o'clock. Gentleman's day and
+evening. See circular.	sl8
+WEDDING, VISITING, A PROFESSIONAL CARDS 
+Engraved and Printed at VALENTINE’S, 1 Beekman-st.
+Lovejoy’s Hotel.
+JOHN BURFORD,
+PORTRAIT AND LANDSCAPE PAINTER,
+27 Dey Street.
+<pb n="328"/>
+HARPER &amp; BROTHERS’ RECENT PUBLICATIONS,
+In one splendidly printed volume, with above 1000 engravings.
+Sheep Extra:—Price $3 75.
+I.
+ENCYCLOPÆDIA OF DOMESTIC ECONOMY.
+</p><p>The wide range of topics comprised in this valuable publication,
 <lb/>commends it to the attention of an unusually extended class of read-
 <lb break="no"/>ers:—to the family circle primarily, the architect, the horticultu-
 <lb break="no"/>rist, the cabinet-maker, and others to whom the work addresses
 <lb/>itself. It is undoubtedly by far the best work of reference ever pre-
 <lb break="no"/>sented for the use of families. Every housekeeper would find the
-<lb/>work a real treasure.—Globe.
-<lb/>PROFESSOR WHEWELL’S ELEMENTS OF MO-
-<lb break="no"/>RALITY.
-<lb/>Two volumes 12mo. extra muslin gilt, 81.--Forming the com-
-<lb break="no"/>mencement of
-<lb/>HARPER’S NEW MISCELLANY,
-<lb/>A work of extraordinary merit. It is a thorough discussion of
+<lb/>work a real treasure.—Globe.</p><p>PROFESSOR WHEWELL’S ELEMENTS OF MO-
+RALITY.
+Two volumes 12mo. extra muslin gilt, 81.--Forming the com-
+mencement of
+HARPER’S NEW MISCELLANY,
+</p><p>A work of extraordinary merit. It is a thorough discussion of
 <lb/>the fundamental principles of morals, by one of the profoundest
 <lb/>thinkers of the age: and whether his conclusions are adopted or
 <lb/>not, no reader can fail to perceive in any page, the traces of discri-
 <lb break="no"/>mination, thought, and a high moral aim. Its classic purity and
 <lb/>precision of style is also a strong commendation of the work.—Ob-
-<lb break="no"/>server.
-<lb/>III.
-<lb/>MORRELL’S AMERICAN SHEPHERD,
-<lb/>Being a complete history of the sheep, with their breeds, man-
+<lb break="no"/>server.</p><p>III.
+MORRELL’S AMERICAN SHEPHERD,
+</p><p>Being a complete history of the sheep, with their breeds, man-
 <lb break="no"/>agement, diseases, &amp;c. Illustrated by numerous engravings, 1
-<lb/>vol. 12mo., cloth binding, $1—paper covers 75 cents.
-<lb/>“ The above named volume, which is issued under the immedi-
+<lb/>vol. 12mo., cloth binding, $1—paper covers 75 cents.</p><p></p><p>“ The above named volume, which is issued under the immedi-
 <lb break="no"/>ate sanction of the New Fork State Agricultural Society, is a work
 <lb/>of great practical importance, and contains a prodigious amount of
 <lb/>instructive matter, suited to the farmer, the cattle fattener, the agri-
 <lb break="no"/>culturist and the wool-grower. Everyone interested in these de-
 <lb break="no"/>partments of commerce would find the work invaluable.”—Evening
-<lb/>Gazette.
-<lb/>IV.
-<lb/>ILLUSTRATED WANDERING JEW.
-<lb/>In numbers; price 25 cents each. Profusely embellished.
-<lb/>“We think these illustrations evince more vigor, brilliancy, and
+<lb/>Gazette.</p><p>IV.
+ILLUSTRATED WANDERING JEW.
+In numbers; price 25 cents each. Profusely embellished.
+</p><p>“We think these illustrations evince more vigor, brilliancy, and
 <lb/>effect, than almost any thing of the kind we have yet seen. As the
 <lb/>Harpers publish this revised and elegant edition at such very tri-
 <lb break="no"/>fling charge, we doubt not a prodigious demand will await it from
 <lb/>the public; and it richly merits the largest popularity.”—Evening
-<lb/>Post.
-<lb/>v.
-<lb/>GEN. GREEN’S
-<lb/>TEXAN EXPEDITION AGAINST MIER,
-<lb/>Including the subsequent imprisonment of the author; his suffer-
+<lb/>Post.</p><p>v.
+GEN. GREEN’S
+TEXAN EXPEDITION AGAINST MIER,
+</p><p>Including the subsequent imprisonment of the author; his suffer-
 <lb break="no"/>ings and final escape from the Castle of Perote; with reflections
 <lb/>upon the present political and probable future relations of Texas,
 <lb/>Mexico and the United States, &amp;c. Illustrated by thirteen line en-
-<lb break="no"/>gravings. One volume, 8vo. $2.
-<lb/>This stirring narrative of the perilous and heroic exploits of a
+<lb break="no"/>gravings. One volume, 8vo. $2.</p><p></p><p>This stirring narrative of the perilous and heroic exploits of a
 <lb/>small band of patriotic Texans, who won not only laurels by their
-<lb/>prowess, but liberty, is so rife with thrilling interest that it will win
-<lb/>the attention of the public with the fascination of a romance_
-<lb/>Com. Adv.
-<lb/>VI.
-<lb/>CURIOUS AND UNIQUE WORK.
-<lb/>Now ready, in one beautiful octavo volume, with many Engra-
-<lb break="no"/>vings on steel, price 82,
-<lb/>NARRATIVE OF A MISSION TO BOKHARA.
-<lb/>In the year 1843-45, to ascertain the fate of Col. Stoddart and
-<lb/>Capt. Conolly.
-<lb/>By the Rev. Joseph Wolff. LL.D.
-<lb/>“This work has created a prodigious excitement throughout
+<lb/>prowess, but liberty, is so rife with thrilling interest that it will win</p><p>the attention of the public with the fascination of a romance_
+Com. Adv.
+VI.
+CURIOUS AND UNIQUE WORK.
+Now ready, in one beautiful octavo volume, with many Engra-
+vings on steel, price 82,
+NARRATIVE OF A MISSION TO BOKHARA.
+In the year 1843-45, to ascertain the fate of Col. Stoddart and
+Capt. Conolly.
+By the Rev. Joseph Wolff. LL.D.
+</p><p>“This work has created a prodigious excitement throughout
 <lb/>England: it is unique in its character, as a literary production. It
 <lb/>seems to partake of the features of an autobiography; the narrative
 <lb/>being full of personal detail, description of the perilous adventure
 <lb/>and imminent hazard of the author, in his expedition through the
 <lb/>East. No man living, perhaps, has travelled so extensively as this
 <lb/>celebrated individual, and few could have contributed a more in-
-<lb break="no"/>tensely interesting narrative of his experience.
-<lb/>“It will thus be seen that this extraordinary and eccentric man
+<lb break="no"/>tensely interesting narrative of his experience.</p><p></p><p>“It will thus be seen that this extraordinary and eccentric man
 <lb/>is admirably qualified to present a transcript of Asiatic Character-
 <lb break="no"/>istics,—supplying much that is novel and exceedingly curious
 <lb/>about tribes and nations of which we know so little. To say that
@@ -1807,70 +1674,60 @@ will be found in our next.
 <lb/>to be read and deliberately enjoyed by every intelligent person, for
 <lb/>its quaintness, freshness, and superabounding interest. The work
 <lb/>is elegantly printed as a library book, and adorned by some dozen
-<lb/>curious fac-similes of oriental drawings.”—Courier and Enquirer.
-<lb/>IMPORTANT WORKS,
-<lb/>RECENTLY PUBLISHED BY
-<lb/>J. &amp; H. G. LANGLEY, 8 ASTOR HOUSE.
-<lb/>I.
-<lb/>Von Raumer’S New Work.
-<lb/>America and the American People: being the result of the au-
+<lb/>curious fac-similes of oriental drawings.”—Courier and Enquirer.</p><p>IMPORTANT WORKS,
+RECENTLY PUBLISHED BY
+J. &amp; H. G. LANGLEY, 8 ASTOR HOUSE.
+I.
+Von Raumer’S New Work.
+</p><p>America and the American People: being the result of the au-
 <lb break="no"/>thor’s recent travels through the United States. Translated from
 <lb/>the German of Frederick Yon Raumer, by Professor Wm. W.
-<lb/>Turner. 1 vol. 8 vo. 530 pp. Price $2.
-<lb/>II.
-<lb/>Eliza Cook’s Poetical Works.
-<lb/>New Edition, containing all her recent productions. Edited by
+<lb/>Turner. 1 vol. 8 vo. 530 pp. Price $2.</p><p>II.
+Eliza Cook’s Poetical Works.
+</p><p>New Edition, containing all her recent productions. Edited by
 <lb/>Rufus W. Griswold. 1 vol. 12 mo., illustrated with a Portrait and
 <lb/>twelve exquisite English engravings. Copies in Morocco, super
-<lb/>$3 50-Cloth Gilt, $2 50.
-<lb/>“ This is a beautiful volume, splendidly bound, and still more
+<lb/>$3 50-Cloth Gilt, $2 50.</p><p></p><p>“ This is a beautiful volume, splendidly bound, and still more
 <lb/>elegantly illustrated, and combining some of the choicest poems in
 <lb/>the language. The “ Old Arm Chair,” is one of the most popular
 <lb/>poems, and has touched the hearts of thousands who never knew
 <lb/>even the name of the author. She writes for the heart, and her
 <lb/>beautiful songs always reach it. The book forms one of the most
-<lb/>elegant holiday presents yet offered.”—Cour. &amp; Enq.
-<lb/>III.
-<lb/>Miss Barrett’s Poems.
-<lb/>The Drama of Exile, and otner Poems, by Elizabeth B Barrett.
-<lb/>2 vols. 12 mo., elegantly printed.—$2 00.
-<lb/>“Miss Barrett is worth a dozen of Tennyson, and six of Mother-
+<lb/>elegant holiday presents yet offered.”—Cour. &amp; Enq.</p><p>III.
+Miss Barrett’s Poems.
+The Drama of Exile, and otner Poems, by Elizabeth B Barrett.
+2 vols. 12 mo., elegantly printed.—$2 00.
+</p><p>“Miss Barrett is worth a dozen of Tennyson, and six of Mother-
 <lb break="no"/>well—equal perhaps in orignial genius to Keats and Shelley.—
 <lb/>There are beauties enough in one of her poems to have made a
-<lb/>fame in Waller’s time.”—Willis’ Evening Mirror.
-<lb/>IV.
-<lb/>Gregg’s Santa Fe and the Prairies.
-<lb/>Commerce of the Prairies, or the Journal of a Santa Fé Trader,
+<lb/>fame in Waller’s time.”—Willis’ Evening Mirror.</p><p>IV.
+Gregg’s Santa Fe and the Prairies.
+</p><p>Commerce of the Prairies, or the Journal of a Santa Fé Trader,
 <lb/>the personal observation of a trader, made on eight several ex
 <lb/>ditions across the Great Western Prairies, and during an aim
 <lb/>uninterrupted residence of nine years in Northern Mexico.—Illus-
 <lb break="no"/>trated with numerous engravings. New Edition, revised by
-<lb/>Author. By Josiah Gregg. 2 vols. 12 mo. $2 00.
-<lb/>V.
-<lb/>M. DE TOCQUEVILLE’S GREAT WORK.
-<lb/>Democracy in America, by Alexis De Tocqueville. Third edi-
+<lb/>Author. By Josiah Gregg. 2 vols. 12 mo. $2 00.</p><p>V.
+M. DE TOCQUEVILLE’S GREAT WORK.
+</p><p>Democracy in America, by Alexis De Tocqueville. Third edi-
 <lb break="no"/>tion, in 2 vols. 8vo. Corrected and Enlarged, with an Original In-
 <lb break="no"/>dex. Translated by Henry Reeve, Esq., with Introductory Pre-
 <lb break="no"/>faces, by the Hon. John C. Spencer. Price $4 00 in muslin or
-<lb/>sheep.
-<lb/>“ This work is one of the most profound and philosophical ever
+<lb/>sheep.</p><p></p><p>“ This work is one of the most profound and philosophical ever
 <lb/>written upon the character and institutions of our country.”—
-<lb/>Boston Traveller.
-<lb/>“ As a study of political science, this book stands unrivalled in
+<lb/>Boston Traveller.</p><p></p><p>“ As a study of political science, this book stands unrivalled in
 <lb/>our times; equally remarkable for lucidity of style, acuteness and
 <lb/>delicacy of reasoning, and lor the moral and intellectual vigor with
-<lb/>which it has been conceived and completed.”—London Times.
-<lb/>VI.
-<lb/>DE TOCQUEVILLE ABRIDGED.
-<lb/>Designed for District School Libraries, Colleges, &amp;c. In accor-
+<lb/>which it has been conceived and completed.”—London Times.</p><p>VI.
+DE TOCQUEVILLE ABRIDGED.
+</p><p>Designed for District School Libraries, Colleges, &amp;c. In accor-
 <lb break="no"/>dance with the recommendation of several superintendents of Dis-
 <lb break="no"/>trict Schools, the Publishers beg to announce that they have just
 <lb/>issued a condensed edition of the above standard work, adapted ex-
 <lb break="no"/>pressly for the use of District Schools, Colleges, &amp;c., to form 1 vol.
-<lb/>12mo. Price $1 00.
-<lb/>VII.
-<lb/>The Life of General Francis Marion.
-<lb/>By W. Gilmore Simms, author of “Guy Rivers,” &amp;c. &amp;c.
+<lb/>12mo. Price $1 00.</p><p>VII.
+The Life of General Francis Marion.
+</p><p>By W. Gilmore Simms, author of “Guy Rivers,” &amp;c. &amp;c.
 <lb/>Seventh edition, revised by the author, with numerous engravings,
 <lb/>1 vol. 12mo.—$1. “Few characters have stood out more boldly
 <lb/>on our Revolutionary Annals, or have supplied more interesting
@@ -1878,31 +1735,26 @@ will be found in our next.
 <lb/>and it is not saying too much to claim for the work before us no
 <lb/>less the merit of accredited historical truth, than the most stirring
 <lb/>and absorbing attributes of high-wrought fiction.”—Democratic
-<lb/>Review.
-<lb/>VIII.
-<lb/>The Poetical Works of Praed.
-<lb/>Lillian, and other Poems, Fanciful and Facetious. By William
+<lb/>Review.</p><p>VIII.
+The Poetical Works of Praed.
+</p><p>Lillian, and other Poems, Fanciful and Facetious. By William
 <lb/>Mackworth Praed. First collected edition: Edited by R. W.
-<lb/>Griswold, 1 vol. 12mo., muslin. 81 25.
-<lb/>“Praed was the Poet of Society, ‘a fellow of infinite humor,’
+<lb/>Griswold, 1 vol. 12mo., muslin. 81 25.</p><p></p><p>“Praed was the Poet of Society, ‘a fellow of infinite humor,’
 <lb/>and in scholarship and art, surpassed by none of the English poets
 <lb/>of the age. Though many ol his pieces have been almost univer-
 <lb break="no"/>sally read in this country, they have never yet been printed col-
-<lb break="no"/>lectively, either here or in England.”—Democratic Review.
-<lb/>PIANO FORTES.
-<lb/>THOMAS H. CHAMBERS, (formerly Conductor to Du-
+<lb break="no"/>lectively, either here or in England.”—Democratic Review.</p><p>PIANO FORTES.
+</p><p>THOMAS H. CHAMBERS, (formerly Conductor to Du-
 <lb break="no"/>bois and Stodart,) No. 385 Broadway, will keep a complete
 <lb/>assortment of the latest approved Grand Action Piano Fortes, of
 <lb/>the most superior quality; such as he is prepared to guarantee for
 <lb/>their excellence of Tone, Touch, and External Finish, and to en-
 <lb break="no"/>dure in any climate. A liberal discount from the standard prices.
-<lb/>Piano Fortes Tuned and Repaired. Piano Fortes always on hire.
-<lb/><pb n="329"/>
-<lb/>DENTISTRY.
-<lb/>DOCT. H. E. SCHOONMAKER, Dental Surgeon, Office 446
+<lb/>Piano Fortes Tuned and Repaired. Piano Fortes always on hire.</p><p><pb n="329"/>
+DENTISTRY.
+</p><p>DOCT. H. E. SCHOONMAKER, Dental Surgeon, Office 446
 <lb/>Houston St., two doors from Broadway—opposite St. Thomas’
-<lb/>Church.
-<lb/>Doct. S’s experience and skill in his profession, give him con-
+<lb/>Church.</p><p></p><p>Doct. S’s experience and skill in his profession, give him con-
 <lb break="no"/>fidence in asserting that his operations are unsurpassed by any
 <lb/>Dentist in this city. Dr. S.’s manner of inserting artificial teeth
 <lb/>varies in many essential points from the usual mode ; and his suc-
@@ -1923,154 +1775,154 @@ will be found in our next.
 <lb/>which cannot be fully obviated without adopting the artificial gums,
 <lb/>which will supply the deficiency, and give to the mouth its usual
 <lb/>redundancy—besides, their beauty and natural appearance, ren-
-<lb break="no"/>der detection impossible.
-<lb/>Dr. S. would be happy to refer those who require it, to many of
-<lb/>the best families in this City, in which he has practised.
-<lb/>Ladies who desire it, can have their teeth examined at their re-
-<lb break="no"/>sidences, by sending their address as above.	nov. 8—9t</p><p/><p>PAINE &amp; BURGESS,
-<lb/>62 John Street,
-<lb/>WILL PUBLISH IN A FEW DAYS,
-<lb/>THE ARTIST, MERCHANT, AND STATESMAN, 
-<lb/>Part I. This work is made up of the choicest and most ori-
-<lb break="no"/>ginal material on Fine Arts, Commerce, and Political Economy,
-<lb/>by C. Edwards Lester.
-<lb/>PRAIRIEDOM ; Rambles and Scrambles in Texas or
+<lb break="no"/>der detection impossible.</p><p>Dr. S. would be happy to refer those who require it, to many of
+the best families in this City, in which he has practised.
+Ladies who desire it, can have their teeth examined at their re-
+sidences, by sending their address as above.	nov. 8—9t
+
+PAINE &amp; BURGESS,
+62 John Street,
+WILL PUBLISH IN A FEW DAYS,
+THE ARTIST, MERCHANT, AND STATESMAN, 
+Part I. This work is made up of the choicest and most ori-
+ginal material on Fine Arts, Commerce, and Political Economy,
+by C. Edwards Lester.
+</p><p>PRAIRIEDOM ; Rambles and Scrambles in Texas or
 <lb/>New Estremadura, by a Southron. 1 vol. 12mo. with a map. “ It
 <lb/>is light and vivacious—filled with incident—easy and flowing in
-<lb/>style, and brilliant in imagery.”—Evening Mirror.
-<lb/>THEY ARE PREPARING FOR PUBLICATION,
-<lb/>Songs and Ballads by Gen. G. P. Morris, 32mo. gilt.
-<lb/>Rambles by Land and Water, or Notes of Travel in Cuba and
+<lb/>style, and brilliant in imagery.”—Evening Mirror.</p><p>THEY ARE PREPARING FOR PUBLICATION,
+Songs and Ballads by Gen. G. P. Morris, 32mo. gilt.
+</p><p>Rambles by Land and Water, or Notes of Travel in Cuba and
 <lb/>Mexico, including a canoe voyage up the river Panuco, and Re-
-<lb break="no"/>searches among the Antiquaries of Taumelipas, by B. M. Norma,
-<lb/>1 vol. 12mo. illustrated.
-<lb/>The Greece of the Greeks, by G. A. Perdicaris, U.S. Consul at
-<lb/>Athens, 2 vols. 12mo. illustrated.
-<lb/>Trippings in Authorland, by Fanny Forrester.
-<lb/>Montezuma, the Last of the Aztecs, an Historical Romance, on
-<lb/>the Conquest of Mexico, by Edward Maturin, 2 vols. l2mo.
-<lb/>“ This is an original American work.”
-<lb/>The Prince, by Machiavelli, 1 vol. l2mo.
-<lb/>Man in the Republic, by C. Mathews, 1 vol. 32mo. gilt.
-<lb/>The Old Continental; or the Prince of Liberty—an historical
+<lb break="no"/>searches among the Antiquaries of Taumelipas, by B. M. Norma,</p><p>1 vol. 12mo. illustrated.
+The Greece of the Greeks, by G. A. Perdicaris, U.S. Consul at
+Athens, 2 vols. 12mo. illustrated.
+Trippings in Authorland, by Fanny Forrester.
+Montezuma, the Last of the Aztecs, an Historical Romance, on
+the Conquest of Mexico, by Edward Maturin, 2 vols. l2mo.
+“ This is an original American work.”
+The Prince, by Machiavelli, 1 vol. l2mo.
+Man in the Republic, by C. Mathews, 1 vol. 32mo. gilt.
+</p><p>The Old Continental; or the Prince of Liberty—an historical
 <lb/>romance, by the author of the ' Dutchman’s Fireside,’ 2 vols. 12mo.
-<lb/>—NOW READY—
-<lb/>The Medici Series of Italian Prose.
-<lb/>The Autobiography of Alfieri, 1 vol. 12mo. Price 50 cents.
-<lb/>The Secret Thoughts and Actions of Genius, blended with the
-<lb/>wildest adventures and strongest caprices.
-<lb/>The Citizen of a Republic; what are his rights and duties, by
-<lb/>Ansaldo Ceba, 1 vol. 12mo. Price 50 cents.
-<lb/>" A book of condensed and rare thoughts, like diamonds finely
-<lb/>polished and richly set."
-<lb/>The Challenge of Barletta, a romance of the Times of the Me-
-<lb break="no"/>dici, 1 vol. 12mo.
-<lb/>“ A gem gathered from the jewelled mine of Italian romance.”
-<lb/>The Florentine Histories, by Machiavelli, 2 vols. 12mo.
-<lb/>“ The charmed records of the classic city of the Arno, by the
-<lb/>master spirit of his age.”	nov 8</p><p/><p>TO MEDICAL MEN.
-<lb/>This day published, the London lancet
-<lb/>for November, a Journal of British, Foreign, Medical and
+<lb/>—NOW READY—</p><p>The Medici Series of Italian Prose.
+The Autobiography of Alfieri, 1 vol. 12mo. Price 50 cents.
+The Secret Thoughts and Actions of Genius, blended with the
+wildest adventures and strongest caprices.
+The Citizen of a Republic; what are his rights and duties, by
+Ansaldo Ceba, 1 vol. 12mo. Price 50 cents.
+" A book of condensed and rare thoughts, like diamonds finely
+polished and richly set."
+The Challenge of Barletta, a romance of the Times of the Me-
+dici, 1 vol. 12mo.
+“ A gem gathered from the jewelled mine of Italian romance.”
+The Florentine Histories, by Machiavelli, 2 vols. 12mo.
+“ The charmed records of the classic city of the Arno, by the
+master spirit of his age.”	nov 8
+
+TO MEDICAL MEN.
+This day published, the London lancet
+</p><p>for November, a Journal of British, Foreign, Medical and
 <lb/>Chemical Science, Criticism and News—edited by Thomas Wake- ,
-<lb/>ly, M. P. Surgeon, and Henry Bennett, M. D.
-<lb/>This is the fifth number of the second volume, containing, be-
+<lb/>ly, M. P. Surgeon, and Henry Bennett, M. D.</p><p></p><p>This is the fifth number of the second volume, containing, be-
 <lb break="no"/>sides its usual quantity of valuable matter, the 2d Lecture of a se-
-<lb break="no"/>ries of Lectures on Organic Chemistry, by Justus Liebig.
-<lb/>Also, tour additional Lectures on the Mechanism and Manage-
-<lb break="no"/>ment of Natural and Difficult Labors, by Edward W. Murphy,
-<lb/>A.M. M.D.
-<lb/>Terms—$5 per annum, in advance; single numbers 50 cents,
-<lb/>mailed to any part of the United Stales, by
-<lb/>BURGESS, STRINGER &amp; CO.
-<lb/>222 Broadway, cor. Ann st
-<lb/>P. S.—The postage to any distance on the Lancet is 6 1/4 cts.
-<lb/>CHEAP MUSIC.
-<lb/>HOMANS &amp; ELLIS have published the first No. of
-<lb/>THE MUSICAL WORLD,
-<lb/>A Semi-monthly Magazine, containing sixteen pages of beauti-
+<lb break="no"/>ries of Lectures on Organic Chemistry, by Justus Liebig.</p><p>Also, tour additional Lectures on the Mechanism and Manage-
+ment of Natural and Difficult Labors, by Edward W. Murphy,
+A.M. M.D.
+Terms—$5 per annum, in advance; single numbers 50 cents,
+mailed to any part of the United Stales, by
+BURGESS, STRINGER &amp; CO.
+222 Broadway, cor. Ann st
+P. S.—The postage to any distance on the Lancet is 6 1/4 cts.
+CHEAP MUSIC.
+HOMANS &amp; ELLIS have published the first No. of
+THE MUSICAL WORLD,
+</p><p>A Semi-monthly Magazine, containing sixteen pages of beauti-
 <lb break="no"/>fully printed Music, and a Journal of Musical Biography, Criti-
-<lb break="no"/>cism, and News.
-<lb/>Edited by Henry C. Watson.—Contents of No. 1.
-<lb/>I’ll be there,—words by Fitzball—music by Herbert Rodwell.
+<lb break="no"/>cism, and News.</p><p>Edited by Henry C. Watson.—Contents of No. 1.
+</p><p>I’ll be there,—words by Fitzball—music by Herbert Rodwell.
 <lb/>Let no thought of care oppress thee,—words by Charles Jeffreys—
-<lb/>music by Bellini.
-<lb/>Far away in my own bright land,—	“	“ Bellini.
-<lb/>O cast that shadow from thy bow,—a beautiful ballad.
-<lb/>The sunny hours of childhood,—words by J. L. Carpenter—music
-<lb/>by J. Hanoway, R. A.
-<lb/>The melodies of many lands,—words by Charles Jeffreys—music
-<lb/>by C. W. Glover.
-<lb/>Price 25 Cents.
-<lb/>The second number of the Musical World will be published on
-<lb/>the 15th inst.
-<lb/>In Press—Grand, Galop, by Leopold De Meyer, with a portrait
-<lb/>and critical biography, will be ready early next week.</p><p/><p>WILEY &amp; PUTNAM
-<lb/>PROPOSE to supply, if there is sufficient patronage,
+<lb/>music by Bellini.</p><p>Far away in my own bright land,—	“	“ Bellini.
+O cast that shadow from thy bow,—a beautiful ballad.
+The sunny hours of childhood,—words by J. L. Carpenter—music
+by J. Hanoway, R. A.
+The melodies of many lands,—words by Charles Jeffreys—music
+by C. W. Glover.
+Price 25 Cents.
+The second number of the Musical World will be published on
+the 15th inst.
+In Press—Grand, Galop, by Leopold De Meyer, with a portrait
+and critical biography, will be ready early next week.
+
+WILEY &amp; PUTNAM
+</p><p>PROPOSE to supply, if there is sufficient patronage,
 <lb/>the original London editions of the following Periodicals at
-<lb/>the prices annexed, to be mailed in London.
-<lb/>The Periodicals will be put in strong wrappers with printed ad-
+<lb/>the prices annexed, to be mailed in London.</p><p></p><p>The Periodicals will be put in strong wrappers with printed ad-
 <lb break="no"/>dress, and can be sent to any part of the United States ; so that they
-<lb/>may be received as soon as the letters per Boston Steamers. 
-<lb/>All persons wishing to subscribe will please address Wiley &amp; 
-<lb/>Putnam before the first of December next.
-<lb/>Subscriptions must be paid in all cases in advance,
-<lb/> 
-<lb/>Edinburgh Review, 	$3 50	Quarterly Review, 	$3 	50
-<lb/>Foreign Quarterly Review, 3 50	North British Review, 	3 	50
-<lb/> Westminster Review,	 3 50	For. &amp; Colonial Review,	 3	 50
-<lb/>Forbes’ Medical Review, 	4 00	Blackwood’s Magazine,	 5	 00
-<lb/>Frazer’s Magazine, 	5 00	Presbyterian Review,	 3 	50
-<lb/>dec 13—3t</p><p/><p>NEW WORKS,
-<lb/>TO BE PUBLISHED BY
-<lb/>MESSRS. WILEY &amp; PUTNAM, 161 BROADWAY,
-<lb/>IN THE MONTH OF NOVEMBER.
-<lb/>I.
-<lb/>Western Clearings, by Mrs. C. M. Kirkland, author of “A New
-<lb/>Home,” &amp;c. 1 vol. 16mo. 50 cents.
-<lb/>II.
-<lb/>			The Raven and other Poems, by Edgar A. Poe, 1 vol. 16mo. 31 cts.
-<lb/>III.
-<lb/>Views and Reviews in American History, Literature, and Fiction,
-<lb/>by W. Gilmore Simms. 1 vol. 16mo.
-<lb/>IV.
-<lb/>Life of the Great Condé, by Lord Mahon, 2 vols. 16mo. 37 1/2
-<lb/>cents each.
-<lb/>V.
-<lb/>Charles Lamb’s Specimens of English Dramatic Poets, 2 vols.
-<lb/>16mo. 50 cents each.
-<lb/>VI.
-<lb/>The Rhine, by Victor Hugo.
-<lb/>VII.
-<lb/>Father Ripa’s Residence in China, 1 vol. 16mo. 37 1/2 cts.
-<lb/>VIII.
-<lb/>The Fall of the Jesuits, 1 vol. 16 mo. 37 1/2 cts.
-<lb/>IX.
-<lb/>Lectures on the English Poets, by Wm. Hazlitt.16mo. 1 vol.</p><p/><p>KNOX’S HATS.
-<lb/>THE FALL STYLE OF GENTLEMEN’S HATS are now
+<lb/>may be received as soon as the letters per Boston Steamers. </p><p>All persons wishing to subscribe will please address Wiley &amp; 
+Putnam before the first of December next.
+Subscriptions must be paid in all cases in advance,
+ 
+Edinburgh Review, 	$3 50	Quarterly Review, 	$3 	50
+Foreign Quarterly Review, 3 50	North British Review, 	3 	50
+ Westminster Review,	 3 50	For. &amp; Colonial Review,	 3	 50
+Forbes’ Medical Review, 	4 00	Blackwood’s Magazine,	 5	 00
+Frazer’s Magazine, 	5 00	Presbyterian Review,	 3 	50
+dec 13—3t
+
+NEW WORKS,
+TO BE PUBLISHED BY
+MESSRS. WILEY &amp; PUTNAM, 161 BROADWAY,
+IN THE MONTH OF NOVEMBER.
+I.
+Western Clearings, by Mrs. C. M. Kirkland, author of “A New
+Home,” &amp;c. 1 vol. 16mo. 50 cents.
+II.
+			The Raven and other Poems, by Edgar A. Poe, 1 vol. 16mo. 31 cts.
+III.
+Views and Reviews in American History, Literature, and Fiction,
+by W. Gilmore Simms. 1 vol. 16mo.
+IV.
+Life of the Great Condé, by Lord Mahon, 2 vols. 16mo. 37 1/2
+cents each.
+V.
+Charles Lamb’s Specimens of English Dramatic Poets, 2 vols.
+16mo. 50 cents each.
+VI.
+The Rhine, by Victor Hugo.
+VII.
+Father Ripa’s Residence in China, 1 vol. 16mo. 37 1/2 cts.
+VIII.
+The Fall of the Jesuits, 1 vol. 16 mo. 37 1/2 cts.
+IX.
+Lectures on the English Poets, by Wm. Hazlitt.16mo. 1 vol.
+
+KNOX’S HATS.
+</p><p>THE FALL STYLE OF GENTLEMEN’S HATS are now
 <lb/>ready for the season, 1845, which for lightness and superiority
 <lb/>of color cannot be surpassed, which is a very important part of the
 <lb/>hat, retaining the color till it is worn out. Any article sold in this
 <lb/>establishment is never misrepresented but sold for what it is. Al-
 <lb break="no"/>so the fall style of boy’s and children’s Caps, of various patterns.
 <lb/>Gentlemen can have their hats made to order in any shape or style
-<lb/>they wish. A full assortment of ladies’ Muffs, of all kinds.
-<lb/>			C. KNOX, No. 110 Fulton st.,
-<lb/>Nov. 8—3m	between William and Nassau sts.</p><p/><p>UNITED STATES HOTEL.
-<lb/>THE PROPRIETOR OF THIS HOTEL, desires to return his
+<lb/>they wish. A full assortment of ladies’ Muffs, of all kinds.</p><p>			C. KNOX, No. 110 Fulton st.,
+Nov. 8—3m	between William and Nassau sts.
+
+UNITED STATES HOTEL.
+</p><p>THE PROPRIETOR OF THIS HOTEL, desires to return his
 <lb/>thanks to his friends, and the travelling portion of the commu-
 <lb break="no"/>nity generally, for the favors which they have bestowed upon him
-<lb/>since he opened his Establishment, and to assure them that he will 
-<lb/>spare no exertions to render his House worthy of the patronage of
-<lb/> which he has already received so liberal a share.
-<lb/>H. JOHNSON.
-<lb/>Nov. 8th, 1845.	6m
-<lb/><pb n="330"/>,
-<lb/>CATALOGUE OF TEAS,
-<lb/>ON SALE AT THE TEA WAREHOUSE OF THE
-<lb/>PEKIN TEA COMPANY,
-<lb/>Importers of fine Green and Black Teas, No. 75 Fulton-st.
-<lb/>New York.
-<lb/>[The Teas mentioned in this Catalogue are done up in quarter,
+<lb/>since he opened his Establishment, and to assure them that he will </p><p>spare no exertions to render his House worthy of the patronage of
+ which he has already received so liberal a share.
+H. JOHNSON.
+Nov. 8th, 1845.	6m
+<pb n="330"/>,
+CATALOGUE OF TEAS,
+ON SALE AT THE TEA WAREHOUSE OF THE
+PEKIN TEA COMPANY,
+Importers of fine Green and Black Teas, No. 75 Fulton-st.
+New York.
+</p><p>[The Teas mentioned in this Catalogue are done up in quarter,
 <lb/>half pound, and pound packages—the first, or inside wrapperis lead,
 <lb/>the second wrapper is water proof paper, and the third or outside
 <lb/>wrapper is of Chinese Rice paper. The Company sell none but
@@ -2079,20 +1931,18 @@ will be found in our next.
 <lb/>as small a quantity of each kind as they like and have them packed
 <lb/>in one chest. These Teas also come in five pound Chinese pack-
 <lb break="no"/>ages, called quattoons, a very convenient, fanciful and portable
-<lb/>shape.]
-<lb/>Green Teas:
-<lb/>Young Hyson, sweet cargo,	50
-<lb/>do.	do. do. do.	Finer	 62 1/2
-<lb/>do.	do.	finer cargo,	75
-<lb/>do.	do.	extra tine,	87 1/2
-<lb/>do. do. Silver Leaf,	1 00
-<lb/>Silver Leaf—Seldom sold, even
+<lb/>shape.]</p><p>Green Teas:
+Young Hyson, sweet cargo,	50
+do.	do. do. do.	Finer	 62 1/2
+do.	do.	finer cargo,	75
+do.	do.	extra tine,	87 1/2
+do. do. Silver Leaf,	1 00
+</p><p>Silver Leaf—Seldom sold, even
 <lb/>by large dealers, because of the
 <lb/>very small profits made on its
 <lb/>sale. This is a very superior
-<lb/>tea.
-<lb/>do.	do.	Golden Chop, Plantation
-<lb/>or Garden growth, 1 50
+<lb/>tea.</p><p>do.	do.	Golden Chop, Plantation
+</p><p>or Garden growth, 1 50
 <lb/>Golden Chop—This is the finest
 <lb/>Green Tea cultivated in China.
 <lb/>It is of the first pickings, and ex
@@ -2101,59 +1951,53 @@ will be found in our next.
 <lb/>aroma. Heretofore this tea has
 <lb/>never reached this country, ex-
 <lb break="no"/>cept in small lots, as presents to
-<lb/>importers.
-<lb/>Hyson,* very fine,	75
-<lb/>do. Plantation growth,	1	00
-<lb/>Gunpowder, good,	—
-<lb/>do. superior, (Read “ mon-
+<lb/>importers.</p><p>Hyson,* very fine,	75
+do. Plantation growth,	1	00
+Gunpowder, good,	—
+</p><p>do. superior, (Read “ mon-
 <lb break="no"/>strous fraud” below.) 1 00
-<lb/>do. small leaf, plantation
-<lb/>growth,	1	25
-<lb/>Imperial, good,	—
-<lb/>do.	brisk and fragrant, [read
-<lb/>“ monstrous	fraud”	be-
-<lb break="no"/>low,]	1	00
-<lb/>do. curious leaf, very supe-
-<lb break="no"/>rior,	J	25
-<lb/>Hyson Skin, good, fine flavor,	38
-<lb/>do. do. extra fine,	62£
-<lb/>Black. Teas.
-<lb/>Pouchong, good, full flavor,	38
-<lb/>do.	line,	50
-<lb/>do.	very superior,	75
-<lb/>Souchong, good,	38
-<lb/>do.	extra fine,	50
-<lb/>Oolong, strong, flavor fine,	50
-<lb/>Oolong—This lea is a great favor-
+<lb/>do. small leaf, plantation</p><p>growth,	1	25
+Imperial, good,	—
+do.	brisk and fragrant, [read
+“ monstrous	fraud”	be-
+low,]	1	00
+do. curious leaf, very supe-
+rior,	J	25
+Hyson Skin, good, fine flavor,	38
+do. do. extra fine,	62£
+Black. Teas.
+Pouchong, good, full flavor,	38
+do.	line,	50
+do.	very superior,	75
+Souchong, good,	38
+do.	extra fine,	50
+Oolong, strong, flavor fine,	50
+</p><p>Oolong—This lea is a great favor-
 <lb break="no"/>ite, and gives universal satisfac
-<lb/>tion.
-<lb/>do.	very fine,	624
-<lb/>do.	in one pound and half
-<lb/>pound cattys, extra fine, 75
-<lb/>NE Plus Ultra,	150
-<lb/>NE Plus Ultra—This tea is as
+<lb/>tion.</p><p>do.	very fine,	624
+do.	in one pound and half
+pound cattys, extra fine, 75
+NE Plus Ultra,	150
+</p><p>NE Plus Ultra—This tea is as
 <lb/>fragrant and sweet as a nosegay.
 <lb/>It yields a perfume that is truly
 <lb/>delightful. It is of garden growth,
 <lb/>and superior to any thing of the
-<lb/>kind ever sold in this country.
-<lb/>English Breakfast Tea, very
-<lb/>fine,	50
-<lb/>do. do. do. in one
+<lb/>kind ever sold in this country.</p><p>English Breakfast Tea, very
+fine,	50
+</p><p>do. do. do. in one
 <lb/>pound and half pound cat-
-<lb break="no"/>tys,	62 1/2
-<lb/>Howqua’s Mixture, a strong and
-<lb/>rich black tea,	Pekoe flavor, 75
-<lb/>Congo, good,	37 1/2
-<lb/>do. very flne,	50
-<lb/>Pekkoe Flowers,	good,	87 1/2
-<lb/>do. do. garden growth, 1 50
-<lb/>*Caution. —Large quantities of Hyson Skin are retailed in
+<lb break="no"/>tys,	62 1/2</p><p>Howqua’s Mixture, a strong and
+rich black tea,	Pekoe flavor, 75
+Congo, good,	37 1/2
+do. very flne,	50
+Pekkoe Flowers,	good,	87 1/2
+do. do. garden growth, 1 50
+</p><p>*Caution. —Large quantities of Hyson Skin are retailed in
 <lb/>this market as being a Hyson Tea. It is well worth while to com-
 <lb break="no"/>pare the Hyson tea usually sold at 75 cents with the genuine arti-
 <lb break="no"/>cle that the Company offer at the same price. The difference is so
-<lb/>perceptible on trial as to render any further comment unnecessary.
-<lb/>Monstrous Fraud.—Gunpowder and Imperial Teas cannot be
+<lb/>perceptible on trial as to render any further comment unnecessary.</p><p></p><p>Monstrous Fraud.—Gunpowder and Imperial Teas cannot be
 <lb/>retailed by small dealers, in this country, at 75 cents per pound,
 <lb/>because they frequently cost that money in China, and no Importer
 <lb/>in this city can sell good Gunpowder or Imperial Tea at a less
@@ -2170,41 +2014,35 @@ will be found in our next.
 <lb/>article sold by the Pekin Tea Company No one, it is presumed,
 <lb/>wishes to drink poison. The Company have published a book,
 <lb/>giving full details on this subject, which may be had at their
-<lb/>Warehouse, 75 Fulton street, free of charge.
-<lb/>RECOMMENDATIONS.
-<lb/>We drink Green Tea, and for many years have been paying one dollar per
+<lb/>Warehouse, 75 Fulton street, free of charge.</p><p>RECOMMENDATIONS.
+</p><p>We drink Green Tea, and for many years have been paying one dollar per
 <lb/>pound for it. But thanks to the Pekin Tea Company, we now get a better tea
 <lb/>from them at 75 cents per pound. We drink one pound per week, by which
 <lb/>we are now saving thirteen dollars per year, and enjoying better tea in the
-<lb/>bargain. Commend us to the Pekin Tea Company, say we.—Mirror.
-<lb/>The Pekin Tea Company, 75 Fulton street, are performing a great and good
+<lb/>bargain. Commend us to the Pekin Tea Company, say we.—Mirror.</p><p></p><p>The Pekin Tea Company, 75 Fulton street, are performing a great and good
 <lb/>work, and will, in a few years, beyond all doubt, drive all the poor teas which
 <lb/>have deluged this country, and defrauded consumers of the article, out of the
 <lb/>market. They import none but pure and fragrant teas, and retail them by the
 <lb/>single pound at wholesale prices. Families are always sure of obtaining good
 <lb/>teas at this great tea warehouse, in quantities to suit their convenience, and at
 <lb/>the same price that the merchant pays who buys to sell again.—Daily True
-<lb/>Sun.
-<lb/>You may be sure of obtaining at all times, pure and highly flavored teas, by
+<lb/>Sun.</p><p></p><p>You may be sure of obtaining at all times, pure and highly flavored teas, by
 <lb/>the single pound, at wholesale prices, of ihe Pekin Tea Company, 75 Fulton
 <lb/>street.—They have probably the largest stock, and greatest variety of fine
 <lb/>green and black teas, of any one establishment in the United States. They
-<lb/>are doing a large business, and a great benefit to consumers of tea.—Atlas.
-<lb/>Heretofore it has been very difficult, indeed impossible, to always obtain
+<lb/>are doing a large business, and a great benefit to consumers of tea.—Atlas.</p><p></p><p>Heretofore it has been very difficult, indeed impossible, to always obtain
 <lb/>good green and black teas. But now you have only to visit the ware rooms of
 <lb/>the Pekin Tea Company, 75 Fulton street, to obtain as delicious and fragrant
-<lb/>teas as you could wish for.—Daily Sun.
-<lb/>If any of our readers desire to have good tea, they can obtain it of the Pekin
-<lb/>Tea Company, 75 Fulton street.—Mercury.
-<lb/>A Word to Tea Drinkers.—The Pekin Tea Company, 75 Fulton street,
-<lb/>have imported into this market some five hundred thousand dollars worth of
+<lb/>teas as you could wish for.—Daily Sun.</p><p>If any of our readers desire to have good tea, they can obtain it of the Pekin
+Tea Company, 75 Fulton street.—Mercury.
+A Word to Tea Drinkers.—The Pekin Tea Company, 75 Fulton street,
+</p><p>have imported into this market some five hundred thousand dollars worth of
 <lb/>the finest grades of Green and Black Teas grown in the Celestial Empire, done
 <lb/>up in all the various fancy packages that Chinese ingenuity can invent. It is
 <lb/>a privilege to buy teas at this great establishment, and a luxury and comfort
 <lb/>to drink them They sell good teas only, and retail them at wholesale prices.
 <lb/>Country merchants who wish to always sell good teas can always obtain them
-<lb/>at this place, on reasonable terms.—Emporium.
-<lb/>The Pekin Tea Company—We very cheerfully call the attention of all
+<lb/>at this place, on reasonable terms.—Emporium.</p><p></p><p>The Pekin Tea Company—We very cheerfully call the attention of all
 <lb/>lovers of pure and fragrant Teas, both in town and country, to the great Tea
 <lb/>warehouse of this Company. Our long acquaintance with the proprietors en-
 <lb break="no"/>ables us to bespeak for them the entire confidence of the public. We know
@@ -2223,71 +2061,63 @@ will be found in our next.
 <lb/>never before drank such tea. But all tastes can here he suited, with the great
 <lb/>advantage over other stores of getting a pure article at wholesale price, how-
 <lb break="no"/>ever small the quantity. The Company’s Warehouse is at 75 Fulton street.—
-<lb/>New World.
-<lb/>Tea.—The Pekin Tea Company, No 75 Fulton street, unquestionably sell
+<lb/>New World.</p><p></p><p>Tea.—The Pekin Tea Company, No 75 Fulton street, unquestionably sell
 <lb/>the best teas imported into this market. That they sell them cheaper than any
 <lb/>other establishment, is a fact proven in a thousand instances since they have
-<lb/>opened their store.
-<lb/>We would advise our friends to call at this place, and if they don’t wish to
+<lb/>opened their store.</p><p></p><p>We would advise our friends to call at this place, and if they don’t wish to
 <lb/>buy, at least to obtain a little pamphlet, kept on their counter, entitled "Hints
-<lb/>to Tea Drinkers,” and therefrom learn a little useful information on the subject.
-<lb/>The pamphlet is given gratis.—Anglo American.
-<lb/>The finest specimens of green and black teas ever sold in this country, are
+<lb/>to Tea Drinkers,” and therefrom learn a little useful information on the subject.</p><p>The pamphlet is given gratis.—Anglo American.
+</p><p>The finest specimens of green and black teas ever sold in this country, are
 <lb/>imported by the Pekin Tea Company, 75 Fulton street. Those who want good
-<lb/>teas at reasonable prices, can always get them there.—Tribune.
-<lb/>We have tried the teas imported by the Pekin Tea Company, 75 Fulton street,
+<lb/>teas at reasonable prices, can always get them there.—Tribune.</p><p></p><p>We have tried the teas imported by the Pekin Tea Company, 75 Fulton street,
 <lb/>and if we live will try them often. They are selling the most delicious teas
-<lb/>we ever drank, and retail them at wholesale prices.—Evening Post. oct8
-<lb/>PIANO FORTES.
-<lb/>V F. HARRISON, 23 CANAL STREET, N. Y.—In-
+<lb/>we ever drank, and retail them at wholesale prices.—Evening Post. oct8</p><p>PIANO FORTES.
+</p><p>V F. HARRISON, 23 CANAL STREET, N. Y.—In-
 <lb break="no"/>struments made with the most recent improvement, such as
 <lb/>Iron Frames, &amp;c., wtth a compass of 6 and 7 octaves. They are
 <lb/>made from choice materials, and highly finished, with the most
 <lb/>faithful workmanship, the result of 23 years experience in the busi-
-<lb break="no"/>ness.
-<lb/>N. B.—Wanted a second hand Parlor Organ.
-<lb/>Piano Fortes hired by the month.
-<lb/>ÆOLIAN ATTACHMENT.
-<lb/>Hermann s. saroni, professor of music,
-<lb/>116 Leonard street, New-York, teaches the Piano-Forte, with
-<lb/>or without Coleman’s celebrated Attachment.
-<lb/>PIANO FORTES.
-<lb/>H WORCESTER, No. 139 THIRD AVENUE, COR-
+<lb break="no"/>ness.</p><p>N. B.—Wanted a second hand Parlor Organ.
+Piano Fortes hired by the month.
+ÆOLIAN ATTACHMENT.
+Hermann s. saroni, professor of music,
+116 Leonard street, New-York, teaches the Piano-Forte, with
+or without Coleman’s celebrated Attachment.
+PIANO FORTES.
+</p><p>H WORCESTER, No. 139 THIRD AVENUE, COR-
 <lb break="no"/>• ner of 14th Street, respectfully informs his friends and the
 <lb/>public, that he has a good assortment of Piano-Fortes, in Rose-
 <lb break="no"/>wood and Mahogany cases, from 6 to 7 octaves. Persons wishing
 <lb/>to purchase will find it to their advantage to call and examine be-
-<lb break="no"/>fore purchasing elsewhere.
-<lb/>To the Public.—Edgar A. Poe, Esq. having purcha-
+<lb break="no"/>fore purchasing elsewhere.</p><p></p><p>To the Public.—Edgar A. Poe, Esq. having purcha-
 <lb break="no"/>sed my interest in “ The Broadway Journal,” is now sole
 <lb/>proprietor of the same. All persons indebted to the pa-
-<lb break="no"/>per will please make settlement with him.
-<lb/>John Bisco.
-<lb/>New-York, Oct. 24, 1845.
-<lb/>THE BROADWAY JOURNAL:
-<lb/>Edgar A. Poe,	Editor and Proprietor.
-<lb/>IS PUBLISHED EVERY SATURDAY.—OFFICE 137 NASSAU ST.
-<lb/>terms three dollars per annum—SINGLE numbers SIX AND a quarter cts.
-<lb/>The Broadway Journal is, in its general character, a literary pa-
+<lb break="no"/>per will please make settlement with him.</p><p>John Bisco.
+New-York, Oct. 24, 1845.
+THE BROADWAY JOURNAL:
+Edgar A. Poe,	Editor and Proprietor.
+IS PUBLISHED EVERY SATURDAY.—OFFICE 137 NASSAU ST.
+terms three dollars per annum—SINGLE numbers SIX AND a quarter cts.
+</p><p>The Broadway Journal is, in its general character, a literary pa-
 <lb break="no"/>per: occupying itself with original, anil more especially with critical
 <lb/>articles, in every department of Literature, properly so called—with
 <lb/>a preference, nevertheless, for the Belles Lettres and the
 <lb/>Fine Arts. There is no better medium in the country for
-<lb/>literary or artistical advertisements.
-<lb/>AGENTS:
-<lb/>Redding &amp; Co., Boston, Mass.	Thos. H. Pease, New-Haven, Ct.
-<lb/>R. G. H. Huntington, Hartford, Ct. 	J C. Morgan, New-Orleans.
-<lb/>M. Baullemet, Mobile, Ala.	W. W. Kingsley, New-London, Ct.
-<lb/>Robinson &amp; Jones, Cincinnati, O.	G. N. Beesley, Utica, N. Y.
-<lb/>D. M. Dewey, Rochester, N Y.	H. B. Strang, Peekskill, N. Y.
-<lb/>J. Robertson, Syracuse, N. Y.	Haliburton &amp; Dudley Boston, Mass.
-<lb/>W. E. Russ II, Schenectady, N. Y. 	S. Thompson, Worcester, Mass.
-<lb/>Levi Willard, Troy, N. Y.	Peter Cooke, Hartford, Ct.
-<lb/>G. Jones, Albany. N. Y.	H. Esten, Providence R.I.
-<lb/>S. F. Hoyt, Newburgh, N. Y.	Safford &amp; Park, Norwich, Ct.
-<lb/>Shurtz &amp; Wilde, Baltimore, Md.	John Tomlin, P. M. Jackson, Tenn.
-<lb/>Colon &amp; Adriance, Philadelphia. 	S. Hart, Sen., Charleston, S. C.
-<lb/>printed at the office of the farmer and mechanic.</p></div>
+<lb/>literary or artistical advertisements.</p><p>AGENTS:
+Redding &amp; Co., Boston, Mass.	Thos. H. Pease, New-Haven, Ct.
+R. G. H. Huntington, Hartford, Ct. 	J C. Morgan, New-Orleans.
+M. Baullemet, Mobile, Ala.	W. W. Kingsley, New-London, Ct.
+Robinson &amp; Jones, Cincinnati, O.	G. N. Beesley, Utica, N. Y.
+D. M. Dewey, Rochester, N Y.	H. B. Strang, Peekskill, N. Y.
+J. Robertson, Syracuse, N. Y.	Haliburton &amp; Dudley Boston, Mass.
+W. E. Russ II, Schenectady, N. Y. 	S. Thompson, Worcester, Mass.
+Levi Willard, Troy, N. Y.	Peter Cooke, Hartford, Ct.
+G. Jones, Albany. N. Y.	H. Esten, Providence R.I.
+S. F. Hoyt, Newburgh, N. Y.	Safford &amp; Park, Norwich, Ct.
+Shurtz &amp; Wilde, Baltimore, Md.	John Tomlin, P. M. Jackson, Tenn.
+Colon &amp; Adriance, Philadelphia. 	S. Hart, Sen., Charleston, S. C.
+printed at the office of the farmer and mechanic.
+</p></div>
         </body>
         <back>
           <!-- here is a sample place for contextual information: -->
