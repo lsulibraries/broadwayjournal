@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- the line above is the "XML declaration"; it is not -->
+<!-- required, but we recommend using it -->
+<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- the two lines above are processing instructions for finding the schema; -->
+<!-- they are intended for oXygen, but other software might use them, also -->
+<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be transformed by "teibp.xsl" -->
+<?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be styled by "tiny_TEI_template.css" -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- put title here --></title>
+        <author>
+          <persName><!-- author's name here --></persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><!-- publisher here --></publisher>
+        <availability>
+          <ab><!-- copyright or copyleft information here --></ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <!-- source information here; better yet, use a <biblStruct> instead -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+      <text>
+        <front>
+          <!-- front matter, if any, goes in <div>s, here -->
+        </front>
+        <body>
+          <!-- main document goes here, possibly divided into <div>s -->
+              <div><p/><p>﻿THE BROADWAY JOURNAL.
+<lb/>VOL. 2.
+<lb/>EDGAR A. POE,
+<lb/>EDITOR AND PROPRIETOR.
+<lb/>NO. 26.
+<lb/>NEW-YORK, SATURDAY, JANUARY 3, 1846.
+<lb/>The Office of the Broadway Journal is removed to 304 Broadway, corner of Duane.
+<lb/>New Year's Day.
+<lb/>I wish I could be gay, mother,
+<lb/>And happy, for your sake,
+<lb/>On this glad New Year’s day, mother,
+<lb/>But oh, my heart would break
+<lb/>If these tears could not flow, mother:
+<lb/>For to his faithless breast,
+<lb/>This day last year, you know, mother,
+<lb/>I first was fondly prest.
+<lb/>Then first our fond lips met, mother—
+<lb/>’Twas at this very hour—
+<lb/>I feel that kiss even yet, mother,
+<lb/>So strong is memory’s power!
+<lb/>I thought his love was pure, mother,
+<lb/>Nor doubted when he said ’Twould ever thus endure, mother,
+<lb/>Till life itself had fled.
+<lb/>Alas! his love passed o’er, mother—
+<lb/>The love I thought so true—
+<lb/>Whilst I loved more and more, mother,
+<lb/>The colder that he grew!
+<lb/>His love’s forever fled, mother,
+<lb/>My heart is like to break;
+<lb/>I’d wish that I were dead, mother,
+<lb/>Only for your dear sake.
+<lb/>Yet t'would be sweet to die, mother,
+<lb/>For I have prayed to be An angel, ever nigh, mother,
+<lb/>To guard both him and thee.
+<lb/>But if you’d see me yet, mother,
+<lb/>Happy, and blithe, and gay,
+<lb/>Then teach me to forget, mother,
+<lb/>The last dear New Year’s day.
+<lb/>Yet I’d rather have with tears, mother,
+<lb/>My eyes forever dim,
+<lb/>Than smile through sunny years, mother,
+<lb/>Without fond thoughts of him!
+<lb/>Mary.
+<lb/>Loss of Breath.
+<lb/>A TALE NEITHER IN NOR OUT OF “BLACKWOOD.”
+<lb/>0 breathe not, &amp;c.—Moore’s Melodies.
+<lb/>The most notorious ill-fortune must, in the end, yield to the untiring courage of philosophy—as the most stubborn city to the
+<lb/>j ceaseless vigilance of an enemy. Salmanezer, as we have it in the holy writings, lay three years before Samaria; yet it fell. Sardanapalus—see Diodorus—maintained himself seven in Nineveh; but to no purpose. Troy expired at the close of the second lustrum; and Azoth, as Aristaeus declares upon his honor as a gentleman, opened at last her gates to Psammitticus, after having
+<lb/>barred them for the fifth part of a century.
+<lb/>*******
+<lb/>“Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the morning after our wedding, “thou witch!—thou hag!—thou whipper-snapper!—thou sink of iniquity!—thou fiery-faced quintessence of all that is abominable!—thou—thou —” here standing upon tiptoe, seizing her by the throat, and placing my mouth close to her ear, I was preparing to launch forth a new and more decided epithet of opprobrium, which should not fail, if ejaculated, to convince her of her insignificance, when, to my extreme horror and astonishment, I discovered that I had, lost my breath.
+<lb/>The phrases “I am out of breath,” “I have lost my breath,” &amp;c., are often enough repeated in common conversation; but it had never occurred to me that the terrible accident of which I speak could bona fide and actually happen! Imagine— that is if you have a fanciful turn—imagine, I say, my wonder—my consternation—my despair!
+<lb/>There is a good genius, however, which has never entirely deserted me. In my most ungovernable moods I still retain a sense of propriety, et le chemin des passions me'conduit—as Lord Edouard in the “Julie” says it did him—a la philosophic veritable.
+<lb/>Although I could not at first precisely ascertain to what degree the occurrence had affected me, I determined at all events to conceal the matter from my wife, until farther experience should discover to me the extent of this my unheard of calamity. Altering my countenance, therefore, in a moment, from its bepuffed and distorted appearance, to an expression of arch and coquettish benignity, I gave my lady a pat on the one cheek, and a kiss on the other, and without saying one syllable, (Furies! I could not,) left her astonished at my drollery, as I pirouetted out of the room in a Pas de Zephyr.
+<lb/>Behold me then safely ensconced in my private boudoir, a fearful instance of the ill consequences attending upon irascibility— alive with the qualifications of the dead—dead with the propensities of the living—an anomaly on the face of the earth—being very calm, yet breathless.
+<lb/>Yes! breathless. I am serious in asserting that my breath was entirely gone. I could not have stirred with it a feather if my life had been at issue, or suilied even the delicacy of a mirror Hard fate!—yet there was some alleviation to the first overwhelming paroxysm of my sorrow. I found, upon trad, that the powers of utterance which, upon my inability to proceed in the conversation with my wife, I then concluded to be totally destroyed, were in fact only partially impeded, and I discovered that had I at that interesting crisis, dropped my voice to a singularly deep guttural, I might still have continued to her the communication of my sentiments; this pitch of voice (the guttural) depening I find, not upon the current of the breath, but upon a  certain spasmodic action of the muscles of the throat.
+<lb/><pb n="398"/>
+<lb/>Throwing myself upon a chair, I remained for some time absorbed in meditation. My reflections, be sure, were of no consolatory kind. A thousand vague and lachrymatory fancies took possession of my soul—and even the idea of suicide flitted across my brain; but it is a trait in the perversity of human nature to reject the obvious and the ready, for the far-distant and equivocal. Thus I shuddered at self-murder as the most decided of atrocities while the tabby cat purred strenously upon the rug, and the very water-dog wheezed assiduously under the table; each taking to itself much merit for the strength of its lungs, and all obviously-done in derision of my own pulmonary incapacity.
+<lb/>Oppressed with a tumult of vague hopes and fears, I at length heard the footsteps of my wife descending the staircase. Being now assured of her absence, I returned with a palpitating heart to the scene of my disaster.
+<lb/>Carefully locking the door on the inside, I commenced a vigorous search. It was possible, I thought that, concealed in some obscure corner, or lurking in some closet or drawer, might be found the lost object of my inquiry. It might have a vapory—it might even have a tangible form. Most philosophers, upon many points of philosophy, are still very unphilosophical. William Godwin, however, says in his “Mandeville,” that “invisible things are the only realities,” and this all will allow, is a case in point. I would have the judicious reader pause before accusing j such asseverations of an undue quantum of absurdity. Anaxagoras, it will be remembered, maintained that snow is black, and this I have since found to be the case.
+<lb/>Long and earnestly did I continue the investigation: but the contemptible reward of my industry and perseverance proved to be only a set of false teeth, two pair of hips, an eye, and a bundle of billetts-doux from Mr. Windenough to my wife. I might as well here observe that this confirmation of my lady’s partiality for Mr. W. occasioned me little uneasiness. That Mrs. Lacko-breath should admire any thing so dissimilar to myself was a natural and necessary evil. I am, it is well known, of a robust and corpulent appearance, and at the same time somewhat diminutive in stature. What wonder then that the lath-like tenuity of my acquaintance, and his altitude which has grown into a proverb, should have met with all due estimation in the eyes of Mrs. Lackobreath. But to return.
+<lb/>My exertions, as I have before said, proved fruitless. Closet after closet—drawer after drawer—corner after corner—were scrutinized to no purpose. At one time, however, I thought myself sure of ray prize, having, in rummaging a dressing case, accidentally demolished a bottle of Grandjean’s Oil of Archangels —which, as an agreeable perfume, I here take the liberty of recommending.
+<lb/>With a heavy heart I returned to my boudoir—there to ponder upon some method of eluding my wife’s penetration, until I could make arrangements prior to my leaving the country, for to this I had already made up my mind. In a foreign climate, being unknown, I might, with some probability of success, endeavor to conceal my unhappy calamity—a calamity calculated, even more than beggary, to estrange the affections of the multitude, and to draw down upon the wretch the well-merited indignation of the virtuous and the happy. I was not long in hesitation. Being naturally quick, I committed to memory the entire tragedy of "Metamora.” I had the good fortune to recollect that in the accentuation of this drama, or at least of such portion of it as is allotted to the hero, the tones of voice in which I found myself deficient were altogether unnecessary, and that the deep guttural was expected to reign monotonously throughout.
+<lb/>I practised for some time by the borders of a well frequented marsh;—herein, however, having no reference to a similar pro-
+<lb break="no"/>ceeding of Demosthenes, but from a design peculiarly and conscientiously my own. Thus armed at all points, I determined to make my wife believe that I was suddenly smitten with a passion for the stage. In this, I succeeded to a miracle; and to every | question or suggestion found myself at liberty to reply in my most  frog-like and sepulchral tones with some passage from the tra-gedy—any portion of which, as I soon took great pleasure in observing, would apply equally well to any particular subject. It is not to be supposed, however, that in the delivery of such passages I was found at all deficient in the looking asquint—the showing my teeth—the working my knees—the shuffling my feet—or in any of those unmentionable graces which are now justly considered the characteristics of a popular performer. To be sure they spoke of confining me in a straight-jacket—but, good God! they never suspected me of having lost my breath.
+<lb/>Having at length put my affairs in order, I took my seat very early one morning in the mail stage for——, giving it to be un-
+<lb break="no"/>derstood, among my acquaintances, that business of the last importance required my immediate personal attendance in that city.
+<lb/>The coach was crammed to repletion; but in the uncertain twilight the features of my companions could not be distinguished. Without making any effectual resistance, I suffered myself to be placed between two gentlemen of colossal dimensions; while a third, of a size larger, requesting pardon for the liberty he was about to take, threw himself upon my body at full length, and falling asleep in an instant, drowned all my guttural ejaculations for relief, in a snore which would have put to blush the roarings of the bull of Phalaris. Happily the state of my respiratory faculties rendered suffocation an accident entirely out of the question.
+<lb/>As, however, the day broke more distinctly in our approach to the outskirts of the city, my tormentor arising and adjusting his shirt-collar, thanked me in a very friendly manner for my civility. Seeing that I remained motionless, (all my limbs were dislocated and my head twisted on one side,) his apprehensions began to be excited; and arousing the rest of the passengers, he communicated in a very decided manner, his opinion that a dead man had been palmed upon them during the night for a living and responsible fellow-traveler; here giving me a thump on the right eye, by way of demonstrating the truth of his suggestion.
+<lb/>Hereupon all, one after another, (there were nine in company,) believed it their duty to pull me by the ear. A young practising physician, too, having applied a pocket-mirror to my mouth, and found me without breath, the assertion of my prosecutor was pronounced a true bill; and the whole party expressed a determination to endure tamely no such impositions for the future, and to proceed no farther with any such carcasses for the present.
+<lb/>I was here, accordingly thrown out at the sign of the “Crow,” (by which tavern the coach happened to be passing) without meeting with any farther accident than the breaking of both my arms under the left hind wheel of the vehicle. I must besides do the driver the justice to state that he did not forget to throw after me the largest of my trunks, which, unfortunately falling on my head, fractured my skull in a manner at once interesting and extraordinary.
+<lb/>The landlord of the “Crow,” who is a hospitable man, finding that my trunk contained sufficient to idemnify him for any little trouble he might take in my behalf, sent forthwith for a surgeon of his acquaintance, and delivered me to his care with a bill and receipt for ten dollars.
+<lb/>The purchaser took me to his apartments and commenced operations immediately. Having cut off my ears, however, he discovered signs of animation. He now rang the bell, and sent for a neighboring apothecary with whom to consult in the emergency. In case of his suspicions with regard to my existence
+<lb/><pb n="399"/>
+<lb/>proving ultimately correct, he, in the meantime, made an incision in my stomach, and removed several of my viscera for private dissection.
+<lb/>The apothecary had an idea that I was actually dead. This idea I endeavored to confute, kicking and plunging with all my might, and making the most furious contortions—for the operations of the surgeon had, in a measure, restored me to the possession of my faculties. All, however, was attributed to the effects of a new galvanic battery, wherewith the apothecary, who is really a man of information, performed several curious experiments, in which, from my personal share in their fulfilment, I could not help feeling deeply interested. It was a source of mortification to me nevertheless, that although I made several attempts at conversation, my powers of speech were so entirely in abeyance, that I could not even open my mouth; much less then make reply to some ingenious but fanciful theories of which, under other circumstances, my minute acquaintance with the Hippocra-tian pathology would have afforded me a ready confutation.
+<lb/>Not being able to arrive at a conclusion, the practitioners remanded me for farther examination. I was taken up into a garret; and the surgeon’s lady having accommodated me with drawers and stockings, the surgeon himself fastened my hands, and tied up my jaws with a pocket handkerchief—then bolted the door on the outside as he hurried to his dinner, leaving me alone to silence and to meditation.
+<lb/>I now discovered to my extreme delight that I could have spoken had not my mouth been tied up by the pocket-handkerchief. Consoling myself with this reflection, I was mentally repeating some passages of the “Omnipresence of the Deity,” as is my custom before resigning myself to sleep, when two cats, of a greedy and vituperative turn, entering at a hole in the wall, leaped up with a flourish á la Catalani, and alighting opposite one another on my visage, betook themselves to indecorous contention for the paltry consideration of my nose.
+<lb/>But, as the loss of his ears proved the means of elevating to the throne of Cyrus, the Magian or Mige-Gush of Persia, and as the cutting off his nose gave Zopyrus possession of Babylon, so the loss of a few ounces of my countenance proved the salvation of my body. Aroused by the pain, and burning with indignation, I burst, at a single effort, the fastenings and the bandage.— Stalking across the room I cast a glance of contempt at the belligerents, and throwing open the sash to their extreme horror and disappointment, precipitated myself, very dexterously, from the window.
+<lb/>The mail-robber W——, to whom I bore a singular resem-
+<lb break="no"/>blance, was at this moment passing from the city jail to the scaffold erected for his execution in the suburbs. His extreme infirmity, and long-continued ill health, had obtained him the privilege of remaining unmanacled; and habited in his gallows costume—one very similar to my own—he lay at full length in the bottom of the hangman’s cart (which happened to be under the windows of the surgeon at the moment of my precipitation) without any other guard than the driver who was asleep, and two recruits of the sixth infantry, who were drunk.
+<lb/>As ill-luck would have it, I alit upon my feet within the vehicle. W———, who was an acute fellow, perceived his oppor-
+<lb break="no"/>tunity. Leaping up immediately, he bolted out behind, and turning down an alley, was out of sight in the twinkling of an eye. The recruits, aroused by the bustle, could not exactly comprehend the merits of the transaction. Seeing, however, a man, the precise counterpart of the felon, standing upright in thә cart before their eyes, they were of opinion that the rascal
+<lb/>(meaning W——) was after making his escape, (so they
+<lb/>expressed themselves,) and, having communicated this opinion 
+<lb/>to one another, they took each a dram, and then knocked me down with the butt-ends of their muskets.
+<lb/>It was not long ere we arrived at the place of destination. Of course nothing could be said in my defence. Hanging was my inevitable fate. I resigned myself thereto with a feeling half stupid, half acrimonious. Being little of a cynic, I had all the sentiments of a dog. The hangman, however, adjusted the noose about my neck. The drop fell.
+<lb/>I forbear to depict my sensations upon the gallows; although here, undoubtedly, I could speak to the point, and it is a topic upon which nothing has been well said. In fact, to write upon such a theme it is necessary to have been hanged. Every author should confine himself to matters of experience. Thus Mark Anthony composed a treatise upon getting drunk.
+<lb/>I may just mention, however, that die I did not. My body was, but I had no breath to be, suspended; and but for the knot under my left ear (which had the feel of a military stock) I dare say that I should have experienced very little inconvenience. As for the jerk given to my neck upon the falling of the drop, it merely proved a corrective to the twist afforded me by the fat gentleman in the coach.
+<lb/>For good reasons, however, I did my best to give the crowd the worth of their trouble. My convulsions were said to be extraordinary. My spasms it would have been difficult to beat. The populace encored. Several gentlemen swooned; and a multitude of ladies were carried home in hysterics. Pinxit availed himself of the opportunity to retouch, from a sketch taken upon the spot, his admirable painting of the “Marsyas flayed alive.”
+<lb/>When I had afforded sufficient amusement, it was thought proper to remove my body from the gallows;—this the more especially as the real culprit had in the meantime been retaken and recognized; a fact which I was so unlucky as not to know.
+<lb/>Much sympathy was, of course, exercised in my behalf, and as no one made claim to my corpse, it was ordered that I should be interred in a public vault.
+<lb/>Here, after due interval, I was deposited. The-sexton departed, and I was left alone. A line of Marston’s “Malcontent”— Death’s a good fellow and keeps open house — struck me at that moment as a palpable lie.
+<lb/>I knocked off, however, the lid of my coffin, and stepped out. The place was dreadfully dreary and damp, and I became troubled with ennui. By way of amusement, I felt my way among the numerous coffins ranged in order around. I lifted them down, one by one, and breaking open their lids, busied myself in speculations about the mortality within.
+<lb/>“This,” I soliloquized, tumbling over a carcass, puffy, bloated, and rotund—” this has been, no doubt, in every sense of the word, an unhappy—an unfortunate man. It has been his terrible lot not to walk, but to waddle—to pass through life not like a human being, but like an elephant—not like a man, but like a rhinoceros.
+<lb/>“His attempts at getting on have been mere abortions, and his circumgyratory proceedings a palpable failure. Taking a step forward, it has been his misfortune to take two toward the right, and three toward the left. His studies have been confined to the poetry of Crabbe. He can have had no idea of the wonders of a pirouette. To him a pas de papillon has been an abstract conception. He has never ascended the summit of a hill. He has never viewed from any steeple the glories of a metropolis. Heat has been his mortal enemy. In the dog-days his days have been the days of a dog. Therein, he has dreamed of flames and suffocation—of mountains upon mountains—of Pelion upon Ossa, j He was short of breath—to say all in a word, he was short of
+<lb/><pb n="400"/>
+<lb/>breath. He thought it extravagant to play upon wind instruments. He was the inventor of self-moving fans, wind-sails, and ventilators. He patronized Du Pont the bellows-maker, and died miserably in attempting to smoke a cigar. His was a case in which I feel deep interest—a lot in which I sincerely sympathize.”
+<lb/>“But here,” said I—“here”—and I dragged spitefully from its receptacle a guant, tall, and peculiar-looking form, whose remarkable appearance struck me with a sense of unwelcome familiarity—“here is a wretch entitled to no earthly commiseration.” Thus saying, in order to obtain a more distinct view of my subject, I applied my thumb and fore-finger to its nose, and, causing it to assume a sitting position upon the ground, held it thus, at the length of my arm, while I continued my soliloquy.
+<lb/>—“Entitled,” I repeated, "to no earthly commiseration. Who indeed would think of compassionating a shadow? Besides, has he not had his full share of the blessings of mortality? He was the originator of tall monuments—shot-towers—lightning-rods— lombardy-poplars. His treatise upon “Shades and Shadows” has immortalized him. He edited with distinguished ability the last edition of “South, on the Bones.” He went early to college and studied pneumatics. He then came home, talked eternally, and played upon the French-horn. He patronized the bag-pipes. Captain Barclay, who walked against Time, would not walk against him. Windham and Allbreath were his favorite writers. —his favorite artist, Phiz. He died gloriously while inhaling gas—levique flatu corrupitur, like the fama pudiciticc iu Hieronymus.* He was indubitably a ”———
+<lb/>“How can you?—how—can—you?”—interrupted the object of my animadversions, gasping for breath, and tearing off, with a desperate exertion, the bandage around its jaws—“how can you, Mr. Lackobreath, be so infernally cruel as to pinch me in that manner by the nose? Did you nut see how they had fastened up my mouth—and you must know—if you know anything— how vast a superfluity of breath I have to dispose of! If you do not know, however, sit down and you shall see.— In my situation it is really a great relief to be able to open one’s mouth— to be able to expatiate—to be able to communicate with a person like yourself, who do not think yourself called upon at every period to interrupt the thread of a gentleman’s discourse.—Interruptions are annoying and should undoubtedly be abolished— don’t you think so?—no reply, I beg you,—one person is enough to be speaking at a time.—I shall be done by-and-by, and then you may begin.—How the devil, sir, did you get into this place? —not a word I beseech you—been here some time myself—terrible accident!—heard of it, I suppose—awful calamity!—walking under your windows—some short while ago—about the time you were stage-struck—horrible occurrence!—heard of “catching one’s breath,” eh?—hold your tongue I tell you!—I caught somebody else’s!—had always too much of my own—met Blab at the corner of the street—would’nt give me a chance for a word —could’nt get in a syllable edgeways—attacked, consequently, with epilepsis—Blab made his escape—damn all fools!—they took me up for dead, and put me in this place—pretty doings all of them!—heard all you said about me—every word a lie—horrible!—wonderful!—outrageous!—hideous!—incomprehensible! —et cetera—et cetera—et cetera—et cetera”—
+<lb/>It is impossible to conceive my astonishment at so unexpected a discourse; or the joy with which I became gradually convinced that the breath so fortunately caught by the gentleman (whom I
+<lb/>Tenera res in feminis fama pudicitiee, et quasi flos pulcher-rimus, cito ad levem marcessit auram, levique flatu corrupitur— maxime, life —Hieronymus ad Salvinam.
+<lb/>soon recognized as my neighbor Windenough) was, in fact, the identical expiration mislaid by myself in the conversation with my wife. Time, place, and circumstance rendered it a matter beyond question. I did not, however, immediately release my hold upon Mr. W.’s proboscis—not at least during the long period in which the inventor of lombardy-poplars continued to favor me with his explanations.
+<lb/>In this respect I was actuated by that habitual prudence which has ever been my predominating trait. I reflected that many difficulties might still lie in the path of my preservation which only extreme exertion on my part would be able to surmount. Many persons, I considered, are prone to estimate commodities in their possession—however valueless to the then proprietor— however troublesome, or distressing—in direct ratio with the advantages to be derived by others from their attainment, or by themselves from their abandonment. Might not this be the case with Mr. Windenough? In displaying anxiety for the breath of which he was at present so willing to get rid, might I not lay myself open to the exactions of his avarice? There are scoundrels in this world, I remembered with a sigh, who will not scruple to take unfair opportunities with even a next door neighbor, and (this remark is from Epictetus) it is precisely at that time when men are most anxious to throw off' the burden of their own calamities that they feel the least desirous of relieving them in others.
+<lb/>Upon considerations similar to these, and still retaining my grasp upon the nose of Mr. W., I accordingly thought proper to model my reply.
+<lb/>“Monster!” I began in a tone of the deepest indignation, “monster! and double-winded idiot!—dost them whom, for thine iniquities, it has pleased heaven to accurse with a two-fold respiration—dost thou, I say, presume to address me in the familiar language of an old acquaintance?—“I lie,” forsooth! and “hold my tongue,” to be sure!—pretty conversation, indeed, to a gentleman with a single breath!—all this, too, when I have it in my power to relieve the calamity under which thou dost so justly suffer—to curtail the superfluities of thine unhappy respiration.”
+<lb/>Like Brutus, I paused for a reply—with which, like a tornado, Mr. Windenough immediately overwhelmed me. Protestation followed upon protestation, and apology upon apology. There were no terms with which he was unwilling to comply, and there were none of which I failed to take the fullest advantage.
+<lb/>Preliminaries being at length arranged, my acquaintance delivered me the respiration; for which (having carefully examined it) I gave him afterwards a receipt.
+<lb/>I am aware that by many I shall be held to blame for speaking, in a manner so cursory, of a transaction so impalpable. It will be thought that I should have entered more minutely into the details of an occurrence by which—and this is very true— much new light might be thrown upon a highly interesting branch of physical philosophy.
+<lb/>To all this I am sorry that I cannot reply. A hint is the only answer which I am permitted to make. There were circumstances—but I think it much safer upon consideration to say as little as possible about an affair so delicate—so delicate, I repeat, and at the same time involving the interests of a third party whose sulphurous resentment I have not the least desire, at this moment, of incurring.
+<lb/>We were not long after this necessary arrangement in effecting an escape from the dungeons of the sepulchre. The united strength of our resuscitated voices was soon sufficiently apparent. Scissors, the Whig Editor, republished a treatise upon “the nature and origin of subterranean noises.” A reply— rejoinder—confutation—and justification—followed in the col-
+<lb break="no"/><pb n="401" break="no"/>
+<lb/>umns of a Democratic Gazette. It was not until the opening of the vault to decide the controversy, that the appearance of Mr. Windenough and myself proved both parties to have been decidedly in the wrong.
+<lb/> I cannot conclude these details of some very singular passages in a life at all times sufficiently eventful, without again recalling to the attention of the reader the merits of that indiscriminate philosophy which is a sure and ready shield against those shafts of calamity which can neither be seen, felt, nor fully understood. It was in the spirit of this wisdom that, among the Ancient Hebrews, it was believed the gates of Heaven would be inevitably opened to that sinner, or saint, who, with good lungs and implicit confidence, should vociferate the word "Amen” It was in the spirit of this wisdom that, when a great plague raged at Athens, and every means had been in vain attempted for its removal, Epimenides, as Laertius relates in his second book of that philosopher, advised the erection of a shrine and temple "to the proper God.”	Littleton Barry.
+<lb/>To a Canary Bird.
+<lb/>Sweet little fairy bird,
+<lb/>Gentle Canary bird,
+<lb/>Beats not thy tiny breast with one regret?
+<lb/>Is it enough for thee Ever, as now, to be Caged as a prisoner, kissed as a pet?
+<lb/>Gay is thy golden wing,
+<lb/>Careless thy caroling,
+<lb/>Thou art as happy as happy can be:—
+<lb/>Singing so merrily,
+<lb/>Hast thou no memory Of thy lost native isle over the sea?
+<lb/>Not the Hesperides,’
+<lb/>Floating on fabled seas,
+<lb/>Nothing in Nature, and nothing in song,
+<lb/>Match with the magic smile,
+<lb/>Which from thine own sweet isle Hushes the heaving wave all the year long.
+<lb/>Summer and youthful Spring,
+<lb/>Blooming and blossoming,
+<lb/>Hand in hand, sister-like, stray through the clime.
+<lb/>There wert thou born, amid Fruits colored like thee, hid In the green groves of the orange and lime.
+<lb/>Then was the silver lute Of the young maiden mute,
+<lb/>When, from the shade of her own cottage-eaves,
+<lb/>Rang first thy joyous trill,
+<lb/>While with a gentle thrill,
+<lb/>Though the breeze touched them not, trembled the leaves.
+<lb/>Thou, like a spirit come From thy far island-home,
+<lb/>Seemest of sunshine and spring-time the voice: Light-hearted is thy lay,
+<lb/>As on the lemon-spray,
+<lb/>Love, little singing bird, made thee rejoice.
+<lb/>For, from thy lady’s lip Oft is it thine to sip
+<lb/>Sweetness which dwells not in fruit or in flower;
+<lb/>And when her shaded eye Rests on thee pensively,
+<lb/>Moonlight was ne’er so soft silv’ring thy bower.
+<lb/>Likest to thee is love—
+<lb/>Never it cares to rove,
+<lb/>When its wild winglets feel beauty's control.
+<lb/>Would, little bird, that I Might to thine island fly,
+<lb/>All, all alone with the girl of my soul!
+<lb/>There shouldst thou sing to us—
+<lb/>Tender and tremulous,
+<lb/>Happy our hearts with a love unexpressed.
+<lb/>Sweet little fairy bird,
+<lb/>Gentle Canary bird,
+<lb/>How wouldst thou be by that dear girl caressed.
+<lb/>William Gibson, U. S. Navy.
+<lb/>A College Reminiscence. 
+<lb/>During the month of July, in the year 183-, there were some remarkably pleasant afternoons. I am not sure that this is the most approved mode of opening a story, (?) but I speak of the quality of the weather, because I think it well to start fairly in this respect before giving affairs a local habitation and a name. And I now prefix to the said “ afternoons,” “ in the renowned city of Dorp, N. Y.” Good. There are three Colleges in Dorp; but they compose but one institution. Tria juncta in uno. One of these buildings is in the heart of the city, and the other two are situate on the brow of a gentle acclivity some quarter of a mile eastward, standing distant from each other a few rods, and each being perhaps a hundred and fifty feet in length. In a lower room, in one of these last named ones, on one of those pleasant afternoons (the term fast drawing to its close) we sat, chum Ben and myself, ostensibly intent upon our lessons, but in fact sedulously laboring to maintain our eyes in a state of visibility. The day was rather sultry, the sky and air hazy, and nature seemed to have sunken into a repose as profound as that of midnight. Not a sound was to be heard; and from our window we might have looked abroad over green fields, and waveless waters, and motionless groves, and sleepy houses, in the dim distance, all composing a scene such as any glorious old painter would have delighted to feast upon. It was a day to rock asleep every faculty, mental and bodily. I was dozing in an arm-chair by the window, and fast becoming insensible—when I experienced a singular, though not unpleasant sensation, like that of a swift translation to a vast distance. I opened my eyes, and found myself by some mysterious means, in a great and magnificently furnished apartment, surrounded by a host of officers and retainers, all attired in a manner splendid beyond description, all exhibiting signs of the most violent agitation, and all bending their appalling looks upon myself alone.
+<lb/>Despite the abruptness of the transition, and the novelty of my situation, I could not help inly marveling at the facility of the change, as well as at the purpose of those by whom I was thus circumvented—when suddenly burst upon my ear a crash, as of a falling citadel, and one wild, prolonged, tremendous shout, like that of ten thousand thousand men, rushing to some sanguinary and merciless encounter. The whole vast edifice in an instan appeared to tremble like an aspen, and then all again was still as death. I gazed at those around me; and now their countenances were strangely calm and rigid. I gazed—and gazed—and still I saw the same fixed, unchanging, withering, glare of the myrmidons. No word—no sound disturbed the sickening silence. Each bore an unsheathed sword, and seemed as if only anxiously awaiting some signal at which to hew me into a thousand pieces. My wonder began to turn to mortal fear. I was entirely unarmed; though, had I had a hundred stout soldiers at my back,
+<lb/><pb n="402"/>
+<lb/>knew that resistance would be utterly fruitless. I made attempt after attempt to speak, and each time my voice stuck in my throat. I shook, I tottered, and was falling—when burst another thunder sound, far louder than the first, and followed by a single, soul-piercing scream, that ran through me like fire. My terrible confronters raised a deafening shout, and rushed with one accord from the room. But one remained; and he, apparently their chief, advancing a few steps nearer me, cried, “Traitor, thy doom is well nigh sealed. Thy foul conspiracy hath ripened, hath broken forth, and will perchance subvert the throne. But thou, thou at least, art a worthy precursor of thy master to the grave!”
+<lb/>As I saw no manifestation on his part of an intention to be the immediate fulfiller of his announcement, I essayed, (and this time I accomplished it) to ask a solution of his words, and of the ter-rible sights and sounds I had witnessed and heard. He deigned no direct answer; but from his passionate and incoherent ejaculations I was able to gather, that a most sudden and awful revolt had broken out against the mightiest monarch of earth; that his palace (in which I was) had been assailed, his guards butchered, an entrance effected by the insurgents within the outer walls, that the king was in his highest and innermost chamber, barred and bolted—vain obstacle to the murderous onslaught of such a murderous horde as was fast approaching!—and that I, I was the proven machinator and maturer of the horrid plot. I was terror-stricken, but perfectly aware of the uselessness of any endeavor at explanation. All other thoughts and considerations were merged in those of an inexpressibly intense fear and desire of instant escape from my present torture.
+<lb/>Strange! but in the very depths of my despair, I resorted to successful trickery. I gave a nervous leap, uttered a loud cry, and, with the energy of one who hunted almost to the death, and on the verge of utter hopelessness, sees a glimmer of possible escape, I pointing to a spot directly behind my adversary, sueceeded in momentarily averting his face. I had observed a door partially open, three or four feet to my left, and through it I now flew with the rapidity of an arrow, closing it behind me. As it shut, I distinctly heard a spring on the side where I stood, fasten it. Thank God, I was safe from my more imminent tormentor. How my heart quivered with the conviction!
+<lb/>I was in a long, dark, narrow passage, at the further extremity of which gleamed a streak of faint, white light. As my way was straight, I consumed little time in traversing the intermediate space, and soon found myself in a small apartment, the walls of which were cutup by apertures of all sizes, some of which admitted light. I took the one opposite where I entered, and hurrying on a short distance further, came to another and much more spacious room; and so light that, coming into it suddenly, my eyes were for a moment completely dazzled. I paused an instant to recover, and then observed that I was at the bottom of a broad flight of stairs, covered with the most brilliant carpeting. Involuntarily elevating my sight, I looked up—and up—and far up those stairs, which were of an almost incredible length, and sparkling all the way with the same rich covering; and there, at the very edge of the summit, in broad day, every feature distinctly visible, with terrible mien, and his right hand upraised on high and grasping a glittering battle-axe,—there, his gorgeous purple robes glowing in the flood of light that burst upon and around him—there silent, solitary, and like some surpassingly glorious minister of retributive justice—there towered that mighty monarch! I felt his burning eye-glance; I almost heard the beating of his heart. I perceived his recognition of me as his destroyer, and would have bartered worlds, had they been at my disposal, for the ability to stand beside him, and ease my bosom of the horrid load that was
+<lb/>crushing it. And I could not stir a finger! I tried to cry out— to make a sign with my hand—but I was spell-bound and powerless. With painful exertion I withdrew my gaze, and once more looked about, to discover some avenue for flight; but in vain! There was no aperture except that through which I had come.
+<lb/>I thought it better to starve and die in that gloomy passage, than remain where I was; and was preparing again to seek it, when I heard a far-off jarring noise, succeeded by the sound of footsteps rapidly approaching. It flashed across me that my fearful enemy had forced the door I had closed against him, and was coming upon me where I could offer no show of resistance. I again looked up—and again met the same dread monarch-terror, now poising his upheaved axe in attitude to hurl it—the shadow of a frown flitting athwart his noble countenance, and his eyes glistening with an expression of unmingled malignity. His form trembled, his nostrils dilated, his lips parted; and, throwing further back his right arm with the might of a giant, he launched at me the awful missile! I saw him swing it once—twice—and oh! how intolerably bright it gleamed!—thrice—and it was on its descent.
+<lb/>Immediately before this, I had been in agony indescribable. My memory was incoherent, almost to frenzy. Sometimes I thought it might all be some dreamy illusion that would shortly pass away. Then the emotions that swept across me with horrid rapidity, chased away the thought, as the tornado whirls the feather. Then, again, if I could remove but a very—very little, I would be temporarily safe. And then came, nearer and more near, distinctly, and more distinctly echoing, those fearful footfalls. All this of course transpired in a few seconds, intermediate the first and last demonstrations of his fell intention; and there it came, that axe—I saw its stream of glancing light—and on the instant heard a short, shrill whistle, and then a cleaving crash behind me. He had missed me!
+<lb/>Ha! I felt the presence of one I had so lately eluded. He was upon me, and I durst not turn to meet him.
+<lb/>There—there once more pealed a last, terrible roar, like the giant bellowings of a thousand thunders! It died away. And he who now stood by my side, shouted—shouted out a laugh like the laugh of a hell-fiend. The monarch-terror caught it up. He laughed—and it sounded in my ears like the trumpet of doom. It was caught up by hundreds, by thousands, by myriads, whom I could not see, and who were, I could not guess where. My anguish overpowered me, and I sank prostrate.
+<lb/>The concussion was severe. I awoke without delay, and ascertained distinctly that I had made a descent upon the floor. Of course I next arose; and on further examination learned that I had undergone all these shocking vicissitudes in less than a half-jhour. Next I naturally went to the window to take a view of  things external—and the first objects that attracted my atten-tion, were, a few feet directly below me, on the stone- pavement running the whole length of the College, (unusual  sight!) the mangled remains of two particularly aged cane bot-tomed chairs, beautifully locked together in death; a huge mass  of tightly bound papers, an old table, (of yore covered with green baize), two legs and part of the top of an antique bureau, and some few other such like specimens of architecture; all which had been gratuitously dismissed from further service by some beneficent individuals in the fourth story. This curious compilation had evidently been just made, and ten to one not yet received its last accession. The noise unavoidably incident to its formation, was the noise with which I had so recently been stunned. The shouts, and the dread demoniacal laughter, had been the hurrahs and cachinations of my friends above, as this work progressed. I aroused my sleeping chum, and having
+<lb/><pb n="403"/>
+<lb/>pointed out the condition of matters, began discussing the philosophy of dreams. Telling him in few words, the most prominent incidents of my own, and its seeming length, I was about to hazard the opinion that I had not slept over five minutes—when down came a supplemental chair to swell the aforesaid pile.
+<lb/>Now the monotony of the afternoon had been broken by some few fellows above, with little previous ceremony, and less regard for the sleepers below; and as the wherefore was at present altogether inscrutable, and as a person in such a state of half lethargy and indifference to anything that fails to appeal to the auditories, is far more easily incensed than at other times, we unanimously voted the whole affair a bore, and that an immediate investigation be instituted. But crack came down again, rather more obstreperously than their predecessors, another and a huge table, and an antique hat. Again, slam bang—and there lay ejected from another upper room, the skeleton of an unlucky bedstead. Probably the first fall had been the result of accident; but the affair had now assumed a very different aspect. Anon descended a feather bed, cheered on by reiterated shouts. All of the upper strata were aroused: and every one feeling it imperative upon him to contribute his mite, cast out some piece of furniture or another. It became a perfect storm of nondescripts— papers, tables, chairs, benches, beds, bedsteads, book-cases, hooks, bowls, pitchers, etc., and finally, as a close-up, from some of the loftiest rooms, down came, with a crash upon the stones just beside the heap, a massive Nott stove, shattered into fifty pieces. It was amusing to observe the varied compound—and still more so to see a flaming brand descend right into the midst, and ignite it with a suddenness and facility that was surprising. A finer victim for the fire can scarcely be conceived. I shall never forget the curious scene. I suppose there was scarcely an individual in all the front rooms, who had failed to help form the structure—and all without the most remote idea of its ultimate destination, and at the sacrifice too, of some articles that at any other time could not have been well spared, it had been done in an amazingly short time. No matter. Away blazed the fire, up rolled the smoke in dense volumes; and the students now looked; on in mute and grim satisfaction at the catastrophe of the drama.
+<lb/>Rattle, rattle, rattle, came the College engine, and puff, puff, puff, came our major-domo, old Pat, and the mighty few unfortunates whom he had pressed into the service, from afar, having presumed the occurrence of something quite horrible. Down they bore, with a zeal most decidedly worthy a better cause; till, turning a short angle, they came plumply upon the scene, tugging and straining and blowing and hurraing in glorious style. For a moment they seemed stupefied with a sense of the ridiculous figure they were cutting; and I verily think they would, had not some master-blow been struck, have unanimously flung up their high trust, and vacated the premises. But Pat, really no mean statesman in affairs of this sort, and kicking at the prospective imputation of having been so taken in and done for, took up the office of director-general with his most majestic air. Calmly elevating his eyes, and looking envenomed daggers at those grinning upon him from every window, he remarked, loudly enough to be distinctly audible some indefinite distance beyond the College, “that he was quite well advised, before starting, of the nature of the fire; that he had come to save the building from the destruction that certainly threatened it,” &amp;c.; and concluded with a vigorous exhortation for them to remit their mirth, and aid in extinguishing the flames.
+<lb/>The reply was as ready as it was unequivocal; consisting of divers streams of water, boots, shoes, tobacco-pipes, and a profuse aspersion of opprobrious epithets “too numerous to mention.” However, as none of these materially harmed him, and
+<lb/> as he saw that all hope of assistance was futile, he completed  his engineering arrangements, and with his cohort began lustily  playing away, much about the time when all that was con-sumable had been consumed. Still he played away among the embers, and finally succeeded in kicking up a cloud of steam and ashes, and giving the last faint spark its everlasting quietus. Which consummation attained, with a sudden twist of the pipe, he bestowed upon ten or a dozen of the most uproarious lookers-on, a sprinkling gratis, nervously observing “there.”
+<lb/>Some two or three Professors had by this time arrived; and, in conformity to their suggestions, (the genial offspring of a few moments’ grave and confidential conference,) Pat and his adjuncts made a retrogressive movement—considerably more silent than their onset. And soon after, the drenched fragments were removed, the engine right carefully replaced, and the Professors leisurely returned to their studies and the Students to their books, and all was as tranquil as at the moment before the tumult.
+<lb/>The next recitations were remarked to be rather severe; and the Tutors, laboring under an unusually onerous sense of their responsibility, seized every convenient occasion to manifest their partiality for well-recited lessons, and their reprobation of the reverse. Still, like most other sublunary afflictions, this proved to be but temporary. And as the “young gentlemen” made for a season somewhat closer application than common, soon all things went on as ever before, and the affair was forgotten.
+<lb/>*****
+<lb/>And those days are gone—are passed away, forever and forever. And other footsteps cross those thresholds—other voices sound within those walls—other tenants be there of those well-remembered rooms. And between those who were wont to meet in one small recitation room, day after day, month after month, year after year—between them now, broad-cast over God’s great earth, do mountains rise, and oceans roll, and silent deserts spread. And of the old Professors, some are gone; and their places are filled by strangers—no doubt as kind, no doubt as competent, but yet not the same! Much, very much is changed. Still, could the class of 183- be once again convened in the old chapel as of yore, every member in his same old seat, how would their hearts heave with a multitude of undefinable feelings, and the tear start at the up-gushing tide of holiest memories!
+<lb/>R. S. Rowley.
+<lb/>The Enternal Father
+<lb/>Suggested by a picture, entitled thus, by Guercino, which hangs in the Brignole palace at Genoa.
+<lb/>I.
+<lb/>A hoary old man—old exceedingly,
+<lb/>But not distinguished otherwise from all Men aged—wanting not in dignity,
+<lb/>Nor yet sublime nor supernatural:
+<lb/>An old man—brooding blindly o’er a ball Held in the hollow of an angel’s hand:
+<lb/>A painting—who or what the original?
+<lb/>Some seer or wizard gray without his wand?
+<lb/>The “Eternal Father!”—whom are we to understand?
+<lb/>II.
+<lb/>Why, God the Father! Holiest and Most High!
+<lb/>Where Christ the son is pictured I have been,—
+<lb/>Have seen, irradiate with divinity,
+<lb/>Like lustrous shrines illumined from within,
+<lb/>His mortal form and face and godlike mien,—
+<lb/>Have seen, and felt my lip grow tremulous,:
+<lb/><pb n="404"/>
+<lb/>And scarce could see for tears:—it were a sin To gaze unmoved. But this is impious—
+<lb/>Worse than absurd to paint Pervading Power thus!
+<lb/>III.
+<lb/>Conceptions so dishonoring the Ideal Well may the poet chasten with his rod:—
+<lb/>Embodying under signs of Age the real On the imagined attributes of God!
+<lb/>Up to the loftiness, of His abode,
+<lb/>Lonely though large as space, thought dare not climb! None tread His courts who are not seraph-shod!
+<lb/>Yet there, even there, ’twould seem, the touch of Time Palsies His power—Himself Eternity sublime!
+<lb/>IV.
+<lb/>A shadowing forth of what is shadowless—
+<lb/>Of a pure spirit, unlike visible light,
+<lb/>Yet whence the day-spring and the beams which bless Earth with its all of beautiful and bright,
+<lb/>Have emanated—which, when all was night,
+<lb/>Said “Let there be light and there was light!” Lo!
+<lb/>Doth it not burst here, sun-like, on your sight?
+<lb/>Is it not glowing in this picture? No!
+<lb/>Let live thy lightning, Heaven! or bend thy beauteous bow!
+<lb/>V.
+<lb/>Hence with the thing! for Him the sunbeam’s finger Could draw not in the hues of morn and even:
+<lb/>Yet would I on the theme a moment linger.
+<lb/>We see revealings in the light and leven:
+<lb/>But when the veil from earth and sky is riven,
+<lb/>And we stand bodiless in Eternity,
+<lb/>Shall we not gaze upon, in midmost Heaven,
+<lb/>In spirit, face to face and eye to eye,
+<lb/>The living God and live?—The Soul can never die!
+<lb/>VI.
+<lb/>God was in the beginning and before:
+<lb/>And we with Him are co-existent—we Flow from the fountain, and forevermore Shall swell the waters of the mighty sea,
+<lb/>Which rolls and circles to infinity!
+<lb/>We are the sons of God:—all spirits are Of one pure essence, though obscured they be!
+<lb/>With wings that bore us hither from afar We shall go heavenward hence, as fleets the Morning Star.
+<lb/>Wm. Gibson, U. S. Navy.
+<lb/>Critical Notices.
+<lb/>Letters and Speeches of Oliver Cromwell. By Thomas Carlyle.
+<lb/>In 2 vols. New York: Wiley &amp; Putnam.
+<lb/>A most valuable work this is—from the intrinsic merit of the letters and speeches it contains, and not from the rhapsodical, really run-mad comments of Carlyle. Yet, even with this addition, the work is a desirable one. No published memoirs, that we have yet seen, so clearly exhibit the man Cromwell, the hold, iron-willed ruler, as these transcripts of his inner soul. Now, that attention is called to the man and his times, by the discussion concerning the propriety or impropriety of placing his statue in the new Parliament House of England, his letters and speeches become of a double interest.
+<lb/>The character and purposes of Cromwell seem to have been as singularly misunderstood as those of the third Richard. Cromwell was an ambitious, bold and unscrupulous man, who changed through circumstances. At first he was a republican, and bent his whole energies and his giant intellect—giant even among the intellectual Anakims of that day—to achieve a model
+<lb/>commonwealth. But, once obtaining power, he naturally grew to be a tyrant. He was, for all that, a good king, so far as the external interests of the country were concerned; and his politic administration of public affairs contrasts favorably with that of any king who preceded or followed him on the English throne. We call him “king,” for, lord protector only in name, he was monarch in fact.
+<lb/>We always esteemed Cromwell the more for the manner in which he routed that scum of hypocritical rascals, the Rump Parliament. It is a pity for his memory that a man like Carlyle should have engaged in the edition of his letters and speeches, and we recommend readers to note only the text of the book before us, and let the comments alone.
+<lb/>The volume is very neatly got up, as all of the series—Library of Choice Reading—of which it forms a part, are.
+<lb/>The Pilgrim in the Shadow of the Jungfrau. By Geo. B. Chee-ver, D. D. New York and London: Wiley &amp; Putnam.
+<lb/>Dr. Cheever dedicates his book to Richard H. Dana, whom he calls, in the dedication, “the poet of ‘Daybreak’”—why, we cannot for our life conceive. The book itself is Cheeverish—if we may coin a phrase—in the extreme. It has a great deal of descriptive merit, is full of blunders of composition, and abuses the Catholics right roundly. The quotations made, and frequently introduced, show considerable taste.
+<lb/>The Lady of Milan, or Fidelity unto Death. Edited by Mrs. Thomson, Author cf “ Widows and Widowers,” “ Ragland Castle,” “ The Chevalier,” Ifc., life. New York: Harper &amp; Brothers, 82 Cliff street.
+<lb/>A work abounding with stirring incidents and some force. The characters are very well made out. If our memory serves us right in this matter, this book is a rather free translation of “Marguerite Pusterhla”—a work which appeared in the numbers of “L’Illustration,” a year or two since. We liked it in its French and scarcely like it less in the present shape.
+<lb/>Blackwood’s Edinburgh Magazine, for December.—New York: Leonard Scott &amp; Co.
+<lb/>This is the American reprint. The present number contains Marlborough, Part II.—The Student of Salamanaca, Part II.— White’s Three Years in Constantinople—The Mountain and the Cloud—The Second Pandora—The Reign of George the Third— Passages concerning Omens, Dreams, Appearances, &amp;c.—A Mother to her Forsaken Child—Summer Noontide—To Clara— Seclusion—The Last Hours of a Reign—and the Scottish Harvest The papers are remarkably dull, and the poetry especially bad.
+<lb/>Harper's Illuminated Bible, No. 46.
+<lb/>This number contains the conclusion of the Gospel of St. John and the commencement of the Acts of the Apostles. We have already exhausted words of commendation in noticing this really standard and elegant work.
+<lb/>“The Aristidean for November.”
+<lb/>“The Aristidean for December,” by Thomas Dunn English and numerous collaborators.
+<lb/>These two numbers have been lying on our table for some time, and we have not been able to give them a proper notice. The November number contains some especially bold and racy articles—among the rest, a stirring tale called “Ferrando the Avenger.” The poetry is not so good as usual, which is a pity, as the “Aristidean” has hitherto held an unquestionable pre-
+<lb break="no"/><pb n="405" break="no"/>
+<lb/>eminence in that way. There is a queer paper, “The Dearborn Poems,” which contains some piquant satire. The article on “ American Poetry,” is very biting, but, unfortunately, very true. There is a very able and dignified article “On the Penalty of Death.” The book notices are spirited and independent, and the remaining articles are above the mass of magazine papers, in quality. One of these we extract below; we believe it to be from the pen of Herrman S. Saroni. It is, unquestionably, very original, in conception and execution.
+<lb/>THE SELF-PERFORMERS.
+<lb/>“Bravo! bravissimo!” cried the audience, as they left the concert-room of the Conservatoire at Milan. A symphony, by a new master, had just been performed. The public had expected nothing; and so much were they surprised at the beauty of the new composition, that after an hour of intense silence, they could vent nothing but ejaculations of delight. The young master, himself, yet sat pondering over the score of his favorite creation. He had, at length, accomplished his long-cherished object. A composition of his own had been performed, with distinguished success, before a critical and intelligent audience. Intoxicated with success, and yet dizzy from the thunders of applause, he read the score over and over again, with intense admiration. His eye beamed with pleasure, and all his troubles seemed forgotten. He blessed the old schoolmaster who had beaten counterpoint into him. With deep pleasure he brought to mind the petty strife with his little Mary, who, when he was tired of the study of music, always urged him to renewed exertion. “Oh! Mary,” thought he, “were you only here to witness the triumph of your Carlo.” He was interrupted in his musing by a strain of his symphony, which he thought he heard in the distance. “I must be mistaken,” said he, “it is the air through a half-opened window, sighing against the instruments around me. Hark! another strain. It is the adagio of the first part, coming nearer and nearer. I can now hear the different instruments distinctly.”
+<lb/>It was indeed an attempt to perform the adagio of the symphony. A rustling was heard in the orchestra. The musicians had left their instruments behind; and the forgotten things chose to have a little performance on their own hook. While the horns and trumpets were getting out of their chests, the flute was conversing with the oboe and clarionet, the fagotti gave his opinion of the merit of the composition—trying a snatch of it now and then—and even the piccolo, spoke up at the highest pitch of his voice. Next, the contrabasso, first in a gentle murmur, then in a serious grumble, and at last, in quite angry thunder, reproached them with mutilating the work of his favorite composer. Supported by the violins, violoncellos and violas, he at last gained the desired point over the assembled wind-instruments; and they ail agreed to perform the symphony over again, under the direction of the venerable double-bass, himself. They yielded, on the condition that one of the first-violins should assist in the direction. The instruments were tuned, the double-bass placed himself at the leader’s stand, and a first-violin part served as a partition. The baton was raised, and with a tremendous crash, the orchestra fell in.
+<lb/>The flutes, clarionet and fagotti, first played a passage in inverted chords and double-harmonies. “Double-bass!” cried the leader, after a few minutes—A, D, E, F; but no double-bass was to be found.
+<lb/>“Ha, ha, ha!” chuckled the oboe, “does the fool think that some one else will play his part? As for me, I shall not, for one; but perhaps the piccolo will be kind enough to do the job.” But the piccolo was too high in pitch, the bassoon had plenty of solos himself, the violoncello was too weak, the corni could not play the chromatic scale, and the trombone was altogether too loud. A general confusion ensued, and the whole affair had like to have been broken up, when a tap by the leader brought all to order again.
+<lb/>“Gentlemen,” said he to the orchestra, “I forgot, when I undertook to lead, that l could not play at the same time. But it will never do to give it up so,’ and we must find means to perform this symphony in a manner worthy of ourselves.”
+<lb/>“Bravo! bravo!” was the reply of the orchestra.
+<lb/>“If that stupid old fool had sense enough to take a part, all would go well yet,” said the bassoon, pointing to a venerable, worn-out double-bass, who rested on the laurels he had won in former years.
+<lb/>The composer, trembling all the while for the fate of his darling symphony, no sooner perceived the old double-bass in the corner, than seizing the first bow he could find, he grasped the “stupid old fool,” by the neck, and took a stand near the violoncello.
+<lb/>“Bravo! bravo!” screamed the orchestra. The leader turned round, nodded his approbation, and rapping with his baton on the tin, called out—“Symphony da capo!”
+<lb/>The introduction and first allegro were now performed. All went on well, except that the oboe and the flute quarreled on a fortissimo passage, because the flute found the oboe rather too noisy and harsh.
+<lb/>“Bravissimo, young man,” said the double-bass to the young maestro. “It is a pity you had not stronger nerves; what a capital double-bass you would make.”
+<lb/>“How beautifully he has written this passage for me,-’ said the clarionet.
+<lb/>“He writes for me almost as well as I could for myself,” said the saucy piccolo.
+<lb/>The instruments were tuned again, and at a signal from the leader they resumed their proper position. The violins leaned against the music-stands, the trombone hung itself on a chandelier, the violoncello rested on a small bench, and the others chose such positions as best suited their inclinations. The andante began with two corni, followed in succession by the fagotto, oboe and flute. The oboe came in one bar too soon, but a gentle thump from the fagotto reminded her of her whereabouts, and set all right again. The theme began by the corni, was carried through by the different instruments, and ended with a crescendo de crescendo on the drums. No ! no! there are the stringed-instruments, with three chords pizzicato. Another pleasant nod from the leader was the reward of the composer, from whom the perspiration now ran in a stream.
+<lb/>“Hurrah for the scherzo” cried the trumpets; “plenty of work there for us.”
+<lb/>“Hurrah for the scherzo P’ responded the violins, “our fingers will have no time to freeze, there.”
+<lb/>“ Hurrah for the scherzo blasted the trombone.
+<lb/>“Hurrah!” groaned the double-bass from the leader’s stand. The scherzo began. All went on peaceably for a short time until the flute, thinking the piccolo was out of time, gave the latter a kick, which sent him half-a-dozen yards from the stand. But the piccolo took his part with him, and getting a stand near the violins, screamed away to his heart’s delight. His new neighbors, unaccustomed to such a noise in their vicinity, got angry; and a pinch in the sides from one of them, completely overturned the piccolo’s ideas of high and low. The unfortunate wight ran from one place to another, in despair, though never omitting to take his part with him, and play, whenever he thought it his turn. At length he popped into one of the holes of the double-bass, and thus protected from the persecutions of his comrades, reflected on his singular in the belly of a double-bass, like that of Jonah in the inside of the whale. But if he thought himself safe here from persecution, he was mistaken; for not a minute had elapsed, when in peeps the head of the oboe, and the body soon followed.
+<lb/>“All safe here, brother piccolo?” inquired the new-comer.
+<lb/>“All right, sister oboe,” answered the other; “but how, in the devil’s name, did you come here?”
+<lb/>“In the same manner as I shall send you out, presently, if you do not behave yourself.”
+<lb/>“Well, I had a great mind to laugh, when I saw you squeezing yourself through that hole there, an aperture almost too narrow for my slender figure; but a passage I had to play, in octaves, with the flute, just then prevented me.”
+<lb/>“And very well for you,” said the oboe, “or you would not have enjoyed this place, snug enough for even decent people, like myself. Now, sir, look to your part, and disturb me no more.” They both played on for some time, when the oboe had sixty bars rest. “Come, brother,” affectionately said the oboe, “let me tell you what sent me to keep company with a screamer like you, in this accursed place, where the most sentimental passages sound like the voices of demons from the infernal regions.”
+<lb/>“I cannot say that of myself,” replied the piccolo. “I think they know out there where my domicile is.”
+<lb/>“Ah!” exclaimed the oboe, “there is my turn again. Not for the world could I miss a single note of that symphony, for I mean to make that young fellow, its author, write a concerto for me.” The next rest for the oboe gave her a chance to continue her narration, for the piccolo was then as busy as a bee. It appeared
+<lb/><pb n="406"/>
+<lb/>that the trombone, who, as we have stated, had hung himself on a chandelier, thought he heard a wrong note. He listened attentively, but could discover nothing, until the oboe, playing a passage out of time, he could distinguish her voice easily; and such playing was more than he could bear. His blood boiled with rage; but he reserved his revenge for a more favorable opportunity. Presently a fortissimo passage gave him a fine chance, and with a tremendous blast, he sent the oboe—poor thing! heels over head, against the violoncello. The blast was so powerful, that she rebounded; but, most unfortunately, leaped right into the funnel of the horn. This, of course, threw a damper on the spirits of that instrument, and lowered it a semi-tone in pitch. Enraged at what it deemed to be a malicious trick, the horn played with double force, until the oboe was driven out, and sent, by a strong blast, right into the arms of the drum, and such a flogging as it received there, one cannot imagine. A fortissimo tremolo gave a good chance to the drum to take revenge for those tricks, played him by the oboe, on many occasions. Breathless and exhausted, our poor sufferer at last found a shelter inside of the double-bass.
+<lb/>The violins, violoncello and double-bass, had no time to carry on a quarrel. Besides, they found it far beneath their dignity to mingle with the common crowd, since it was their duty to maintain the reputation of the orchestra. But the flutes, clarionets, second oboe, corni, trombones and trumpets had a jolly time of it. The trombone tried to drown the voices of all the others; hut, at the first chance, they combined against him, and nothing was heard of the trombone. At one time, he grew very angry, for he thought that the drum had spoiled the effect of a beautiful passage where he could blast ad libitum. So he took a long draught, on playing the double e’s, and tried to hit the sticks of the drum; but the latter was prepared for him, and, with one stick, took the other and hurled it at the trombone. The latter, bewildered with fright, threw the stick at the leader on the stand, and just then the scherzo ended. And none need suppose the scherzo to have been a failure; for this quarreling took place in the proper place, as the composer wrote forte, fortissimo, piano or pianissimo in the score, and all the fighting was done in the rests that occurred.
+<lb/>The scherzo being over, the oboe peeped out of one hole, and the piccolo out of the other; and encouraged by the benignant smiles of the stringed-instruments, ventured to return to their old places. The first bassoon taking them under his special protection, they were easily reconciled to the trombone and the rest. The leader returned the stick to the drum, the first violin put on a new E string, and in a few minutes all were ready to continue. Prestissimo was the appendix to the last part of the symphony; but the leader thought that presto, under existing circumstances, was as much as they were capable to do. The baton again sounded on the tin; and away they all went, tearing everything with them, in their eagerness to do justice to the spirit of the composition. The corni were the first, who—after playing a beautiful passage in 6-8 time, gave in—the trombones soon followed—and the trumpets, after a brilliant fanfare, with drum accompaniment, bade good-bye to the rest, and returned to their respective chests. The piccolo played on until entirely out of breath, and then fell, like a lump of lead, on the ground. Flutes, clarionets, oboes and bassoons bore up bravely; hut they could not resist the supernatural power which hurried them on to the yawning abyss—the end of the symphony. One more shriek, and they were silent as the grave. The stringed-instruments al one were now masters of the field. Encouraged by an occasional bravo from the leader, they fiddled and fiddled until a tremolo fortissimo set them raving mad, and an arpeggio chord put an end to their dominion. The leader laid down his baton, and fell in the arms of the young composer; and the latter, with the score in one hand, a bow in the other, and a double-bass on each side of him, was found the next morning by his alarmed friends.
+<lb/>We shall notice the December number next week, making it the basis of an article upon magazines.
+<lb/>Azthene.
+<lb/>A sound melodious shook the breeze,
+<lb/>When thy beloved name was heard;
+<lb/>Such was the music in the word,
+<lb/>Its dainty rhythm the pulses stirred;
+<lb/>But passed, forever, joys like these.
+<lb/>There is no joy, no light, no day.
+<lb/>But black despair, and night alway,
+<lb/>And thickening gloom—
+<lb/>And this, Azthene, is my doom.
+<lb/>Was it for this, for weary years,
+<lb/>I strove among the sons of men,
+<lb/>And by the magic of my pen—
+<lb/>Just sorcery—walked the lion’s den Of slander, void of tears and fears—
+<lb/>And all for thee? For thee, alas!
+<lb/>As is the image on a glass,
+<lb/>So baseless seems,
+<lb/>Azthene, all my early dreams.
+<lb/>Thomas Dunn English.
+<lb/>The Drama.
+<lb/>Park Theatre.—Amilie, with the Seguins, Frazer and Dela-vanti, has been performed at the Park during the past week. So soon as the drama succeeds the opera, we have some critical remarks to make upon the theatrical company attached to the establishment. Luckily, the contemplated performance of Richard the Third will afford us full scope.
+<lb/>Bowery.—Putnam, and dramas of that nature, occupy the attention of the patrons of this establishment, and crowded houses attest the tact of the management.
+<lb/>Olympic.—Mitchell continues to draw by his light pieces, and has of late produced some laughable novelties.
+<lb/>Chatham.—The chief attractions here are of the same nature as at the Bowery, and with the same results. There are one or two members of the stock company here who deserve especial notice—Mrs. Jones, for instance. She is an actress of positive merit in any character she assumes.
+<lb/>Our notices of the city theatres are necessarily brief in this number, in consequence of the change of publishers. Our remarks will be more extended in future.
+<lb/>Mr. Crisp and Mrs. Mowatt are still playing at Charleston with great success.
+<lb/>Our old favorite, Chippendale, with Conner and Mr. and Mrs. Skerrett, are at the St. Charles, New Orleans.
+<lb/>Mrs. H. Hunt is still at Albany, performing at the Museum.
+<lb/>The Museum at Boston is a very popular resort. Miss Kirby is the rage at present. Mary Ann Lee is at the Athenæum.
+<lb/>At the Vaudeville Theatre, St. Louis, a Miss Kate Meadows is performing with success.
+<lb/>The Keans are at the Chesnut-street Theatre, Philadelphia.
+<lb/>Miss Clifton is performing at Cincinnati.
+<lb/>The Fine Arts.
+<lb/>Mr. Fontana has postponed his Concert to Saturday, January 3. He will be assisted by Demoiselle Korsinski and Mr. Philipp Mayer. We have not heard Mr. F., but the opinion of those who are well able to judge is, that he is one of the most chaste players that ever have been in this country. His portrait does nor adorn the windows of the music stores in Broadway, it is true, nor have his friends presented him with a Biography of himself on his departure from Europe:—the ever-ready volunteer in white kid gloves has not even offered him his services yet, but, for all that, we do believe him a good pianist. Chapin, the celebrated composer and pianist, has dedicated to him several of his waltzes, and it is well known that these favors are not lavished in Europe
+<lb/><pb n="407"/>
+<lb/>upon every one who chooses to accept them. Mr. Fontana himself is the author of several beautiful compositions, and as he intends to settle here as a teacher of music, we wish him the best success in his profession.
+<lb/>The Herald of Monday last has a long article about Balfe’s “Bohemian Girl,"  the whole amount of which is, that the new is not good and the good is not new. We agree entirely with the Herald, only we are astonished that the writer should have come to this conclusion after the Bohemian Girl had been performed in this city more than forty times.
+<lb/>We have seen a new improved edition of the celebrated German song, “Ilerz mein llcrz, warum so traurig.” It is published with English words by Jonas B. Phillips, Esq., and a mistake most unfortunately occurred on the title page, for it says, “composed by Benjamin S. Hart."  We suppose it should have been "arranged," and we advise Mr. Hart to alter that as soon as possible, for it would only convey a poor opinion of Mr. H.’s capacities as a composer, whose pieces, until now, if not always good, were at least original.
+<lb/>A monument at the corner of 10th street and Broadway attracted our attention by something like the shape of a Square-Piano which surmounted a brief inscription. We think this is the first time that the Pianoforte came to the honor to be represented on a tomb-stone. The monument is intended for Mr. Coleman, the inventor of the celebrated “Pollan Attachment." If that monument could only revive the interest for the attachment as it does the memory of its inventor, all would be well; but it seems that even sooner than we expected, the public found out that some one, either the proprietor of the patent right, or the public in general was to be humbugged.
+<lb/>Mr. Burke, the violinist, played at the Concert of the Boston Philharmonic Society on Saturday last.
+<lb/>Mrs. Valentine Mott is going to Italy some time in the ensuing year. We have not the least doubt, that one quarter’s instruction from the best Italian masters will do her voice more good than all the criticisms of New York papers for years to come.
+<lb/>Rooke’s opera, “Amilie,” is now being performed at the Park theatre. The powers of the troupe seem to us rather inefficient for this opera, but we may be mistaken.
+<lb/>The Italian Opera will be revived again by English artists. How funny.
+<lb/>The Oratorio Jephtha, already mentioned in a former number of the Broadway Journal, will be brought out at last. Mr. John Hewitt is the composer of it.
+<lb/>Mons. Collinet, a distinguished flageolet player, will give a concert shortly.
+<lb/>The German Opera is dead. There was some talk of its resuscitation, but it appears to have been unfounded. In the meanwhile the newspapers are making merry over the fact that they were not paid for their advertisements. No cause of mirth—one would suppose—but it evidences a great deal of philosophy. Palmo, who also suffers, it would appear, does not bear his misfortunes with so much philosophy.
+<lb/>The French Operatic Troupe, with Md’lle Calvé, Madame Coeuriot—Stephen, Messieurs Bressiani, Desonville and Mon-tassier, are still at the Orleans Theatre. They are performing, among others, Halevy's “Heine de Chypre," and Auber’s “Domino Noir." They appear very wisely to confine themselves to operas, which are favorites with the public, and give a variety, which is, after all, exactly what the public want
+<lb/>I thought Kit North a bore—in 1824—
+<lb/>I find the thought alive—in 1845.
+<lb/>The Advice of “Twenty”
+<lb/>I traced a name on sand,
+<lb/>The backward wave left bare;
+<lb/>There melted music on the strand,
+<lb/>And ’twas no longer there:
+<lb/>I breathed on burnished steel—
+<lb/>It shone undimmed again:
+<lb/>I touched one heart—that heart could feel,
+<lb/>But only thus retain:
+<lb/>This is love—such is life—
+<lb/>Woo not woman for a wife!
+<lb/>Let passion not imprint With truth affections frail;
+<lb/>Let feeling flush as faint a tint As warms the tea-rose pale.
+<lb/>Fondly, while fancy-free,
+<lb/>Kneel—but beware the blight Of woman’s charms, if, worshiped, she True love will not requite.
+<lb/>This is love—love without Its distraction, danger, doubt.
+<lb/>The Greeks of rare perfume,
+<lb/>Of richest colorings,
+<lb/>Dreamed—and behold! the boy-god’s bloom—
+<lb/>The child with changeful wings!
+<lb/>Mine be young Cupid’s power,
+<lb/>Love’s pinion, not his dart;
+<lb/>To drink the nectar from the flower With an unpoisoned heart:
+<lb/>This is love—love more pure May but in the heavens endure.
+<lb/>Editorial Miscellany.
+<lb/>The Broadway Journal may be obtained in the City of New York of the following agents: Taylor, Astor House; Crosby, Exchange, William street; Graham, Tribune Buildings; Lock-wood, Broadway and Grand; and Burgess &amp; Stringer, Ann and Broadway.
+<lb/>A very few sets of the first volume are still for sale at the office, 304 Broadway.
+<lb/>VALEDICTORY.
+<lb/>Unexpected engagements demanding my whole attention, and the objects being fulfilled,"so far as regards myself personally, for which “ The Broadway Journal” was established, I now, as its editor, bid farewell—as cordially to foes as to friends.
+<lb/>Mr. Thomas H. Lane is authorized to collect all money due the Journal.
+<lb/>Edgar A. Poe.
+<lb/>One of the most wonderful pieces of mechanism ever produced through mental conception is now exhibiting at Philadelphia, and will be shortly to be shown in this city. We allude to the speaking automaton of Herr Faber—an invention, after seventeen years of labor, almost perfected by the ingenious inventor. It is not a machine to labor through easy words of two syllables, indistinctly made out at that. It enunciates distinctly, at the will of the performer, any words or combinations of words; and can even sing, in perfect imitation of a man. It has excited the attention of scientific men at Philadelphia; and their investigation has led them to implicit belief in its merits as a work of art.
+<lb/><pb n="408"/>
+<lb/>Professor Patterson and Dr. Goddard, savans of note in our sister city, introduced it, a few evenings since, to the public—the latter accompanying the introduction with a brief lecture on acoustics It is managed, externally, somewhat likә a piano. There are fourteen keys, each having a simple sound; and from these and their combinations all the other sounds proceed. Mr. Faber has determined that five vowel and nine consonant sounds are sufficient for the correct enunciation of any words in the English language. The consonants are b, d,f, g l, r, s, v and w, and the consonants a, e, i, o and u. There are two extra keys—one for the aspirate, the other for the nasal sounds. The mechanism is so perfect that the lips of the figure move and its nostrils expand naturally, as it speaks. The performer sits at his apparent piano, and plays out the conversation of the automaton. The voice has, however, a rather dry, sepulchral sound; but, as Professor Patterson remarked, “India rubber is not flesh”—not a very original idea, to be sure, but explanatory enough.
+<lb/>Mr. Faber exhibited this machine—not so perfect then as now
+<lb/>—in this city and in Philadelphia, three years since. Unknown
+<lb/>as he was, and having no scientific men to stand as sponsors to him, the invention was pronounced to be a deceit, although reflection would have convinced all those with power to reflect that deception was out of the question. So discouraged was Faber by his ill-fortune, that he burned his machine in utter despair. We believe he was even on the point of committing suicide, when Mr. Scherr, a kind-hearted piano manufacturer of Philadelphia, struck with the merit of the invention, rendered him assistance, and encouraged him in every way to reconstruct a more perfect automaton. The result is before the public; and we venture to say, that the people of New York will flock in delighted numbers—when the opportunity is afforded them—to view this curious triumph of human ingenuity.
+<lb/>There remains only one achievement—a machine to think.
+<lb/>JOHN H. GENIN,
+<lb/>FASHIONABLE HAT AND CAP ESTABLISHMENT,
+<lb/>21-1 Broadway.
+<lb/>JOHN BURFORD,
+<lb/>PORTRAIT AND LANDSCAPE PAINTER.
+<lb/>27 Dey Street.
+<lb/>DENTISTRY.
+<lb/>DOCT. H. E. SCHOONMAKER, Dental Surgeon, Office, 44G Houston st., two doors from Broadway—opposite St. Thomas’ Church.	
+<lb/>Doct. S.’s experience and skill in his profession give him confidence in asserting that his operations are unsurpassed by any Dentist in this city. Dr. S.’s manner of inserting artificial teeth varies in many essential points from the usual mode; and his success in pleasing all, he is happy to say, has brought him many difficult cases, which had been unsuccessfully treated by Dentists of established professional reputation, and whose prices for the same operation were double his own. The object in inserting artificial teeth is to supply the deficiency occasioned by the loss of natural teeth, both in regard to utility, comfort in wearing, and natural appearance. In all these points, Dr. S.’s manner is pre-eminent. His mechanical tact and ingenuity have enabled him to surmount many obstacles, which have long, with the profession generally, impeded the path to success in every operation. He makes use of the best materials in all his operations—and in cases where the gum has fallen away by absorption, (which is always the case, more or less, when teeth have been extracted,) which causes a contraction of the lips and cheeks, the disfigurement of which cannot be fully obviated without adopting the artificial gums, which will supply the deficiency, and give to the mouth its usual redundancy—besides, their beauty and natural appearance render detection impossible.
+<lb/>Dr. S. would be happy to refer those who require it, to many of the best families in this City, in which he has practised.
+<lb/>Ladies who desire it, can have their teeth examined at their residences, by sending their address as above.	nov8—9t
+<lb/>We should say, perhaps, there has remained; for certain books lately printed induce us to believe that some people think by a machine. By that, if it exist, and this wonderful reproduction of Roger Bacon’s brazen head, stump speakers and advocates can be provided at short notice for our political gatherings and our court ofs justice.
+<lb/>N. C. Brooks, A. M., of Baltimore, well known as a terse and vigorous writer, as well as a poet of much absolute power and refined taste, has lately been rendering substantial service to education, by preparing a series of works for the use of schools and colleges. Encouraged by the popularity of those already prepared, his publishers have issued a prospectus, which will be found in our advertising columns, for a series of Greek and Latin classics. From our knowledge of Mr. Brooks’s thorough classical acquirements and nicely correct judgment, we have full confidence in the success of the undertaking, and its consequent podularity.
+<lb/>We regret to observe that N. P. Willis and Geo. P. Morris— well known as “mi-boy and the Brigadier,” as well as by their literary works, have retired from the “Evening Mirror.” Mr. Fuller, however, remains, and will, no doubt, make a useful, as— we are happy to learn on good authority it is a prosperous— paper.
+<lb/>The last picture of Leutze brought to this country—“The landing of the Northmen,” was bought by the celebrated connoisseur, Mr. Towne, of Philadelphia, for eighteen hundred dollars. It was painted for the late E. L. Carey, but on his decease Mr. Towne, who is one of our most liberal and discerning patrons of art, obtained it.
+<lb/>JAMES PIRSSON,
+<lb/>PIANO FORTE MANUFACTURER, 88, 90, and 92 Walker Street, near Elm. A large stock of the finest instruments always on hand. Terms moderate. For Sale—a splendid Harp, nearly new—to be sold at a great bargain for cash.
+<lb/>PENMANSHIP,
+<lb/>EE-OPENING OF GOLDSMITH’S WRITING ACADEMY, 289 Broadway—La Farge Buildings, Corner of Reade street. Terms reduced to 'Three Dollars, and no extra charge.
+<lb/>Mr. Oliver B. Goldsmith respectfully informs the citizens of New York and Brooklyn, that his rooms are now open, during the day and evening, for Pupils and Visitors. Mr. G’s. specimens of PENMANSHIP
+<lb/>have received the First Premium Five Years, from the American Institute, and he guarantees to all, in TEN EASY AND INTERESTING EXERCISES, a free and elegant style of writing, that the pupils cannot possibly ever lose in their future practice.
+<lb/>For sale, at the Academy, GOLDSMITH’S GEMS OF PENMANSHIP.
+<lb/>Ladies’ Class meets daily at 11 o’clock. Gentlemen’s day and evening. See circular.	s18
+<lb/>WEDDING, VISITING, AND PROFESSIONAL CARDS Engraved and Printed at VALENTINE’S, 1 Beekman-st. Lovejoy’s Hotel.
+<lb/>G. B. CLARKE,
+<lb/>MERCHANT TAILOR, (from rundage, Broadway,) No. 132 William Street, 3 doors from Fulton, N. Y.
+<lb/>Dress Coat, from $12 00 to $20 00 Making and Trimming. Pants,	“	2	50	to	8	00	Dress Coat,	from $6 00	to $9	00
+<lb/>Vests,	"	1	50	to	4	50	Pants,	“ 1 50	to 2	00
+<lb/>Vests,	“ 1 50	to 2	00
+<lb/>N. B. Seasonable SACK COATS, VESTS, See., always on hand, from $1 50 upwards.	nov8—3m
+<lb/><pb n="409"/>
+<lb/>NEW BOOKS,	|
+<lb/>TO BE PUBLISHED BY
+<lb/>MESSRS. WILEY &amp; PUTNAM,
+<lb/>IN DECEMBER.
+<lb/>I.
+<lb/>Carlyle’s new Work. The Letters and Speeches of Oliver Cromwell, with Elucidations, by Thomas Carlyle, in 2 vols. 8 vo., with Portrait, engraved by F. Hall from an original by Cooper, in the possession of Archdeacon Berners. Also, 2 vols. 16 mo., in the  "Library of Choice Headings.”
+<lb/>II.
+<lb/>Stories from the Italian Poets, being a summary in Prose of the Poems of Dante, Pulci, Bolardo, Ariosto, and Tasso, with comments throughout, occasional passages versified, and Critical Notices of the Lives and Genius of the Authors. By Leigh Hunt, 16mo.
+<lb/>III.
+<lb/>The Book of Christmas. By T. K. Hervey.
+<lb/>IV.
+<lb/>Views and Reviews in American History, Literature, and Art. By W. Gilmore Simms.
+<lb/>V.
+<lb/>The Alps and the Rhine. By J. T. Headley.
+<lb/>VI.
+<lb/>Mrs. Southey's Poems. The Birth-day, and other Poems—Solitary Hours. By Caroline Southey, 2 vols. l6mo.—(Shortly.)
+<lb/>VII.
+<lb/>The Author of “ Undine.” Theiodolf the Icelander. By La Motte Fouque, l6mo.
+<lb/>VIII.
+<lb/>Tales from the German of Zschokke, second series. Illumination ; or, the Sleep Walker—The Broken Cup—Jonathan Frock — The Involuntary Journey—Leaves from the Journal of a Poor Curate in Wiltshire. By Parke Godwin.
+<lb/>IX.
+<lb/>The Vicar of Wakefield.—An edition on superior paper, with choice Illustrations by Mulready.
+<lb/>JUST PUBLISHED.
+<lb/>The Life of the Great Condi. By Lord Mahon, forming Nos. XXXIV. and XXXV. of “The Library of Choice Reading." dec 4	WILEY &amp; PUTNAM, 161 Broadway.
+<lb/>PAINE &amp; BURGESS, 62 J0HN STREET.
+<lb/>HAVE lately published—
+<lb/>1.	The Artist, Merchant and Statesman, 2 vols. 12mo.
+<lb/>2.	Trippings in Authorland, by Fanny Forrester, 12mo.
+<lb/>3.	Songs and Ballads, by Geo. P. Morris, 32mo. gilt.
+<lb/>4.	Prariedom; Rambles and Scrambles in Texas, or New Estre-madura, with a Map, by a Southron, 1 vol. 12mo.
+<lb/>5.	Autobiography of Alfieri, 1 vol. 12mo.
+<lb/>6.	Citizen of a Republic, by Ceba, 1 vol. 12mo.
+<lb/>7.	Florentine Histories, by Machiavelli, 2 vols. 12mo.
+<lb/>8.	Challenge of Barletta, by D’Azeglio, 1 vol. 12mo.
+<lb/>9.	Musical Spelling Book, by E. Ives, 1 vol. 8mo.
+<lb/>10.	Beethoven Collection of Sacred Music.
+<lb/>11.	Rambles by Land and Water, or Notes of Travel in Cuba and Mexico, elegantly illustrated, by B. M. Norman, 1 vol. 12mo. NEARLY READY,
+<lb/>1. Montezuma, The Last of the Aztecs ; an Historical Romance on the Conquest of Mexico, by Edward Maturin, 2 vols. 12mo.
+<lb/>2. Morris &amp; Willis’ Library of the Rose and Poetry of Europe and America, 1 vol. 8mo. An elegant and valuable Gift Book. 3. Old Continental, or the Price of Liberty; by the author of "Dutchman’s Fireside,” 2 vols. 12mo.
+<lb/>4.	Man in the Republic, by C. Mathews, 32mo. gilt.
+<lb/>5.	Musical ABC, for children, 16mo.
+<lb/>6.	Greece of the Greeks, by G. A. Perdicaris, late U. S. Consul at Athens, 2 vols. 12mo. illustrated.
+<lb/>7.	Musical Reader, 4to.
+<lb/>8.	The Prince, by Machiavelli, 1 vol. 12mo.
+<lb/>9.	The Musical Wreath, 4to.
+<lb/>10.	Over the Ocean! or Glimpses of Many Lands, by a Lady.
+<lb/>KNOX’S HATS.
+<lb/>THE FALL STYLE OF GENTLEMEN’S HATS are now ready for the season, 1845, which for lightness and superiority of color cannot be surpassed—which is a very important part of the hat, retaining the color till it is worn out Any article sold in this establishment is never misrepresented but sold for what it is. Also the Fall style of Boy’s and Children’s Caps, of various patterns. Gentlemen can have their hats made to order in any shape or style they wish. A full assortment of Ladies’ Muffs, of all kinds.
+<lb/>C. KNOX, No. 110 Fulton st.
+<lb/>nov 8—3m	between William and Nassau sts.
+<lb/>HUNT’S MERCHANTS’ MAGAZINE
+<lb/>AND
+<lb/>COMMERCIAL REVIEW.
+<lb/>Established July, 1839,
+<lb/>BY FREEMAN HUNT, EDITOR AND PROPRIETOR.
+<lb/>PUBLISHED MONTHLY,
+<lb/>At 142 Fulton St., N. York—at $5 00 per anmum, in advance.
+<lb/>THE MERCHANTS’ MAGAZINE and COMMERCIAL REVIEW embraces every subject connected with Commerce, Manufactures and Political Economy, as follows:—Commercial Legislation; Commercial History and Geograph ; Mercantile Biography; Descriptive, Statistical, and Historical Accounts of the various commodities which form the subject of Mercantile Transactions; Port Charges; Tariffs; Customs and Excise Regulations; Commercial Statistics of the United States and the different countries of the world, with which we have intercourse, including their Physical Character, Population, Productions, Exports, Imports, Seaports, Monies, Weights, Measures, Finance and Banking Associations, and Enterprises connected with Commerce, embracing Fisheries, Incorporated Companies, Railroads, Canals, Steamboats, Docks, Post Offices, &amp;c.; Principles of Commerce, Finance and Banking with Practical and Historical Details and Illustrations; Commercial Law, and Mercantile Reports and Descisions of Courts in the United States and Europe, including, Insurance, Partnership, Principal and Agent, Bills of Exchange, Sale, Guaranty, Bankruptcy, Shipping and Navigation, &amp;c., and whatever else should tend to develop the resources of the country and the world, and illustrate the various topics bearing upon Commerce and Commercial Literature.
+<lb/>It has been, and will continue to be, the aim of the Editor and Proprietor of the Merchants’ Magazine, to avoid everything of a party, political, or sectional bias or bearing, in the conduct of the work—opening its pages to the free and fair discussion of antagonistic doctrines connected with the great interests of Commerce, Agriculture, Manufactures and the Currency.
+<lb/> Complete sets of the Merchants’ Magazine, embracing 13 semi-annual volumes, of about 600 large octavo pages each, bringing it down to December 1S45, inclusive, may be obtained at the Publisher’s Office, 142 Fulton street, New York, at the subscription price.
+<lb/> Publishers of newspapers, in the United States, by giving this advertisement two or three insertions and remitting Two Dollars to the Proprietor, will be entitled to the Magazine for one year.
+<lb/>Office of Merchants’ Magazine, Jan. 1846.
+<lb/>Dec. 20.—5t.
+<lb/>JOHN ANDERSON &amp; Co.,
+<lb/>IMPOSTERS AND DEALERS IN
+<lb/>CHOICE SEGARS, and Manufacturers of Premium Tobacco and Snuffs—2 Wall, and 13 and 15 Duane streets, New York.
+<lb/>nov8—3m
+<lb/>TO MEDICAL MEN.
+<lb/>This day published, the London lancet for November, a Journal of British, Foreign, Medical and Chemical Science, Criticism and News—edited by Thomas Wakely, M. P. Surgeon, and Henry Bennett, M. D.
+<lb/>This is the fifth number of the second volume, containing, besides its usual quantity of valuable matter, the 2d Lecture of a series of Lectures on Organic Chemistry, by Justus Liebig.
+<lb/>Also, four additional Lectures on the Mechanism and Management of Natural and Difficult Labors, by Edward W. Murphy, A. M. M. D.
+<lb/>Terms—$5 per annum, in advance; single numbers 50 cents— mailed to any part of the United States, by
+<lb/>BURGESS, STRINGER &amp; CO.
+<lb/>222 Broadway, corner of Ann st.
+<lb/>P. S.—The postage to any distance on the Lancet is 6 1/4 cts.
+<lb/>J. BALLARD,
+<lb/>PROFESSOR OF THE GUITAR, SINGING AND FLUTE.
+<lb/>No. 15 Spring street.______________
+<lb/>UNITED STATES HOTEL.
+<lb/>THE PROPRIETOR OF THIS HOTEL, desires to return his thanks to his friends, and the traveling portion of the community generally, for the favors which they have bestowed upon him since he opened his establishment, and to assure them that he will spare no exertions to render his House worthy of the patronage of which he has already received so liberal a share.
+<lb/>H. JOHNSON.
+<lb/>Nov. 8th, 1845.	6m
+<lb/><pb n="410"/>
+<lb/>VALUABLE WORKS ON AGRICULTURE, ETC.,
+<lb/>RECENTLY PUBLISHED BY
+<lb/>HARPER &amp; BROTHERS, NEW YORK.
+<lb/>I.
+<lb/>THE AMERICAN SHEPHERD.
+<lb/>1 vol. 12mo. With Illustrations. Price 75 cents, paper; bound in cloth gilt, $1,00.
+<lb/>We regard this as the most valuable and important work for farmers that has appeared for a long time. We have examined it closely, and we do not hesitate to say it is just what is wanted by the sheep farmers of this country. Previous to its publication, the manuscript was submitted to the inspection of the Executive Committee of the N. Y. State Agricultural Society, and received the following commendation from that body; “The committee have great pleasure in recommending the work to the attention of wool-growers, and others interested in the breeding and management of sheep, as one containing a large amount of practical and scientific information on this most important branch of American agriculture.” The work contains a complete history and description of all the known varieties and breeds of sheep, illustrated with portraits of the principal kinds, with remarks on their comparative value for different purposes, their management in different countries and climates, their diseases, &amp;c. An appendix is added, embracing upward of twenty letters from eminent wool-growers and sheep-fatteners in different states, detailing their respective modes of management.— Ohio Cultivator.
+<lb/>This book is one of startling value. It was written by a practical man, who, for many years, has devoted himself to the rearing of sheep, with great ardor. He writes, in the practical portions of the work, what his own eyes have seen, and what his own hands have handled. It is written in a straight-forward, plain style; it is arranged with sufficient clearness, and gives valuable information on the subjects of which it treats. Whether a farmer keeps ten or ten thousand sheep, he ought to possess it.—Baptist Recorder.
+<lb/>This is the best work for the American farmer which has yet appeared on the subject of sheep-husbandry, and we believe it is the only elaborate treatise which has been written with peculiar reference to the methods required in the management of sheep in this country.—N.Y. Commercial Advertiser.
+<lb/>II.
+<lb/>ENCYCLOPAEDIA OF DOMESTIC ECONOMY.
+<lb/>1 large vol. 8vo. 1000 Illustrations. Sheep Extra.—Price $3,75.
+<lb/>The practical utility of this work commends it very strongly to public favor. It treats of various matters connected with domestic economy, in such a plain and comprehensive manner, that few can look over its pages, without finding something to interest them—something which will promote their comfort, and oftentimes prove of pecuniary advantage. In point of general utility this is, perhaps, the best work issued for some time.—Courier and Enquirer.
+<lb/>This is decidedly a book for the million; it contains all that precise kind of information adapted to the use of families, and which one may seek a long time for, in vain, elsewhere.—Evening Gazette.
+<lb/>This is one of those works which cannot fail to be of real utility to all classes who will take the trouble to turn to its pages for information.—Evening Post.
+<lb/>No one possessing the means to purchase, and capable of appreciating this Encyclopaedia, will fail to procure it It will render most important services in every family in which it is introduced.— Evangelist.
+<lb/>Those who are desirous of acquainting themselves with the way and manner of doing everything to promote the comfort of their families and friends, with the least possible trouble and expense, will find this work a valuable acquisition.—Seneca Courier.
+<lb/>III
+<lb/>TREATISE ON DOMESTIC ECONOMY.
+<lb/>Improved Edition. X vol. 12mo. Plates. Price 75 cents.
+<lb/>This is emphatically a useful book. It contains a vast amount of intelligence concerning mental and physical health, together with a great deal of information concerning the regulation of the household and the judicious disposition of time and means.—Sunday Times.
+<lb/>This volume is so well known, and so thoroughly appreciated, that we need only call attention to the issue of an improved edition. It is very generally adopted as a text-book in female schools. It has been examined by the Massachusetts Board of Education, and by them deemed worthy of admission as a part of the Massachusetts School Library—an honor which speaks for itself.—Evening Post.
+<lb/>If this work could be read, and studied ,and applied by all the young ladies of the land, it would certainly be the means of bringing about a new era, both in civilization and enjoyment. It touches every
+<lb/>point in domestic economy in which a young female can be supposed to be interested, and it brings out many points which are seen at once to be of great moment, but which would have escaped any other than the scrutinizing eye of a female philanthropist. We would recommend to every mother to provide her daughters with a copy of this work, and to enjoin it upon them as a sacred duty to read and ponder, and follow its excellent directions.—Evangelist.
+<lb/>I	IV.
+<lb/>AGRICULTURAL CHEMISTRY.
+<lb/>1 vol. 18mo. Half Sheep. Price 50 cents.
+<lb/>V.
+<lb/>ARMSTRONG’S AGRICULTURE.
+<lb/>1	vol. 18mo. Half Sheep. Prica 50 cents.
+<lb/>VI.
+<lb/>AMERICAN HUSBANDRY.
+<lb/>2	vols. 18mo. Half Sheep. Price $1,00.
+<lb/>VII.
+<lb/>THE FARMER’S INSTRUCTOR.
+<lb/>2 vols. 18mo. Half Sheep. Price $1,00.
+<lb/>VIII.
+<lb/>THE AMERICAN POULTRY BOOK.
+<lb/>1 vol. 18mo. Engravings. Price 35 cents.
+<lb/>IX.
+<lb/>THE COOK’S ORACLE.
+<lb/>1 vol. 18mo. Price 88 cents, x.
+<lb/>MODERN AMERICAN COOKERY.
+<lb/>1 vol. 16mo. Price 40 cents,
+<lb/>XI.
+<lb/>DOMESTIC DUTIES.
+<lb/>1 vol. l2mo. Half Roan. Price 75 cents.
+<lb/>Jan. 3. tf.
+<lb/>THE SECOND VOLUME OF THE ARISTIDEAN:
+<lb/>A JOURNAL OF REVIEWS, POLITICS, AND LIGHT LITERATURE—By Thomas Dunn English, and numerous collaborators—commences on the 20th of January, 1846.
+<lb/>The Aristidean is published monthly, each number containing 80 pages, octavo, printed on handsome white paper, with bold, clear type, at Five Dollars per annum, payable in advance.
+<lb/>The aim of the editor has been to establish a Journal of Art and Letters, whose papers should be distinguished for force, vigor, sarcasm and pith, rather than an unutterable and bathetic profundity; one, which should not fear to expose literary quackery, and give to writers a proper precedence; one that had the moral courage to praise an enemy’s good works, and censure a friend’s bad ones; one that would maintain a rigorous independence on literary, political and religious matters; one that would attack all abuses without scruple; one that was insensible to fear, and deaf to favor; and one that depended for success on the merit of its papers, and not on the names announced as contributors. If the editor may judge from the high panegyric of the press, and the more substantial evidence of an increasing subscription list, he has succeeded in his intention.
+<lb/>Those desiring to sustain an independent and fearless magazine will be kind enough to remit their subscriptions by mail, rather than through an agent.
+<lb/>THOMAS DUNN ENGLISH, decl3—tf	301 Broadway, city of New York.
+<lb/>CHEAP MUSIC.
+<lb/>HOMANS &amp; ELLIS have published the first No. of
+<lb/>THE MUSIC At. WORLD.
+<lb/>A Semi-monthly Magazine, containing sixteen pages of beautifully printed Music, and a Journal of Musical Biography, Criticism, and News.
+<lb/>Edited by Henry C. Watson.—Contents of No. 1.
+<lb/>I'll he There,—words by Fitzball—music by Herbert Rodwell. Let no thought of care oppress thee,—words by Charles Jeffreys, music by Bellini.
+<lb/>Far away in my own bright land,—	“	“ Bellini.
+<lb/>O cast that shadow from thy brow,—a beautiful ballad.
+<lb/>The sunny hours of childhood,—words by J. L. Carpenter— music by J. Hanowav, R. A.
+<lb/>The melodies of many lands,—words by Charles Jeffreys—music by C. W. Glover.
+<lb/>Price 25 Cents.
+<lb/>The second number of the Musical World will be published on the 15th inst.
+<lb/>In Press—Grand Galop, by Leopold de Meyer, with a portrait and critical biography, will be ready early next week.
+<lb/><pb n="411"/>
+<lb/>IMPORTANT WORKS,
+<lb/>RECENTLY PUBLISHED BY
+<lb/>J. &amp; H. G. LANGLEY, 8 ASTOR HOUSE.
+<lb/>I.
+<lb/>VON RAUMER’S NEW WORK.
+<lb/>America and the American People: being the result of the author’s recent travels through the United States. Translated from the German of Frederick Von Raumer, by Professor Wm. W. Turner. 1 vol. 8vo. 330 pp. Price $2.
+<lb/>II.
+<lb/>ELIZA COOK’S POETICAL WORKS.
+<lb/>New Edition, containing all her recent productions. Edited by Rufus Griswold. 1 vol. 12 mo., illustrated with a portrait and twelve exquisite English engravings. Copies in Morocco, super. $3 50—Cloth Gilt, $2 50.
+<lb/>“ This is a beautiful volume, splendidly bound, and still more elegantly illustrated, and combining some of the choicest poems in the language. The “Old Arm Chair” is one of the most popular poems, and has touched the hearts of thousands who never knew even the name of the author. She writes for the heart, and her beautiful songs always reach it. The book forms one of the most elegant holiday presents yet offered.”—Cour. fy Eng.
+<lb/>III.
+<lb/>MISS BARRETT’S POEMS.
+<lb/>The Drama of Exile, and other Poems, by Elizabeth B. Barrett, 2vols. 12mo., elegantly printed.—$2 00.
+<lb/>“Miss Barrett is worth a dozen of Tennyson, and six of Mother-well—equal, perhaps, in original genius, to Keats and Shelley— There are beauties enough in one of her poems to have made a fame in Waller’s time.”—Willis’ Evening Mirror.
+<lb/>IV.
+<lb/>GREGG’S SANTA FE AND THE PRAIRIES.
+<lb/>Commerce of the Prairies, or the Journal of a Santa Fe Trader. The personal observation of a trader, made on eight several expeditions across the Great Western Prairies, and during an almost uninterrupted residence of nine years in Northern Mexico.—Illustrated with numerous engravings. New Edition, revised by the Author. By Josiah Gregg. 2 vols. 12mo. $2 00.
+<lb/>V.
+<lb/>M. DE TOCQUEVILLF.’S GREAT WORK.
+<lb/>Democracy in America, by Alexis De Tocqueville. Third edition, in 2 vols. 8vo. Corrected and Enlarged, with an original Index. Translated by Henry Reeve, Esq., with introductory Prefaces, by the honorable John C. Spencer. Price $4 00 in muslin or sheep.
+<lb/>“This work is one of the most profound and philosophical ever writen upon the character and institutions of our country.—Boston Traveler.
+<lb/>“As a study of political science, this book stands unrivaled in our times; equally remarkable for lucidity of style, acuteness and delicacy of reasoning, and for the moral and intellectual vigor with which it has been conceived and completed.”—London Times.
+<lb/>VI.
+<lb/>DE TOCQUEVILLE ABRIDGED.
+<lb/>Designed for District School Libraries, Colleges, &amp;c. In accordance with the recommendation of several superintendents of District Schools, the Publishers beg to announce that they have just issued a condensed edition of the above standard work, adapted expressly for the use of District Schools, Colleges, &amp;c., to form 1 vol. 12mo. Price $1 00.
+<lb/>VII.
+<lb/>THE LIFE OF GENERAL FRANCIS MARION.
+<lb/>By W. Gilmore Simms, author of “ Guy Rivers.” &amp;c. &amp;c. Seventh edition, revised by the author, with numerous engravings, 1 vol. 12mo.—$1.
+<lb/>“Few characters have stood out more boldly on our Revolutionary Annals, or have supplied more interesting and exciting materials for the historian than that of Gen. Marion; and it is not saying too much to claim for the work before us no less the merit of accredited historical truth, than the most stirring and absorbing attributes of high-wrought fiction.”—Democratic Review.
+<lb/>VIII.
+<lb/>THE POETICAL WORKS OF PRAED.
+<lb/>Lillian, and other Poems, Fanciful and Facetious. By William Mackworth Praed. First collected edition. Edited by R. W. Griswold, 1 vol. 12mo., muslin,. $1 25.
+<lb/>“Praed was the Poet of Society, ‘ a fellow of infinite humor,’ and in scholarship and art, surpassed by none of the English poets of the age. Though many of his pieces have been almost universally read in this country, they have never yet been printed collectively either here or in England.”—Democratic Review.
+<lb/>PAINE &amp; BURGESS, 62 JOHN STREET,
+<lb/>WILL PUBLISH, IN A FEW DAYS,
+<lb/>THE ARTIST, MERCHANT, AND STATESMAN, Part I — This work is made up of the choicest and most original material on Fine Arts, Commerce, and Political Economy, by C. Edwards Lester.
+<lb/>PRARIEDOM ; Rambles and Scrambles in Texas, or New Estre-madura, by a Southron, 1 vol. 12mo. with a map. “ It is light and vivacious—filled with incident—easy and flowing in style, and brilliant in imagery.”—Evening Mirror.
+<lb/>THEY ARE PREPARING FOR PUBLICATION,
+<lb/>Songs and Ballads by Gen. G. P. Morris, 32mo. gilt.
+<lb/>Rambles by Land and Water, or Notes of Travel in Cuba and Mexico; including a canoe voyage up the river Panuco, and Researches among the Antiquities of Taumelipas, byB. M. Norman,1 vol. 12mo. illustrated.
+<lb/>The Greece of the Greeks, by G. A. Perdicaris, U. S. Consul at Athens, 2 vols. 12mo. illustrated.
+<lb/>Trippings in Authorland, by Fanny Forrester.
+<lb/>Montezuma, the Last of the Aztecs ; an Historical Romance of the Conquest of Mexico, by Edward Maturin, 2 vols. 12mo “This is an original American work.”
+<lb/>The Prince, by Machiavelli, 1 vol. 12mo.
+<lb/>Man in the Republic, by C. Mathews, 1 vol. 32mo. gilt.
+<lb/>The Old Continental, or the Price of Liberty; an historical romance, by the author of the “ Dutchman’s Fireside,” 2 vols. 12mo. NOW READY,
+<lb/>The Medici Series of Italian Prose.
+<lb/>The Autobiography of Alfieri, 1 vol. 12mo. Price 50 cents.
+<lb/>The Secret Thoughts and Actions of Genius, blended with the wildest adventures and strongest caprices.
+<lb/>The Citizen of a Republic; what are his rights and duties, by Ansaldo Ceba, 1 vol. 12mo. Price 50 cents. “ A book of condensed and rare thoughts, like diamonds finely polished and richly set.” The Challenge of Barletta, a Romance of the times of the Medici, 1 vol. 12mo.
+<lb/>“A gem gathered from the jeweled.mine of Italian romance.” The Florentine Histories, by Machiavelli, 2 vols. 12mo.
+<lb/>“The charmed records of the classic city of the Arno, by the master spirit of his age.”	nov 8
+<lb/>PIANO FORTES.
+<lb/>THOMAS H. CHAMBERS, (formerly Conductor to Dubois and Stodart,) No. 385 Broadway, will keep a complete assortment of the latest approved Grand Action Piano Fortes of the most superior quality; such as he is prepared to guarantee for their excellence of Tone, Touch, and External Finish, and to endure in any climate. A liberal discount from the standard prices. Fiano Fortes Tuned and Repaired. Piano Fortes always on hire.
+<lb/>PIANO FORTES,
+<lb/>CHEAP FOR CASH.—The Subscribers have on hand a handsome assortment of 6, 6 1/2, and 7 octave mahogany and rosewood Pianos, which they will warrant, and sell low for cash or approved paper.	GLENN, ROGERS, &amp; Co.,
+<lb/>Manufacturers, 152 Fulton street, east of Broadway
+<lb/>ÆOLIAN ATTACHMENT.
+<lb/>Herrmann s. saroni, professor of music, 116
+<lb/>Leonard street, New York, teaches the Piano Forte, with or without Coleman’s celebrated Attachment.
+<lb/>Ceneral Furnishing Hardware, Cutlery, Tools, die.
+<lb/>OSBORN &amp; LITTLE,
+<lb/>Importers and General Dealers in English, German, and American
+<lb/>HARDWARE, CUTLERY, &amp;.C.,
+<lb/>No. 33 FULTON STREET,
+<lb/>BETWEEN PEARL AND WATER STREETS, [Where the business has been carried on for eighty years past.]
+<lb/>CHARLES OSBORN. 	NEW YORK.
+<lb/>CHARLES S. LITTLE, 
+<lb/>Hardware, Cutlery, Nails, Locks, Latches, Butts, Screws, Anvils, Vices, Saws, Files, Shovels and Spades, Hollow Ware, Corn and Coffee Mills, Rivets, Pumps, Curriers’ Hones, Crucibles, Black Lead, Pots, &amp;c. See. Also, Genuine Haarlarm Oil. American Coopers and Carpenters’ Edge Tools, of Albertson’s, Conger’s, Barton’s Horton’s, Gifford’s, and other makers. Also, Cooper’s Truss Hoous.	nov8—3m
+<lb/><pb n="412"/>
+<lb/>CATALOGUE OF TEAS,
+<lb/>ON SALE AT THE TEA WAREHOUSE OF THE
+<lb/>PEKIN TEA COMPANY,
+<lb/>Importers of fine Green and Black Teas, No. 75 Fulton street, New York.
+<lb/>[The teas mentioned in this Catalogue arc done up in quarter, half-pound, and pound packages—the first, or inside wrapper is lead, the second wrapper is water-proof paper, and the third, or outside wrapper, is of Chinese rice paper. The company sell none but good teas, done up in this superior manner, ail of them grown in the most luxurious districts in China. Country dealers can select as small quantity of each kind as they like, and have them packed in one chest. These teas also come in five pound Chinese packages, called quattoons, a very convenient, fanciful and portable shape.]
+<lb/>Green Teas.	Block Teas.
+<lb/>Young Hyson, sweet cargo, 50               Pouchong, good, full flavor,	38
+<lb/>do do do do finer, 1/2	do	fine,	50
+<lb/>do do finer cargo, 75	do	very superior,	75
+<lb/>do	do	extra fine,	87 1/2
+<lb/>do	do . Silver Leaf,	1,00 Souchong, good,	38
+<lb/>Silver Leaf—Seldom sold,             do extra fine,	50
+<lb/>even by -large dealers, because of the very small pro- Oolong, strong, flavor fine, 50 fits made on its sale. This	Oolong—This tea is a great
+<lb/>is a very superior tea.	favorite, and gives universal
+<lb/>do do Golden Chop, Planta- satisfaction.
+<lb/>tion or Garden growth, 1,50	do	very fine,	62 1/2
+<lb/>Golden Chop — This is the	do	in one pound	and
+<lb/>finest Green Tea cultivated	half pound cattys,
+<lb/>in China. It is of the first	extra fine,	75
+<lb/>pickings, and excels all other
+<lb/>Green Teas for its delicacy      Ne Plus Ultra,	1,50
+<lb/>of flavor, strength, and aro- Ne Plus Ultra—This tea is ma. Heretofore this tea has	as fragrant and sweet as a
+<lb/>never reached this country,	nosegay. It yields a perfume
+<lb/>except in small lots, as pre-	that is truly delightful. It is
+<lb/>sents to importers.	of garden growth, and supe-
+<lb break="no"/>Hyson,* very fine,	75	rior	to	anything of the	kind
+<lb/>do Plantation growth,	1,00	ever sold	in this country.
+<lb/>Gunpowder, good,
+<lb/>do superior, [Read English Breakfast Tea, very “monstrous fraud”	fine, 50
+<lb/>below,]	1,00 do	do do in
+<lb/>do small leaf, planta-	one pound and half pound
+<lb/>tion growth,	1,25	cattys.	62 1/2
+<lb/>Imperial, good,	—
+<lb/>do brisk and fragrant,                 Howqua’s Mixture, a strong [Read “monstrous	and rich black tea, Pekoe.
+<lb/>fraud ” below,]	1,00	flavor,	75
+<lb/>do curious leaf, very Congo, good,	37 1/2
+<lb/>superior.	1,25	do very fine,	50
+<lb/>Hyson	Skin, good, fine flavor, 38       Pekoe Flowers, good,	87 1/2
+<lb/>do	do extra fine,	62 1/2	  do do garden growth,   1,50
+<lb/>• Caution.—Large quantities of Hyson Skin are retailed in this market as being a Hyson Tea. It is well worth while to compare the Hyson Tea usually sold at 75 cents with the genuine article that the company offer at the same price. The difference is so perceptible, on trial, as to render any further comment unnecessary.
+<lb/>Monstrous Fraud.—Gunpowder and Imperial Teas cannot be retailed by small dealers, in this country, at 75 cents per pound, because they frequently cost that money in China, and no Importer in this city can sell good Gunpowder or Imperial Tea at a less price than 75 cents per pound by the hundred packages. T. F. Davies, Esq., in his interesting work on China, details the manner in which he saw the lowest grades of Black Teas manufactured and colored with Prussian Blue, so as to closely imitate Gunpowder and Imperial Teas, and adds, the Prussian Blue being a combination of Prussic Acid with Iron, is of course a dangerous poison. Let purchasers therefore beware of adulterated teas, and deal with those vender “whose characters and resources raise them above suspicion. Beware of the Gunpowder and Imperial Teas retailed at 75 cents per pound, and compare them with the genuine article sold by the Pekin Tea Company. No one, it is presumed, wishes to drink poison. The company have published a book, giving full details on this subject, which may be had at their warehouse, 75 Fulton street, free of charge.
+<lb/>Recommendations.
+<lb/>We drink Green Tea, and for many years have been paying one dollar per pound for it. But thanks to the Pekin Tea Company, we now get a better tea from them at 75 cents per pound. We drink one pound per week, by which we are now saving thirteen dollars per year, and enjoying better tea in the bargain. Commend us to the Pekin Tea Company, say we.—[Mirror.
+<lb/>The Pekin Tea Company, 75 Fulton street, are performing a great and good work, and will, in a few years, beyond all doubt, drive all the poor teas which have deluged this country, and defrauded consumers of the article, out of the market. They import none but pure and fra
+<lb/>grant teas, and retail them by the single pound at wholesale prices, families are always sure of obtaining good teas at this great tea warehouse, in quantities to suit their convenience, and at the same price that the merchant pays who buys to sell again.—[Daily True Sun.
+<lb/>You may be sure of obtaining at all times, pure and highly flavored teas, by the single pound, at wholesale prices, of the Pekin Tea Company, 75 Fulton street. They have probably the largest stock, and greatest variety of green and black teas, of any one establishment in the United States. They are doing a large business, and a great benefit to consumers of tea.—[Atlas.
+<lb/>Heretofore it has been very difficult, indeed impossible, to always obtain good green and black teas; but now you have only to visit the ware-rooms of the Pekin Tea Company, 75 Fulton street, to obtain as delicious and fragrant leas as you could wish for.—Daily Sun.
+<lb/>If any of our readers desire to have good tea, they can obtain it of the Pekin Tea Company, 75 Fulton street.—[Mercury.
+<lb/>A Word to Tea Drinkers.—The Pekin Tea Company, 75 Fulton street, have imported into this market some live hundred thousand dollars worth of the finest grade of green and black teas, grown in the Celestial Empire, done up in all the various fancy packages that Chinese ingenuity can invent. It is a privilege to buy teas at this great establishment, and a luxury and comfort to drink them. They sell good teas only, and retail them at wholesale prices. Country merchants who wish to always sell good teas can always obtain them at this place, on reasonable terms.—[Emporium.
+<lb/>The Pekin Tea Company.—We very cheerfully call the attention of all lovers of pure and fragrant Teas, both in town and country, to the great tea warehouse of this company. Our long acquaintance with the proprietors enables us to bespeak for them the entire confidence of the public. We know that their teas, both in quality and price, are all that is stated of them. Many a lover of the fragrant herb has been compelled to eschew the drinking of tea in consequence of its injurious effects, until at length he has become hopeless of finding, among any of the imported varieties of tea in our market, a kind which had not such an effect. In this, however, such persons will be agreeably disappointed. The Pekin Tea Company have commenced the importation of choice varieties of Garden Teas, of most delicious flavor—cultivated and picked with great care, which have heretofore never been introduced into this country, except as presents to importers. Among these they have an Oolong, mild as zephyr, and fragrant as a rose, which we especially recommend to all nervous persons. Its effect upon many of those who have tried it, is to make them confirmed tea-drinkers. Ladies who have tried it say they never before drank such tea. But all tastes can here be suited, with the great advantage over other stores of getting a pure article at wholesale price, however small the quantity. The company’s warehouse is at 75 Fulton street.—[New World.
+<lb/>Ten.—The Pekin Tea Company, No. 75 Fulton street, unquestionably sell the best teas imported into this market. That they sell them cheaper than any other establishment, is a fact proven in a thousand instances since they have opened their store.
+<lb/>We would advise our friends to call at this place, and if they don’t wish to buy, at least to obtain a little pamphlet, kept on their counter, entitled “Hints to Tea-Driukers.” and therefrom learn a little useful information on the subject. The pamphlet is given gratis.—[Anglo-American.
+<lb/>The finest specimens of green and black teas ever sold in this country, are imported by the Pekin Tea Company, 75 Fulton street. Those who want good teas at reasonable prices, can always get them there.—[Tribune.
+<lb/>We have tried the teas imported by the Pekin Tea Company, 75 Fulton street, and, if we live, will try them often. They are selling the most delicious teas we ever drank, and retail them at wholesale prices.—[Evening Post.	oct. 8.
+<lb/>THE BROADWAY JOURNAL:
+<lb/>Edgar A. Poo, ::::::	Editor and Proprietor.
+<lb/>IS PUBLISHED EVERY SATURDAY:
+<lb/>OFFICE304BROADWAY, CORNER OF DUANE.
+<lb/>Terms $3,00 per annum, invariably in advance—single numbers six and a quarter cents.
+<lb/>The Broadway Journal is, in its general character, a literary paper, occupying itself with original, and more especially with critical articles, in every department of Literature, properly so called, with a preference, nevertheless, for the Belles Lettres and the Fine Arts. There is no better medium in the country for literary or artistical advertisements.
+<lb/>AGENTS: 
+<lb/>Redding &amp; Co., Boston, Mass      Thos H Pease, New Haven, Ct RGH Huntington, Hartford, Ct     JO Morgan, New Orleans M Baullemet, Mobile, Ala	W W Kingsley, New London, Ct
+<lb/>Robinson &amp; Jones, Cincinnati, O  G N Beesley, Utica, N Y D M Dewey, Rochester, NY          H B Strang, Peekskill, N Y J Robertson, Syracuse, N Y           Haliburton oc Dudley, Boston, Mass W E Russell, Schenectady, NY      S Thompson, Worcester, Mass Levi Willard, Troy, N Y	 Peter Cooke, Hartford, Ct
+<lb/>G Jones, Albany, NY	 H Eaten, Providence, R I
+<lb/>S F Hoyt, Newburgh, N Y	 Safford &amp; Park, Norwich, Ct
+<lb/>Shurtz &amp; Wilde, Baltimore, Md     John Tomlin, P M Jackson, Tenn Colon &amp; Adriance, Philadelphia   S Hart, Sen., Charleston, S C.</p></div>
+        </body>
+        <back>
+          <!-- here is a sample place for contextual information: -->
+          <div type="editorial">
+            <listPerson>
+              <person>
+                <persName><!-- canonical name --></persName>
+                <birth>
+                  <placeName><!-- where born; date on when= of <birth> --></placeName>
+                </birth>
+                <death>
+                  <placeName><!-- where died; date on when= of <death> --></placeName>
+                </death>
+              </person>
+            </listPerson>
+          </div>
+        </back>
+      </text>
+</TEI>
