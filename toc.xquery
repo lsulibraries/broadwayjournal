@@ -63,7 +63,7 @@ declare function local:getPieceTitle($piece as element(tei:div))
 declare function local:getPieces($piece as element(tei:div))
     as element(div){
         let $title := local:getPieceTitle($piece)
-        return <div>{$title}{$piece//tei:p}</div>
+        return <div>{$title}{$piece//tei:p | $piece//tei:lg//tei:l}</div>
     };
 
 <html>
