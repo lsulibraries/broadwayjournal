@@ -1,4 +1,5 @@
 declare namespace tei="http://www.tei-c.org/ns/1.0";
+declare namespace html="http://www.w3.org/1999/xhtml";
 declare option saxon:output "method=xhtml";
 
 declare function local:getAuthor($piece as element(tei:div))
@@ -17,19 +18,43 @@ declare function local:getTitle($piece as element(tei:div))
     data($piece/tei:head)
     };
 
+declare function local:getTocRow($piece as element(tei:div))
+    as element(tr){
+        let $page   := local:getPage($piece)
+        let $author := local:getAuthor($piece)
+        let $title  := local:getTitle($piece)
+    
+        return  <tr><td>{$title}</td><td>{$author}</td><td>{$page}</td></tr> 
+    };
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+declare function local:getTocHeader($doc as element(tei:TEI))
+    as element(div){
+        let $title := $doc/tei:text/tei:front/tei:div/tei:head
+        let $num   := $doc/tei:text/tei:front/tei:div//tei:num
+        let $date  := $doc/tei:text/tei:front/tei:div//tei:date
+
+        return <div><h1>{$title}</h1><h2>{$num}</h2><h3>{$date}</h3></div>
+    };
+
+
+
+<html>
 <head/>
-<ul>
+<body>
 {
+    let $doc := doc('/home/jason/Documents/broadwayjournal/content/BroadwayJournal_18450419.xml')/tei:TEI
+    return local:getTocHeader($doc)
+}
+<table>
+
+
+{
+
 let $pieces := doc('/home/jason/Downloads/BroadwayJournal_18450419.xml')//tei:div[@type='piece']
 for $piece in $pieces
-    let $page   := local:getPage($piece) 
-    let $author := local:getAuthor($piece)
-    let $title  := local:getTitle($piece)
-    
-return  <li>{concat($author, " - ", $title, "     ", $page)}</li> 
+return local:getTocRow($piece)
 
 }
-</ul>
+</table>
+</body>
 </html>
