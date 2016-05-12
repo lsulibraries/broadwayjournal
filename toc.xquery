@@ -7,18 +7,18 @@ declare variable $pieces := $doc//tei:div[@type='piece'];
 
 declare function local:getAuthor($piece as element(tei:div))
     as xs:string {
-    replace($piece/@resp/string(), 'personography.xml#', '')
+        replace($piece/@resp/string(), 'personography.xml#', '')
     };
 
 
 declare function local:getPage($piece as element(tei:div))
     as xs:string {
-    $piece/preceding::tei:pb[1]/@n/string()
+        $piece/preceding::tei:pb[1]/@n/string()
     };
 
 declare function local:getTitle($piece as element(tei:div))
     as xs:string {
-    data($piece/tei:head)
+        data($piece/tei:head)
     };
 
 declare function local:getTocRow($piece as element(tei:div))
@@ -69,7 +69,6 @@ declare function local:getPieces($piece as element(tei:div))
                 for $piece in $pieces
                 return local:getPieces($piece)
             }
-            
         </div>
     </body>
 </html>
