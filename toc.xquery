@@ -1,6 +1,8 @@
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace html="http://www.w3.org/1999/xhtml";
+
 declare option saxon:output "method=xhtml";
+
 declare variable $doc := doc('/home/jason/Documents/broadwayjournal/content/BroadwayJournal_18450419.xml')/tei:TEI;
 declare variable $pieces := $doc//tei:div[@type='piece'];
 
@@ -53,7 +55,7 @@ declare function local:getPieces($piece as element(tei:div))
     };
 
 <html>
-<head/>
+    <head/>
     <body>
         {
             local:getTocHeader($doc)
