@@ -29,7 +29,14 @@ declare function local:getTocRow($piece as element(tei:div))
         let $author := local:getAuthor($piece)
         let $title  := local:getTitle($piece)
     
-        return  <tr><td><a href="#{$title}">{$title}</a></td><td>{$author}</td><td>{$page}</td></tr> 
+        return  
+            <tr>
+                <td>
+                    <a href="#{$title}">{$title}</a>
+                </td>
+                <td>{$author}</td>
+                <td>{$page}</td>
+            </tr> 
     };
 
 declare function local:getTocHeader($doc as element(tei:TEI))
@@ -38,7 +45,12 @@ declare function local:getTocHeader($doc as element(tei:TEI))
         let $num   := $doc/tei:text/tei:front/tei:div//tei:num
         let $date  := $doc/tei:text/tei:front/tei:div//tei:date
 
-        return <div><h1>{$title}</h1><h2>{$num}</h2><h3>{$date}</h3></div>
+        return 
+            <div>
+                <h1>{$title}</h1>
+                <h2>{$num}</h2>
+                <h3>{$date}</h3>
+            </div>
     };
 
 declare function local:getPieceTitle($piece as element(tei:div))
