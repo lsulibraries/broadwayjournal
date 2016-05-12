@@ -1,6 +1,7 @@
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 declare namespace html="http://www.w3.org/1999/xhtml";
 declare option saxon:output "method=xhtml";
+declare variable $doc := doc('/home/jason/Documents/broadwayjournal/content/BroadwayJournal_18450419.xml')/tei:TEI;
 
 declare function local:getAuthor($piece as element(tei:div))
     as xs:string {
@@ -42,15 +43,14 @@ declare function local:getTocHeader($doc as element(tei:TEI))
 <head/>
 <body>
 {
-    let $doc := doc('/home/jason/Documents/broadwayjournal/content/BroadwayJournal_18450419.xml')/tei:TEI
-    return local:getTocHeader($doc)
+    local:getTocHeader($doc)
 }
 <table>
 
 
 {
 
-let $pieces := doc('/home/jason/Downloads/BroadwayJournal_18450419.xml')//tei:div[@type='piece']
+let $pieces := $doc//tei:div[@type='piece']
 for $piece in $pieces
 return local:getTocRow($piece)
 
