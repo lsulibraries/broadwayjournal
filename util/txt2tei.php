@@ -21,11 +21,13 @@ foreach($input_files as $file){
     
     
     $text_elem = get_text_element($cleantext);
-
+    $outfile   = str_replace('txt', 'xml', $file);
     $rawXML    = $teiheader.$text_elem.$teiclose;
+
     file_put_contents($output_dir.DIRECTORY_SEPARATOR.get_basename($file).'.xml', $rawXML);
     $xml       = make_doc($rawXML);
     //file_put_contents($output_dir.DIRECTORY_SEPARATOR.get_basename($file).'.xml', $xml);
+
 }
 
 function make_doc($raw){
