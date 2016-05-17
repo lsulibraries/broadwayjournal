@@ -520,7 +520,7 @@
 <lb break="no"/>less, too inquisitive, and too impulsive a temperament. But of
 <lb/>late, it is a rare thing that I sleep soundly at night. There is a
 <lb/>countenance which haunts me, turn as I will. There is an hys-
-<lb break="no"/>terical laugh which will forever ring within my ears.</p><byline><persName>Edgar A. Poe</persName>.</div>
+<lb break="no"/>terical laugh which will forever ring within my ears.</p><byline><persName>Edgar A. Poe</persName>.</byline></div>
 <div resp="personography.xml#fsosgood" type="attested"><head>A Shipwreck.</head>
 <lg><l>I launched a bark on Fate’s deep tide—</l>
 <l>A frail and fluttering toy,</l>
@@ -546,15 +546,17 @@
 <cb n="1"/>
 <div type="section"><head>Critical Notices.
 </head><ab>—</ab>
-<head>Poems.</head>By Frances S. Osgood. New- York: Clark &amp; Austin.
+<div resp="personography.xml#eapoe" subtype="supplied" cert="high"><head>Poems.</head><ab>By Frances S. Osgood. New- York: Clark &amp; Austin.</ab>
 <p>A neat volume of 252 pages duodecimo, including many but
 <lb/>by no means all, or even the best, of the author’s late composi-
 <lb break="no"/>tions, with several of those which made up the “Wreath of Wild
-<lb/>Flowers from New-England.</p><p>The book opens with these few words of Preface:
-</p><p> The Author’s chief fear, in collecting and publishing the fol-
+<lb/>Flowers from New-England.</p>
+  <p>The book opens with these few words of Preface:</p>
+  <p> The Author’s chief fear, in collecting and publishing the fol-
 <lb break="no"/>lowing Poems, is that they may not be thought worthy the notice
 <lb/>of that just and true criticism, whose praise and blame are alike
-<lb/>valuable, and would by her be equally welcomed and appreciated.</p><p></p><p>We have no poetess among us who has been so universally
+<lb/>valuable, and would by her be equally welcomed and appreciated.</p>
+  <p>We have no poetess among us who has been so universally
 <lb/>popular as Mrs. Osgood—and yet, with the exception of “The
 <lb/>Wreath of Wild Flowers," (an English publication,) this is the
 <lb/>first collection of her Poems. Our only regret is that she has not
@@ -563,7 +565,8 @@
 <lb/>she is so fairly entitled on the score of versatility—of variety in
 <lb/>expression and invention. There is scarcely a form of poetical
 <lb/>composition in which she has not made experiment, and there is
-<lb/>not one in which she has not very creditably succeeded.</p><p></p><p>Of course, then, it is a task of no little difficulty to give any
+<lb/>not one in which she has not very creditably succeeded.</p>
+  <p>Of course, then, it is a task of no little difficulty to give any
 <lb/>generalization of her powers. We may say, in the beginning,
 <lb/>however, that in no one poetical requisite is she deficient. Her
 <lb/>negative merits are of the highest respectability. We look in
@@ -573,7 +576,8 @@
 <lb break="no"/>cality of composition, of which, in America, we meet so abundant
 <lb/>examples. A happy refinement—an exquisite instinct of the
 <lb/>pure—the delicate—the graceful—gives a charm inexpressible to
-<lb/>everything which flows from her pen.</p><p></p><p>In respect to the positive merits—to the loftier excellences of
+<lb/>everything which flows from her pen.</p>
+  <p>In respect to the positive merits—to the loftier excellences of
 <lb/>the Muse—we are constrained to speak with somewhat more
 <lb/>reserve. Deficient—that is to say markedly deficient at no
 <lb/>point—Mrs. Osgood has, nevertheless, neither the bold and rich
@@ -590,9 +594,10 @@
 <lb/>which in its supreme development may be said to involve nearly
 <lb/>all that is pure and ethereal in poetry—it is in this charm of
 <lb/>charms—so magical because at once so shadowy and so irresist-
-<lb break="no"/>ible that Mrs. Osgood pre-eminently excels. It is in this that</p><p>she has no equal among her countrywomen, it is this rod of the
-enchanter which throws open to her the road to all hearts.
-</p><p>In the collection now before us there occur very many of those
+<lb break="no"/>ible that Mrs. Osgood pre-eminently excels. It is in this that
+<lb/>she has no equal among her countrywomen, it is this rod of the
+<lb/>enchanter which throws open to her the road to all hearts.</p>
+<p>In the collection now before us there occur very many of those
 <lb/>half sentimental half allegorical or rather emblematical composi-
 <lb break="no"/>tions, of which the authoress seems to be especially fond—for the
 <lb/>reason, perhaps, that she constructs them with little facility, and
@@ -600,208 +605,234 @@ enchanter which throws open to her the road to all hearts.
 <lb/>mankind. We regret to see these pieces in the volume;—they
 <lb/>are, in general, very graceful pleasantries—but no more—and
 <lb/>quite unworthy her who could pen so truly consistent and beauti-
-<lb break="no"/>ful a prosopopeia as</p><p>THE SPIRIT OF POETRY.
-Leave me not yet! Leave me not cold and lonely,
-Thou dear Ideal of my pining heart!
-Thou art the friend—the beautiful—the only,
-Whom I would keep, tho’ all the world depart!
-Thou, that dost veil the frailest flower with glory,
-Spirit of light and loveliness and truth!
-Thou that didst tell me a sweet fairy story
-Of the dim future, in my wistful youth!
-Thou, who canst weave a halo round the spirit,
-</p><p>Through which nought mean or evil dare intrude,
-<lb/>Resume not yet the gift, which I inherit
-<lb/>From Heaven and thee, that dearest, holiest good!
-<lb/>Leave me not now! Leave me not cold and lonely,
-<lb/>Thou starry prophet of my pining heart!</p><p>Thou art the friend—the tenderest—the only,
-With whom, of all, ’twould be despair to part.
-</p><p>Thou that cam’st to me in my dreaming childhood,
-<lb/>Shaping the changeful clouds to pageants rare,
-<lb/>Peopling the smiling vale, and shaded wildwood,</p><p>With airy beings, faint yet strangely fair;
-Telling me all the sea-born breeze was saying,
-</p><p>While it went whispering through the willing leaves.
-<lb/>Bidding me listen to the light rain playing
-<lb/>Its pleasant tune, about the household eaves;</p><p>Tuning the low, sweet ripple of the river,
-Till its melodious murmur seem’d a song,
-A tender and sad chaunt, repeated ever,
-A sweet, impassion’d plaint of love and wrong!
-Leave me not yet! Leave me not cold and lonely,
-Thou star of promise o’er my clouded path!
-Leave not the life that borrows from thee only
-All of delight and beauty that it hath!
-Thou, that when others knew not how to love me.
-Nor cared to fathom half my yearning soul,
-Didst wreathe thy flowers of light, around, above me,
-To woo and win me from my grief’s control.
-By all my dreams, the passionate, and holy,
-When thou hast sung love’s lullaby to me—
-By all the childlike worship, fond and lowly,
-Which I have lavish’d upon thine and thee—
-By all the lays my simple lute was learning,
-To echo from thy voice, stay with me still!
-Once flown—alas! for thee there’s no returning!
-The charm will die o’er valley, wood, and hill.
-Tell me not Time, whose wing my brow has shaded,
-Has wither’d spring’s sweet bloom within my heart.
-Ah, no! the rose of Love is yet unfaded,
-Though Hope and Joy, its sister flowers, depart.
-Well do I know that I have wrong’d thine altar,
-With the light offerings of an idler’s mind,
-And thus, with shame, my pleading prayer I falter,
-Leave me not, spirit! deaf, and dumb, and blind!
-Deaf to the mystic harmony of nature,
-Blind to the beauty of her stars and flowers!
-Leave me not, heavenly yet human teacher,
-Lonely and lost in this cold world of ours!
-Heaven knows I need thy music and thy beauty
-Still to beguile me on my weary way,
-To lighten to my soul the cares of duty,
-And bless with radiant beams: the darken’d day;
-To charm my wild heart in the worldly revel,
-Lest I, too, join the aimless, false, and vain;
-Let me not lower to the soulless level
-Of those whom now I pity and disdain!
-<pb n="354"/>
-Leave me not yet!—leave me not cold and pining,
-Thou bird of paradise, whose plumes of light,
-Where’er they rested, left a'glory shining;
-Fly not to heaven, or let me share thy flight!
-</p><p>Of its kind—a kind not of the highest—there have been written
+<lb break="no"/>ful a prosopopeia as</p>
+<cb n="2"/><bibl><title>THE SPIRIT OF POETRY.</title></bibl>
+<lg><l>Leave me not yet! Leave me not cold and lonely,</l>
+<l>Thou dear Ideal of my pining heart!</l>
+<l>Thou art the friend—the beautiful—the only,</l>
+<l>Whom I would keep, tho’ all the world depart!</l>
+<l>Thou, that dost veil the frailest flower with glory,</l>
+<l>Spirit of light and loveliness and truth!</l>
+<l>Thou that didst tell me a sweet fairy story</l>
+<l>Of the dim future, in my wistful youth!</l>
+<l>Thou, who canst weave a halo round the spirit,</l>
+<l>Through which nought mean or evil dare intrude,</l>
+<l>Resume not yet the gift, which I inherit</l>
+<l>From Heaven and thee, that dearest, holiest good!</l>
+<l>Leave me not now! Leave me not cold and lonely,</l>
+<l>Thou starry prophet of my pining heart!</l>
+<l>Thou art the friend—the tenderest—the only,</l>
+<l>With whom, of all, ’twould be despair to part.</l>
+<l>Thou that cam’st to me in my dreaming childhood,</l>
+<l>Shaping the changeful clouds to pageants rare,</l>
+<l>Peopling the smiling vale, and shaded wildwood,</l>
+<l>With airy beings, faint yet strangely fair;</l>
+<l>Telling me all the sea-born breeze was saying,</l>
+<l>While it went whispering through the willing leaves.</l>
+<l>Bidding me listen to the light rain playing</l>
+<l>Its pleasant tune, about the household eaves;</l>
+<l>Tuning the low, sweet ripple of the river,</l>
+<l>Till its melodious murmur seem’d a song,</l>
+<l>A tender and sad chaunt, repeated ever,</l>
+<l>A sweet, impassion’d plaint of love and wrong!</l>
+<l>Leave me not yet! Leave me not cold and lonely,</l>
+<l>Thou star of promise o’er my clouded path!</l>
+<l>Leave not the life that borrows from thee only</l>
+<l>All of delight and beauty that it hath!</l>
+<l>Thou, that when others knew not how to love me.</l>
+<l>Nor cared to fathom half my yearning soul,</l>
+<l>Didst wreathe thy flowers of light, around, above me,</l>
+<l>To woo and win me from my grief’s control.</l>
+<l>By all my dreams, the passionate, and holy,</l>
+<l>When thou hast sung love’s lullaby to me—</l>
+<l>By all the childlike worship, fond and lowly,</l>
+<l>Which I have lavish’d upon thine and thee—</l>
+<l>By all the lays my simple lute was learning,</l>
+<l>To echo from thy voice, stay with me still!</l>
+<l>Once flown—alas! for thee there’s no returning!</l>
+<l>The charm will die o’er valley, wood, and hill.</l>
+<l>Tell me not Time, whose wing my brow has shaded,</l>
+<l>Has wither’d spring’s sweet bloom within my heart.</l>
+<l>Ah, no! the rose of Love is yet unfaded,</l>
+<l>Though Hope and Joy, its sister flowers, depart.</l>
+  <l>Well do I know that I have wrong’d thine altar,</l>
+<l>With the light offerings of an idler’s mind,</l>
+<l>And thus, with shame, my pleading prayer I falter,</l>
+<l>Leave me not, spirit! deaf, and dumb, and blind!</l>
+<l>Deaf to the mystic harmony of nature,</l>
+<l>Blind to the beauty of her stars and flowers!</l>
+<l>Leave me not, heavenly yet human teacher,</l>
+<l>Lonely and lost in this cold world of ours!</l>
+<l>Heaven knows I need thy music and thy beauty</l>
+<l>Still to beguile me on my weary way,</l>
+<l>To lighten to my soul the cares of duty,</l>
+<l>And bless with radiant beams: the darken’d day;</l>
+<l>To charm my wild heart in the worldly revel,</l>
+<l>Lest I, too, join the aimless, false, and vain;</l>
+<l>Let me not lower to the soulless level</l>
+<l>Of those whom now I pity and disdain!</l>
+  <pb n="354"/>
+<cb n="1"/><l>Leave me not yet!—leave me not cold and pining,</l>
+  <l>Thou bird of paradise, whose plumes of light,</l>
+  <l>Where’er they rested, left a'glory shining;</l>
+  <l>Fly not to heaven, or let me share thy flight!</l>
+</lg>
+<p>Of its kind—a kind not of the highest—there have been written
 <lb/>few finer poems than this. It is replete with feeling, with eleva-
 <lb break="no"/>ted sentiment—and its versification is correct—sonorous, har-
-<lb break="no"/>monious and well-sustained.</p><p>One of the best of Mrs. Osgood’s shorter poems is entitled
-SHE LOVES HIM YET.
-She loves him yet!
-</p><p>I know by the blush that rises
-<lb/>Beneath the curls
-<lb/>That shadow her soul-lit cheek;</p><p>She loves him yet!
-Thro’ all Love’s sweet disguises
-In timid girls,
-A blush will be sure to speak.
-But deeper signs
-Than the radiant blush of beauty,
-The maiden finds,
-Whenever his name is heard.—
-Her young heart thrills,
-Forgetting herself—her duty—
-Her dark eye fills,
-And her pulse with hope is stirr’d.
-She loves him yet!
-The flower the false one gave her
-When last he came,
-Is still with her wild tears wet.
-She'll ne’er forget,
-However his faith may waver.
-Thro’ grief and shame,
-Believe it—she loves him yet!
-His favorite songs
-She will sing—she heeds no other;
-With all her wrongs
-Her life on his love is set.
-Oh, doubt no more!
-She never can wed another:
-Till life be o’er,
-She loves—she will love him yet!
-</p><p>There is in this a rich simplicity which cannot be too highly
+<lb break="no"/>monious and well-sustained.</p>
+<p>One of the best of Mrs. Osgood’s shorter poems is entitled</p>
+<bibl><title>SHE LOVES HIM YET.</title></bibl>
+<lg><l>She loves him yet!</l> 
+<l>I know by the blush that rises</l> 
+<l>Beneath the curls</l> 
+<l>That shadow her soul-lit cheek;</l> 
+<l>She loves him yet!</l> 
+<l>Thro’ all Love’s sweet disguises</l> 
+<l>In timid girls,</l> 
+<l>A blush will be sure to speak.</l> 
+<l>But deeper signs</l> 
+<l>Than the radiant blush of beauty,</l> 
+<l>The maiden finds,</l> 
+<l>Whenever his name is heard.—</l> 
+<l>Her young heart thrills,</l> 
+<l>Forgetting herself—her duty—</l> 
+<l>Her dark eye fills,</l> 
+<l>And her pulse with hope is stirr’d.</l> 
+<l>She loves him yet!</l> 
+<l>The flower the false one gave her</l> 
+<l>When last he came,</l> 
+<l>Is still with her wild tears wet.</l> 
+<l>She'll ne’er forget,</l> 
+<l>However his faith may waver.</l> 
+<l>Thro’ grief and shame,</l> 
+<l>Believe it—she loves him yet!</l> 
+<l>His favorite songs</l> 
+<l>She will sing—she heeds no other;</l> 
+<l>With all her wrongs</l> 
+<l>Her life on his love is set.</l> 
+<l>Oh, doubt no more!</l> 
+<l>She never can wed another:</l> 
+<l>Till life be o’er,</l> 
+<l>She loves—she will love him yet!</l> 
+</lg>
+<p>There is in this a rich simplicity which cannot be too highly
 <lb/>admired, and the metre is original and otherwise of peculiar
-<lb/>excellence.</p><p>We cannot forbear quoting the noble poem entitled
-ASPIRATIONS.
-I waste no more in idle dreams my life, my soul away:
-</p><p>I wake to know my better self,—I wake to watch and pray.
-<lb/>Thought, feeling, time, on idols vain, I’ve lavished all too long;
-<lb/>Henceforth to holier purposes I pledge myself, my song!</p><p>Oh! still within the inner veil, upon the spirit’s shrine,
-</p><p>Still unprofaned by evil, bums the one pure spark divine
-<lb/>Which God has kindled in us all, and be it mine to tend
-<lb/>Henceforth, with vestal thought and care, the light that lamp may
-<lb/>lend.</p><p>I shut mine eyes in grief and shame upon the dreary past—
-My heart, my soul pour’d recklessly on dreams that could not last.
-My bark has drifted down the stream, at will of wind or wave,
-An idle, light, and fragile thing, that few had cared to save.
-Henceforth the tiller Truth shall hold, and steer as Conscience tells,
-And I will brave the storms of Fate tho’ wild the ocean swells.
-I know my soul is strong and high, if once I give it sway;
-I feel a glorious power within, tho’ light I seem and gay.
-Oh, laggard soul! unclose thine eyes. No more in luxury soft
-Of joy ideal waste thyself! awake, and soar aloft!
-Unfurl this hour those falcon wings which thou dost fold too long;
-Raise to the skies thy lightning gaze, and sing thy loftiest song.
-</p><p>Here, as in nearly all the compositions of Mrs. Osgood, the
+<lb/>excellence.</p>
+  <p>We cannot forbear quoting the noble poem entitled</p>
+<bibl><title>ASPIRATIONS.</title></bibl>
+<lg><l>I waste no more in idle dreams my life, my soul away:</l>
+<l>I wake to know my better self,—I wake to watch and pray.</l>
+<l>Thought, feeling, time, on idols vain, I’ve lavished all too long;</l>
+<l>Henceforth to holier purposes I pledge myself, my song!</l>
+<lb></lb>
+<l>Oh! still within the inner veil, upon the spirit’s shrine,</l>
+<l>Still unprofaned by evil, bums the one pure spark divine</l>
+<l>Which God has kindled in us all, and be it mine to tend</l>
+<l>Henceforth, with vestal thought and care, the light that lamp may<lb/>lend.</l>
+<lb></lb>
+<l>I shut mine eyes in grief and shame upon the dreary past—</l>
+<l>My heart, my soul pour’d recklessly on dreams that could not last.</l>
+<l>My bark has drifted down the stream, at will of wind or wave,</l>
+<l>An idle, light, and fragile thing, that few had cared to save.</l>
+<lb></lb>
+<cb n="2"/>
+<l>Henceforth the tiller Truth shall hold, and steer as Conscience tells,</l>
+<l>And I will brave the storms of Fate tho’ wild the ocean swells.</l>
+<l>I know my soul is strong and high, if once I give it sway;</l>
+<l>I feel a glorious power within, tho’ light I seem and gay.</l>
+<lb></lb>
+<l>Oh, laggard soul! unclose thine eyes. No more in luxury soft</l>
+<l>Of joy ideal waste thyself! awake, and soar aloft!</l>
+<l>Unfurl this hour those falcon wings which thou dost fold too long;</l>
+<l>Raise to the skies thy lightning gaze, and sing thy loftiest song.</l></lg>
+
+<p>Here, as in nearly all the compositions of Mrs. Osgood, the
 <lb/>rhythm is singularly good, without art,—sonorous, well-balanced
 <lb/>and well-modulated. The “'aspirations”—or more properly,
 <lb/>perhaps, the bitter and unavailing regrets—have in them a touch-
 <lb break="no"/>ing—a despairing sadness which makes us shudder as we read.</p><p></p><p>Neither of the poems just quoted, however, conveys much of
 <lb/>the ordinary manner of the poetess. This is far better exem-
-<lb break="no"/>plified in</p><p>LENORE.
-Oh! fragile and fair, as the delicate chalices,
-Wrought with so rare and so subtle a skill;
-Bright relics, that tell of the pomp of those palaces,
-Venice—the sea-goddess—glories in still.
-Whose exquisite texture, transparent and tender,
-A pure blush alone from the ruby wine takes;
-Yet ah! if some false hand, profaning its splendor,
-Dares but to taint it with poison,—it breaks!
-So when Love pour’d thro’ thy pure heart his lightning,
-On thy pale cheek the soft rose-hues awoke,—
-So when wild Passion, that timid heart frightening,
-Poison’d the treasure—it trembled and broke!
-</p><p>Here we have a full representation of the author’s customary
+<lb break="no"/>plified in</p>
+<bibl><title>LENORE.</title></bibl>
+<lg><l>Oh! fragile and fair, as the delicate chalices,</l>
+<l>Wrought with so rare and so subtle a skill;</l>
+<l>Bright relics, that tell of the pomp of those palaces,</l>
+<l>Venice—the sea-goddess—glories in still.</l>
+<lb></lb>
+<l>Whose exquisite texture, transparent and tender,</l>
+<l>A pure blush alone from the ruby wine takes;</l>
+<l>Yet ah! if some false hand, profaning its splendor,</l>
+<l>Dares but to taint it with poison,—it breaks!</l>
+<lb></lb><l>So when Love pour’d thro’ thy pure heart his lightning,</l>
+<l>On thy pale cheek the soft rose-hues awoke,—</l>
+<l>So when wild Passion, that timid heart frightening,</l>
+<l>Poison’d the treasure—it trembled and broke!</l>
+</lg>
+<p>Here we have a full representation of the author’s customary
 <lb/>turn of thought—of her grace of expression—of her facility in
 <lb/>illustration—of her exactitude—and of her epigrammatism. The
 <lb/>versification (except in the first quatrain) is not as good as usual.
 <lb/>The first two lines of the third are even rough. The rhythm is
-<lb/>anapoestic—but the anapoestic all false and inadmissible—e g.</p><p>So when Love | poured through thy | pure heart' his | lightning,
+<lb/>anapoestic—but the anapoestic all false and inadmissible—e g.</p>
+  <ab>So when Love | poured through thy | pure heart' his | lightning,
 On thy pale | cheek the soft | rose hues a | woke.
-</p><p>Here the necessarily long syllables love, through, heart,pale,soft
+</ab>
+  <p>Here the necessarily long syllables love, through, heart,pale,soft
 <lb/>and hues, should be short, and the rhythm halts because they are
 <lb/>not so. There is, also, either a syllable too much or a syllable
 <lb/>too little at “lightning”—but these are trivialities of which it is,
-<lb/>perhaps, hypercritical to speak.</p><p>We conclude this imperfect notice by the citation of what we
-consider as, upon the whole, the finest poem in the collection.
-A SONG.
-Yes! “lower to the level”
-Of those who laud thee now!
-Go! join the joyous revel,
-And pledge the heartless vow!
-Go! dim the soul-born beauty
-That lights that lofty brow!
-Fill, fill the bowl! let burning wine
-Drown, in thy soul, Love’s dream divine!
-Yet when the laugh is lightest,
-When wildest goes the jest,
-When gleams the goblet brightest,
-And proudest heaves thy breast,
-And thou art madly pledging
-Each gay and jovial guest,—
-A ghost shall glide amid the flowers—
-The shade of Love’s departed hours!
-<pb n="355"/>
-And thou shalt drink in sadness
-From all the splendor there,
-And curse the revel’s gladness,
-And hate the banquet’s glare,
-And pine 'mid Passion's madness,
-For true Love’s purer air,
-And feel thou’dst give their wildest glee
-For one unsullied smile from me!
-Yet deem not this my prayer, love,
-Ah, no! if I could keep
-Thy alter’d heart from care, love,
-And charm its griefs to sleep,
-Mine only should despair love,
-I—I alone would weep!
-I—I alone would mourn the flowers
-That fade in Love’s deserted bowers!
-</p><p>There is here a terse, concentrated and sustained energy which
+<lb/>perhaps, hypercritical to speak.</p>
+<p>We conclude this imperfect notice by the citation of what we
+consider as, upon the whole, the finest poem in the collection.</p>
+<bibl><title>A SONG.</title></bibl>
+<lg><l>Yes! “lower to the level”</l> 
+ <l>Of those who laud thee now!</l> 
+ <l>Go! join the joyous revel,</l> 
+ <l>And pledge the heartless vow!</l> 
+ <l>Go! dim the soul-born beauty</l> 
+ <l>That lights that lofty brow!</l> 
+ <l>Fill, fill the bowl! let burning wine</l> 
+ <l>Drown, in thy soul, Love’s dream divine!</l> 
+ <l>Yet when the laugh is lightest,</l> 
+ <l>When wildest goes the jest,</l> 
+ <l>When gleams the goblet brightest,</l> 
+ <l>And proudest heaves thy breast,</l> 
+ <l>And thou art madly pledging</l> 
+ <l>Each gay and jovial guest,—</l> 
+ <l>A ghost shall glide amid the flowers—</l> 
+ <l>The shade of Love’s departed hours!</l> 
+ <pb n="355"/> 
+ <cb n="1"/>
+ <l>And thou shalt drink in sadness</l> 
+ <l>From all the splendor there,</l> 
+ <l>And curse the revel’s gladness,</l> 
+ <l>And hate the banquet’s glare,</l> 
+ <l>And pine 'mid Passion's madness,</l> 
+ <l>For true Love’s purer air,</l> 
+ <l>And feel thou’dst give their wildest glee</l> 
+ <l>For one unsullied smile from me!</l> 
+ <l>Yet deem not this my prayer, love,</l> 
+ <l>Ah, no! if I could keep</l> 
+ <l>Thy alter’d heart from care, love,</l> 
+ <l>And charm its griefs to sleep,</l> 
+ <l>Mine only should despair love,</l> 
+ <l>I—I alone would weep!</l> 
+ <l>I—I alone would mourn the flowers</l> 
+ <l>That fade in Love’s deserted bowers!</l></lg> 
+<p>There is here a terse, concentrated and sustained energy which
 <lb/>impresses us with a high opinion of the power of the poetess, and
 <lb/>which warrants us in saying that she could do better—very far
 <lb/>better than she has hitherto done. The poem would be improved,
 <lb/>however, (as would all poems) by the substitution throughout of
 <lb/>“you” for “thee” and so forth—the modern and colloquial for
-<lb/>the ancient and so called poetical pronoun.</p><p></p><p>The limits of our paper warn us to bring these comments to a
+<lb/>the ancient and so called poetical pronoun.</p>
+<p>The limits of our paper warn us to bring these comments to a
 <lb/>close. We shall resume this subject—to us a truly delightful
 <lb/>one—at some future opportunity, in the more ample pages of
-<lb/>Godey’s Magazine.</p><p></p><p>The History of Silk, Cotton, Linen, Wool, and other Fibrous Sub-
+<lb/>Godey’s Magazine.</p></div>
+  </anchor>
+  <div><p>The History of Silk, Cotton, Linen, Wool, and other Fibrous Sub-
 <lb break="no"/>stances ; including Observations on Spinning, Dyeing and
 <lb/>Weaving. Also, an Account of the Pastoral Life of the An
 <lb/>cients, their Social State and Attainments in the Domestic Arts.
@@ -839,7 +870,8 @@ the Chinese Loom, a reduced fac-simile copied from a picture re-
 </p><p>cently obtained from the Celestial Empire and now in the posses-
 <lb break="no"/>sion of the N. Y. Presbyterian Board of Foreign Missions. There
 <lb/>is, also, a representation of an Egyptian Weaving Factory—a
-<lb/>reduced fac-simile from Champollion.</p><p>The Artist, The Merchant, and The Statesman. By C. E. Lester.
+<lb/>reduced fac-simile from Champollion.</p></div>
+<p>The Artist, The Merchant, and The Statesman. By C. E. Lester.
 Vol. 2. New York: Paine &amp; Burgess.
 </p><p>This, the concluding volume of Mr. Lester’s entertaining book,
 <lb/>has less unity of purpose, but greater variety of incident and

@@ -48,7 +48,7 @@
       
 <cb n="1"/><div resp="personography.xml#anon" subtype="supplied" type="section"><lb/><head>THE NATIONAL ACADEMY.</head>
 <div><figure></figure></div>  
-  <div>
+  <div type="piece" resp="personography.xml#anon" subtype="supplied">
           <p><lb/>WE conclude our remarks on the exhibition in the present number.</p>
 
           <p><lb/>No. 38. David and the Fair Shu-namite, (called in the Catalogue Shu-manite.) W.
@@ -315,8 +315,9 @@
             created, which would have the happiest effect on the interests of Art. There is talent
             enough, and patronage enough to warrant it, and we hope it may be undertaken. </p></div>
 
-        <div resp="personography.xml#eapoe" subtype="supplied" cert="high"><lb/><head>THE PIT AND
-            THE PENDULUM.</head>
+        <div type="piece" resp="personography.xml#eapoe" subtype="attested">
+          <lb/>
+          <head>THE PIT AND THE PENDULUM.</head>
           <lg>
             <l>Impia tortorum longas hic turba fuiores</l>
             <l>Sanguinis innocui, non satiata, aluit.</l>
@@ -354,22 +355,22 @@
             into Hades. Then silence, and stillness, and night were the universe. </p>
           <p><lb/>I had swooned; but still will not say that all of consciousness was lost. What of
             it there remained I will not attempt <pb n="308"/>
-            <cb n="1"/><lb/>to define, or even to describe; yet all was not lost. In the deepest slumber—no! In
-            delirium—no ! In a swoon—no! In death—no ! even in the grave all is not lost. Else there
-            is no immortality for man. Arousing from the most profound of slumbers, we break the
-            gossamer web of some dream. Yet in a second afterward, (so frail may that web have been)
-            we remember not that we have dreamed. In the return to life from the swoon there are two
-            stages; first, that of the sense of mental or spiritual; secondly, that of the sense of
-            physical, existence. It seems probable that if, upon reaching the second stage, we could
-            recall the impressions of the first, we should find these impressions eloquent in
-            memories of the gulf beyond. And that gulf is—what? How at least shall we distinguish
-            its shadows from those of the tomb ? But if the impressions of what I have termed the
-            first stage, are not, at will, recalled, yet, after long interval, do they not come
-            unbidden, while we marvel whence they come? He who has swooned, is not he who finds
-            strange palaces and wildly familiar faces in coals that glow; is not he who beholds
-            floating in mid-air the sad visions that the many may not view ; is not he who ponders
-            ever the perfume of some novel flower—is not he whose brain grows bewildered with the
-            meaning of some musical cadence which has never before arrested his attention. </p>
+            <cb n="1"/><lb/>to define, or even to describe; yet all was not lost. In the deepest
+            slumber—no! In delirium—no ! In a swoon—no! In death—no ! even in the grave all is not
+            lost. Else there is no immortality for man. Arousing from the most profound of slumbers,
+            we break the gossamer web of some dream. Yet in a second afterward, (so frail may that
+            web have been) we remember not that we have dreamed. In the return to life from the
+            swoon there are two stages; first, that of the sense of mental or spiritual; secondly,
+            that of the sense of physical, existence. It seems probable that if, upon reaching the
+            second stage, we could recall the impressions of the first, we should find these
+            impressions eloquent in memories of the gulf beyond. And that gulf is—what? How at least
+            shall we distinguish its shadows from those of the tomb ? But if the impressions of what
+            I have termed the first stage, are not, at will, recalled, yet, after long interval, do
+            they not come unbidden, while we marvel whence they come? He who has swooned, is not he
+            who finds strange palaces and wildly familiar faces in coals that glow; is not he who
+            beholds floating in mid-air the sad visions that the many may not view ; is not he who
+            ponders ever the perfume of some novel flower—is not he whose brain grows bewildered
+            with the meaning of some musical cadence which has never before arrested his attention. </p>
           <p><lb/>Amid frequent and thoughtful endeavors to remember ; amid earnest struggles to
             regather some token of the state of seeming nothingness into which my soul had lapsed,
             there have been moments when I have dreamed of success; there have been brief, very
@@ -446,10 +447,10 @@
             placed the fragmental full length, and at right angles to the wall. In groping my way
             around the prison, <lb/>I could not fail to encounter this rag upon completing the <pb
               n="309"/>
-            <cb n="1"/><lb/>circuit. So, at least I thought: but I had not counted upon the extent of the
-            dungeon, or upon my own weakness. The ground was moist and slippery. I staggered onward
-            for some time, when I stumbled and fell. My excessive fatigue induced me to remain
-            prostrate ; and sleep soon overtook me as I lay. </p>
+            <cb n="1"/><lb/>circuit. So, at least I thought: but I had not counted upon the extent
+            of the dungeon, or upon my own weakness. The ground was moist and slippery. I staggered
+            onward for some time, when I stumbled and fell. My excessive fatigue induced me to
+            remain prostrate ; and sleep soon overtook me as I lay. </p>
           <p><lb/>Upon awaking, and stretching forth an arm, I found beside me a loaf and a pitcher
             with water. I was too much exhausted to reflect upon this circumstance, but ate and
             drank with avidity. Shortly afterward, I resumed my tour around the prison, and with
@@ -503,8 +504,8 @@
             sleep fell upon me—a sleep like that of death. How long it lasted of course, I know not;
             but when, once again, I unclosed my eyes, the objects around me were visible. By a wild
             sulphurous lus- <cb/>
-            <cb n="2"/><lb/>tre, the origin of which I could not at first determine, I was enabled to see
-            the extent and aspect of the prison. </p>
+            <cb n="2"/><lb/>tre, the origin of which I could not at first determine, I was enabled
+            to see the extent and aspect of the prison. </p>
           <p><lb/>In its size I had been greatly mistaken. The whole circuit of its walls did not
             exceed twenty-five yards. For some minutes this fact occasioned me a world of vain
             trouble; vain indeed! for what could be of less importance, under the terrible
@@ -561,12 +562,12 @@
             and amazed me. The sweep of the pendulum had increased in extent by nearly a yard. As a
             natural consequence, its velocity was also much greater. But what mainly disturbed me
             was the idea that it had perceptibly descended. I now <pb n="310"/>
-            <cb n="1"/><lb/>observed—with what horror it is needless to say—that its nether extremity was
-            formed of a crescent of glittering steel, about a foot in length from horn to horn; the
-            horns upward, and the under edge evidently as keen as that of a razor. Like a razor
-            also, it seemed massy and heavy, tapering from the edge into a solid and broad structure
-            above. It was appended to a weighty rod of brass, and the whole hissed as it swung
-            through the air. </p>
+            <cb n="1"/><lb/>observed—with what horror it is needless to say—that its nether
+            extremity was formed of a crescent of glittering steel, about a foot in length from horn
+            to horn; the horns upward, and the under edge evidently as keen as that of a razor. Like
+            a razor also, it seemed massy and heavy, tapering from the edge into a solid and broad
+            structure above. It was appended to a weighty rod of brass, and the whole hissed as it
+            swung through the air. </p>
           <p><lb/>I could no longer doubt the doom prepared for me by monkish ingenuity in torture.
             My cognizance of the pit had become known to the inquisitorial agents—the pit whose
             horrors had been destined for so bold a recusant as myself—the pit, typical of hell, and
@@ -618,8 +619,8 @@
             to the hand. I could reach the latter, from the platter beside me, to my mouth, with
             great effort, but no farther. Could I have broken the fastenings above the elbow, I
             would have <cb/>
-            <cb n="2"/><lb/>seized and attempted to arrest the pendulum. I might as well have attempted to
-            arrest an avalanche !</p>
+            <cb n="2"/><lb/>seized and attempted to arrest the pendulum. I might as well have
+            attempted to arrest an avalanche !</p>
           <p><lb/>Down—still unceasingly—still inevitably down ! I gasped and struggled at each
             vibration. I shrunk convulsively at its every sweep. My eyes followed its outward or
             upward whirls with the eagerness of the most unmeaning despair ; they closed themselves
@@ -675,12 +676,12 @@
           <p><lb/>Nor had I erred in my calculations—nor had I endured in vain. I at length felt
             that I was free. The surcingle hung in ribands from my body. But the stroke of the
             pendulum <pb n="311"/>
-            <cb n="1"/><lb/>already pressed upon my bosom. It had divided the serge of the robe. It had cut
-            through the linen beneath. Twice again it swung, and a sharp sense of pain shot through
-            every nerve. But the moment of escape had arrived. At a wave of ray hand my deliverers
-            hurried tumultuously away. With a steady movement—cautious, sidelong, shrinking, and
-            slow —I slid from the embrace of the bandage and beyond the the reach of the scimitar.
-            For the moment, at least, I was free. </p>
+            <cb n="1"/><lb/>already pressed upon my bosom. It had divided the serge of the robe. It
+            had cut through the linen beneath. Twice again it swung, and a sharp sense of pain shot
+            through every nerve. But the moment of escape had arrived. At a wave of ray hand my
+            deliverers hurried tumultuously away. With a steady movement—cautious, sidelong,
+            shrinking, and slow —I slid from the embrace of the bandage and beyond the the reach of
+            the scimitar. For the moment, at least, I was free. </p>
           <p><lb/>Free!—and in the grasp of the Inquisition ! I had scarcely stepped from my wooden
             bed of horror upon the stone door of the prison, when the motion of the hellish machine
             ceased and I beheld it drawn up, by some invisible force, through the ceiling. This was
@@ -732,8 +733,8 @@
             ? or, if even that, could I withstand its pressure ? And now. flatter and flatter grew
             the lozenge, with a rapidity that left me no time for contemplation. Its centre, and of
             course, its greatest width, came just over the yawning gulf. I shrank <cb/>
-            <cb n="2"/><lb/>back but the closing walls pressed me resistlessly onward. At length for my
-            seared and writhing body there was no longer an inch of foothold on the firm floor of
+            <cb n="2"/><lb/>back but the closing walls pressed me resistlessly onward. At length for
+            my seared and writhing body there was no longer an inch of foothold on the firm floor of
             the prison. I struggled no more, but the agony of my soul found vent in one loud, long,
             and final scream of despair. I felt that I tottered upon the brink—I averted my eyes— </p>
           <p><lb/>There was a discordant hum of human voices ! There was a loud blast as of many
@@ -741,10 +742,14 @@
             back! An outstretched arm caught my own as I fell, fainting, into the abyss. It was that
             of General Lasalle. The French army had entered Toledo. The Inquisition was in the hands
             of its enemies. </p>
-          <lb/><byline><persName>EDGAR A. POE.</persName></byline></div>
+          <lb/>
+          <byline><persName>EDGAR A. POE.</persName></byline>
+        </div>
 
-      <div resp="personography.xml#hbhirst" subtype="supplied" cert="high"><lb/><head>MAY.</head>
-<lb/>
+        <div type="piece" resp="personography.xml#hbhirst" subtype="attested">
+          <lb/>
+          <head>MAY.</head>
+          <lb/>
           <lg>
             <l>The dainty May has come, with steps like pauses</l>
             <l>Between melodious cadences, and glances</l>
@@ -792,11 +797,13 @@
             <lb/>
             <l>On which the swan of song floats gracefully forever.</l>
           </lg>
-        <ab>Philadelphia, May, 1844.</ab><byline><persName>HENRY B HIRST.</persName></byline></div>
+          <ab>Philadelphia, May, 1844.</ab>
+          <byline><persName>HENRY B HIRST.</persName></byline>
+        </div>
 
       <div resp="personography.xml#eapoe" subtype="supplied" cert="high" type="section">
         <head>EVIEWS.</head>
-        <div><head>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high"><head>
             <title>Headlong Hall and Nightmare Abbey. <lb/>The French in Algiers..</title>
             <lb/>Nos. 7 and 8 of Wiley &amp; Putnam’s Library of Choice Reading.</head>
           <lb/>
@@ -1026,225 +1033,239 @@
             me, in Arabic, my name and where I was taken, and on my answering his questions, told me
             to fear nothing so long as I was with him.</p></div>
         
-        <div><head><title>Old English Poetry.—The Book or Gems.</title> Edited by <persName>S. C.
-              Hall</persName>.</head>
-          <p><lb/>It should not be doubted that at least one third of the affection with which we
-            regard the elder poets of Great Britain, should be attributed to what is, in itself, a
-            thing apart from poetry—we mean to the simple love of the antique—and that, again, a
-            third of even the proper poetic sentiment inspired by their writings, should be ascribed
-            to a fact which, while it has strict connexion with poetry in the abstract, and with the
-            old British poems themselves, should not be looked upon as a merit appertaining to the
-            authors of the poems. Almost every devout admirer of the old bards, if demanded his
-            opinion of their productions, would mention vaguely, yet with perfect sincerity, a sense
-            of dreamy, wild, indefinite, and he would perhaps say, indefinable delight; on being
-            required to point out the source of this so shadowy pleasure, he would be apt to speak
-            of the quaint in phraseology, and in general handling. This quaintness is, in fact, a
-            very powerful adjunct to ideality, but in the case in question, it arises independently
-            of the author’s will, and is altogether 
-            <cb n="2"/> <lb/>apart from his intention. Words and their
-            rhythm have varied. Verses which affect us to-day with a vivid delight, and which
-            delight, in many instances, may be traced to the one source, quainlness, must have worn,
-            in the days of their construction, a very common-place air. This is, of course, no
-            argument against the poems now—we mean it only as against the poets then. There is a
-            growing desire to overrate them. The old English muse was frank, guileless, sincere, and
-            although very learned still learned without Art. No general error evinces a more
-            thorough confusion of ideas than the error of supposing Donne and Cowley metaphysical in
-            the sense wherein Wordsworth and Coleridge are so. With the two former ethics were the
-            end—with the two latter the means. The poet of the “ Creation” wished, by highly
-            artificial verse, to inculcate what he supposed to be moral truth —the poet of the “
-            Ancient Mariner” to infuse the Poetic Sentiment through channels suggested by analysis.
-            The one finished by complete failure what he commenced in the grossest misconception;
-            the other, by a path which could not possibly lead him astray, arrived at a triumph
-            which is not the less glorious because hidden from the profane eyes of the multitude.
-            But in this view even the “metaphysical verse” of Cowley is but evidence of the
-            simplicity and single-heartedness of the man. And he was in this hut a type of his
-            school—for we may as well designate in this way the entire class of writers whose poems
-            are bound up in the volume before us, and throughout all of whom there runs a very
-            perceptible general character. They used little art in composition. Their writings
-            sprang immediately from the soul— and partook intensely of that soul’s nature. Nor is it
-            difficult to perceive the tendency of this abandon—to elevate immeasurably all the
-            energies of mind—but, again, so to mingle the greatest possible fire, force, delicacy,
-            and all good things, with the lowest possible bathos, baldness, and imbecility, as to
-            render it not a matter of doubt that the average results of mind in such a school will
-            be found inferior to those results in one (ceteris paribus) more artificial.</p> 
-          <p><lb/>We cannot bring ourselves to believe, that the selections of the “ Book of Gems”
-            are such as will impart to a poetical reader the clearest possible idea of the beauty of
-            the school— but if the intention had been merely to show the school’s character, the
-            attempt might have been considered successful in the highest degree. There are long
-            passages now before us, of the most despicable trash, with no merit whatever, beyond
-            that of their antiquity. The criticisms of the Editor do not particularly please us. His
-            enthusiasm is too general and too vivid not to be false. His opinion, for example, of
-            Sir Henry Wotton’s “ Verses on the Queen of Bohemia”—that “ there are few finer things
-            in our language” is untenable and absurd. We quote the lines :</p> 
-          <lg><lb/>
-            <l>You meaner beauties of the Night</l> 
-            <l>That poorly satisfy our eyes</l> 
-            <l>More by your number than your light,</l> 
-            <l><lb/>You common people of the skies,</l> 
-            <l><lb/>What are you when the sun shall rise?</l> 
-            <l><lb/>You curious chanters of the wood,</l> 
-            <l><lb/>That warble forth dame Nature’s lays,</l> 
-            <l><lb/>Thinking your passions understood</l> 
-            <l><lb/>By your weak accents—what’s your praise</l> 
-            <l>When Philomel her voice shall raise ?</l> 
-            <l><lb/>You violets that first appear,</l> 
-            <l><lb/>By your pure purple mantles known,</l> 
-            <l><lb/>Like the proud virgins of the year,</l> 
-            <l><lb/>As if the spring were all your own,</l> 
-            <l><lb/>What are you when the rose is blown ?</l> 
-            <l><lb/>So when my mistress shall be seen</l> 
-            <l>In sweetness of her looks and mind,</l> 
-            <l><lb/>By virtue first, then choice, a queen,</l> 
-            <l><lb/>Tell me if she were not designed</l>
-            <l>Th’ eclipse and glory of her kind?</l></lg> 
-          <p><lb/>In such lines we can perceive not one of those higher attributes of Poesy which
-            belong to her under all circumstan- <pb n="314"/>
-            <cb n="1"/><lb/>ces and throughout all time. Here every thing is art—naked or but awkwardly
-            concealed. No prepossession for the mere antique (and in this case we can imagine no
-            other prepossession) should induce us to dignify with the sacred name of Poetry, a
-            series, such as this, of elaborate and threadbare compliments, stitched, apparently,
-            together, without fancy, without plausibility, and without even an attempt at
-            adaptation.</p> 
-          <p><lb/>In common with all the world, we have been much delighted with “ The Shepherd’s
-            Hunting,” by Wither—a poem partaking, in a remarkable degree, of the peculiarities of II
-            Penseroso. Speaking of Poesy, the author says:</p> 
-          <lg>
-            <l><lb/>By the murmur of a spring</l>
-            <l>Or the least boughs rusteling,</l>
+          <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
+            <head><title>Old English Poetry.—The Book or Gems.</title> Edited by <persName>S. C.
+                Hall</persName>.</head>
+            <p><lb/>It should not be doubted that at least one third of the affection with which we
+              regard the elder poets of Great Britain, should be attributed to what is, in itself, a
+              thing apart from poetry—we mean to the simple love of the antique—and that, again, a
+              third of even the proper poetic sentiment inspired by their writings, should be
+              ascribed to a fact which, while it has strict connexion with poetry in the abstract,
+              and with the old British poems themselves, should not be looked upon as a merit
+              appertaining to the authors of the poems. Almost every devout admirer of the old
+              bards, if demanded his opinion of their productions, would mention vaguely, yet with
+              perfect sincerity, a sense of dreamy, wild, indefinite, and he would perhaps say,
+              indefinable delight; on being required to point out the source of this so shadowy
+              pleasure, he would be apt to speak of the quaint in phraseology, and in general
+              handling. This quaintness is, in fact, a very powerful adjunct to ideality, but in the
+              case in question, it arises independently of the author’s will, and is altogether <cb
+                n="2"/>
+              <lb/>apart from his intention. Words and their rhythm have varied. Verses which affect
+              us to-day with a vivid delight, and which delight, in many instances, may be traced to
+              the one source, quainlness, must have worn, in the days of their construction, a very
+              common-place air. This is, of course, no argument against the poems now—we mean it
+              only as against the poets then. There is a growing desire to overrate them. The old
+              English muse was frank, guileless, sincere, and although very learned still learned
+              without Art. No general error evinces a more thorough confusion of ideas than the
+              error of supposing Donne and Cowley metaphysical in the sense wherein Wordsworth and
+              Coleridge are so. With the two former ethics were the end—with the two latter the
+              means. The poet of the “ Creation” wished, by highly artificial verse, to inculcate
+              what he supposed to be moral truth —the poet of the “ Ancient Mariner” to infuse the
+              Poetic Sentiment through channels suggested by analysis. The one finished by complete
+              failure what he commenced in the grossest misconception; the other, by a path which
+              could not possibly lead him astray, arrived at a triumph which is not the less
+              glorious because hidden from the profane eyes of the multitude. But in this view even
+              the “metaphysical verse” of Cowley is but evidence of the simplicity and
+              single-heartedness of the man. And he was in this hut a type of his school—for we may
+              as well designate in this way the entire class of writers whose poems are bound up in
+              the volume before us, and throughout all of whom there runs a very perceptible general
+              character. They used little art in composition. Their writings sprang immediately from
+              the soul— and partook intensely of that soul’s nature. Nor is it difficult to perceive
+              the tendency of this abandon—to elevate immeasurably all the energies of mind—but,
+              again, so to mingle the greatest possible fire, force, delicacy, and all good things,
+              with the lowest possible bathos, baldness, and imbecility, as to render it not a
+              matter of doubt that the average results of mind in such a school will be found
+              inferior to those results in one (ceteris paribus) more artificial.</p>
+            <p><lb/>We cannot bring ourselves to believe, that the selections of the “ Book of Gems”
+              are such as will impart to a poetical reader the clearest possible idea of the beauty
+              of the school— but if the intention had been merely to show the school’s character,
+              the attempt might have been considered successful in the highest degree. There are
+              long passages now before us, of the most despicable trash, with no merit whatever,
+              beyond that of their antiquity. The criticisms of the Editor do not particularly
+              please us. His enthusiasm is too general and too vivid not to be false. His opinion,
+              for example, of Sir Henry Wotton’s “ Verses on the Queen of Bohemia”—that “ there are
+              few finer things in our language” is untenable and absurd. We quote the lines :</p>
+            <lg>
+              <lb/>
+              <l>You meaner beauties of the Night</l>
+              <l>That poorly satisfy our eyes</l>
+              <l>More by your number than your light,</l>
+              <l><lb/>You common people of the skies,</l>
+              <l><lb/>What are you when the sun shall rise?</l>
+              <l><lb/>You curious chanters of the wood,</l>
+              <l><lb/>That warble forth dame Nature’s lays,</l>
+              <l><lb/>Thinking your passions understood</l>
+              <l><lb/>By your weak accents—what’s your praise</l>
+              <l>When Philomel her voice shall raise ?</l>
+              <l><lb/>You violets that first appear,</l>
+              <l><lb/>By your pure purple mantles known,</l>
+              <l><lb/>Like the proud virgins of the year,</l>
+              <l><lb/>As if the spring were all your own,</l>
+              <l><lb/>What are you when the rose is blown ?</l>
+              <l><lb/>So when my mistress shall be seen</l>
+              <l>In sweetness of her looks and mind,</l>
+              <l><lb/>By virtue first, then choice, a queen,</l>
+              <l><lb/>Tell me if she were not designed</l>
+              <l>Th’ eclipse and glory of her kind?</l>
+            </lg>
+            <p><lb/>In such lines we can perceive not one of those higher attributes of Poesy which
+              belong to her under all circumstan- <pb n="314"/>
+              <cb n="1"/><lb/>ces and throughout all time. Here every thing is art—naked or but
+              awkwardly concealed. No prepossession for the mere antique (and in this case we can
+              imagine no other prepossession) should induce us to dignify with the sacred name of
+              Poetry, a series, such as this, of elaborate and threadbare compliments, stitched,
+              apparently, together, without fancy, without plausibility, and without even an attempt
+              at adaptation.</p>
+            <p><lb/>In common with all the world, we have been much delighted with “ The Shepherd’s
+              Hunting,” by Wither—a poem partaking, in a remarkable degree, of the peculiarities of
+              II Penseroso. Speaking of Poesy, the author says:</p>
+            <lg>
+              <l><lb/>By the murmur of a spring</l>
+              <l>Or the least boughs rusteling,</l>
+              <lb/>
+              <l>By a daisy whose leaves spread</l>
+              <l>Shut when Titan goes to bed,</l>
+              <lb/>
+              <l>Or a shady bush or tree</l>
+              <l>She could more infuse in me</l>
+              <l>Than all Nature’s beauties can</l>
+              <l>In some other wiser man.</l>
+              <l><lb/>By her help I also now</l>
+              <l>Make this churlish place allow</l>
+              <l>Something that may sweeten gladness</l>
+              <l>In the very gall of sadness—</l>
+              <l><lb/>The dull loneness, the black shade</l>
+              <l>That these hanging vaults have made,</l>
+              <l><lb/>The strange music of the waves</l>
+              <l>Beating on these hollow caves,</l>
+              <l><lb/>This black den which rocks emboss</l>
+              <l>Overgrown with eldest moss,</l>
+              <l><lb/>The rude portals that give light</l>
+              <l>More to terror than delight,</l>
+              <l><lb/>This my chamber of neglect</l>
+              <l>Walled about with disrespect</l>
+              <l>From all these and this dull air</l>
+              <l>A fit object for despair,</l>
+              <l><lb/>She hath taught me by her might</l>
+              <l>To draw comfort and delight.</l>
+            </lg>
+
+            <p><lb/>But these lines, however good, do not bear with them much of the general
+              character of the English antique. Something more of this will be found in Corbet’s “
+              Farewell Rewards and Fairies!” We copy a portion of Marvell’s “ Maiden lamenting for
+              her Fawn'’—which we prefer not only as a specimen of the elder poets, but in itself as
+              a beautiful poem abounding in pathos, exquisitely delicate imagination and
+              truthfulness, to any thing of its species:</p>
+            <lg>
+              <l><lb/>It is a wondrous thing how fleet</l>
+              <l>’Twas on those little silver feet,</l>
+              <l><lb/>With what a pretty skipping grace</l>
+              <l>It oft would challenge me the race,</l>
+              <l><lb/>And when’t had left me far away,</l>
+              <l><lb/>’Twould stay, and run again, and stay;</l>
+              <l><lb/>For it was nimbler much than hinds,</l>
+              <l><lb/>And trod as if on the four winds.</l>
+              <l><lb/>I have a garden of my own,</l>
+              <l><lb/>But so with roses overgrown,</l>
+              <l><lb/>And lilies that you would it guess</l>
+              <l>To be a little wilderness ;</l>
+              <l><lb/>And all the spring-time of the year</l>
+              <l>It only loved to be there.</l>
+              <l><lb/>Among the beds of lilies I</l>
+              <l><lb/>Have sought it oft where it should lie,</l>
+              <l><lb/>Yet could not till itself would rise</l>
+              <l>Find it, although before mine eyes.</l>
+              <l><lb/>For in the flaxen lilies shade,</l>
+              <l><lb/>It like a bank of lilies laid;</l>
+              <l><lb/>Upon the roses it would feed</l>
+              <l>Until its lips even seemed to bleed,</l>
+              <l><lb/>And then to me ’twould boldly trip,</l>
+              <l><lb/>And print those roses on my lip,</l>
+              <l><lb/>But all its chief delight was still</l>
+              <l>With roses thus itself to fill,</l>
+              <l><lb/>And its pure virgin limbs to fold</l>
+              <l>In whitest sheets of lilies cold.</l>
+              <l><lb/>Had it lived long it would have been</l>
+              <l>Lilies without, roses within.</l>
+            </lg>
+
+            <p><lb/>How truthful an air of lamentation hangs here upon every syllable! It pervades
+              all. It comes over the sweet melody of the words—over the gentleness and grace which
+              we fancy in the little maiden herself—even over the half-playful, half-petulant air
+              with which she lingers on the beauties and good qualities of her favorite—like the
+              cool shadow of a summer cloud over a bed of lilies and violets, “ and all sweet
+              dowers.” The whole is redolent with poetry of a very lofty order. Every line is an
+              idea—conveying either the beauty and playfulness of the fawn, or the artlessness of
+              the maiden, or her love, or her admiration, or her grief, or the fragrance and <cb
+                n="2"/><lb/>warmth and appropriateness of the little nest-like bed of lilies and
+              roses which the fawn devoured as it lay upon them, and could scarcely be distinguished
+              from them by the once happy little damsel who went to seek her pet with an arch and
+              rosy smile on her face. Consider the great variety of truthful and delicate thought in
+              the few lines we have quoted—the wonder of the maiden at the fleetness of her
+              favorite—the “little silver feet”—the fawn challenging his mistress to a race with “a
+              pretty skipping grace,” running on before, and then, with head turned back, awaiting
+              her approach only to fly from it again—can we not distinctly perceive all these
+              things? How exceedingly vigorous, too, is the line,</p>
+            <lg>
+              <l><lb/>And trod as if on the four winds!</l>
+            </lg>
+            <p><lb/>—a vigor fully apparent only when we keep in mind the artless character of the
+              speaker and the four feet of the favorite —one for each wind. Then consider the garden
+              of “ my own,” so overgrown—entangled—with roses and lilies, as to be “ a little
+              wilderness”—the fawn, loving to be there, and there “ only”—the maiden seeking it “
+              where it should lie”— and not being able to distinguish it from the flowers until “
+              itself would rise”—the lying among the lilies “like a bank of lilies”—the loving to
+              “till itself with roses,"</p>
+            <lg>
+              <l><lb/>And its pure virgin limbs to fold</l>
+              <l><lb/>In whitest sheets of lilies cold,</l>
+            </lg>
+
+            <p><lb/>and these things being its “chief” delights—and then the pre-eminent beauty and
+              naturalness of the concluding lines— whose very hyperbole only renders them more true
+              to nature when we consider the innocence, the artlessness, the enthusiasm, the
+              passionate grief, and more passionate admiration of the bereaved child—</p>
+            <lg>
+              <l><lb/>Had it lived long, it would hvae been</l>
+              <lb/>
+              <l>Lilies without—roses within.</l>
+            </lg>
+          </div> 
+        
+          <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
             <lb/>
-            <l>By a daisy whose leaves spread</l>
-            <l>Shut when Titan goes to bed,</l>
+            <head><title>The Complete History of Ireland,</title> from the earliest times, being
+              compiled from a connected continuation, by approved standard writers. By Mr.
+              O’Halloran, author of “ the Introduction to the History and Antiquities of Ireland.”
+              Embellished with magnificent steel engravings, from designs taken expressly by Wm. II.
+              Bartlett, Esq. Nos. 1, 2, R. Martin &amp; Co., 22 John st., New York. Price, 12 1-2
+              cents each.</head>
+            <p><lb/>The typographical beauty of this publication speaks loudly in its favor, apart
+              from its internal merit, which is indisputable.</p>
+          </div> 
+        
+          <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
             <lb/>
-            <l>Or a shady bush or tree</l>
-            <l>She could more infuse in me</l>
-            <l>Than all Nature’s beauties can</l>
-            <l>In some other wiser man.</l>
-            <l><lb/>By her help I also now</l>
-            <l>Make this churlish place allow</l>
-            <l>Something that may sweeten gladness</l>
-            <l>In the very gall of sadness—</l>
-            <l><lb/>The dull loneness, the black shade</l>
-            <l>That these hanging vaults have made,</l>
-            <l><lb/>The strange music of the waves</l>
-            <l>Beating on these hollow caves,</l>
-            <l><lb/>This black den which rocks emboss</l>
-            <l>Overgrown with eldest moss,</l>
-            <l><lb/>The rude portals that give light</l>
-            <l>More to terror than delight,</l>
-            <l><lb/>This my chamber of neglect</l>
-            <l>Walled about with disrespect</l>
-            <l>From all these and this dull air</l>
-            <l>A fit object for despair,</l>
-            <l><lb/>She hath taught me by her might</l>
-            <l>To draw comfort and delight.</l>
-          </lg> 
-          
-          <p><lb/>But these lines, however good, do not bear with them much of the general character
-            of the English antique. Something more of this will be found in Corbet’s “ Farewell
-            Rewards and Fairies!” We copy a portion of Marvell’s “ Maiden lamenting for her
-            Fawn'’—which we prefer not only as a specimen of the elder poets, but in itself as a
-            beautiful poem abounding in pathos, exquisitely delicate imagination and truthfulness,
-            to any thing of its species:</p> 
-          <lg>
-            <l><lb/>It is a wondrous thing how fleet</l>
-            <l>’Twas on those little silver feet,</l>
-            <l><lb/>With what a pretty skipping grace</l>
-            <l>It oft would challenge me the race,</l>
-            <l><lb/>And when’t had left me far away,</l>
-            <l><lb/>’Twould stay, and run again, and stay;</l>
-            <l><lb/>For it was nimbler much than hinds,</l>
-            <l><lb/>And trod as if on the four winds.</l>
-            <l><lb/>I have a garden of my own,</l>
-            <l><lb/>But so with roses overgrown,</l>
-            <l><lb/>And lilies that you would it guess</l>
-            <l>To be a little wilderness ;</l>
-            <l><lb/>And all the spring-time of the year</l>
-            <l>It only loved to be there.</l>
-            <l><lb/>Among the beds of lilies I</l>
-            <l><lb/>Have sought it oft where it should lie,</l>
-            <l><lb/>Yet could not till itself would rise</l>
-            <l>Find it, although before mine eyes.</l>
-            <l><lb/>For in the flaxen lilies shade,</l>
-            <l><lb/>It like a bank of lilies laid;</l>
-            <l><lb/>Upon the roses it would feed</l>
-            <l>Until its lips even seemed to bleed,</l>
-            <l><lb/>And then to me ’twould boldly trip,</l>
-            <l><lb/>And print those roses on my lip,</l>
-            <l><lb/>But all its chief delight was still</l>
-            <l>With roses thus itself to fill,</l>
-            <l><lb/>And its pure virgin limbs to fold</l>
-            <l>In whitest sheets of lilies cold.</l>
-            <l><lb/>Had it lived long it would have been</l>
-            <l>Lilies without, roses within.</l>
-          </lg> 
-          
-          <p><lb/>How truthful an air of lamentation hangs here upon every syllable! It pervades
-            all. It comes over the sweet melody of the words—over the gentleness and grace which we
-            fancy in the little maiden herself—even over the half-playful, half-petulant air with
-            which she lingers on the beauties and good qualities of her favorite—like the cool
-            shadow of a summer cloud over a bed of lilies and violets, “ and all sweet dowers.” The
-            whole is redolent with poetry of a very lofty order. Every line is an idea—conveying
-            either the beauty and playfulness of the fawn, or the artlessness of the maiden, or her
-            love, or her admiration, or her grief, or the fragrance and 
-            <cb n="2"/><lb/>warmth and appropriateness of the little nest-like bed of lilies and roses which
-            the fawn devoured as it lay upon them, and could scarcely be distinguished from them by
-            the once happy little damsel who went to seek her pet with an arch and rosy smile on her
-            face. Consider the great variety of truthful and delicate thought in the few lines we
-            have quoted—the wonder of the maiden at the fleetness of her favorite—the “little silver
-            feet”—the fawn challenging his mistress to a race with “a pretty skipping grace,”
-            running on before, and then, with head turned back, awaiting her approach only to fly
-            from it again—can we not distinctly perceive all these things? How exceedingly vigorous,
-            too, is the line,</p> 
-          <lg>
-            <l><lb/>And trod as if on the four winds!</l>
-          </lg> 
-          <p><lb/>—a vigor fully apparent only when we keep in mind the artless character of the
-            speaker and the four feet of the favorite —one for each wind. Then consider the garden
-            of “ my own,” so overgrown—entangled—with roses and lilies, as to be “ a little
-            wilderness”—the fawn, loving to be there, and there “ only”—the maiden seeking it “
-            where it should lie”— and not being able to distinguish it from the flowers until “
-            itself would rise”—the lying among the lilies “like a bank of lilies”—the loving to
-            “till itself with roses,"</p> 
-          <lg>
-            <l><lb/>And its pure virgin limbs to fold</l>
-            <l><lb/>In whitest sheets of lilies cold,</l>
-          </lg> 
-          
-          <p><lb/>and these things being its “chief” delights—and then the pre-eminent beauty and
-            naturalness of the concluding lines— whose very hyperbole only renders them more true to
-            nature when we consider the innocence, the artlessness, the enthusiasm, the passionate
-            grief, and more passionate admiration of the bereaved child—</p> 
-          <lg>
-            <l><lb/>Had it lived long, it would hvae been</l>
+            <head><title>Martin’s Illustrated Family Bible.</title> No. 4.</head>
+
+            <p><lb/>This really magnificent work increases, with each issue, in the value of its
+              illustrations. The present number contains a view of the Hill of Samaria from an
+              original drawing by W. H. Bartlett, engraved by J. C. Bentley. It is an admirable
+              engraving, worthy to accompany the beautifully printed text.</p>
+          </div> 
+        
+          <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
             <lb/>
-            <l>Lilies without—roses within.</l>
-          </lg></div> 
+            <head><title>Essays on the Principles of Morality</title>, and on the private and
+              political rights and obligations of Mankind. By <persName>Jonathan Dymoud</persName>.
+              Collins, Brother &amp; Co., 254 Pearl st.</head>
+            <p><lb/>This is an important book, and we are happy to perceive from the title page that
+              the present issue is the fourth thousand published. If it contained but the one
+              chapter on the Morality of Legal Practice, it would be enough to entitle it to a wide
+              circulation.</p>
+          </div> 
         
-        <div><lb/><head><title>The Complete History of Ireland,</title> from the earliest times,
-            being compiled from a connected continuation, by approved standard writers. By
-              <author>Mr. O’Halloran</author>, author of “ the Introduction to the History and
-            Antiquities of Ireland.” Embellished with magnificent steel engravings, from designs
-            taken expressly by Wm. II. Bartlett, Esq. Nos. 1, 2, R. Martin &amp; Co., 22 John st.,
-            New York. Price, 12 1-2 cents each.</head>
-          <p><lb/>The typographical beauty of this publication speaks loudly in its favor, apart
-            from its internal merit, which is indisputable.</p></div> 
-        
-        <div><lb/><head><title>Martin’s Illustrated Family Bible.</title> No. 4.</head>
-          
-          <p><lb/>This really magnificent work increases, with each issue, in the value of its
-            illustrations. The present number contains a view of the Hill of Samaria from an
-            original drawing by W. H. Bartlett, engraved by J. C. Bentley. It is an admirable
-            engraving, worthy to accompany the beautifully printed text.</p></div> 
-        
-        <div><lb/><head><title>Essays on the Principles of Morality</title>, and on the private and
-            political rights and obligations of Mankind. By <persName>Jonathan Dymoud</persName>.
-            Collins, Brother &amp; Co., 254 Pearl st.</head>
-          <p><lb/>This is an important book, and we are happy to perceive from the title page that
-            the present issue is the fourth thousand published. If it contained but the one chapter
-            on the Morality of Legal Practice, it would be enough to entitle it to a wide
-            circulation.</p></div> 
-        
-        <div>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
           <lb/>
           <head><title>The Principles of the Chronothermal System of Medicine.</title> With
             fallacies of the faculty. In a series of lectures, originally delivered in 1840, at the
@@ -1259,365 +1280,390 @@
       
       <pb n="315"/>
 
-      <cb n="1"/><div resp="personography.xml#eapoe" subtype="supplied" cert="high"><head>THE NATIONAL BARBER.</head>
+      <cb n="1"/>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
+          <head>THE NATIONAL BARBER.</head>
 
-        <p><lb/>Since Mr. Bancroft has taken possession of his department in the government of our
-          twenty millions of free people, he has issued a command to that portion who are subject to
-          his rule, ordering them to shave all the lower part of their faces. No hair is allowed to
-          grow in the Navy below the corner of a man’s mouth. Mr. Bancroft being a liberal
-          Christian, a man of the world, and a descendant of the pilgrim stock, is the last man in
-          the Union from whom we should expect such an evidence of barberism as this. Of all other
-          men in the world sailors need their beards most to protect their throats from the cold and
-          wet to which they are exposed, and of all other men in the world they have the fewest
-          conveniences for shaving. The necessity of the beard has never been disputed by an
-          intelligent being, and that depriving the face and throat of their natural covering causes
-          a great many of the neuralgic and thoracic diseases which enfeeble and destroy life among
-          men, is acknowledged by all physicians. But if there were no other reason for preserving
-          the beard than the fact of its beautifying the face, and giving an aspect of gravity and
-          dignity to the wearer, that alone should be sufficient to save it from the razor. Sailors
-          and Soldiers need all the natural advantages that give them an air of manliness, and,
-          instead of dressing them up like monkies, with bits of red and yellow cloth, and feathers
-          and tinsel, if they were dressed in plain clothes, and allowed to wear their beards
-          naturally, their dignity of aspect would go farther to beget courage and respect among
-          themselves, and fear in their enemies, than all the artificial appliances that military
-          folly has ever conceived. It is the fashion with some of our volunteer corps when they
-          march through the streets in their fancy dresse , looking like a troupe of chorus singers
-          before the foot lights in a melo-drama, to be preceded by two or three pioneers, who to
-          give themselves an air of gravity and determination, tie false beards upon their chins,
-          making the smooth-faced men who follow them look like a corps of Miss Fuller’s women
-          soldiers. We saw in a South American port, once, the crew of an English frigate who all
-          wore their beards, from the captain downwards, and we were amazed to see such a collection
-          of magnificent looking men. They were probably no finer looking than any other crew of
-          Englishmen, but their beards give them a most noble and dignified appearance. We do not
-          wonder that the Captains of our National Ships should take upon themselves the authority
-          to compel the men under their charge to trim their whiskers in conformity with a
-          particular pattern, because little tyrants are greedy of every petty occasion to show
-          their power. But that the Secretary of the Navy, in this enlightened age, when even
-          dandies and counter jumpers are beginning to assert their manliness by allowing their
-          beards to grow, should be guilty of this hirsute tyranny, is indeed monstrous. The
-          advantages of wearing the beard naturally are too evident to need enumerating, while no
-          good of any sort or degree can result from shaving. The practice originated in the basest
-          motives among a people of effeminate and degraded habits, and it has been continued down
-          to the present day by the spirit of conservatism that causes two thirds of the miseries
-          which men endure.</p>
-        
-        <p><lb/>The ancient German nations shaved the beard except that on the upper lip. The
-          ancient Goths, Franks, Gauls, and Britons, also wore long beards, but at the introduction
-          of Christianity, the laity began by degrees to imitate the clergy, who were shaven. The
-          Danes appear to have worn their beards. The Normans shaved their beards entirely, and
-          looked upon the appendage with so much distaste as an indication of misery and distress,
-          that they were the great apostles of shaving wherever they came. Accordingly they
-          endeavoured to persuade or compel the English to shave the hair of their upper fips. The
-          great majority yielded to the necessity of the case, but there 
-          <cb n="2"/><lb/>were many who chose to leave the country rather than resign their whiskers. However,
-          beards again had their day. In the 14th cen-tury, they became again fashionable, and
-          continued until the begin-ning of the 17th. At the latter date their dimensions had become
-          more contracted, and they were soon after relinquished, the mustache only being retained ;
-          and at the commencement of the last century the practice of shaving the whole face had
-          become universal. In the latter changes the example of France was followed. In that
-          country, Charles IV., was the last sovereign who wore a beard, and he had a tolerably fine
-          one. He was succeeded by a beardless minor, in compliment to whom the courtiers shaved all
-          their beards except the mustaches, ultimately the mustaches also disappeared. The
-          Span-iards, more tardily influenced by French example, kept their beards till the French
-          and English were beginning to relinquish even mustaches. Perhaps they would have kept the
-          cherished appendage to this day, but a French prince (Philip V.) mounted the throne with a
-          shaven chin. The courtiers, with heavy hearts, imitated the prince ; and the people, with
-          still heavier hearts, imitated the courtiers. The popular feeling on the subject, however,
-          remains recorded in the proverb, “Since we have lost our beards, we have lost our
-          souls.”</p>
+          <p><lb/>Since Mr. Bancroft has taken possession of his department in the government of our
+            twenty millions of free people, he has issued a command to that portion who are subject
+            to his rule, ordering them to shave all the lower part of their faces. No hair is
+            allowed to grow in the Navy below the corner of a man’s mouth. Mr. Bancroft being a
+            liberal Christian, a man of the world, and a descendant of the pilgrim stock, is the
+            last man in the Union from whom we should expect such an evidence of barberism as this.
+            Of all other men in the world sailors need their beards most to protect their throats
+            from the cold and wet to which they are exposed, and of all other men in the world they
+            have the fewest conveniences for shaving. The necessity of the beard has never been
+            disputed by an intelligent being, and that depriving the face and throat of their
+            natural covering causes a great many of the neuralgic and thoracic diseases which
+            enfeeble and destroy life among men, is acknowledged by all physicians. But if there
+            were no other reason for preserving the beard than the fact of its beautifying the face,
+            and giving an aspect of gravity and dignity to the wearer, that alone should be
+            sufficient to save it from the razor. Sailors and Soldiers need all the natural
+            advantages that give them an air of manliness, and, instead of dressing them up like
+            monkies, with bits of red and yellow cloth, and feathers and tinsel, if they were
+            dressed in plain clothes, and allowed to wear their beards naturally, their dignity of
+            aspect would go farther to beget courage and respect among themselves, and fear in their
+            enemies, than all the artificial appliances that military folly has ever conceived. It
+            is the fashion with some of our volunteer corps when they march through the streets in
+            their fancy dresse , looking like a troupe of chorus singers before the foot lights in a
+            melo-drama, to be preceded by two or three pioneers, who to give themselves an air of
+            gravity and determination, tie false beards upon their chins, making the smooth-faced
+            men who follow them look like a corps of Miss Fuller’s women soldiers. We saw in a South
+            American port, once, the crew of an English frigate who all wore their beards, from the
+            captain downwards, and we were amazed to see such a collection of magnificent looking
+            men. They were probably no finer looking than any other crew of Englishmen, but their
+            beards give them a most noble and dignified appearance. We do not wonder that the
+            Captains of our National Ships should take upon themselves the authority to compel the
+            men under their charge to trim their whiskers in conformity with a particular pattern,
+            because little tyrants are greedy of every petty occasion to show their power. But that
+            the Secretary of the Navy, in this enlightened age, when even dandies and counter
+            jumpers are beginning to assert their manliness by allowing their beards to grow, should
+            be guilty of this hirsute tyranny, is indeed monstrous. The advantages of wearing the
+            beard naturally are too evident to need enumerating, while no good of any sort or degree
+            can result from shaving. The practice originated in the basest motives among a people of
+            effeminate and degraded habits, and it has been continued down to the present day by the
+            spirit of conservatism that causes two thirds of the miseries which men endure.</p>
 
-        <p><lb/>Sometimes the clergy of the Western Church were enjoined to wear beards, under an
-          impression that shaving was an effeminate practice, and that a beard well became the
-          gravity of the ecclesiastical character ; and at other times shaving was enforced from an
-          idea that pride was too apt to lurk beneath a venerable beard. It is related that
-          Guillaume Duprat, Bishop of Clermont, who assisted at the council of Trent, and built the
-          College of the Jesuits at Paris, had the finest beard that was ever seen. It was too fine
-          a beard for a bishop: and the canons of his Cathedral, in full chapter assembled, came to
-          the bar-barous resolution of shaving him. Accordingly, when he next came to the choir, the
-          dean, the provost and the chantre approached with scissors and razors, soap, basin and
-          warm water.—He took to his heels at the sight, and escaped to his castle of Beauregard,
-          about two miles from Clermont, where he fell sick from vexation and died.</p>
-        
-        <p><lb/>A precious good fellow was Guillaume Duprat, and we wish that the ecclesiastic who
-          at present rules our Navy was of a similar kidney. But if all the officers of the Service
-          were of our mind they would wear their beards and wag them too in spite of all the orders
-          the Secretary could issue. We would like to see an officer court martialed for
-          disobedience of such an order, to test the right of a citizen to his own hair. If Mr.
-          Bancroft may compel the officers in the service to shave their faces he may compel them to
-          emasculate themselves in some other manner; he may next take it into his wise head to
-          command them to crop their ears or knock out their molars.</p>
-        
-        <p><lb/>“ Walker on Beauty,” in speaking of shaving the beard, says, it “has especially been
-          the case in degenerate and effeminate times : and this has sometimes been accompanied by
-          remarkable consequences.</p>
+          <p><lb/>The ancient German nations shaved the beard except that on the upper lip. The
+            ancient Goths, Franks, Gauls, and Britons, also wore long beards, but at the
+            introduction of Christianity, the laity began by degrees to imitate the clergy, who were
+            shaven. The Danes appear to have worn their beards. The Normans shaved their beards
+            entirely, and looked upon the appendage with so much distaste as an indication of misery
+            and distress, that they were the great apostles of shaving wherever they came.
+            Accordingly they endeavoured to persuade or compel the English to shave the hair of
+            their upper fips. The great majority yielded to the necessity of the case, but there <cb
+              n="2"/><lb/>were many who chose to leave the country rather than resign their
+            whiskers. However, beards again had their day. In the 14th cen-tury, they became again
+            fashionable, and continued until the begin-ning of the 17th. At the latter date their
+            dimensions had become more contracted, and they were soon after relinquished, the
+            mustache only being retained ; and at the commencement of the last century the practice
+            of shaving the whole face had become universal. In the latter changes the example of
+            France was followed. In that country, Charles IV., was the last sovereign who wore a
+            beard, and he had a tolerably fine one. He was succeeded by a beardless minor, in
+            compliment to whom the courtiers shaved all their beards except the mustaches,
+            ultimately the mustaches also disappeared. The Span-iards, more tardily influenced by
+            French example, kept their beards till the French and English were beginning to
+            relinquish even mustaches. Perhaps they would have kept the cherished appendage to this
+            day, but a French prince (Philip V.) mounted the throne with a shaven chin. The
+            courtiers, with heavy hearts, imitated the prince ; and the people, with still heavier
+            hearts, imitated the courtiers. The popular feeling on the subject, however, remains
+            recorded in the proverb, “Since we have lost our beards, we have lost our souls.”</p>
 
-        <p><lb/>“ One of the greatest misfortunes, says a French writer, which France ever had to
-          lament, the divorce of Louis le Jeune from Elinor of Guyenne, resulted from the fashion,
-          which this prince wished to introduce, of shaving his chin and cropping his head. The
-          queen, his wife, who appears to have possessed, with a masculine beauty, consid-erable
-          acuteness of intellect, observed, with some displeasure, that she imagined herself to have
-          espoused a monarch, not a monk. The ob-stinacy of Louis in shaving himself, and the horror
-          conceived by Eli-nor at the sight of a beardless chin, occasioned France the loss of those
-          fine provinces which constituted the dowry of this princess; and which, devolving to
-          England by a second marriage, became the source of wars which desolated France during four
-          hundred years.</p>
-        
-        <p><lb/>“ The habit of wearing the beard is a manly and noble one. Nature made it
-          distinctive of the male and female ; and its abandonment has commonly been accompanied not
-          only by periods of general effeminacy, but even by the decline and fall of States. They
-          were bearded Goths who vanquished the then beardless Romans ; and they are bearded Tartars
-          who now promise once more to inundate the regions occupied by the pope. Those, assuredly,
-          blunder, who ridicule the wear-ing of the beard. Silly affectation, or the contrary, is
-          imputable only to those who, by removing the beard, take the trouble so far to emasculate
-          themselves ! and who think themselves beautiful by an unnatural imitation of the smoother
-          face of women ?” </p>
-        
-        <p><lb/>Perhaps Mr. Bancroft’s next order will be that every man in the service shall
-          provide himself with a dozen boxes of Mons. Gouraud’s Poudre Subtile before going to sea,
-          and we expect to see the Navy agents advertising for hair tweezers for our ships of war,
-          and small pocket mirrors for the sailors to enable them to trim their eye-brows in
-          conformity with orders from Washington. </p>
-        
-        <p><lb/>There seems to be a strong opposition to any thing in the shape of manliness whether
-          of feeling, or look, in the dignitaries of our Naval Service. Among the rest of the
-          rigmarole published by Captain Wilkes in his narrative of the Exploring Expedition, we
-          find these man-milliner remarks in one of his manifestos. </p>
-        <pb  n="316"/>
+          <p><lb/>Sometimes the clergy of the Western Church were enjoined to wear beards, under an
+            impression that shaving was an effeminate practice, and that a beard well became the
+            gravity of the ecclesiastical character ; and at other times shaving was enforced from
+            an idea that pride was too apt to lurk beneath a venerable beard. It is related that
+            Guillaume Duprat, Bishop of Clermont, who assisted at the council of Trent, and built
+            the College of the Jesuits at Paris, had the finest beard that was ever seen. It was too
+            fine a beard for a bishop: and the canons of his Cathedral, in full chapter assembled,
+            came to the bar-barous resolution of shaving him. Accordingly, when he next came to the
+            choir, the dean, the provost and the chantre approached with scissors and razors, soap,
+            basin and warm water.—He took to his heels at the sight, and escaped to his castle of
+            Beauregard, about two miles from Clermont, where he fell sick from vexation and
+            died.</p>
 
-        <cb n="1"/><p><lb/>“ The undersigned, in calling the attention of the officers of the squadron under
-          his command to their personal appearance, would observe, that in his opinion, the example
-          of some of them in this respect is not such as should indicate to the crews of the
-          different vessels, composing the squadron, the necessity which exists of the greatest
-          attention being paid to their personal appearance and cleanliness, in conformity to the
-          internal rules and regulations of the squadron. </p>
-        
-        <p><lb/>“ He has not been aware until recently of the extent to which the wearing of
-          mustachios has been carried ! they, in most cases, give a notoriety and appearance of want
-          of attention to neatness, &amp;c.” </p>
-        
-        <p><lb/>Note.—Since writing the above we have discovered that Mr. Bancroft’s order was not
-          officially announced, but as we are informed that it will be soon our remarks will apply
-          when the order appears. </p></div>
+          <p><lb/>A precious good fellow was Guillaume Duprat, and we wish that the ecclesiastic who
+            at present rules our Navy was of a similar kidney. But if all the officers of the
+            Service were of our mind they would wear their beards and wag them too in spite of all
+            the orders the Secretary could issue. We would like to see an officer court martialed
+            for disobedience of such an order, to test the right of a citizen to his own hair. If
+            Mr. Bancroft may compel the officers in the service to shave their faces he may compel
+            them to emasculate themselves in some other manner; he may next take it into his wise
+            head to command them to crop their ears or knock out their molars.</p>
+
+          <p><lb/>“ Walker on Beauty,” in speaking of shaving the beard, says, it “has especially
+            been the case in degenerate and effeminate times : and this has sometimes been
+            accompanied by remarkable consequences.</p>
+
+          <p><lb/>“ One of the greatest misfortunes, says a French writer, which France ever had to
+            lament, the divorce of Louis le Jeune from Elinor of Guyenne, resulted from the fashion,
+            which this prince wished to introduce, of shaving his chin and cropping his head. The
+            queen, his wife, who appears to have possessed, with a masculine beauty, consid-erable
+            acuteness of intellect, observed, with some displeasure, that she imagined herself to
+            have espoused a monarch, not a monk. The ob-stinacy of Louis in shaving himself, and the
+            horror conceived by Eli-nor at the sight of a beardless chin, occasioned France the loss
+            of those fine provinces which constituted the dowry of this princess; and which,
+            devolving to England by a second marriage, became the source of wars which desolated
+            France during four hundred years.</p>
+
+          <p><lb/>“ The habit of wearing the beard is a manly and noble one. Nature made it
+            distinctive of the male and female ; and its abandonment has commonly been accompanied
+            not only by periods of general effeminacy, but even by the decline and fall of States.
+            They were bearded Goths who vanquished the then beardless Romans ; and they are bearded
+            Tartars who now promise once more to inundate the regions occupied by the pope. Those,
+            assuredly, blunder, who ridicule the wear-ing of the beard. Silly affectation, or the
+            contrary, is imputable only to those who, by removing the beard, take the trouble so far
+            to emasculate themselves ! and who think themselves beautiful by an unnatural imitation
+            of the smoother face of women ?” </p>
+
+          <p><lb/>Perhaps Mr. Bancroft’s next order will be that every man in the service shall
+            provide himself with a dozen boxes of Mons. Gouraud’s Poudre Subtile before going to
+            sea, and we expect to see the Navy agents advertising for hair tweezers for our ships of
+            war, and small pocket mirrors for the sailors to enable them to trim their eye-brows in
+            conformity with orders from Washington. </p>
+
+          <p><lb/>There seems to be a strong opposition to any thing in the shape of manliness
+            whether of feeling, or look, in the dignitaries of our Naval Service. Among the rest of
+            the rigmarole published by Captain Wilkes in his narrative of the Exploring Expedition,
+            we find these man-milliner remarks in one of his manifestos. </p>
+          <pb n="316"/>
+
+          <cb n="1"/>
+          <p><lb/>“ The undersigned, in calling the attention of the officers of the squadron under
+            his command to their personal appearance, would observe, that in his opinion, the
+            example of some of them in this respect is not such as should indicate to the crews of
+            the different vessels, composing the squadron, the necessity which exists of the
+            greatest attention being paid to their personal appearance and cleanliness, in
+            conformity to the internal rules and regulations of the squadron. </p>
+
+          <p><lb/>“ He has not been aware until recently of the extent to which the wearing of
+            mustachios has been carried ! they, in most cases, give a notoriety and appearance of
+            want of attention to neatness, &amp;c.” </p>
+
+          <p><lb/>Note.—Since writing the above we have discovered that Mr. Bancroft’s order was not
+            officially announced, but as we are informed that it will be soon our remarks will apply
+            when the order appears. </p>
+        </div>
       
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high"><lb/><head>TITIAN'S VENUS.</head>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
+          <lb/>
+          <head>TITIAN'S VENUS.</head>
 
-        <p><lb/>There is a picture exhibiting in Broadway which the proprietors say is a duplicate,
-          made by Titian’s own hand of the celebrated picture now in Florence. It is stated to have
-          been in the possession of Sir Thomas Lawrence, and to have been admired by “ the lamented
-          Alston.” But no story is told of the manner in which so remarkable a work came to this
-          country. All this looks very suspicious. A genuine painting by Titian, of any description,
-          is not a thing easily obtained, and one of this size and in such preservation would be
-          worth a handsome fortune. If it were in Italy no Italian government would allow it to be
-          taken away, and if it were in England or France, any European government would buy it at a
-          price which few individuals could afford to pay. Considering, therefore, the importance
-          which a picture by one of the old masters derives from its authenticity being established,
-          we wonder that the owner of this painting should not have published a full and particular
-          account of the manner in which it came into his hands, the price paid for it, &amp;.C. We
-          have seen it stated in some of the daily papers that it once formed a part of the
-          collection in the Louvre, but had been removed at the restoration of the Bourbons. This is
-          a mistake. The Louvre possessed 23 paintings by Titian, but there was no Venus among them.
-          If such a painting as this professes to be, had been in existence, it would have been
-          known to the whole world ; but no history of art that we are acquainted with makes any
-          allusion to it. </p>
-        
-        <p><lb/>But whether it be the work of Titian or not, is a point of little importance to nine
-          spectators out of ten ; it is a very fine picture, and worthy of Titian whether ho painted
-          it or not, and we would advise all those who wish to see a really fine painting to call
-          and inspect it, and take it for granted that it is the work of an old master. It is a
-          difficult matter to decide from internal evidence on the authenticity of any painting. The
-          most expert picture dealers are often dreadfully deceived. Even some of Raffaelle’s most
-          famous paintings are questioned. Very competent judges have recently decided that the most
-          universally admired of Raffaelle’s pictures, the “ Madonna della Seggiolo,” of which there
-          are probably thousands of copies in this country, is not a century and a half old. </p>
-        
-        <p><lb/>The only test therefore by which we should try a work of art is the delight it gives
-          us; and we believe that there are very few persons who could honestly say that Titian’s
-          real paintings gave them more real pleasure than this of Venus. We think that the
-          proprietor has injured the character of the work by setting apart a day for the
-          <lb/>admission of women only. No picture should he looked upon by a woman alonw which she
-          would hesitate to look at in the company of her father or brother. For ourselves we think
-          that very old and very young men would do well not to give the Venus exhibiting in
-          Broadway a call. </p></div>
+          <p><lb/>There is a picture exhibiting in Broadway which the proprietors say is a
+            duplicate, made by Titian’s own hand of the celebrated picture now in Florence. It is
+            stated to have been in the possession of Sir Thomas Lawrence, and to have been admired
+            by “ the lamented Alston.” But no story is told of the manner in which so remarkable a
+            work came to this country. All this looks very suspicious. A genuine painting by Titian,
+            of any description, is not a thing easily obtained, and one of this size and in such
+            preservation would be worth a handsome fortune. If it were in Italy no Italian
+            government would allow it to be taken away, and if it were in England or France, any
+            European government would buy it at a price which few individuals could afford to pay.
+            Considering, therefore, the importance which a picture by one of the old masters derives
+            from its authenticity being established, we wonder that the owner of this painting
+            should not have published a full and particular account of the manner in which it came
+            into his hands, the price paid for it, &amp;.C. We have seen it stated in some of the
+            daily papers that it once formed a part of the collection in the Louvre, but had been
+            removed at the restoration of the Bourbons. This is a mistake. The Louvre possessed 23
+            paintings by Titian, but there was no Venus among them. If such a painting as this
+            professes to be, had been in existence, it would have been known to the whole world ;
+            but no history of art that we are acquainted with makes any allusion to it. </p>
+
+          <p><lb/>But whether it be the work of Titian or not, is a point of little importance to
+            nine spectators out of ten ; it is a very fine picture, and worthy of Titian whether ho
+            painted it or not, and we would advise all those who wish to see a really fine painting
+            to call and inspect it, and take it for granted that it is the work of an old master. It
+            is a difficult matter to decide from internal evidence on the authenticity of any
+            painting. The most expert picture dealers are often dreadfully deceived. Even some of
+            Raffaelle’s most famous paintings are questioned. Very competent judges have recently
+            decided that the most universally admired of Raffaelle’s pictures, the “ Madonna della
+            Seggiolo,” of which there are probably thousands of copies in this country, is not a
+            century and a half old. </p>
+
+          <p><lb/>The only test therefore by which we should try a work of art is the delight it
+            gives us; and we believe that there are very few persons who could honestly say that
+            Titian’s real paintings gave them more real pleasure than this of Venus. We think that
+            the proprietor has injured the character of the work by setting apart a day for the
+            <lb/>admission of women only. No picture should he looked upon by a woman alonw which
+            she would hesitate to look at in the company of her father or brother. For ourselves we
+            think that very old and very young men would do well not to give the Venus exhibiting in
+            Broadway a call. </p>
+        </div>
       
-      <div resp="personography.xml#anon" subtype="supplied" type="section"><lb/><head>THE MAGAZINES.</head>
+        <div resp="personography.xml#anon" subtype="supplied" type="section">
+          <lb/>
+          <head>THE MAGAZINES.</head>
 
-        <div>
-          <head>The Southern Literary Messenger</head><p> for May, has, among other good
-            papers, a caustic review of Captain Wilkes’ Narrative of the U. S. Exploring Expedition.
-            The overbearing conceit, the ignorance and the tyranny of the Commander, are here
-            displayed as they should be—and we recommend the whole article to his serious attention.
-            More ludicrous instances of incompetency were never afforded by any American naval
-            officer than by him. Neither his discretion nor 
-            <cb n="2"/><lb/>his education would have entitled him to the command of a fishing smack. His
-            grammatical blunders, in especial, are of a kind that must bring a flush of shame into
-            the face of every American who reads the book. What but the grossest ob-tusity combined
-            with the most ineffable conceit and self-sufficiency, could have induced Captain Wilkes
-            to trust his composition to the public eye without the supervision of his clerk—or of
-            some respectable school-boy ? We give a brace of his sentences: </p>
-          
-          <p><lb/>“ Harmony and good feeling he would enjoin upon all: the necessity of cultivating
-            this, and the united exertions of ail, cannot claim too much of your attention.” </p>
-          
-          <p><lb/>“ You may rest assured also of receiving impartial justice from me, and that in
-            the assignment of duties and promotions, if any should occur ! and that all will have
-            the opportunities they desire of entering upon the scientific duties, nothing shall be
-            wanting that can tend to this end.” </p>
-          
-          <p><lb/>This number has also a paper of much historical interest —a ‘‘Sketch of the
-            Military services of Guilford Dudley in the Carolinas during the Revolution.” A
-            criticism on the Poems of Christopher Pease Cranch is not particularly to our taste. It
-            is better, however, than the commentary on Miss Barrett which appeared in a late number
-            of the Messenger, and which, as far as we can learn, excited no less decided a feeling
-            than universal contempt wherever it was perused by those who are themselves poetical.
-            This is a topic on which we could not forbear speaking out if we would. It is in our
-            opinion, something even worse than sacrilege—this entrusting to such hands the august
-            works of Tennyson and Miss Barrett. For our own part, we cannot find words to express
-            the unutterable loathing which crept over us as we read those flippant comments on poems
-            which, if we are entitled to estimate the merit of anything by its effect on the
-            greatest intellects and on the noblest hearts—are divine, if there be any divinity
-            within the soul of man. </p>
-          
-          <p><lb/>There is no poetry in the May number of the Messenger. </p></div>
-          
-          <div><lb/>
-            <head>Godey’s Lady’s Book</head><p> for June is, also, already issued, and presents
-            numerous claims to attention. Its engravings are, “ Admonition,” by Gimbrede, from a
-            painting by W. Wright; “ Domestic life among the Indians,” by Rolph and Jewett, from a
-            design by Darley; and two fashion plates on the same leaf, back to back. Miss Leslie
-            concludes her very excellent story “ The Bloxheim’s and Mayfields.” Herbert has an
-            eloquent sketch, entitled " The Great Plebeian”— Grund some forcible “ Remarks upon [on]
-            the Drama”— William Kirkland a sensible paper (with some exception) on “ British and
-            American Monthlies,” and “ French without a Master,” is a good hit by the late J. M.
-            Field. The Rev. H. F. Harrington contributes a very interesting and well written
-            sketch—“ The Lone Woman.” In the “ Editors’ Table” is a page of comment on the death of
-            Mrs. Willis—a page which we read with an interest the most painful—the most profound.
-          </p></div>
-        
-        <div><lb/>
-          <head>Graham's Magazine</head> <p>for June is in all respects an admirable number. Its
-            engravings are all good, and the view of Rock Mountain, engraved by Rawdon &amp; Co.
-            from a drawing by Smillie, is, in especial, excellent. The other two plates are “ The
-            Masquerade,” engraved by Posselwhite, and a Portrait of Dr. Rufus W. Griswold, engraved
-            by Parker, from a painting by J. B. Read: as a likeness, the latter is by no means
-            praiseworthv. Mr. Griswold has a much finer face in every respect. The biography
-            attached is written, we fancy, by Mr. C. F. Hoffman, and does Mr. G. no more than
-            justice, either in regard to his acquirements or character as a man. We learn from this
-            sketch that he ‘‘has now in press, a Survey of our Prose Literature, to be published in
-            the ensuing autumn,”and that he “ has been a considerable time engaged <pb n="317"/>
-            <cb n="1"/><lb/>on the Biographia Americana, a work of great extent and research.”</p>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>The Southern Literary Messenger</head>
+            <p> for May, has, among other good papers, a caustic review of Captain Wilkes’ Narrative
+              of the U. S. Exploring Expedition. The overbearing conceit, the ignorance and the
+              tyranny of the Commander, are here displayed as they should be—and we recommend the
+              whole article to his serious attention. More ludicrous instances of incompetency were
+              never afforded by any American naval officer than by him. Neither his discretion nor
+                <cb n="2"/><lb/>his education would have entitled him to the command of a fishing
+              smack. His grammatical blunders, in especial, are of a kind that must bring a flush of
+              shame into the face of every American who reads the book. What but the grossest
+              ob-tusity combined with the most ineffable conceit and self-sufficiency, could have
+              induced Captain Wilkes to trust his composition to the public eye without the
+              supervision of his clerk—or of some respectable school-boy ? We give a brace of his
+              sentences: </p>
 
-          <p><lb/>The number is particularly rich in contributions. There are papers from Cooper,
-            Paulding, Longfellow, Hoffman, Street, Tuckerman, Chandler, Hosmer, Mrs. Osgood, Mrs.
-            Stephens, Mrs. Seba Smith, Fanny Forrester, Mrs. Caroline Butler, and several others. A
-            Sonnet to Dante by Longfel-low, has a magnificent beginning: </p>
-          
-          <lg>
-            <l><lb/>Tuscan, that wanderest through the realms of gloom</l>
-            <l>With thoughtful pace and sad majestic eyes,</l>
-            <l><lb/>Stern thoughts and awful from thy soul arise</l>
-            <l>Like Farinata from his fiery tomb!</l>
-          </lg>
+            <p><lb/>“ Harmony and good feeling he would enjoin upon all: the necessity of
+              cultivating this, and the united exertions of ail, cannot claim too much of your
+              attention.” </p>
 
-          <p><lb/>The “ Like,” however, should be “ As.” We copy in full a characteristic poem from
-            the pen of the most truly graceful, delicate, and yet impassioned of American poetesses—
-            Mrs. Osgood. </p></div>
-        
-        <div><lb/><head>LULU.</head>
-          <lg>
-            <lb/>
-            <l>There’s many a maiden </l>
-            <lb/>
-            <l>More brilliant, by far,</l>
-            <lb/>
-            <l>With the step of a fawn,</l>
-            <lb/>
-            <l>And the glance of a star;</l>
-            <lb/>
-            <l>But heart there was never</l>
-            <lb/>
-            <l>More tender and true,</l>
-            <lb/>
-            <l>Than beats in the bosom</l>
-            <lb/>
-            <l>Of darling Lulu !</l>
+            <p><lb/>“ You may rest assured also of receiving impartial justice from me, and that in
+              the assignment of duties and promotions, if any should occur ! and that all will have
+              the opportunities they desire of entering upon the scientific duties, nothing shall be
+              wanting that can tend to this end.” </p>
 
-            <lb/>
-            <l>Her eyes are too modest</l>
-            <lb/>
-            <l>To dazzle ; but oh !</l>
-            <lb/>
-            <l>They win you to love her,</l>
-            <lb/>
-            <l>If you will or no !</l>
-            <lb/>
-            <l>And when they glance up,</l>
-            <lb/>
-            <l>With their shy, startled look,</l>
-            <lb/>
-            <l>Her soul trembles in them,</l>
-            <lb/>
-            <l>Like light in the brook.</l>
-            <lb/>
-            <l>There are bright eyes by thousands,</l>
-            <lb/>
-            <l>Black, hazel and blue;</l>
-            <lb/>
-            <l>But whose are so loving</l>
-            <lb/>
-            <l>As those of Lulu ?</l>
+            <p><lb/>This number has also a paper of much historical interest —a ‘‘Sketch of the
+              Military services of Guilford Dudley in the Carolinas during the Revolution.” A
+              criticism on the Poems of Christopher Pease Cranch is not particularly to our taste.
+              It is better, however, than the commentary on Miss Barrett which appeared in a late
+              number of the Messenger, and which, as far as we can learn, excited no less decided a
+              feeling than universal contempt wherever it was perused by those who are themselves
+              poetical. This is a topic on which we could not forbear speaking out if we would. It
+              is in our opinion, something even worse than sacrilege—this entrusting to such hands
+              the august works of Tennyson and Miss Barrett. For our own part, we cannot find words
+              to express the unutterable loathing which crept over us as we read those flippant
+              comments on poems which, if we are entitled to estimate the merit of anything by its
+              effect on the greatest intellects and on the noblest hearts—are divine, if there be
+              any divinity within the soul of man. </p>
 
-            <lb/>
-            <l>And waves of soft hair,</l>
-            <lb/>
-            <l>That a poet would vow</l>
-            <lb/>
-            <l>Was moonlight on marble,</l>
-            <lb/>
-            <l>Droop over her brow.</l>
-            <lb/>
-            <l>The rose rarely blooms,</l>
-            <lb/>
-            <l>Thro’ that light, silken maze,</l>
-            <lb/>
-            <l>But when it does play there,</l>
-            <lb/>
-            <l>How softly it plays!</l>
+            <p><lb/>There is no poetry in the May number of the Messenger. </p>
+          </div>
 
-            <l>Oh! there’s many a maiden,</l>
-            <l>More brilliant’t is true,</l>
-            <l>But none so enchanting,</l>
-            <l>As little Lulu!</l>
-
-            <l>She flits like a fairy,</l>
-            <l>About me all day,</l>
-            <l>Now nestling beside me,</l>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
             <lb/>
-            <l>Now up and away !</l>
-            <l>She singeth unbidden,</l>
-            <l>With warble as wild</l>
-            <l>As the lay of the meadow lark,</l>
-            <l>Innocent child !</l>
-            <l>She’s playful, and tender,</l>
-            <l>Aud trusting, and true,</l>
-            <l>She’s sweet as a lily,</l>
-            <l>My dainty Lulu !</l>
+            <head>Godey’s Lady’s Book</head>
+            <p> for June is, also, already issued, and presents numerous claims to attention. Its
+              engravings are, “ Admonition,” by Gimbrede, from a painting by W. Wright; “ Domestic
+              life among the Indians,” by Rolph and Jewett, from a design by Darley; and two fashion
+              plates on the same leaf, back to back. Miss Leslie concludes her very excellent story
+              “ The Bloxheim’s and Mayfields.” Herbert has an eloquent sketch, entitled " The Great
+              Plebeian”— Grund some forcible “ Remarks upon [on] the Drama”— William Kirkland a
+              sensible paper (with some exception) on “ British and American Monthlies,” and “
+              French without a Master,” is a good hit by the late J. M. Field. The Rev. H. F.
+              Harrington contributes a very interesting and well written sketch—“ The Lone Woman.”
+              In the “ Editors’ Table” is a page of comment on the death of Mrs. Willis—a page which
+              we read with an interest the most painful—the most profound. </p>
+          </div>
 
-            <l>She whispers sweet fancies,</l>
-            <l>Now mournful, now bright,</l>
-            <l>Then deepen her glances,</l>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
             <lb/>
-            <l>With love and delight,</l>
-            <l>And the slow, timid smile,</l>
-            <l>That dawns in her face,</l>
-            <l>Seems filled with her spirit's</l>
-            <l>Ineffable grace.</l>
-            <l>Oh ! the world cannot offer</l>
-            <l>A treasure so true,</l>
-            <l>As the childlike devotion</l>
-            <l>Of happy Lulu !</l>
-          </lg></div></div>
+            <head>Graham's Magazine</head>
+            <p>for June is in all respects an admirable number. Its engravings are all good, and the
+              view of Rock Mountain, engraved by Rawdon &amp; Co. from a drawing by Smillie, is, in
+              especial, excellent. The other two plates are “ The Masquerade,” engraved by
+              Posselwhite, and a Portrait of Dr. Rufus W. Griswold, engraved by Parker, from a
+              painting by J. B. Read: as a likeness, the latter is by no means praiseworthv. Mr.
+              Griswold has a much finer face in every respect. The biography attached is written, we
+              fancy, by Mr. C. F. Hoffman, and does Mr. G. no more than justice, either in regard to
+              his acquirements or character as a man. We learn from this sketch that he ‘‘has now in
+              press, a Survey of our Prose Literature, to be published in the ensuing autumn,”and
+              that he “ has been a considerable time engaged <pb n="317"/>
+              <cb n="1"/><lb/>on the Biographia Americana, a work of great extent and research.”</p>
 
-      <div resp="personography.xml#anon" subtype="supplied"><lb/><head>MUSICAL ITEMS.</head>
+            <p><lb/>The number is particularly rich in contributions. There are papers from Cooper,
+              Paulding, Longfellow, Hoffman, Street, Tuckerman, Chandler, Hosmer, Mrs. Osgood, Mrs.
+              Stephens, Mrs. Seba Smith, Fanny Forrester, Mrs. Caroline Butler, and several others.
+              A Sonnet to Dante by Longfel-low, has a magnificent beginning: </p>
+
+            <lg>
+              <l><lb/>Tuscan, that wanderest through the realms of gloom</l>
+              <l>With thoughtful pace and sad majestic eyes,</l>
+              <l><lb/>Stern thoughts and awful from thy soul arise</l>
+              <l>Like Farinata from his fiery tomb!</l>
+            </lg>
+
+            <p><lb/>The “ Like,” however, should be “ As.” We copy in full a characteristic poem
+              from the pen of the most truly graceful, delicate, and yet impassioned of American
+              poetesses— Mrs. Osgood. </p>
+          </div>
+
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <lb/>
+            <head>LULU.</head>
+            <lg>
+              <lb/>
+              <l>There’s many a maiden </l>
+              <lb/>
+              <l>More brilliant, by far,</l>
+              <lb/>
+              <l>With the step of a fawn,</l>
+              <lb/>
+              <l>And the glance of a star;</l>
+              <lb/>
+              <l>But heart there was never</l>
+              <lb/>
+              <l>More tender and true,</l>
+              <lb/>
+              <l>Than beats in the bosom</l>
+              <lb/>
+              <l>Of darling Lulu !</l>
+
+              <lb/>
+              <l>Her eyes are too modest</l>
+              <lb/>
+              <l>To dazzle ; but oh !</l>
+              <lb/>
+              <l>They win you to love her,</l>
+              <lb/>
+              <l>If you will or no !</l>
+              <lb/>
+              <l>And when they glance up,</l>
+              <lb/>
+              <l>With their shy, startled look,</l>
+              <lb/>
+              <l>Her soul trembles in them,</l>
+              <lb/>
+              <l>Like light in the brook.</l>
+              <lb/>
+              <l>There are bright eyes by thousands,</l>
+              <lb/>
+              <l>Black, hazel and blue;</l>
+              <lb/>
+              <l>But whose are so loving</l>
+              <lb/>
+              <l>As those of Lulu ?</l>
+
+              <lb/>
+              <l>And waves of soft hair,</l>
+              <lb/>
+              <l>That a poet would vow</l>
+              <lb/>
+              <l>Was moonlight on marble,</l>
+              <lb/>
+              <l>Droop over her brow.</l>
+              <lb/>
+              <l>The rose rarely blooms,</l>
+              <lb/>
+              <l>Thro’ that light, silken maze,</l>
+              <lb/>
+              <l>But when it does play there,</l>
+              <lb/>
+              <l>How softly it plays!</l>
+
+              <l>Oh! there’s many a maiden,</l>
+              <l>More brilliant’t is true,</l>
+              <l>But none so enchanting,</l>
+              <l>As little Lulu!</l>
+
+              <l>She flits like a fairy,</l>
+              <l>About me all day,</l>
+              <l>Now nestling beside me,</l>
+              <lb/>
+              <l>Now up and away !</l>
+              <l>She singeth unbidden,</l>
+              <l>With warble as wild</l>
+              <l>As the lay of the meadow lark,</l>
+              <l>Innocent child !</l>
+              <l>She’s playful, and tender,</l>
+              <l>Aud trusting, and true,</l>
+              <l>She’s sweet as a lily,</l>
+              <l>My dainty Lulu !</l>
+
+              <l>She whispers sweet fancies,</l>
+              <l>Now mournful, now bright,</l>
+              <l>Then deepen her glances,</l>
+              <lb/>
+              <l>With love and delight,</l>
+              <l>And the slow, timid smile,</l>
+              <l>That dawns in her face,</l>
+              <l>Seems filled with her spirit's</l>
+              <l>Ineffable grace.</l>
+              <l>Oh ! the world cannot offer</l>
+              <l>A treasure so true,</l>
+              <l>As the childlike devotion</l>
+              <l>Of happy Lulu !</l>
+            </lg>
+          </div>
+        </div>
+
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+          <lb/>
+          <head>MUSICAL ITEMS.</head>
           <div>
             <lb/>
             <head>ONSLAUGHT UPON THE CRITICS, BY ONE OF THE MIRROR <lb/>SCHOOL.</head>
@@ -1643,9 +1689,10 @@
               of the delicious honey from Hybla, in which we have dipped our crow quill, for the
               especial benefit of our friend, who will, we trust, enjoy the luscious flavor of our
               vehicle. </p>
-            
 
-            <cb n="2"/><p><lb/>The critic of critics, praises, by implication, the original New World, the
+
+            <cb n="2"/>
+            <p><lb/>The critic of critics, praises, by implication, the original New World, the
               musical department of which was edited by us for four years—is he not a discriminating
               critic? The critic of critics admires the “ good taste and judgment perceptible in the
               criticisms of the Albion,” all of which, for the last eighteen months, were written by
@@ -1680,231 +1727,256 @@
               specimens of his style, which is an amalgamation of ignorance, presumption and slang.
             </p>
           </div>
-        
-        <div><lb/><head>NEW YORK SACRED MUSIC SOCIETY.</head>
 
-          <p><lb/>We attended the performance of the Oratorio of the Creation, at the Tabernacle on
-            Friday evening last, and were, comparatively speak-ing only, much gratified : for the
-            last concert given by the society, (the Messiah) was any thing but creditable to the
-            management, whether as respects the principal singers, the chorus, or the band. On this
-            occasion we had at any rate two artists, Mrs. E. Loder and Mr. Henry Phillips, capable
-            of giving the music of Haydn as it ought to be given. and in a way, in fact, not to be
-            approached by any other two singers on this continent. It would be impossible to speak
-            too highly of With Verdure Clad, as sung by Mrs. Loder, or of the various recitatives
-            and airs allotted to Mr. Phillips. And here we would stop : but we are compelled to
-            notice other parts of the performance which were obnoxious to criticism. To begin with
-            the Orchestra: There is invariably a want of steadiness and unanimity among the
-            instruments which is not even compensated by a strict attention to time. We can only
-            account for the latter defect by supposing that there are some young hands in the
-            Orchestra who have left the schoolroom too soon. The management should not allow this.
-            Half a dozen inefficient performers will always destroy the effect of a Band, let the
-            remainder be ever so perfect. With regard, however, to the frequent deviation from
-            strict time, so observable among the gentlemen composing this orchestra, what shall we
-            say ? Is it owing to its great width, which prevents those on the north side from
-            hearing what is doing on the south side ? Is it the fault of the performers in not
-            condescending to watch the baton of the conductor ? or, is the sole blame attachable to
-            the conductor? We can hardly presume the latter to be the case, considering the number
-            of years Mr. U. C. Hill has held this responsible office; but be the fault where it may,
-            it should be forthwith remedied. </p>
-          
-          <p><lb/>With regard to the Chorus which is very numerous, and [consequently less
-            governable, we have always considered that department of the Society the most efficient;
-            and any praise due to Mr. Hill on this score we freely give him. </p>
-          
-          <p><lb/>The choruses on Friday evening were, some of them, very well performed,
-            particularly The Heavens are Telling. The Lord is Great, which comes in after the trio
-            Most Beautiful Appears, was not so well executed. </p>
-          
-          <p><lb/>The other vocalists of the evening were Miss Northall, Mr. Oakley, and Mr.
-            Andrews. Of Miss N. we have before spoken. She has a good clear voice, of sufficient
-            compass for the general run of soprano <pb n="318"/>
-            <cb n="1"/><lb/>songs; and, in the course of time, she will, doubtless, take a very respectable
-            rank in her profession. She is quite young, and, with all due deference to her advisers,
-            we think she has been put forward too soon to sing such music as that in the Messiah and
-            the Creation. Thus her execution of the recitative And God said let the waters and air ;
-            On mighty Pens, was evidently beyond her powers ; but the young lady is improving. </p>
-          
-          <p><lb/>Of Mr. Oakley, who comes from Boston, we are disposed to speak favorably in
-            consideration of his being a visitor: but we cannot like him—we mean his singing. He has
-            a voice loud enough to be heard any where, with compass enough to sing up to any thing ;
-            he evidently sings as well as he can,and gives the music tolerably correct. We cannot
-            explain our antipathy more intelligibly than by saying we are always delighted with
-            good, chaste, classical singing, and that, therefore, (we presume) we do not like Mr.
-            Oakley. Of Mr. Andrews, we have much pleasure in speaking in terms of praise. His voice
-            is a bass of moderate compass, but exceedingly good quality, so good in fact, that it
-            reminded us of Henry Phillips’s more than once. His style is good. The two duetts with
-            Mrs. Loder, By thee with bliss, and graceful consort, were very well sung ; and though
-            we cannot undertake to say how Mr. A. would have got through music of a more prominent
-            nature, we must do him the justice to say, that on this occasion he acquitted himself
-            well, very well. We hope to hear him often in the concert room. ** </p>
-          
-          <p><lb/>We will now make a few remarks upon the government of this society. It has been
-            for several years weak in action, obstinate in folly, and blind to its true interests.
-            It has been governed now by one clique, and anon by another, upon principles generally
-            of self-interest, until the policy has become contracted, bigoted. With every facility
-            afforded it by its liberal charter, in what position do we at present find this society?
-            Is it prosperous, popular, or efficient? We answer, no ! What little success it has met
-            with is of so recent a date, that no certain augury for the future can be drawn from it.
-            It may prove but the rallying of the energies previous to the flitting away of the life
-            for ever. But a few months since and the Sacred Music Society, incorporated according to
-            an act of the Legislature, had fallen from its supposed palmy slate to a body of some
-            forty or fifty members ; so miserable were the prospects, so poor the attendance at
-            meetings, and so dispirited were the members, that we are told that it was actually
-            proposed to disband the society. However, some active and determined individuals took
-            the society in hand, and in a short time, by some extraordinary legerdemain, swelled its
-            number of members to an extraordinary amount. Especial care they also took to ensure the
-            prosperity of the society, by making the members support it; in other words, they assess
-            each member according to the probable expense of the Concerts, from one to two dollars
-            each, for which they have a certain number of tickets which they can either sell or give
-            away. </p>
-          
-          <p><lb/>Of its popularity the best proof is, that when the members gave an irregular
-            Concert for some national purpose, in which they defended entirely upon the public, the
-            expenses for getting up the Concert were not covered by the receipts. We were told that
-            on this occasion, one of the most spirited and liberal among the officers made up the
-            difference. </p>
-          
-          <p><lb/>Of its efficiency we have given descriptions any time these five years. Two years
-            ago it was far superior in choral excellence to what it is at present. Then most of the
-            members had practised for years, and were supposed to be somewhat conversant with the
-            music they had to perform ; now the members are mostly novices, and however willing the
-            public may be to believe them capable, one performance is quite sufficient to destroy
-            all confidence in their ability to do justice to aught save a simple psalm tune. </p>
-          
-          <p><lb/>We repeat that the material is good, but it is profitless, being thrown
-            away—wasted. </p>
-          
-          <p><lb/>When the government or head of a society cannot be depended upon, how can a
-            society flourish ? Facts speak for themselves. A certain party is engaged to sing—terms
-            are agreed upon, and music given for study. Information arrives that an individual
-            threatens, if the engagement is persisted in, that he will withdraw himself, daughters,
-            music, &amp;c. from the society! The society is compelled to yield to the individual,
-            and the engagement is begged off. Another engagement is made, and again broken, because
-            some other member of the government had engaged somebody else. Can any society, so
-            governed, hope for success ? Are such governments worthy of confidence ? </p>
-          
-          <p><lb/>Unless an entire and beneficial revolution takes place in the management of the N.
-            Y. S. M. S. the off-shoots from its body will spring up, and over-shadowing it, draw the
-            life blood from the parent stem. </p>
-          
-          <p><lb/>We shall, in a future number, detail to the public how little this over-praised
-            institution has of late years effected in the cause of music. </p></div>
-        
-        <div>
-          <p><lb/><head>Castle Garden.</head>—This really elegant and extensive place of amusement,
-            opened for the season on Monday last. Signoras Valtel-lina &amp; Pico, Signori Antognini
-            and Sanquirico, with a large chorus and effective band, were the attraction of the
-            evening. A very large audience was present, and it delighted us to find Signora
-            Valtellina so warmly recceived. This lady has never been duly appreciated by the public,
-            but we trust that she will now meet with the success she deserves. </p>
-          
-          <p><lb/>Miss Garcia, from Boston, with other artists, appear on the off nights—Tuesday,
-            Thursday, and Saturday. </p>
-          
-          <p><lb/>We shall give this establishment an extended notice next week. We trust that it will succeed.</p></div></div> <cb/>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <lb/>
+            <head>NEW YORK SACRED MUSIC SOCIETY.</head>
 
-      <cb n="2"/><div resp="personography.xml#anon" subtype="supplied"><lb/><head>DRAMATIC OVATION.</head>
+            <p><lb/>We attended the performance of the Oratorio of the Creation, at the Tabernacle
+              on Friday evening last, and were, comparatively speak-ing only, much gratified : for
+              the last concert given by the society, (the Messiah) was any thing but creditable to
+              the management, whether as respects the principal singers, the chorus, or the band. On
+              this occasion we had at any rate two artists, Mrs. E. Loder and Mr. Henry Phillips,
+              capable of giving the music of Haydn as it ought to be given. and in a way, in fact,
+              not to be approached by any other two singers on this continent. It would be
+              impossible to speak too highly of With Verdure Clad, as sung by Mrs. Loder, or of the
+              various recitatives and airs allotted to Mr. Phillips. And here we would stop : but we
+              are compelled to notice other parts of the performance which were obnoxious to
+              criticism. To begin with the Orchestra: There is invariably a want of steadiness and
+              unanimity among the instruments which is not even compensated by a strict attention to
+              time. We can only account for the latter defect by supposing that there are some young
+              hands in the Orchestra who have left the schoolroom too soon. The management should
+              not allow this. Half a dozen inefficient performers will always destroy the effect of
+              a Band, let the remainder be ever so perfect. With regard, however, to the frequent
+              deviation from strict time, so observable among the gentlemen composing this
+              orchestra, what shall we say ? Is it owing to its great width, which prevents those on
+              the north side from hearing what is doing on the south side ? Is it the fault of the
+              performers in not condescending to watch the baton of the conductor ? or, is the sole
+              blame attachable to the conductor? We can hardly presume the latter to be the case,
+              considering the number of years Mr. U. C. Hill has held this responsible office; but
+              be the fault where it may, it should be forthwith remedied. </p>
 
-        <p><lb/>By an extract from a private letter to the editor of the Albion, is appears that
-          Mrs. Mowatt has had a most warm reception in Philadelphia, on the score of the great
-          popularity of Fashion, not the great racer so called, but the five act comedy of which
-          she, Mrs. M. is the author. The play bills, printed on satin, in letters of gold, we
-          easily picture to our mind’s eye, but the “ most regal style,” as applied to the new
-          American house, is quite beyond our understanding. We quote from the Albion’s letter :
-        </p>
+            <p><lb/>With regard to the Chorus which is very numerous, and [consequently less
+              governable, we have always considered that department of the Society the most
+              efficient; and any praise due to Mr. Hill on this score we freely give him. </p>
 
-        <p><lb/>“ Fashion drew to the Theatre crowds of people of a class that had not been there in
-          years, and the management, to show their appreciation of the comedy, invited Mrs. Mowatt
-          to visit Philadelpha as their guest, and received her in most regal style, in splendid
-          apartments at the new American House, providing a carriage for her special use during the
-          whole visit. On the night of her benefit, play bills printed on satin in letters of gold
-          were presented to Mrs. Mowatt, and the performers seemed to outrival all previous efforts.
-        </p>
-        
-        <p><lb/>“ At the conclusion, in consequence of the repeated plaudits of the audience and
-          calls for the authoress, Mrs. Mowatt rose from her seat and bowed to them several times.
-          The loud calls still continuing, Mr. Blake, the popular manager, and who had made so
-          decided a hit in his delineation of the old farmer from Cattaraugus, stepped forward, and
-          in a handsome speech, thanked them in the name of the authoress for their favourable
-          reception which he hailed as the assurance that the time was near at hand, when the
-          American people would possess an American Dramatic Literature of their own. That,
-          encouraged by their kind reception, Mrs. Mowatt would endeavour to render the next Comedy
-          upon which she was now engaged more worthy of their approbation, and the curtain then
-          fell, amid the most tumultuous uproar. This was on the 13th night of the performance of
-          Fashion.” </p></div>
+            <p><lb/>The choruses on Friday evening were, some of them, very well performed,
+              particularly The Heavens are Telling. The Lord is Great, which comes in after the trio
+              Most Beautiful Appears, was not so well executed. </p>
 
-      <div resp="personography.xml#anon" subtype="supplied"><lb/><head>LITERARY INTELLIGENCE.</head>
+            <p><lb/>The other vocalists of the evening were Miss Northall, Mr. Oakley, and Mr.
+              Andrews. Of Miss N. we have before spoken. She has a good clear voice, of sufficient
+              compass for the general run of soprano <pb n="318"/>
+              <cb n="1"/><lb/>songs; and, in the course of time, she will, doubtless, take a very
+              respectable rank in her profession. She is quite young, and, with all due deference to
+              her advisers, we think she has been put forward too soon to sing such music as that in
+              the Messiah and the Creation. Thus her execution of the recitative And God said let
+              the waters and air ; On mighty Pens, was evidently beyond her powers ; but the young
+              lady is improving. </p>
 
-        <div><lb/><head>works In press. <lb/>BY LEA &amp; BLANCHARD.</head>
-          <ab><lb/>A System of Surgery. By J. M. Chelins, of Heidelburg. Translated, with additions,
-            by Dr. South, of London, and Ur. Morris, of Philadelphia. </ab>
-          <ab><lb/>Memoranda of a Residence at the Court of St. James, from 1819 to 1823. By Richard
-          Rush. This is supplementary to the former volume under the same title.</ab> 
-          <ab><lb/>History of the War of 1812. By Charles Jared Ingersoll, Esq. of
-            Philadelphia.</ab> 
-          <ab><lb/>Graham’s Colonial History. With Notes by Quincy, Sparks, and Prescott.</ab></div>
+            <p><lb/>Of Mr. Oakley, who comes from Boston, we are disposed to speak favorably in
+              consideration of his being a visitor: but we cannot like him—we mean his singing. He
+              has a voice loud enough to be heard any where, with compass enough to sing up to any
+              thing ; he evidently sings as well as he can,and gives the music tolerably correct. We
+              cannot explain our antipathy more intelligibly than by saying we are always delighted
+              with good, chaste, classical singing, and that, therefore, (we presume) we do not like
+              Mr. Oakley. Of Mr. Andrews, we have much pleasure in speaking in terms of praise. His
+              voice is a bass of moderate compass, but exceedingly good quality, so good in fact,
+              that it reminded us of Henry Phillips’s more than once. His style is good. The two
+              duetts with Mrs. Loder, By thee with bliss, and graceful consort, were very well sung
+              ; and though we cannot undertake to say how Mr. A. would have got through music of a
+              more prominent nature, we must do him the justice to say, that on this occasion he
+              acquitted himself well, very well. We hope to hear him often in the concert room. ** </p>
 
-        <div>
+            <p><lb/>We will now make a few remarks upon the government of this society. It has been
+              for several years weak in action, obstinate in folly, and blind to its true interests.
+              It has been governed now by one clique, and anon by another, upon principles generally
+              of self-interest, until the policy has become contracted, bigoted. With every facility
+              afforded it by its liberal charter, in what position do we at present find this
+              society? Is it prosperous, popular, or efficient? We answer, no ! What little success
+              it has met with is of so recent a date, that no certain augury for the future can be
+              drawn from it. It may prove but the rallying of the energies previous to the flitting
+              away of the life for ever. But a few months since and the Sacred Music Society,
+              incorporated according to an act of the Legislature, had fallen from its supposed
+              palmy slate to a body of some forty or fifty members ; so miserable were the
+              prospects, so poor the attendance at meetings, and so dispirited were the members,
+              that we are told that it was actually proposed to disband the society. However, some
+              active and determined individuals took the society in hand, and in a short time, by
+              some extraordinary legerdemain, swelled its number of members to an extraordinary
+              amount. Especial care they also took to ensure the prosperity of the society, by
+              making the members support it; in other words, they assess each member according to
+              the probable expense of the Concerts, from one to two dollars each, for which they
+              have a certain number of tickets which they can either sell or give away. </p>
+
+            <p><lb/>Of its popularity the best proof is, that when the members gave an irregular
+              Concert for some national purpose, in which they defended entirely upon the public,
+              the expenses for getting up the Concert were not covered by the receipts. We were told
+              that on this occasion, one of the most spirited and liberal among the officers made up
+              the difference. </p>
+
+            <p><lb/>Of its efficiency we have given descriptions any time these five years. Two
+              years ago it was far superior in choral excellence to what it is at present. Then most
+              of the members had practised for years, and were supposed to be somewhat conversant
+              with the music they had to perform ; now the members are mostly novices, and however
+              willing the public may be to believe them capable, one performance is quite sufficient
+              to destroy all confidence in their ability to do justice to aught save a simple psalm
+              tune. </p>
+
+            <p><lb/>We repeat that the material is good, but it is profitless, being thrown
+              away—wasted. </p>
+
+            <p><lb/>When the government or head of a society cannot be depended upon, how can a
+              society flourish ? Facts speak for themselves. A certain party is engaged to
+              sing—terms are agreed upon, and music given for study. Information arrives that an
+              individual threatens, if the engagement is persisted in, that he will withdraw
+              himself, daughters, music, &amp;c. from the society! The society is compelled to yield
+              to the individual, and the engagement is begged off. Another engagement is made, and
+              again broken, because some other member of the government had engaged somebody else.
+              Can any society, so governed, hope for success ? Are such governments worthy of
+              confidence ? </p>
+
+            <p><lb/>Unless an entire and beneficial revolution takes place in the management of the
+              N. Y. S. M. S. the off-shoots from its body will spring up, and over-shadowing it,
+              draw the life blood from the parent stem. </p>
+
+            <p><lb/>We shall, in a future number, detail to the public how little this over-praised
+              institution has of late years effected in the cause of music. </p>
+          </div>
+
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>Castle Garden.</head>
+            <p>—This really elegant and extensive place of amusement, opened for the season on
+              Monday last. Signoras Valtel-lina &amp; Pico, Signori Antognini and Sanquirico, with a
+              large chorus and effective band, were the attraction of the evening. A very large
+              audience was present, and it delighted us to find Signora Valtellina so warmly
+              recceived. This lady has never been duly appreciated by the public, but we trust that
+              she will now meet with the success she deserves. </p>
+
+            <p><lb/>Miss Garcia, from Boston, with other artists, appear on the off nights—Tuesday,
+              Thursday, and Saturday. </p>
+
+            <p><lb/>We shall give this establishment an extended notice next week. We trust that it
+              will succeed.</p>
+          </div>
+        </div> <cb/>
+
+      <cb n="2"/>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
           <lb/>
-          <head>BY HARPER AND BROTHERS.</head>
-          <ab><lb/>Smuggler. By James.</ab>
-          <ab><lb/>The Martyr of Carthage. By Wilson.</ab>
-          <ab><lb/>Lands, Classical and Sacred. By Lord Nugent.</ab>
-          <ab><lb/>The Hellenes. By J. A. St. John.</ab>
-          <ab><lb/>Chronicles of Fashion. By Mrs. Stone.</ab>
-          <ab><lb/>Life of Lord Hill. Bv Rev. Edw. Sidney.</ab>
-          <ab><lb/>Curiosities of Physical Geography.</ab>
-          <ab><lb/>Parsons on Education.</ab>
-          <ab><lb/>Loudon’s Lady’s Country Companion.</ab>
-          <ab><lb/>Self, a Novel. By the author of Cecil.</ab>
-          <ab><lb/>Anne Hathaway, or Shakspeare in Love.</ab>
-          <ab><lb/>The Power of the Soul over the Body.</ab>
-          <ab><lb/>Mrs. Norton’s Child of the Islands.</ab>
-          <ab><lb/>A new Novel. By Frederika Bremer.</ab>
-          <ab><lb/>The Bokhara Victims. By Captain Grover.</ab>
-          <ab><lb/>Lives of Men of Letters and Science. By Lord Brougham. Peninsular Sketches. By
-            W.H. Maxwell.</ab>
-          <ab><lb/>Miss Acton’s Modern Cookery.</ab>
+          <head>DRAMATIC OVATION.</head>
+
+          <p><lb/>By an extract from a private letter to the editor of the Albion, is appears that
+            Mrs. Mowatt has had a most warm reception in Philadelphia, on the score of the great
+            popularity of Fashion, not the great racer so called, but the five act comedy of which
+            she, Mrs. M. is the author. The play bills, printed on satin, in letters of gold, we
+            easily picture to our mind’s eye, but the “ most regal style,” as applied to the new
+            American house, is quite beyond our understanding. We quote from the Albion’s letter : </p>
+
+          <p><lb/>“ Fashion drew to the Theatre crowds of people of a class that had not been there
+            in years, and the management, to show their appreciation of the comedy, invited Mrs.
+            Mowatt to visit Philadelpha as their guest, and received her in most regal style, in
+            splendid apartments at the new American House, providing a carriage for her special use
+            during the whole visit. On the night of her benefit, play bills printed on satin in
+            letters of gold were presented to Mrs. Mowatt, and the performers seemed to outrival all
+            previous efforts. </p>
+
+          <p><lb/>“ At the conclusion, in consequence of the repeated plaudits of the audience and
+            calls for the authoress, Mrs. Mowatt rose from her seat and bowed to them several times.
+            The loud calls still continuing, Mr. Blake, the popular manager, and who had made so
+            decided a hit in his delineation of the old farmer from Cattaraugus, stepped forward,
+            and in a handsome speech, thanked them in the name of the authoress for their favourable
+            reception which he hailed as the assurance that the time was near at hand, when the
+            American people would possess an American Dramatic Literature of their own. That,
+            encouraged by their kind reception, Mrs. Mowatt would endeavour to render the next
+            Comedy upon which she was now engaged more worthy of their approbation, and the curtain
+            then fell, amid the most tumultuous uproar. This was on the 13th night of the
+            performance of Fashion.” </p>
         </div>
 
-        <div>
-          <ab><lb/>Mr. Henry B. Hirst, the author of the fine poem " May,” published in this number
-            of the " Journal,” has in the Boston press, and will shortly issue, “ The Coming of the
-            Mammoth, the Funeral of Time, and other Poems.” </ab>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+          <lb/>
+          <head>LITERARY INTELLIGENCE.</head>
+
+          <div>
+            <lb/>
+            <head>works In press. <lb/>BY LEA &amp; BLANCHARD.</head>
+            <ab><lb/>A System of Surgery. By J. M. Chelins, of Heidelburg. Translated, with
+              additions, by Dr. South, of London, and Ur. Morris, of Philadelphia. </ab>
+            <ab><lb/>Memoranda of a Residence at the Court of St. James, from 1819 to 1823. By
+              Richard Rush. This is supplementary to the former volume under the same title.</ab>
+            <ab><lb/>History of the War of 1812. By Charles Jared Ingersoll, Esq. of
+              Philadelphia.</ab>
+            <ab><lb/>Graham’s Colonial History. With Notes by Quincy, Sparks, and Prescott.</ab>
+          
+
+         
+            <lb/>
+            <label>BY HARPER AND BROTHERS.</label>
+            <ab><lb/>Smuggler. By James.
+            <lb/>The Martyr of Carthage. By Wilson.
+            <lb/>Lands, Classical and Sacred. By Lord Nugent.
+            <lb/>The Hellenes. By J. A. St. John.
+            <lb/>Chronicles of Fashion. By Mrs. Stone.
+            <lb/>Life of Lord Hill. Bv Rev. Edw. Sidney.
+            <lb/>Curiosities of Physical Geography.
+            <lb/>Parsons on Education.
+            <lb/>Loudon’s Lady’s Country Companion.
+            <lb/>Self, a Novel. By the author of Cecil.
+            <lb/>Anne Hathaway, or Shakspeare in Love.
+            <lb/>The Power of the Soul over the Body.
+            <lb/>Mrs. Norton’s Child of the Islands.
+            <lb/>A new Novel. By Frederika Bremer.
+            <lb/>The Bokhara Victims. By Captain Grover.
+            <lb/>Lives of Men of Letters and Science. By Lord Brougham. Peninsular Sketches. By
+              W.H. Maxwell.
+            <lb/>Miss Acton’s Modern Cookery.</ab>
+          
+
+          
+            <ab><lb/>Mr. Henry B. Hirst, the author of the fine poem " May,” published in this
+              number of the " Journal,” has in the Boston press, and will shortly issue, “ The
+              Coming of the Mammoth, the Funeral of Time, and other Poems.” </ab>
+         
+
+          
+            <lb/>
+            <label>RECENT AMERICAN PUBLICATIONS.</label>
+
+            <ab><lb/>The Club Room and other Temperance Tales. By T. S. Arthur. Price 25 cents.</ab>
+
+            <ab><lb/>Recollections of the United States Army. By an American Soldier. Price 31 1-4
+              cents.</ab>
+
+            <ab><lb/>Will Terrill, or, the Adventures of a Young Gentleman born in a Cellar. By
+              Prof. Ingraham. Price 12 cents.</ab>
+
+            <ab><lb/>An Order of Family Prayer for Every Day in the Week, and for the Commemoration
+              of the Holy Days and Seasons of the Church. By Rev. J. M. Wainwright, D. D. 12mo. 75
+              cents. </ab>
+
+            <ab><lb/>A Synopsis of the Symptoms, Diagnosis and Treatment of the more common and
+              important Diseases of the Skin. By N. Worcester. M. D. With 60 Plates. </ab>
+
+            <ab><lb/>A Charitable Judgment of the Opinion and Conduct of Others recommended, being
+              the last sermon preached by the Rev. Janies Milnor, D. D., late Rector of St. George’s
+              Church, N. Y. Twelve and a half cents. </ab>
+
+            <ab><lb/>Education in Romish Seminaries : a Letter respecting the Selection of places of
+              Education among the Seminaries under the control of the Church of Rome. By a Presbyter
+              of the P. E. Church. </ab>
+
+            <ab><lb/>Indications of |the Creator. By William Whewell, D. D. Phila. Carey &amp; Hart,
+              1845. Price 25 cents.</ab>
+
+            <ab><lb/>Elocution made Easy ; Containing Rules and Selections for Declamation and
+              Reading, with Figures illustrative of Gesture. By R-Claggett, M. A. New York. Paine
+              &amp; Burgess, 62 John strret. </ab>
+
+            <p><lb/>The Appletons have just published No. 5 of the history of Germany by Kohlrausch,
+              which reaches to the middle of the 18th century. The next number will complete the
+              work. </p>
+          
         </div>
-
-        <div><lb/><head>RECENT AMERICAN PUBLICATIONS.</head>
-
-          <ab><lb/>The Club Room and other Temperance Tales. By T. S. Arthur. Price 25 cents.</ab>
-
-          <ab><lb/>Recollections of the United States Army. By an American Soldier. Price 31 1-4 cents.</ab>
-
-          <ab><lb/>Will Terrill, or, the Adventures of a Young Gentleman born in a Cellar. By Prof. Ingraham. Price 12 cents.</ab>
-
-          <ab><lb/>An Order of Family Prayer for Every Day in the Week, and for the Commemoration of
-            the Holy Days and Seasons of the Church. By Rev. J. M. Wainwright, D. D. 12mo. 75 cents.
-          </ab>
-          
-          <ab><lb/>A Synopsis of the Symptoms, Diagnosis and Treatment of the more common and
-            important Diseases of the Skin. By N. Worcester. M. D. With 60 Plates. </ab>
-          
-          <ab><lb/>A Charitable Judgment of the Opinion and Conduct of Others recommended, being the
-            last sermon preached by the Rev. Janies Milnor, D. D., late Rector of St. George’s
-            Church, N. Y. Twelve and a half cents. </ab>
-          
-          <ab><lb/>Education in Romish Seminaries : a Letter respecting the Selection of places of
-            Education among the Seminaries under the control of the Church of Rome. By a Presbyter
-            of the P. E. Church. </ab>
-          
-          <ab><lb/>Indications of |the Creator. By William Whewell, D. D. Phila. Carey &amp; Hart, 1845. Price 25 cents.</ab>
-
-          <ab><lb/>Elocution made Easy ; Containing Rules and Selections for Declamation and
-            Reading, with Figures illustrative of Gesture. By R-Claggett, M. A. New York. Paine
-            &amp; Burgess, 62 John strret. </ab>
-          
-          <p><lb/>The Appletons have just published No. 5 of the history of Germany by Kohlrausch,
-            which reaches to the middle of the 18th century. The next number will complete the work.
-          </p></div></div>
       <pb n="319"/>
       <cb n="1"/><div type="section"><div><lb/><div><ab>REJOICINGS! HOLIDAYS!! BIRTHDAYS!!!</ab>
         <lb/>
@@ -2239,7 +2311,7 @@
         </div>
         <div>
           <head><lb/><title>THE DELPHIN EDITION OF THE LATIN CLASSICS</title>; by
-              <author>Valpy</author>, with various notes, the best edition, (published at £150
+              <persName>Valpy</persName>, with various notes, the best edition, (published at £150
             sterling) in 142 vols. 8 vo. boards.</head> <ab>200 00</ab> 
         </div>
         <div>
@@ -2319,6 +2391,9 @@
       </div>
       </div>
       </div>
+      </div></div></div>
+
+      
       
 
     </body>

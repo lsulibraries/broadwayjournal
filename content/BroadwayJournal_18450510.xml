@@ -42,7 +42,7 @@
           <ab>Published at 135 Nassau St. By JOHN BISCO.</ab></div>
           </front>
     <body>
-      <div>
+      <div type="piece" resp="personography.xml#anon" subtype="supplied">
         <ab>GLIMPSES OF BROADWAY. NO. I. FROM UNION SQUARE LOOKING DOWN BROADWAY</ab>
       </div>
    
@@ -217,7 +217,7 @@
           many portraits still left of real merit which we shall notice hereafter.</p>
       </div>
 
-      <div resp="personography.xml#horus" subtype="attested">
+      <div type="piece" resp="personography.xml#horus" subtype="attested">
         <head>ENIGMA.</head>
         <lg>
           <l>INFLUX of Eternal Mind,</l>
@@ -244,7 +244,7 @@
         <byline><persName>HORUS.</persName></byline>
       </div>
 
-      <div resp="personography.xml#anon" subtype="supplied">
+      <div type="piece" resp="personography.xml#anon" subtype="supplied">
         <head>ON WRITING FOR THE MAGAZINES.</head>
 
         <p>Before the days of magazines, wit and mirth, and quibs and jests, and glorious outbursts
@@ -457,7 +457,7 @@
           understood.—Dem. Review.</p>
       </div>
 
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high">
+      <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
         <head>AURORA AGRICULTURAL INSTITUTE.</head>
 
         <p> A circular has been issued by several gentlemen of this County, for the
@@ -536,7 +536,7 @@
           man.</p>
       </div>
       
-      <div resp="personography.xml#eapoe" subtype="attested">
+      <div type="piece" resp="personography.xml#eapoe" subtype="attested">
         <head>THREE SUNDAYS IN A WEEK.</head>
 
         <p>“You hard-hearted, dunder-headed, obstinate, rusty, crusty, musty, fusty, old savage !”
@@ -772,7 +772,7 @@
         <byline><persName>EDGAR A. POE.</persName></byline>
       </div>
       
-      <div resp="personography.xml#eapoe" subtype="attested"><head>TO ONE IN PARADISE.</head>
+      <div type="piece" resp="personography.xml#eapoe" subtype="attested"><head>TO ONE IN PARADISE.</head>
         
         <lg><l>Thou wast all that to me, love,</l>
           <l>For which my soul did pine—</l>
@@ -800,53 +800,55 @@
       <cb n="2"/><div resp="personography.xml#eapoe" subtype="supplied" cert="high" type="section">
         <head>REVIEWS. </head> 
         
-        <div><head><title>The first Three Books of Homer’s Iliad</title>, according to the Ordi-dinary Text,
-          and also with the restoration of the Digamma, to which are appended English Notes,
-          critical and explanatory, a Metrical Index, and Homer’s Glossary. By <persName> Charles Anthon</persName>, L.L.
-          D., Jay Professor of the Greek and Latin Languages in Columbia College, New York, and
-          Rector of the Grammar School. New York: Harper &amp; Brothers.</head>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
+          <head><title>The first Three Books of Homer’s Iliad</title>, according to the Ordi-dinary
+            Text, and also with the restoration of the Digamma, to which are appended English Notes,
+            critical and explanatory, a Metrical Index, and Homer’s Glossary. By <persName> Charles
+              Anthon</persName>, L.L. D., Jay Professor of the Greek and Latin Languages in Columbia
+            College, New York, and Rector of the Grammar School. New York: Harper &amp;
+            Brothers.</head>
 
-        <p>This is one of the series of “School and College Classics” which have attracted so
-          general an attention, first, from their comprehensiveness, and admirable adaptation to
-          their objects, and, secondly from their punctilious accuracy and beauty of typographical
-          execution. We have seen richer, gaudier, but never more truly beautiful books. The Greek
-          text, in this Homer, with the frequent digammas, is certainly the most graceful and
-          picturesque specimen of printing we ever beheld.</p>
+          <p>This is one of the series of “School and College Classics” which have attracted so
+            general an attention, first, from their comprehensiveness, and admirable adaptation to
+            their objects, and, secondly from their punctilious accuracy and beauty of typographical
+            execution. We have seen richer, gaudier, but never more truly beautiful books. The Greek
+            text, in this Homer, with the frequent digammas, is certainly the most graceful and
+            picturesque specimen of printing we ever beheld.</p>
 
-        <p>The volume contains all of the Iliad which is usually read at school, as preparatory to a
-          collegiate course—sufficient to furnish the student with the principles of Homeric
-          translation and analysis. The text is, in the main, that of Spitz-ner, which is now
-          generally regarded as the best;—although on some occasions, alterations have been adopted,
-          and the reasons given in a note. Besides the regular text of Spitzner, there is that of
-          Richard Payne Knight, with the digamma restored according to his views. In fact, it is by
-          no means improbable that this secondary text is at least a close approximation to the
-          ancient orthography of Homer—although many discrepancies might be pointed out, going to
-          show that in many cases the learned commentator could not have been otherwise than wrong
-          in his conjectures. The work of Knight is extremely rare in this country, and even as a
-          mere matter of curious speculation, Dr. Anthon has rendered a public service by
-          introducing the restorations in question.</p>
+          <p>The volume contains all of the Iliad which is usually read at school, as preparatory to
+            a collegiate course—sufficient to furnish the student with the principles of Homeric
+            translation and analysis. The text is, in the main, that of Spitz-ner, which is now
+            generally regarded as the best;—although on some occasions, alterations have been
+            adopted, and the reasons given in a note. Besides the regular text of Spitzner, there is
+            that of Richard Payne Knight, with the digamma restored according to his views. In fact,
+            it is by no means improbable that this secondary text is at least a close approximation
+            to the ancient orthography of Homer—although many discrepancies might be pointed out,
+            going to show that in many cases the learned commentator could not have been otherwise
+            than wrong in his conjectures. The work of Knight is extremely rare in this country, and
+            even as a mere matter of curious speculation, Dr. Anthon has rendered a public service
+            by introducing the restorations in question.</p>
 
-        <p>The commentary, as in all this series of classics, is peculiarly full and
-          explicit—proceeding on the sole ground which is admissible in matters of scholastic
-          instruction—the ground that the scholar is absolutely ignorant, and has need of
-          information at all points, however seemingly trivial. No error is more fatal in tuition,
-          than that of taking it for granted that the student knows any thing at all. The materials
-          of the Notes are derived, chiefly, from Wolf, Heyne, Buttman, Na-gelsbach, and Stadelmann,
-          and the Commentary includes every thing that is really valuable in the works of these
-          eminent scholars. The Glossary is separated from the Notes, - a very judicious
-          arrangement—and contains a great deal of novel information in regard to the parsing of the
-          Homeric Greek. It is distinguished, also, from every Homeric Lexicon which has preceded it
-          (in English) by its introduction and application to the Homeric text, of the Sanscrit and
-          Linguistic Etymologies:—an Index to the Glossary is subjoined. The Metrical Index has been
-          constructed with especial reference to the doctrine of the digamma and its bearing upon
-          the Homeric versification.</p>
+          <p>The commentary, as in all this series of classics, is peculiarly full and
+            explicit—proceeding on the sole ground which is admissible in matters of scholastic
+            instruction—the ground that the scholar is absolutely ignorant, and has need of
+            information at all points, however seemingly trivial. No error is more fatal in tuition,
+            than that of taking it for granted that the student knows any thing at all. The
+            materials of the Notes are derived, chiefly, from Wolf, Heyne, Buttman, Na-gelsbach, and
+            Stadelmann, and the Commentary includes every thing that is really valuable in the works
+            of these eminent scholars. The Glossary is separated from the Notes, - a very judicious
+            arrangement—and contains a great deal of novel information in regard to the parsing of
+            the Homeric Greek. It is distinguished, also, from every Homeric Lexicon which has
+            preceded it (in English) by its introduction and application to the Homeric text, of the
+            Sanscrit and Linguistic Etymologies:—an Index to the Glossary is subjoined. The Metrical
+            Index has been constructed with especial reference to the doctrine of the digamma and
+            its bearing upon the Homeric versification.</p>
 
-        <p>Upon the whole, this edition of Homer is not only one of the most valuable of the series,
-          but one of the most important additions to classical literature which this country or any
-          other has produced.</p>
-      </div>
+          <p>Upon the whole, this edition of Homer is not only one of the most valuable of the
+            series, but one of the most important additions to classical literature which this
+            country or any other has produced.</p>
+        </div>
 
-        <div>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
           <head><title>Letters from New York.</title> Second Series. By <persName>L. M.
               Child</persName>. New York. C. S. Francis, &amp; Co. 1845.</head>
 
@@ -937,7 +939,7 @@
             her love of dress and beaux.</p>
         </div>
       
-        <div>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
           <head><title>The Pencil of Nature</title>. By <persName>H. Fox Talbot</persName>: London,
             1844. Imported by Wiley &amp; Putnam, 161 Broadway. Nos. 1 and 2.</head>
 
@@ -984,7 +986,7 @@
             ornamental artist, for a study, more than its contents</p>
         </div>
       
-        <div>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
           <head><title>Saul, A Mystery</title>. By the Author of “Christian Ballads,” "Athan-
             asion,” etc. etc. etc. New York : D. Appleton, &amp; Co.</head>
 
@@ -1066,7 +1068,7 @@
           </lg>
         </div>
 
-      <div>
+        <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
         <head><title>Never too Late</title>. By <persName>Charles Burdett</persName>. New York. D. Appleton, &amp; Co. Be- ing of a
           second series of tales for the people.</head>
 
@@ -1141,7 +1143,7 @@
           tne American people for works of artistic excellence, which we trust that some intelligent
           publisher will before long turn to a profitable account.</p>
 
-        <div>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
           <head>Blackwood.</head>
           <p>—Mess. Leonard, Scott &amp; Co. have issued the April number of Blackwood. It cont .ins
             eight papers of varied excellence, but all good. “ Ping-Kee’s view of the stage” is
@@ -1154,7 +1156,7 @@
         </div>
       </div>
       
-      <div>
+      <div type="piece" resp="personography.xml#anon" subtype="supplied">
         <head>NEW WORKS IN PRESS. London, April 1, 1845.</head>
 
         <ab>Sybil, a novel. By D’Israeli, author of “ Coningsby.”</ab>
@@ -1188,7 +1190,7 @@
           Surveyed.”</ab>
       </div>
       
-      <div resp="personography.xml#anon" subtype="supplied">
+      <div type="piece" resp="personography.xml#anon" subtype="supplied">
         <head>EOTHEN</head>
 
         <p>The editor of the Buffalo Journal has started an ingenious thought in respect to this
@@ -1272,7 +1274,7 @@
           he was in the highest degree a true artist.</p>
       </div>
       
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high">
+      <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
         <head>BOBUS SMITH.</head>
 
         <p>It is not generally known to American readers, that the Rev. Sydney Smith had a brother
@@ -1347,7 +1349,7 @@
           Northampton.</p>
       </div>
       
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high">
+      <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
         <head>Professor Gouraud.—</head><p>The following extract from the Professor's lecture on
           Memory, is a remarkable instance of fluent writing in a foreigner, who, three or four
           years since, was almost ignorant of our languge. M. Gouraud’s style is somewhat too
@@ -1451,7 +1453,7 @@
        
       </div>
       
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high">
+      <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
         <head>ANNIVERSARY WEEK.</head>
         <p>In addition to the usual religious societies which hold their anniversaries in this city
           during the second week in May, we have this season a convention of Infidels, whose
@@ -1517,7 +1519,7 @@
           that it had long been a no-toe-rious fact.</p>
       </div>
       
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high"<head>THE CROSSING’S SWEEPER.</head>
+      <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high"><head>THE CROSSING’S SWEEPER.</head>
         <lg>
           <l>With unkempt hair, and shoeless feet,</l>
           <l>The untitled sov’reign of the street,</l>
@@ -1555,10 +1557,12 @@
       <div resp="personography.xml#anon" subtype="supplied" type="section">
         <head>MUSICAL ITEMS.</head>
 
-        <div><p><head>The Bcehm Flute.</head>—We rarely have the good fortune to be able to chronicle one really
-          useful improvement in musical instruments; numberless modern inventions come under our
-          notice daily, but they are, for the most part, if not entirely, valueless—of but little
-          practical advantage.</p>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+          <head>The Bcehm Flute.</head>
+          <p>—We rarely have the good fortune to be able to chronicle one really useful improvement
+            in musical instruments; numberless modern inventions come under our notice daily, but
+            they are, for the most part, if not entirely, valueless—of but little practical
+            advantage.</p>
 
           <p>The Boehm Flute is, however, a noble exception; we look upon it as the most valuable
             improvement ever effected in this instrument; and we believe, although there is no limit
@@ -1573,24 +1577,24 @@
             professional players, the exterior appearance of the flute is much improved and
             beautified.</p>
 
-        <p>A strong feeling of prejudice was exhibited against the Boehm innovation, as it was
-          arrogantly called, by professional players, both here and in Europe; but its striking
-          advantages and sterling excellence silenced them one by one, and the Boehm flute is now
-          universally adopted.</p>
+          <p>A strong feeling of prejudice was exhibited against the Boehm innovation, as it was
+            arrogantly called, by professional players, both here and in Europe; but its striking
+            advantages and sterling excellence silenced them one by one, and the Boehm flute is now
+            universally adopted.</p>
 
-        <p>To Mr. W. J. Davis, the talented flutist, every honor must be given as the first man who
-          had the boldness to introduce it into this country ; and to Mr. Larrabee, the ingenious
-          maker, the public and the professors owe a debt of gratitude for his sacrifice of
-          self-interest, in substituting the new for the old flute.</p>
+          <p>To Mr. W. J. Davis, the talented flutist, every honor must be given as the first man
+            who had the boldness to introduce it into this country ; and to Mr. Larrabee, the
+            ingenious maker, the public and the professors owe a debt of gratitude for his sacrifice
+            of self-interest, in substituting the new for the old flute.</p>
 
-        <p>We hope that all who are interested in this subject, and have not yet examined the Boehm
-          flute, may be induced by our notice to visit Mr. Larrabee’s factory, 110 Fulton street. We
-          have examined the instrument thoroughly, and can vouch for its excellence in every
-          way.</p>
-      </div>
+          <p>We hope that all who are interested in this subject, and have not yet examined the
+            Boehm flute, may be induced by our notice to visit Mr. Larrabee’s factory, 110 Fulton
+            street. We have examined the instrument thoroughly, and can vouch for its excellence in
+            every way.</p>
+        </div>
 
-      <div>
-        <p><head>Grand Sacred Concert at St. Peter’s Church.—</head>We call the attention of our
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+        <head>Grand Sacred Concert at St. Peter’s Church.</head><p>—We call the attention of our
           readers to the advertisement of this Concert in our present number. It will be seen that a
           truly classical and yet popular programme is offered on this occasion. The selections are
           from the finest composers, ancient and modern. Mozart, Handel, Hayden, Mendelssohn,
@@ -1614,7 +1618,7 @@
           musical attraction will doubtless be sufficient to fill the Church.</p>
       </div>
 
-      <div resp="personography.xml#eapoe" subtype="supplied" cert="high">
+      <div type="piece" resp="personography.xml#eapoe" subtype="supplied" cert="high">
         <head>THE BROADWAY THEATRE.</head>
         <p>Mr. Hamblin has made a very touching appeal to the citizens of New York, and proposes
           borrowing one hundred thousand dollars, in the ridiculously small sums (as Mr. Tigg would
@@ -1678,9 +1682,9 @@
           erection of a theatre in Broadway.</p>
       </div><pb n="302"/>
 
-      <cb n="1"/><div>
-        <p><head>Fact and Fiction.—From Thoughts on Reading, in Colton’s Magazine, by H. N.
-          Hudson, the Lecturer on Shakspeare:</head></p>
+        <cb n="1"/><div type="piece" resp="personography.xml#anon" subtype="supplied">
+        <head>Fact and Fiction.—From Thoughts on Reading, in Colton’s Magazine, by H. N.
+          Hudson, the Lecturer on Shakspeare:</head>
 
         <p>“Good people often seem laboring under a great mistake in regard to works of fiction.
           They appear to think of truth as synonymous with matters of fact, and of fiction as
@@ -1728,88 +1732,108 @@
           the eye of God.</p>
       </div>
 
-      <div resp="personography.xml#anon" subtype="supplied">
+      <div type="section" resp="personography.xml#anon" subtype="supplied">
         <head>MISCELLANY.</head>
 
-        <p>It is an ill wind that blows nobodt good.—The frost has been so intense on the Danube,
-          that rocks which for centuries had obstructed the navigation near Lintz, suddenly burst,
-          and thus opened the bed of the river.</p>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>It is an ill wind that blows nobodt good.</head><p>—The frost has been so intense on the
+              Danube, that rocks which for centuries had obstructed the navigation near Lintz,
+              suddenly burst, and thus opened the bed of the river.</p></div>
+          
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>Bursting or Beer.</head>
+            <p>—The famous brewers of Burton Ale, Messrs. Alsopps, whose names should be written
+              Allslops, have recently failed for the moderate sum of one million and a half of
+              dollars.</p>
+          </div>
 
-        <p>Bursting or Beer.—The famous brewers of Burton Ale, Messrs. Alsopps, whose names should
-          be written Allslops, have recently failed for the moderate sum of one million and a half
-          of dollars.</p>
-
-        <p>Mr. Murdoch, who has been successfully lecturing in this city upon the Drama and
-          Shakspeare, will make his re-appearance upon the stage in September. He has an engagement
-          at the Park for 12 nights.</p>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>Mr. Murdoch,</head>
+            <p>who has been successfully lecturing in this city upon the Drama and Shakspeare, will
+              make his re-appearance upon the stage in September. He has an engagement at the Park
+              for 12 nights.</p>
+          </div>
         
-        <cb n="2"/><p>Three faces under a hood, viz. Palmo-hood.—The new opera house in Chambers street was
-          first occupied by the Italians, then the Greeks, but now, it appears from the following
-          notice, it is occupied by the Ethiopians.</p>
+        <cb n="2"/>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>Three faces under a hood, viz. Palmo-hood.</head>
+            <p>—The new opera house in Chambers street was first occupied by the Italians, then the
+              Greeks, but now, it appears from the following notice, it is occupied by the
+              Ethiopians.</p>
 
-        <p>“Mr. Dumbleton has at length succeeded in obtaining possession from Palmo, of the Opera
-          House, and will this evening open it with the Ethioipan Serenaders.</p>
+            <p>“Mr. Dumbleton has at length succeeded in obtaining possession from Palmo, of the
+              Opera House, and will this evening open it with the Ethioipan Serenaders.</p>
 
-        <p>Mr. Henry Phillips gave his farewell concert at Niblo’s Saloon last Tuesday evening ; it
-          was well attended, and the performances gave great satisfaction. Mr. Phillips sang twelve
-          different ballads, scenas, &amp;c., many of which were encored, and all were well
-          received. If he should repeat his visit to this country he would meet with better
-          encouragement in the large cities on the Atlantic than he has done. His indifferent
-          success has resulted mainly from an injudicious beginning in the manner of giving his
-          concerts.</p>
+            <p>Mr. Henry Phillips gave his farewell concert at Niblo’s Saloon last Tuesday evening ;
+              it was well attended, and the performances gave great satisfaction. Mr. Phillips sang
+              twelve different ballads, scenas, &amp;c., many of which were encored, and all were
+              well received. If he should repeat his visit to this country he would meet with better
+              encouragement in the large cities on the Atlantic than he has done. His indifferent
+              success has resulted mainly from an injudicious beginning in the manner of giving his
+              concerts.</p>
+          </div>
 
-        <p>Historical Society.—At a very crowded meeting of this society on Wednesday evening, the
-          Rev. Rufus W. Griswold read a long and interesting paper in reference to the intellectual
-          history of the country—with criticisms on the works of several of our most noted authors.
-          He did not conclude the essay.</p>
+        <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>Historical Society.</head>
+            <p>—At a very crowded meeting of this society on Wednesday evening, the Rev. Rufus W.
+              Griswold read a long and interesting paper in reference to the intellectual history of
+              the country—with criticisms on the works of several of our most noted authors. He did
+              not conclude the essay.</p>
+          </div>
 
-        <p>Mr. Alters, the Musician.—We had an interesting article on the burial of this excellent
-          musician, which is crowded out of this week’s Journal. He died last Saturday at the house
-          of his friend Mr. Timm, and was buried from the Tabernacle Tuesday morning. The house was
-          nearly filled by the members of the Philharmonic Society of which he was a member, and by
-          his personal friends and pupils. The funeral ceremonies, of which we shall give the
-          particulars, were highly impressive, and admirably adapted to the occasion.</p>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>Mr. Alpers, the Musician.</head>
+            <p>—We had an interesting article on the burial of this excellent musician, which is
+              crowded out of this week’s Journal. He died last Saturday at the house of his friend
+              Mr. Timm, and was buried from the Tabernacle Tuesday morning. The house was nearly
+              filled by the members of the Philharmonic Society of which he was a member, and by his
+              personal friends and pupils. The funeral ceremonies, of which we shall give the
+              particulars, were highly impressive, and admirably adapted to the occasion.</p>
+          </div>
 
-        <p>The Mirror of last week contains a poem of much merit, entitled “ The Gazelle.’’ It is
-          the composition of a mere boy of fifteen, C. C. Cooke, and, although professedly an
-          imitation of “ The Raven,” has a very great deal of original power.</p>
+          <div type="piece" resp="personography.xml#anon" subtype="supplied">
+            <head>The Mirror of last week contains a poem of much merit,</head>
+            <p>entitled “ The Gazelle.’’ It is the composition of a mere boy of fifteen, C. C.
+              Cooke, and, although professedly an imitation of “ The Raven,” has a very great deal
+              of original power.</p>
+          </div>
       </div>
 
-      <div resp="personography.xml#anon" subtype="supplied">
+      <div type="piece" resp="personography.xml#anon" subtype="supplied">
         <head>NEW PUBLICATIONS. THOSE MARKED t ARE RE-PRINTS.</head>
-        <ab>t Mrs. Candle's Curtain Lectures. By Punch ; with illustrations.]</ab>
-        <ab>t Martin's Illustrated Bible, No. 4 (steel plates). </ab>
-        <ab>t Maunder's Treasury of History, No. 5.</ab>
-        <ab>t Copland’s Dictionary of Practical Medicine. Edited by Dr. C. A. Lee. No. 6. </ab>
-        <ab>t Encyclopedia of Domestic Economy. By T. Webster and Mrs. Parkes. No. 2. Plato Against
+        <ab>t Mrs. Candle's Curtain Lectures. By Punch ; with illustrations.]
+        t Martin's Illustrated Bible, No. 4 (steel plates). 
+        t Maunder's Treasury of History, No. 5.
+        t Copland’s Dictionary of Practical Medicine. Edited by Dr. C. A. Lee. No. 6. 
+       t Encyclopedia of Domestic Economy. By T. Webster and Mrs. Parkes. No. 2. Plato Against
           the Atheists. With Critical Notes. By Taylor Lewis, LL. D. Dr. Anthon’s System of Latin
           Versification : with specimens of translations from English and German Poetry into Latin
-          Verse. 12mo.</ab>
-        <ab>Notes ou the Ephesians, by Dr. Barnes. 12mo.</ab>
-        <ab>The Dutchman’s Fireside; a novel. By J. K. Paulding : new edition.</ab>
-        <ab>Harper &amp; Brothers' Pictorial Bible, No. 26.</ab>
+          Verse. 12mo.
+        Notes ou the Ephesians, by Dr. Barnes. 12mo.
+        The Dutchman’s Fireside; a novel. By J. K. Paulding : new edition.
+        Harper &amp; Brothers' Pictorial Bible, No. 26.</ab>
 
-        <p>By the arrival of the Hibernia, we have London dates to 19th ultimo, by which we learn
-          that the following new works have been issued:</p>
-        <ab>Lives of Men of Letters and Science, in the Reign of Geo. III. By Lord Brougham. 8vo. ;
-          with steel portraits. 21s.</ab>
-        <ab>Peninsular Sketches. By Actors of the Scenes. Edited by W. H. Maxwell. Elements of
+        <ab>By the arrival of the Hibernia, we have London dates to 19th ultimo, by which we learn
+          that the following new works have been issued:
+        Lives of Men of Letters and Science, in the Reign of Geo. III. By Lord Brougham. 8vo. ;
+          with steel portraits. 21s.
+        Peninsular Sketches. By Actors of the Scenes. Edited by W. H. Maxwell. Elements of
           Physics. By C. F. Peschel, Principal of the Royal Military College, Dresden. Translated
-          from the German, with Notes, by E. West. One vol. 8vo., with diagrams and wood cuts.</ab>
-        <ab>Texas and the Gulf of Mexico. By Mrs. Houston (?) 2 vols. 8vo.</ab>
-        <ab>Education the Birthright of every human being. By Rev. B. Parsons.</ab>
-        <ab>Female Characters of Holy Writ. By Rev. H. Hughes.</ab>
-        <ab>Autobiography of J. Blanco White—with his Correspondence.</ab>
-        <ab>The Wandering Jew. By Eugene Sue. Vol. 11. 7s.</ab>
+          from the German, with Notes, by E. West. One vol. 8vo., with diagrams and wood cuts.
+        Texas and the Gulf of Mexico. By Mrs. Houston (?) 2 vols. 8vo.
+        Education the Birthright of every human being. By Rev. B. Parsons.
+        Female Characters of Holy Writ. By Rev. H. Hughes.
+        Autobiography of J. Blanco White—with his Correspondence.
+        The Wandering Jew. By Eugene Sue. Vol. 11. 7s.</ab>
 
-        <head>IN PRESS.</head>
-        <ab>Dalekarlien, a new novel by Miss Bremer.</ab>
-        <ab>Raumer’s Letters on North America.</ab>
-        <ab>Essays Biographical and Literary. By William II. Prescott, Esq., author of the Conquest
+        <label>IN PRESS.</label>
+        <ab>Dalekarlien, a new novel by Miss Bremer.
+        Raumer’s Letters on North America.
+        Essays Biographical and Literary. By William II. Prescott, Esq., author of the Conquest
           of Mexico.</ab>
       </div>
 
-      <div resp="personography.xml#anon" subtype="supplied">
+      <div type="piece" resp="personography.xml#anon" subtype="supplied">
         <head>NOTICE TO PUBLISHERS.</head>
 
         <p>We shall furnish in our columns hereafter, a weekly list of new works published in the U.
@@ -1823,7 +1847,7 @@
           English language.</p>
       </div><pb n="303"/>
 
-      <cb n="1"/><div><div>
+      <cb n="1"/><div type="section"><div>
         <head>BOARD IN BROOKLYN.</head><p>—A Single Gentleman, who is partial to Chess and Music,
           can be provided with a furnished room, and breakfast and tea, in a private family,
           residing near Fulton street, Brooklyn, in one of its most pleasant streets. Address W. S.
@@ -1983,7 +2007,7 @@
       </div>
 
 <div>
-        <p><head>F. RILEY &amp; CO., No. 297 Broadway,</head> (between Reade and Duane streets,) New
+  <head>F. RILEY &amp; CO., No. 297 Broadway,</head><p>(between Reade and Duane streets,) New
           York, Publishers of Music, and Manufacturers of Musical Instruments, wholesale and retail.
           In addition to their own catalogue, (one of the largest in the United States,) they keep
           on hand he publications of all the principal Music houses. They are erecting a large
@@ -1991,7 +2015,7 @@
           constantly kept on hand.</p></div>
 
       <div>
-        <p><head>PIANO - FORTES.—JOHN PETHICK,</head> (formerly Mundy &amp; Pethick,) invites the
+        <head>PIANO - FORTES.—JOHN PETHICK,</head><p>(formerly Mundy &amp; Pethick,) invites the
           attention of the musical public to the elegant and varied aesortment he now has at his Old
           Establisment, Corner of Cottage-place and Bleecker Street, which he will sell at prices
           unusually low. J. P. having been actively engaged in the business for the last twenty
@@ -2248,7 +2272,7 @@
 
       <div>
         <ab>John Douglas, Printer, 106 Fulton street.</ab>
-      </div></div>     
+      </div></div></div>     
 </body>
     <back>
       <!-- here is a sample place for contextual information: -->
