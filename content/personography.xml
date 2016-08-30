@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- the line above is the "XML declaration"; it is not -->
+<!-- required, but we recommend using it -->
+<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- the two lines above are processing instructions for finding the schema; -->
+<!-- they are intended for oXygen, but other software might use them, also -->
+<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be transformed by "teibp.xsl" -->
+<?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?>
+<!-- the line above is a processing instruction that asks that -->
+<!-- this file be styled by "tiny_TEI_template.css" -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Broadway Journal Personography</title>
+        <author>
+          <persName xml:id="LAC">Coats, Lauren A</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DSL</publisher>
+        <availability>
+          <ab>CC-BY 4.0</ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <!-- source information here; better yet, use a <biblStruct> instead -->
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+    <body>
+      <listPerson>
+       <person xml:id="anon">
+          <persName>Anonymous</persName>
+        </person>
+        <person xml:id="cfbriggs">
+          <persName ref="http://viaf.org/viaf/76168680">Charles Frederick Briggs</persName>
+          <birth when="1804-12-03"><placeName>Nantucket, Massachusetts</placeName></birth>
+          <death when="1877-06-20"><placeName>Brooklyn, New York</placeName></death>
+        </person>
+        <person xml:id="eapoe">
+          <persName ref="http://viaf.org/viaf/60351476">Edgar Allan Poe</persName>
+          <birth when="1809-01-19"><placeName>Boston, Massachusetts</placeName></birth>
+          <death when="1849-10-07"><placeName>Baltimore, Maryland</placeName></death>
+        </person>
+        <person xml:id="hrschoolcraft">
+          <persName ref="http://viaf.org/viaf/7451014">Henry Rowe Schoolcraft</persName>
+          <birth when="1793-03-28"><placeName>Guilderland, New York</placeName></birth>
+          <death when="1864-12-10"><placeName>???</placeName></death>
+        </person>
+        <person xml:id="mwlowell">
+          <persName ref="http://viaf.org/viaf/63040126">Maria White Lowell</persName>
+          <birth when="1824-07-08"><placeName>Watertown, Massachusetts</placeName></birth>
+          <death when="1853-10-27"><placeName>Cambridge, Massachusetts</placeName></death>
+        </person>
+        <person xml:id="rcarter">
+          <persName ref="http://viaf.org/viaf/4919133">Robert Carter</persName>
+          <note>Penname "Robert Oliver"</note>
+          <birth when="1819-02-05"><placeName>Albany, New York</placeName></birth>
+          <death when="1879-02-15"><placeName>Cambridge, Massachusetts</placeName></death>
+        </person>
+        <person xml:id="wpage">
+          <persName ref="http://viaf.org/viaf/43289647">William Page</persName>
+          <birth when="1811-01-23"><placeName>Albany, New York</placeName></birth>
+          <death when="1885-10-01"><placeName>Tottenville, Staten Island, New York</placeName></death>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
